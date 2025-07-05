@@ -1,0 +1,19 @@
+/* assets/css/custom-styles.css */
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: #F0F8FF;
+}
+.chart-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    max-height: 400px;
+}
+@media (min-width: 768px) {
+    .chart-container {
+        height: 350px;
+    }
+}
