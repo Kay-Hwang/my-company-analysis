@@ -1,41 +1,109 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="scroll-smooth">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Noto Sans KR', sans-serif;
-        }
-    </style>
-</head>
-<body class="bg-gray-100 text-gray-900">
-    <header class="bg-[#004AAD] text-white p-6 shadow-md">
-        <div class="container mx-auto flex justify-between items-center">
-            <h1 class="text-4xl font-bold">
-                <a href="{{ site.baseurl }}/" class="hover:text-gray-200">{{ site.title }}</a>
-            </h1>
-            <nav>
-                <ul class="flex space-x-4">
-                    <li><a href="{{ site.baseurl }}/" class="hover:underline">홈</a></li>
-                    </ul>
-            </nav>
-        </div>
-    </header>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
 
-    <main class="container mx-auto p-8">
-        {{ content }} {# 이 부분은 그대로 두세요 #}
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/css/custom-styles.css">
+
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    {% unless page.url == site.baseurl or page.url == site.baseurl + '/' %}
+    <nav id="navbar" class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <div class="text-2xl font-bold text-gray-900">{{ page.title | default: site.title }}</div> {# 현재 페이지 제목 표시 #}
+                <div class="hidden md:flex space-x-8">
+                    <a href="{{ site.baseurl }}/" class="nav-link border-b-2 border-transparent pb-1">홈</a>
+                    <a href="{{ site.baseurl }}/companies.html" class="nav-link border-b-2 border-transparent pb-1">기업 목록</a>
+                    <a href="{{ site.baseurl }}/economic-indicators.html" class="nav-link border-b-2 border-transparent pb-1">경제 지표</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    {% endunless %}
+
+    {% if page.url == site.baseurl or page.url == site.baseurl + '/' %}
+    <header class="text-center mb-12 p-4">
+        <h1 class="text-4xl md:text-5xl font-bold text-[#004AAD] mb-2">{{ site.title }}</h1> {# 사이트 전체 타이틀 표시 #}
+        <p class="text-xl text-[#387ADF]">기업 분석 인포그래픽 대시보드</p>
+        <nav class="mt-4">
+            <a href="{{ site.baseurl }}/" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">홈</a> |
+            <a href="{{ site.baseurl }}/companies.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">기업 목록</a> |
+            <a href="{{ site.baseurl }}/economic-indicators.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">경제 지표</a>
+        </nav>
+    </header>
+    {% endif %}
+
+    <main class="container mx-auto p-4 md:p-8">
+        {{ content }}
     </main>
 
-    <footer class="bg-gray-800 text-white p-6 mt-12">
-        <div class="container mx-auto text-center text-gray-400">
-            <p>&copy; 2025 {{ site.title }}. All rights reserved.</p>
+    <footer class="bg-gray-800 text-white mt-12">
+        <div class="container mx-auto px-8 py-6 text-center text-gray-400">
+            <p>본 자료는 제공된 분석 보고서를 기반으로 제작되었으며, 투자 결정에 대한 참고 자료로 활용되어야 합니다. 최종 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.</p>
+            <p class="text-sm mt-2">&copy; 2025 [당신의 이름]. 모든 권리 보유.</p>
         </div>
     </footer>
+
+    <script src="/assets/js/company-infographic.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // 이 스크립트는 이제 모든 페이지에 공통으로 적용됩니다.
+            // nav id="navbar" 요소는 모든 페이지에 있으므로 그대로 둡니다.
+            const navbar = document.getElementById('navbar'); // 이제 이 ID는 모든 페이지에 공통으로 존재합니다.
+            const sections = document.querySelectorAll('section'); // section ID를 가진 요소는 인포그래픽 페이지에만 있습니다.
+            const navLinks = document.querySelectorAll('.nav-link'); // nav-link 클래스를 가진 요소도 인포그래픽 페이지에만 있습니다.
+
+            // 인포그래픽 페이지에서만 필요한 스크롤 로직을 조건부로 실행합니다.
+            // 이전에 default.html에서 제거했던 스크롤 코드를 다시 가져왔습니다.
+            if (sections.length > 0 && navLinks.length > 0) { // section과 navLinks가 실제로 존재하는 페이지 (인포그래픽 페이지)에서만
+                window.onscroll = () => {
+                    let current = '';
+                    sections.forEach(section => {
+                        const sectionTop = section.offsetTop;
+                        // pageYOffset 대신 window.scrollY 사용을 권장합니다.
+                        if (window.scrollY >= sectionTop - 60) {
+                            current = section.getAttribute('id');
+                        }
+                    });
+
+                    navLinks.forEach(link => {
+                        link.classList.remove('active');
+                        if (link.getAttribute('href').slice(1) === current) {
+                            link.classList.add('active');
+                        }
+                    });
+                };
+
+                document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                    anchor.addEventListener('click', function (e) {
+                        e.preventDefault();
+                        document.querySelector(this.getAttribute('href')).scrollIntoView({
+                            behavior: 'smooth'
+                        });
+                    });
+                });
+            }
+
+            // company-infographic.js 에서 DOMContentLoaded 이벤트 리스너를 가지고 있으므로,
+            // 이 스크립트 자체는 해당 파일에서만 실행되도록 하는 것이 더 효율적입니다.
+            // 그러나 default.html에 포함된 경우, Chart.js가 DOMContentLoaded 이후에 로드될 수 있으므로,
+            // 안전하게 여기에 포함시킵니다.
+        });
+    </script>
 </body>
 </html>

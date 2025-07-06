@@ -27,7 +27,7 @@ description: >- # 이 부분은 검색 결과에 나타나는 웹사이트 설�
 
 # 🚨🚨🚨 이 두 줄이 가장 중요합니다! GitHub Pages URL에 맞게 설정됩니다. 🚨🚨🚨
 baseurl: "/my-company-analysis" # GitHub 저장소 이름과 동일하게, 슬래시 포함 (예: /my-company-analysis)
-url: "https://kay-hwang.github.io/my-company-analysis" # 여러분의 GitHub Pages 전체 도메인 주소 (baseurl 포함)
+url: "https://kay-hwang.github.io" # 로컬에서만 사용되므로, GitHub Pages 도메인까지만
 
 twitter_username: your_twitter # 여러분의 트위터 계정 (선택 사항)
 github_username: kay-hwang # 여러분의 GitHub 사용자 이름 (선택 사항)
@@ -40,8 +40,8 @@ plugins:
 # 이전에 default.html을 직접 수정했으므로, 이 줄은 주석 처리하거나 삭제하는 것을 권장합니다.
 # theme: minima
 
-# 🚨🚨🚨 이 줄이 가장 중요합니다! Jekyll이 'abbvie.html'을 복사하도록 지시합니다. 🚨🚨🚨
-include: ['abbvie.html']
+# 🚨🚨🚨 이 줄이 가장 중요합니다! Jekyll이 'abbvie.html'과 'nextera.html'을 복사하도록 지시합니다. 🚨🚨🚨
+include: ['abbvie.html', 'nextera.html']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
