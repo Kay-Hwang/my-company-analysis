@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title> {# 각 페이지의 제목을 자동으로 가져옵니다 #}
+
+  {# 📌 Tailwind CSS CDN 연결: 웹페이지 디자인의 기반이 됩니다. #}
+  <script src="https://cdn.tailwindcss.com"></script>
+  {# 📌 Chart.js CDN 연결: 그래프를 그리는 데 사용됩니다. #}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  {# 📌 Google Fonts 연결: 'Noto Sans KR' 글꼴을 사용합니다. #}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+
+  {# 📌 커스텀 CSS 파일 연결: 여러분이 정의할 추가적인 스타일이 들어갑니다. (아래 1.2단계에서 만들 파일) #}
+  <link rel="stylesheet" href="/assets/css/custom-styles.css">
+
+  {# 이 외에 필요한 다른 CSS 파일이 있다면 여기에 <link> 태그로 추가합니다. #}
+
+</head>
+<body class="text-gray-800">
+    {# 📌 웹사이트의 공통 헤더 부분: 모든 페이지에 동일하게 표시됩니다. #}
+    <header class="text-center mb-12 p-4"> {# p-4 추가로 상단 여백 확보 #}
+        <h1 class="text-4xl md:text-5xl font-bold text-[#004AAD] mb-2">{{ page.title | default: site.title }}</h1>
+        <p class="text-xl text-[#387ADF]">기업 분석 인포그래픽 대시보드</p>
+        <nav class="mt-4">
+            <a href="/" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">홈</a> |
+            <a href="/companies.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">기업 분석 목록</a> |
+            <a href="/economic-indicators.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">경제 지표</a>
+        </nav>
+    </header>
+
+    {# 📌 페이지별 콘텐츠가 들어갈 메인 영역: 이 곳에 .md 파일의 내용이 삽입됩니다. #}
+    <main class="container mx-auto p-4 md:p-8">
+        {{ content }}
+    </main>
+
+    {# 📌 웹사이트의 공통 푸터 부분: 모든 페이지에 동일하게 표시됩니다. #}
+    <footer class="text-center mt-12 pt-8 border-t border-[#89CFF0]">
+        <h2 class="text-2xl font-bold text-[#004AAD]">결론: 투자자를 위한 제언</h2>
+        <p class="mt-4 max-w-3xl mx-auto text-gray-600">
+            이 문서는 투자 결정에 대한 참고 자료로 활용되어야 합니다. 최종 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.
+        </p>
+        <p class="mt-4 text-gray-500">&copy; 2025 [당신의 이름]. 모든 권리 보유.</p>
+    </footer>
+
+    {# 📌 JavaScript 파일 연결: 차트와 AI 논리 생성 기능을 작동시킵니다. (아래 1.3단계에서 만들 파일) #}
+    {# 주의: 이 스크립트가 실행되기 전에 HTML 요소들이 모두 로드되어 있어야 하므로, </body> 바로 위에 배치하는 것이 좋습니다. #}
+    <script src="/assets/js/company-infographic.js"></script> {# 파일 이름 변경됨! #}
+
+</body>
+</html>
