@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: 기업 분석 대시보드 # 웹사이트의 제목입니다. 원하는대로 변경하세요.
+email: kangho.hwang@gmail.com # 여러분의 이메일 주소를 입력하세요.
+description: >- # 이 부분은 검색 결과에 나타나는 웹사이트 설명입니다.
+  다양한 기업의 심층 분석과 인터랙티브한 대시보드를 제공하는 웹사이트입니다.
+
+# 🚨🚨🚨 이 두 줄이 가장 중요합니다! GitHub Pages URL에 맞게 설정됩니다. 🚨🚨🚨
+baseurl: "/my-company-analysis" # GitHub 저장소 이름과 동일하게, 슬래시 포함 (예: /my-company-analysis)
+url: "https://kay-hwang.github.io/my-company-analysis" # 여러분의 GitHub Pages 전체 도메인 주소 (baseurl 포함)
+
+twitter_username: your_twitter # 여러분의 트위터 계정 (선택 사항)
+github_username: kay-hwang # 여러분의 GitHub 사용자 이름 (선택 사항)
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# 테마 설정 (이전에 default.html을 직접 수정했으므로, 이 줄은 주석 처리하거나 삭제하는 것을 권장합니다.)
+# 새 프로젝트에는 'theme: minima' 줄이 있을 수 있습니다. 반드시 주석 처리하거나 삭제하세요!
+# theme: minima
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
