@@ -20,31 +20,77 @@
 </head>
 <body class="bg-gray-50 text-gray-800">
 
-    {% unless page.url == site.baseurl or page.url == site.baseurl + '/' %}
-    <nav id="navbar" class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
-        <div class="container mx-auto px-4">
-            <div class="flex justify-between items-center py-4">
-                <div class="text-2xl font-bold text-gray-900">{{ page.title | default: site.title }}</div> {# 현재 페이지 제목 표시 #}
-                <div class="hidden md:flex space-x-8">
-                    <a href="{{ site.baseurl }}/" class="nav-link border-b-2 border-transparent pb-1">홈</a>
-                    <a href="{{ site.baseurl }}/companies.html" class="nav-link border-b-2 border-transparent pb-1">기업 목록</a>
-                    <a href="{{ site.baseurl }}/economic-indicators.html" class="nav-link border-b-2 border-transparent pb-1">경제 지표</a>
+    {% comment %} 현재 URL이 사이트의 baseurl과 같으면 홈 페이지로 판단합니다. {% endcomment %}
+    {% assign is_home_page = false %}
+    {% if page.url == site.baseurl or page.url == site.baseurl | append: '/' %}
+      {% assign is_home_page = true %}
+    {% endif %}
+
+    {% assign is_companies_page = false %}
+    {% if page.url == site.baseurl | append: '/companies.html' %}
+      {% assign is_companies_page = true %}
+    {% endif %}
+
+    {% assign is_economic_page = false %}
+    {% if page.url == site.baseurl | append: '/economic-indicators.html' %}
+      {% assign is_economic_page = true %}
+    {% endif %}
+
+    {% assign is_why_dividend_page = false %}
+    {% if page.url == site.baseurl | append: '/why-dividend-growth.html' %}
+      {% assign is_why_dividend_page = true %}
+    {% endif %}
+
+    {% assign is_infographic_page = false %}
+    {% if page.url contains "/abbvie.html" or page.url contains "/nextera.html" %}
+      {% assign is_infographic_page = true %}
+    {% endif %}
+
+    {% if is_home_page %}
+        <header class="text-center mb-12 p-4">
+            <h1 class="text-4xl md:text-5xl font-bold text-[#004AAD] mb-2">{{ site.title }}</h1>
+            <p class="text-xl text-[#387ADF]">기업 분석 인포그래픽 대시보드</p>
+            <nav class="mt-4">
+                <a href="{{ site.baseurl }}/" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">홈</a> |
+                <a href="{{ site.baseurl }}/why-dividend-growth.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">Why 배당성장주</a> |
+                <a href="{{ site.baseurl }}/companies.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">기업 목록 보기</a> |
+                <a href="{{ site.baseurl }}/economic-indicators.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">경제 지표 살펴보기</a>
+            </nav>
+        </header>
+    {% elsif is_infographic_page %}
+        <nav id="navbar" class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+            <div class="container mx-auto px-4">
+                <div class="flex justify-between items-center py-4">
+                    <div class="text-2xl font-bold text-gray-900">{{ page.title }}</div>
+                    <div class="hidden md:flex space-x-8">
+                        <a href="{{ site.baseurl }}/" class="nav-link border-b-2 border-transparent pb-1">홈</a> |
+                        <a href="{{ site.baseurl }}/why-dividend-growth.html" class="nav-link border-b-2 border-transparent pb-1">Why 배당성장주</a> |
+                        <a href="{{ site.baseurl }}/companies.html" class="nav-link border-b-2 border-transparent pb-1">기업 목록 보기</a> |
+                        <a href="{{ site.baseurl }}/economic-indicators.html" class="nav-link border-b-2 border-transparent pb-1">경제 지표 살펴보기</a>
+                        <a href="#hero" class="nav-link border-b-2 border-transparent pb-1">핵심 요약</a>
+                        <a href="#growth-engine" class="nav-link border-b-2 border-transparent pb-1">성장 엔진</a>
+                        <a href="#market-dynamics" class="nav-link border-b-2 border-transparent pb-1">시장 동향</a>
+                        <a href="#key-products" class="nav-link border-b-2 border-transparent pb-1">핵심 제품</a>
+                        <a href="#financials" class="nav-link border-b-2 border-transparent pb-1">재무 및 배당</a>
+                        <a href="#outlook" class="nav-link border-b-2 border-transparent pb-1">전망</a>
+                    </div>
                 </div>
             </div>
-        </div>
-    </nav>
-    {% endunless %}
-
-    {% if page.url == site.baseurl or page.url == site.baseurl + '/' %}
-    <header class="text-center mb-12 p-4">
-        <h1 class="text-4xl md:text-5xl font-bold text-[#004AAD] mb-2">{{ site.title }}</h1> {# 사이트 전체 타이틀 표시 #}
-        <p class="text-xl text-[#387ADF]">기업 분석 인포그래픽 대시보드</p>
-        <nav class="mt-4">
-            <a href="{{ site.baseurl }}/" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">홈</a> |
-            <a href="{{ site.baseurl }}/companies.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">기업 목록</a> |
-            <a href="{{ site.baseurl }}/economic-indicators.html" class="text-[#004AAD] hover:underline mx-3 text-lg font-semibold">경제 지표</a>
         </nav>
-    </header>
+    {% else %}
+        <nav id="navbar" class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+            <div class="container mx-auto px-4">
+                <div class="flex justify-between items-center py-4">
+                    <div class="text-2xl font-bold text-gray-900">{{ page.title }}</div>
+                    <div class="hidden md:flex space-x-8">
+                        <a href="{{ site.baseurl }}/" class="nav-link border-b-2 border-transparent pb-1">홈</a> |
+                        <a href="{{ site.baseurl }}/why-dividend-growth.html" class="nav-link border-b-2 border-transparent pb-1">Why 배당성장주</a> |
+                        <a href="{{ site.baseurl }}/companies.html" class="nav-link border-b-2 border-transparent pb-1">기업 목록 보기</a> |
+                        <a href="{{ site.baseurl }}/economic-indicators.html" class="nav-link border-b-2 border-transparent pb-1">경제 지표 살펴보기</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
     {% endif %}
 
     <main class="container mx-auto p-4 md:p-8">
@@ -62,20 +108,16 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            // 이 스크립트는 이제 모든 페이지에 공통으로 적용됩니다.
-            // nav id="navbar" 요소는 모든 페이지에 있으므로 그대로 둡니다.
-            const navbar = document.getElementById('navbar'); // 이제 이 ID는 모든 페이지에 공통으로 존재합니다.
-            const sections = document.querySelectorAll('section'); // section ID를 가진 요소는 인포그래픽 페이지에만 있습니다.
-            const navLinks = document.querySelectorAll('.nav-link'); // nav-link 클래스를 가진 요소도 인포그래픽 페이지에만 있습니다.
+            const navbar = document.getElementById('navbar');
+            const sections = document.querySelectorAll('section');
+            const navLinks = document.querySelectorAll('.nav-link');
 
-            // 인포그래픽 페이지에서만 필요한 스크롤 로직을 조건부로 실행합니다.
-            // 이전에 default.html에서 제거했던 스크롤 코드를 다시 가져왔습니다.
-            if (sections.length > 0 && navLinks.length > 0) { // section과 navLinks가 실제로 존재하는 페이지 (인포그래픽 페이지)에서만
+            // 인포그래픽 페이지에서만 스크롤 및 링크 활성화 로직 적용
+            if (window.location.pathname.includes('/abbvie.html') || window.location.pathname.includes('/nextera.html')) {
                 window.onscroll = () => {
                     let current = '';
                     sections.forEach(section => {
                         const sectionTop = section.offsetTop;
-                        // pageYOffset 대신 window.scrollY 사용을 권장합니다.
                         if (window.scrollY >= sectionTop - 60) {
                             current = section.getAttribute('id');
                         }
@@ -83,7 +125,7 @@
 
                     navLinks.forEach(link => {
                         link.classList.remove('active');
-                        if (link.getAttribute('href').slice(1) === current) {
+                        if (link.getAttribute('href').startsWith('#') && link.getAttribute('href').slice(1) === current) {
                             link.classList.add('active');
                         }
                     });
@@ -98,11 +140,6 @@
                     });
                 });
             }
-
-            // company-infographic.js 에서 DOMContentLoaded 이벤트 리스너를 가지고 있으므로,
-            // 이 스크립트 자체는 해당 파일에서만 실행되도록 하는 것이 더 효율적입니다.
-            // 그러나 default.html에 포함된 경우, Chart.js가 DOMContentLoaded 이후에 로드될 수 있으므로,
-            // 안전하게 여기에 포함시킵니다.
         });
     </script>
 </body>
