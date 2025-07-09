@@ -1,30 +1,51 @@
 ---
 layout: default
-title: "기업 목록"
+title: Company Analysis
 ---
 
-<div class="text-center py-8">
-    <h1 class="text-4xl font-bold text-[#004AAD] mb-6">기업 분석 목록</h1>
-</div>
+<div class="bg-slate-50">
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-extrabold text-slate-800 tracking-tight sm:text-5xl">
+                Company Analysis
+            </h1>
+            <p class="mt-4 max-w-2xl mx-auto text-xl text-slate-600">
+                분석할 기업을 선택하세요.
+            </p>
+        </header>
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-        <h2 class="text-3xl font-bold text-[#004AAD] mb-4">
-            <a href="{{ site.baseurl }}/abbvie.html" class="hover:underline">AbbVie</a>
-        </h2>
-        <p class="text-gray-700">
-            AbbVie는 글로벌 바이오 제약 회사로, 면역학, 종양학, 신경과학 등 다양한 치료 분야에서 혁신적인 의약품을 개발하고 있습니다.
-            자세한 분석을 보려면 클릭하세요.
-        </p>
-    </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
 
-    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-        <h2 class="text-3xl font-bold text-[#004AAD] mb-4">
-            <a href="{{ site.baseurl }}/nextera.html" class="hover:underline">Nextera Energy</a>
-        </h2>
-        <p class="text-gray-700">
-            Nextera Energy는 북미 최대의 재생 에너지 발전 사업자이자 유틸리티 회사입니다.
-            자세한 분석을 보려면 클릭하세요.
-        </p>
-    </div>
+            <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group">
+                <div class="p-6">
+                    <div class="flex items-center justify-between mb-4">
+                        <h2 class="text-2xl font-bold text-slate-900">AbbVie</h2>
+                        <span class="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">ABBV</span>
+                    </div>
+                    <p class="text-slate-600 mb-4 h-12">
+                        면역학, 종양학 등 필수 치료 분야에 집중하는 글로벌 바이오 제약 기업.
+                    </p>
+                    <a href="{{ '/abbvie.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">
+                        분석 리포트 보기
+                    </a>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group">
+                <div class="p-6">
+                    <div class="flex items-center justify-between mb-4">
+                        <h2 class="text-2xl font-bold text-slate-900">NextEra Energy</h2>
+                        <span class="bg-emerald-100 text-emerald-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">NEE</span>
+                    </div>
+                    <p class="text-slate-600 mb-4 h-12">
+                        세계 최대의 풍력 및 태양광 에너지 생산업체이자 미국 최대의 전력 회사.
+                    </p>
+                    <a href="{{ '/nextera.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">
+                        분석 리포트 보기
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </main>
 </div>

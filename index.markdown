@@ -1,33 +1,22 @@
 ---
 layout: default
-title: "홈" # 홈페이지의 제목을 "홈"으로 설정
+title: 기업 분석 대시보드
 ---
 
-<div class="text-center py-16 px-4">
-    <h1 class="text-5xl md:text-6xl font-extrabold text-[#004AAD] mb-6 animate-fade-in-down">
-        기업 분석 대시보드에 오신 것을 환영합니다!
-    </h1>
-    <p class="text-xl md:text-2xl text-gray-700 leading-relaxed max-w-3xl mx-auto mb-10 animate-fade-in">
-        이곳은 투자자, 분석가, 그리고 기업에 관심 있는 모든 분들을 위한 심층적인 기업 분석 인포그래픽 대시보드입니다.
-        다양한 기업의 재무 성과, 산업 동향, 그리고 핵심 지표들을 시각적으로 명확하게 제공하여
-        정보에 기반한 의사 결정을 돕습니다.
-    </p>
+<div class="bg-slate-50">
+    <div class="flex items-center justify-center min-h-[calc(100vh-4rem)] px-4 py-12">
+        <main class="container mx-auto">
+            <section class="bg-white p-8 sm:p-12 rounded-2xl shadow-xl max-w-4xl mx-auto">
+                <h2 class="text-2xl sm:text-3xl font-bold text-slate-800 mb-6 text-center">"매달 통장에 월급 외 수익이 쌓인다면 어떨까요?"</h2>
+                <div class="text-slate-600 leading-relaxed text-left space-y-4">
+                    <p>
+                        이 질문에 대한 가장 현실적인 해답을 '미국 배당 성장주'에서 찾습니다. 이 블로그는 세계 경제의 중심인 미국은 앞으로도 굳건할 것이라는 전망을 기반으로, 안정적인 현금 흐름을 만드는 투자 전략을 제시합니다.
+                    </p>
+                    <p>
+                        화려하지만 불안한 시세 차익 대신, 마치 월세처럼 꾸준히 쌓이는 배당금으로 노후를 준비하는 방법을 안내합니다. 독자들이 시간과 복리의 힘을 이용해 '돈이 스스로 일하는 시스템'을 구축할 수 있도록, 복잡한 기업 분석과 시장의 흐름을 누구나 이해하기 쉽게 풀어냅니다.
+                    </p>
+                </div>
+            </section>
+        </main>
+    </div>
 </div>
-
-<style>
-    @keyframes fadeInDown {
-        from { opacity: 0; transform: translateY(-20px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-    @keyframes fadeInUp {
-        from { opacity: 0; transform: translateY(20px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-    .animate-fade-in-down { animation: fadeInDown 1s ease-out forwards; }
-    .animate-fade-in { animation: fadeIn 1.5s ease-out forwards; }
-    .animate-fade-in-up { animation: fadeInUp 1.5s ease-out forwards; }
-</style>
