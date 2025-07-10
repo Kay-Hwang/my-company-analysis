@@ -4,184 +4,134 @@ title: Economic Indicators
 ---
 
 <style>
-    .chart-container-sm {
-        position: relative;
-        height: 120px; /* 차트 높이를 약간 줄여 카드에 더 잘 맞게 조정 */
-        width: 100%;
-    }
-    .indicator-card {
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    .indicator-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-    }
+    .chart-container-sm { position: relative; height: 120px; width: 100%; }
+    .indicator-card { cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; }
+    .indicator-card:hover { transform: translateY(-5px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
+    .static-card { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+    .static-card:hover { transform: translateY(-5px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
+    .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.6); z-index: 100; }
+    .modal-content { background-color: white; padding: 1.5rem 2rem; border-radius: 0.75rem; width: 90%; max-width: 800px; z-index: 101; max-height: 90vh; display: flex; flex-direction: column; }
 </style>
 
 <main class="container mx-auto p-4 md:p-8">
 
     <header class="text-center my-12">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900">주요 경제 지표 대시보드</h1>
-        <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
-            시장의 흐름을 읽는 핵심 경제 지표들을 실시간으로 확인하고, 데이터 기반의 투자 결정을 내리세요.
-        </p>
+        <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">시장의 흐름을 읽는 핵심 경제 지표들을 실시간으로 확인하고, 데이터 기반의 투자 결정을 내리세요.</p>
     </header>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">다우 존스</h3>
-            <div class="flex items-baseline space-x-2 mt-2">
-                <p class="text-4xl font-bold text-gray-800">39,127.14</p>
-                <p class="text-lg font-semibold text-red-500">▼ 23.74</p>
-            </div>
-        </div>
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">S&P 500</h3>
-            <div class="flex items-baseline space-x-2 mt-2">
-                <p class="text-4xl font-bold text-gray-800">5,467.89</p>
-                <p class="text-lg font-semibold text-green-500">▲ 19.45</p>
-            </div>
-        </div>
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">나스닥</h3>
-            <div class="flex items-baseline space-x-2 mt-2">
-                <p class="text-4xl font-bold text-gray-800">17,805.16</p>
-                <p class="text-lg font-semibold text-green-500">▲ 203.45</p>
-            </div>
-        </div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="dow"><h3 class="text-xl font-bold text-gray-800">다우 존스</h3><div class="flex items-baseline space-x-2 mt-2"><p class="text-4xl font-bold text-gray-800">39,127.14</p><p class="text-lg font-semibold text-red-500">▼ 23.74</p></div></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="sp500"><h3 class="text-xl font-bold text-gray-800">S&P 500</h3><div class="flex items-baseline space-x-2 mt-2"><p class="text-4xl font-bold text-gray-800">5,467.89</p><p class="text-lg font-semibold text-green-500">▲ 19.45</p></div></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="nasdaq"><h3 class="text-xl font-bold text-gray-800">나스닥</h3><div class="flex items-baseline space-x-2 mt-2"><p class="text-4xl font-bold text-gray-800">17,805.16</p><p class="text-lg font-semibold text-green-500">▲ 203.45</p></div></div>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">미국 기준금리 (Fed)</h3>
-            <p class="text-sm text-gray-500 mb-4">통화 정책의 방향성</p>
-            <p class="text-6xl font-bold text-blue-600">5.25~5.50%</p>
-            <p class="text-gray-600 mt-2">다음 결정: <span class="font-semibold">7월 31일</span></p>
-        </div>
-
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">소비자물가지수 (CPI)</h3>
-            <p class="text-sm text-gray-500 mb-4">소비자 인플레이션 지표</p>
-            <div class="flex items-end space-x-4">
-                <p class="text-5xl font-bold text-indigo-600">3.4%</p>
-                <p class="text-lg font-semibold text-red-500 mb-1">▲ 0.1%</p>
-            </div>
-            <div class="chart-container-sm mt-4">
-                <canvas id="cpiChart"></canvas>
-            </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">생산자물가지수 (PPI)</h3>
-            <p class="text-sm text-gray-500 mb-4">생산자 인플레이션 지표</p>
-            <div class="flex items-end space-x-4">
-                <p class="text-5xl font-bold text-purple-600">2.2%</p>
-                <p class="text-lg font-semibold text-green-500 mb-1">▼ 0.2%</p>
-            </div>
-            <div class="chart-container-sm mt-4">
-                <canvas id="ppiChart"></canvas>
-            </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">미 10년물 국채 금리</h3>
-            <p class="text-sm text-gray-500 mb-4">시장 안전자산 선호도</p>
-            <div class="flex items-end space-x-4">
-                <p class="text-5xl font-bold text-teal-600">4.25%</p>
-                <p class="text-lg font-semibold text-green-500 mb-1">▼ 0.05%</p>
-            </div>
-            <div class="chart-container-sm mt-4">
-                <canvas id="treasuryYieldChart"></canvas>
-            </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">미국 실업률</h3>
-            <p class="text-sm text-gray-500 mb-4">고용 시장의 건강 상태</p>
-            <div class="flex items-end space-x-4">
-                <p class="text-5xl font-bold text-sky-600">4.0%</p>
-                <p class="text-lg font-semibold text-red-500 mb-1">▲ 0.1%</p>
-            </div>
-            <div class="chart-container-sm mt-4">
-                <canvas id="unemploymentChart"></canvas>
-            </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card">
-            <h3 class="text-xl font-bold text-gray-800">미국 소매판매 (MoM)</h3>
-            <p class="text-sm text-gray-500 mb-4">소비 경기의 활력</p>
-            <div class="flex items-end space-x-4">
-                <p class="text-5xl font-bold text-orange-600">0.1%</p>
-                <p class="text-lg font-semibold text-green-500 mb-1">▲ 0.2%</p>
-            </div>
-            <div class="chart-container-sm mt-4">
-                <canvas id="retailSalesChart"></canvas>
-            </div>
-        </div>
-
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="fed_rate"><h3 class="text-xl font-bold text-gray-800">미국 기준금리 (Fed)</h3><p class="text-sm text-gray-500 mb-4">통화 정책의 방향성</p><p class="text-6xl font-bold text-blue-600">5.25~5.50%</p><p class="text-gray-600 mt-2">다음 결정: <span class="font-semibold">7월 31일</span></p></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="cpi"><h3 class="text-xl font-bold text-gray-800">소비자물가지수 (CPI)</h3><p class="text-sm text-gray-500 mb-4">소비자 인플레이션 지표</p><div class="flex items-end space-x-4"><p class="text-5xl font-bold text-indigo-600">3.4%</p><p class="text-lg font-semibold text-red-500 mb-1">▲ 0.1%</p></div><div class="chart-container-sm mt-4"><canvas id="cpiChart"></canvas></div></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="ppi"><h3 class="text-xl font-bold text-gray-800">생산자물가지수 (PPI)</h3><p class="text-sm text-gray-500 mb-4">생산자 인플레이션 지표</p><div class="flex items-end space-x-4"><p class="text-5xl font-bold text-purple-600">2.2%</p><p class="text-lg font-semibold text-green-500 mb-1">▼ 0.2%</p></div><div class="chart-container-sm mt-4"><canvas id="ppiChart"></canvas></div></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="treasury"><h3 class="text-xl font-bold text-gray-800">미 10년물 국채 금리</h3><p class="text-sm text-gray-500 mb-4">시장 안전자산 선호도</p><div class="flex items-end space-x-4"><p class="text-5xl font-bold text-teal-600">4.25%</p><p class="text-lg font-semibold text-green-500 mb-1">▼ 0.05%</p></div><div class="chart-container-sm mt-4"><canvas id="treasuryYieldChart"></canvas></div></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="unemployment"><h3 class="text-xl font-bold text-gray-800">미국 실업률</h3><p class="text-sm text-gray-500 mb-4">고용 시장의 건강 상태</p><div class="flex items-end space-x-4"><p class="text-5xl font-bold text-sky-600">4.0%</p><p class="text-lg font-semibold text-red-500 mb-1">▲ 0.1%</p></div><div class="chart-container-sm mt-4"><canvas id="unemploymentChart"></canvas></div></div>
+        <div class="bg-white p-6 rounded-xl shadow-lg indicator-card" data-indicator="retail"><h3 class="text-xl font-bold text-gray-800">미국 소매판매 (MoM)</h3><p class="text-sm text-gray-500 mb-4">소비 경기의 활력</p><div class="flex items-end space-x-4"><p class="text-5xl font-bold text-orange-600">0.1%</p><p class="text-lg font-semibold text-green-500 mb-1">▲ 0.2%</p></div><div class="chart-container-sm mt-4"><canvas id="retailSalesChart"></canvas></div></div>
     </div>
 </main>
 
+<div id="detailModal" class="modal-overlay hidden">
+    <div class="modal-content">
+        <div class="flex justify-between items-center mb-4 border-b pb-3">
+            <h2 id="modalTitle" class="text-2xl font-bold">상세 그래프</h2>
+            <button id="closeModal" class="text-3xl font-light text-gray-500 hover:text-gray-800">&times;</button>
+        </div>
+        <div class="flex-grow mt-4" style="height: 50vh;">
+            <canvas id="detailChart"></canvas>
+        </div>
+    </div>
+</div>
+
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-    const commonChartOptions = {
-        maintainAspectRatio: false,
-        responsive: true,
-        plugins: { legend: { display: false }, tooltip: { enabled: false } },
-        scales: { x: { display: false }, y: { display: false } },
-        elements: { point: { radius: 0 } },
-        layout: { padding: { top: 10 } }
+document.addEventListener('DOMContentLoaded', function() {
+    // 미니 차트 로직 (이전과 동일)
+    const miniChartOptions={maintainAspectRatio:!1,responsive:!0,plugins:{legend:{display:!1},tooltip:{enabled:!1}},scales:{x:{display:!1},y:{display:!1}},elements:{point:{radius:0}},layout:{padding:{top:10}}};
+    if(document.getElementById("cpiChart"))new Chart(document.getElementById("cpiChart"),{type:"line",data:{labels:["Jan","Feb","Mar","Apr","May","Jun"],datasets:[{data:[3.1,3.2,3.5,3.4,3.3,3.4],borderColor:"#4f46e5",backgroundColor:"rgba(79, 70, 229, 0.1)",fill:!0,tension:.4}]},options:miniChartOptions});
+    if(document.getElementById("ppiChart"))new Chart(document.getElementById("ppiChart"),{type:"line",data:{labels:["Jan","Feb","Mar","Apr","May","Jun"],datasets:[{data:[2.1,2.3,2.1,2.2,2.3,2.2],borderColor:"#9333ea",backgroundColor:"rgba(147, 51, 234, 0.1)",fill:!0,tension:.4}]},options:miniChartOptions});
+    if(document.getElementById("treasuryYieldChart"))new Chart(document.getElementById("treasuryYieldChart"),{type:"line",data:{labels:["Jan","Feb","Mar","Apr","May","Jun"],datasets:[{data:[4.15,4.25,4.2,4.6,4.5,4.25],borderColor:"#0d9488",backgroundColor:"rgba(13, 148, 136, 0.1)",fill:!0,tension:.4}]},options:miniChartOptions});
+    if(document.getElementById("unemploymentChart"))new Chart(document.getElementById("unemploymentChart"),{type:"bar",data:{labels:["Jan","Feb","Mar","Apr","May","Jun"],datasets:[{data:[3.7,3.9,3.8,3.9,4,4],backgroundColor:"rgba(2, 132, 199, 0.6)"}]},options:miniChartOptions});
+    if(document.getElementById("retailSalesChart"))new Chart(document.getElementById("retailSalesChart"),{type:"bar",data:{labels:["Jan","Feb","Mar","Apr","May","Jun"],datasets:[{data:[-.8,.6,.7,0,.2,.1],backgroundColor:"rgba(234, 88, 12, 0.6)"}]},options:miniChartOptions});
+
+    // 모달 및 상세 차트 로직
+    const historicalData = {
+        dow: { title: "다우 존스 지수 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, (v, i) => 10000 + i*1200 + Math.random()*2000), borderColor: '#3b82f6', unit: 'p' },
+        sp500: { title: "S&P 500 지수 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, (v, i) => 1300 + i*180 + Math.random()*300), borderColor: '#ef4444', unit: 'p' },
+        nasdaq: { title: "나스닥 지수 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, (v, i) => 2500 + i*600 + Math.random()*1000), borderColor: '#10b981', unit: 'p' },
+        fed_rate: { title: "미국 기준금리 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, () => (Math.random() * 6).toFixed(2)), borderColor: '#2563eb', unit: '%' },
+        cpi: { title: "소비자물가지수 (CPI) 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, () => (Math.random() * 9).toFixed(2)), borderColor: '#4f46e5', unit: '%' },
+        ppi: { title: "생산자물가지수 (PPI) 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, () => (Math.random() * 12 - 2).toFixed(2)), borderColor: '#9333ea', unit: '%' },
+        treasury: { title: "미 10년물 국채 금리 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, () => (Math.random() * 6.5 + 0.5).toFixed(2)), borderColor: '#0d9488', unit: '%' },
+        unemployment: { title: "미국 실업률 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, () => (Math.random() * 11.5 + 3.5).toFixed(2)), borderColor: '#0284c7', unit: '%' },
+        retail: { title: "미국 소매판매 (MoM) 추이", labels: Array.from({length: 25}, (_, i) => `${2000 + i}`), data: Array.from({length: 25}, () => (Math.random() * 5 - 2).toFixed(2)), borderColor: '#ea580c', unit: '%' }
     };
 
-    // CPI 차트
-    new Chart(document.getElementById('cpiChart'), {
-        type: 'line',
-        data: {
-            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-            datasets: [{ data: [3.1, 3.2, 3.5, 3.4, 3.3, 3.4], borderColor: '#4f46e5', backgroundColor: 'rgba(79, 70, 229, 0.1)', fill: true, tension: 0.4 }]
-        },
-        options: commonChartOptions
+    const detailModal = document.getElementById('detailModal');
+    const closeModalBtn = document.getElementById('closeModal');
+    const modalTitle = document.getElementById('modalTitle');
+    const detailChartCanvas = document.getElementById('detailChart');
+    const indicatorCards = document.querySelectorAll('.indicator-card');
+    let detailChartInstance;
+
+    function openDetailModal(indicatorId) {
+        if (!detailModal) return; 
+        const indicatorData = historicalData[indicatorId];
+        if (!indicatorData) return;
+        
+        if (modalTitle) modalTitle.innerText = indicatorData.title;
+        if (detailChartInstance) detailChartInstance.destroy();
+        
+        detailChartInstance = new Chart(detailChartCanvas, {
+            type: 'line',
+            data: { labels: indicatorData.labels, datasets: [{ label: indicatorData.title, data: indicatorData.data, borderColor: indicatorData.borderColor, borderWidth: 2, pointRadius: 2, pointHoverRadius: 6, fill: false, tension: 0.1 }] },
+            options: {
+                responsive: true, maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { enabled: true, mode: 'index', intersect: false, callbacks: {
+                        title: (context) => `${context[0].label}년`,
+                        label: (context) => {
+                            const unit = indicatorData.unit || '';
+                            let value = context.parsed.y;
+                            if (unit === 'p') return `지수: ${Math.round(value).toLocaleString()}`;
+                            return `값: ${Number(value).toFixed(2)}${unit}`;
+                        }
+                    }}
+                },
+                scales: {
+                    x: { ticks: { autoSkip: true, maxTicksLimit: 12 } },
+                    y: { ticks: { callback: function(value) {
+                        const unit = indicatorData.unit || '';
+                        if (unit === 'p') return `${(value/1000).toFixed(0)}k`;
+                        return `${Number(value).toFixed(1)}%`;
+                    }}}
+                }
+            }
+        });
+        
+        // ✨✨✨ 수정된 부분 1 ✨✨✨
+        detailModal.classList.remove('hidden');
+        detailModal.classList.add('flex', 'items-center', 'justify-center'); 
+    }
+
+    function closeTheModal() {
+        if (!detailModal) return;
+        
+        // ✨✨✨ 수정된 부분 2 ✨✨✨
+        detailModal.classList.add('hidden');
+        detailModal.classList.remove('flex', 'items-center', 'justify-center');
+    };
+
+    indicatorCards.forEach(card => {
+        card.addEventListener('click', () => openDetailModal(card.getAttribute('data-indicator')));
     });
 
-    // PPI 차트
-    new Chart(document.getElementById('ppiChart'), {
-        type: 'line',
-        data: {
-            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-            datasets: [{ data: [2.1, 2.3, 2.1, 2.2, 2.3, 2.2], borderColor: '#9333ea', backgroundColor: 'rgba(147, 51, 234, 0.1)', fill: true, tension: 0.4 }]
-        },
-        options: commonChartOptions
-    });
-
-    // 국채 금리 차트
-    new Chart(document.getElementById('treasuryYieldChart'), {
-        type: 'line',
-        data: {
-            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-            datasets: [{ data: [4.15, 4.25, 4.20, 4.60, 4.50, 4.25], borderColor: '#0d9488', backgroundColor: 'rgba(13, 148, 136, 0.1)', fill: true, tension: 0.4 }]
-        },
-        options: commonChartOptions
-    });
-
-    // 실업률 차트
-    new Chart(document.getElementById('unemploymentChart'), {
-        type: 'bar',
-        data: {
-            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-            datasets: [{ data: [3.7, 3.9, 3.8, 3.9, 4.0, 4.0], backgroundColor: 'rgba(2, 132, 199, 0.6)' }]
-        },
-        options: commonChartOptions
-    });
-
-    // 소매판매 차트
-    new Chart(document.getElementById('retailSalesChart'), {
-        type: 'bar',
-        data: {
-            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-            datasets: [{ data: [-0.8, 0.6, 0.7, 0.0, 0.2, 0.1], backgroundColor: 'rgba(234, 88, 12, 0.6)' }]
-        },
-        options: commonChartOptions
-    });
+    if (closeModalBtn) closeModalBtn.addEventListener('click', closeTheModal);
+    if (detailModal) detailModal.addEventListener('click', (event) => { if (event.target === detailModal) closeTheModal(); });
 });
 </script>
