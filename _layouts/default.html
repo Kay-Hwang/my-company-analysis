@@ -21,20 +21,20 @@
 <body class="antialiased">
 
     <header class="bg-white shadow-md sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-center h-16">
-                <div class="flex items-baseline space-x-4">
-                    <a href="{{ '/' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url == '/' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Home</a>
-                    <span class="text-slate-400">/</span>
-                    <a href="{{ '/why-dividend-growth.html' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url contains 'why-dividend-growth' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Why Dividend Stock</a>
-                    <span class="text-slate-400">/</span>
-                    <a href="{{ '/companies.html' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url contains 'companies' or page.url contains 'abbvie' or page.url contains 'nextera' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Company Analysis</a>
-                    <span class="text-slate-400">/</span>
-                    <a href="{{ '/economic-indicators.html' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url contains 'economic-indicators' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Economic Indicators</a>
-                </div>
+    <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-center h-16">
+            <div class="flex items-baseline space-x-4">
+                <a href="{{ '/' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url == '/' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Home</a>
+                <span class="text-slate-400">/</span>
+                <a href="{{ '/why-dividend-growth.html' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url contains 'why-dividend-growth' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Why Dividend Stock</a>
+                <span class="text-slate-400">/</span>
+                <a href="{{ '/companies.html' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url contains 'companies' or page.url contains 'abbvie' or page.url contains 'nextera' or page.url contains 'unh' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Company Analysis</a>
+                <span class="text-slate-400">/</span>
+                <a href="{{ '/economic-indicators.html' | relative_url }}" class="px-3 py-2 rounded-md text-base font-medium {% if page.url contains 'economic-indicators' %}text-blue-600 font-bold{% else %}text-slate-700 hover:text-blue-600{% endif %}">Economic Indicators</a>
             </div>
-        </nav>
-    </header>
+        </div>
+    </nav>
+</header>
 
     <main>
         {{ content }}
