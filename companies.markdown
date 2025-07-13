@@ -40,54 +40,21 @@ title: Company Analysis
         <section class="mb-16">
             <h2 class="text-3xl font-bold text-center text-slate-700 mb-8">주요 기업 현황 (시뮬레이션 대상 선택)</h2>
             <div id="company-dashboard" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-                
-                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="abbv-border">
-                    <div class="flex justify-between items-center mb-2">
-                        <div><h3 class="text-base font-bold text-slate-800">AbbVie</h3><p class="text-xs text-slate-500">ABBV</p></div>
-                        <input type="checkbox" data-ticker="ABBV" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500">
-                    </div>
-                    <div class="space-y-1">
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="abbv-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div>
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="abbv-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div>
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="abbv-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div>
-                    </div>
-                </div>
-
-                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="nee-border">
-                    <div class="flex justify-between items-center mb-2">
-                        <div><h3 class="text-base font-bold text-slate-800">NextEra</h3><p class="text-xs text-slate-500">NEE</p></div>
-                        <input type="checkbox" data-ticker="NEE" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500">
-                    </div>
-                    <div class="space-y-1">
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="nee-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div>
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="nee-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div>
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="nee-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div>
-                    </div>
-                </div>
-
-                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="unh-border">
-                    <div class="flex justify-between items-center mb-2">
-                        <div><h3 class="text-base font-bold text-slate-800">UnitedHealth</h3><p class="text-xs text-slate-500">UNH</p></div>
-                        <input type="checkbox" data-ticker="UNH" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500">
-                    </div>
-                    <div class="space-y-1">
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="unh-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div>
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="unh-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div>
-                        <div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="unh-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div>
-                    </div>
-                </div>
-                
-                <div class="bg-white p-3 rounded-lg shadow-md border-l-4 border-gray-300 flex items-center justify-center"><p class="text-gray-400 text-sm">추가 예정</p></div>
+                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="abbv-border"><div class="flex justify-between items-center mb-2"><div><h3 class="text-base font-bold text-slate-800">AbbVie</h3><p class="text-xs text-slate-500">ABBV</p></div><input type="checkbox" data-ticker="ABBV" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500"></div><div class="space-y-1"><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="abbv-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="abbv-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="abbv-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div></div></div>
+                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="nee-border"><div class="flex justify-between items-center mb-2"><div><h3 class="text-base font-bold text-slate-800">NextEra</h3><p class="text-xs text-slate-500">NEE</p></div><input type="checkbox" data-ticker="NEE" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500"></div><div class="space-y-1"><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="nee-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="nee-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="nee-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div></div></div>
+                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="unh-border"><div class="flex justify-between items-center mb-2"><div><h3 class="text-base font-bold text-slate-800">UnitedHealth</h3><p class="text-xs text-slate-500">UNH</p></div><input type="checkbox" data-ticker="UNH" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500"></div><div class="space-y-1"><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="unh-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="unh-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="unh-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div></div></div>
+                <div class="bg-white p-3 rounded-lg shadow-md border-l-4" id="jnj-border"><div class="flex justify-between items-center mb-2"><div><h3 class="text-base font-bold text-slate-800">J&J</h3><p class="text-xs text-slate-500">JNJ</p></div><input type="checkbox" data-ticker="JNJ" class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500"></div><div class="space-y-1"><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">주가</p><p id="jnj-price" class="text-sm font-semibold text-slate-900 placeholder w-16"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">배당률</p><p id="jnj-yield" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div><div class="flex justify-between items-baseline"><p class="text-xs text-slate-500">5년DGR</p><p id="jnj-dgr" class="text-sm font-semibold text-slate-900 placeholder w-14"></p></div></div></div>
                 <div class="bg-white p-3 rounded-lg shadow-md border-l-4 border-gray-300 flex items-center justify-center"><p class="text-gray-400 text-sm">추가 예정</p></div>
             </div>
         </section>
         
         <hr class="mb-12">
         
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-             <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group"><div class="p-6"><div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-bold text-slate-900">AbbVie</h2><span class="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">ABBV</span></div><p class="text-slate-600 mb-4 h-12">면역학, 종양학 등 필수 치료 분야에 집중하는 글로벌 바이오 제약 기업.</p><a href="{{ '/abbvie.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">분석 리포트 보기</a></div></div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group"><div class="p-6"><div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-bold text-slate-900">AbbVie</h2><span class="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">ABBV</span></div><p class="text-slate-600 mb-4 h-12">면역학, 종양학 등 필수 치료 분야에 집중하는 글로벌 바이오 제약 기업.</p><a href="{{ '/abbvie.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">분석 리포트 보기</a></div></div>
             <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group"><div class="p-6"><div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-bold text-slate-900">NextEra Energy</h2><span class="bg-emerald-100 text-emerald-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">NEE</span></div><p class="text-slate-600 mb-4 h-12">세계 최대의 풍력 및 태양광 에너지 생산업체이자 미국 최대의 전력 회사.</p><a href="{{ '/nextera.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">분석 리포트 보기</a></div></div>
             <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group"><div class="p-6"><div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-bold text-slate-900">UnitedHealth</h2><span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">UNH</span></div><p class="text-slate-600 mb-4 h-12">미국 최대 의료 서비스 제공자이자 다각화된 헬스케어 기업.</p><a href="{{ '/unh.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">분석 리포트 보기</a></div></div>
+            <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden group"><div class="p-6"><div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-bold text-slate-900">J&J</h2><span class="bg-indigo-100 text-indigo-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">JNJ</span></div><p class="text-slate-600 mb-4 h-12">혁신 의약품과 의료기기에 집중하는 글로벌 헬스케어 리더.</p><a href="{{ '/jnj.html' | relative_url }}" class="inline-block w-full text-center bg-slate-800 text-white font-semibold py-2 px-4 rounded-lg group-hover:bg-blue-600 transition-colors duration-300">분석 리포트 보기</a></div></div>
         </div>
     </main>
 </div>
@@ -95,9 +62,9 @@ title: Company Analysis
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const apiKey = "{{ site.finnhub_api_key }}";
-    const tickers = ["ABBV", "NEE", "UNH"];
+    const tickers = ["ABBV", "NEE", "UNH", "JNJ"];
     const companyMetrics = {};
-    const manualDGR = { "ABBV": 10.51, "NEE": 10.23, "UNH": 16.05 };
+    const manualDGR = { "ABBV": 10.51, "NEE": 10.23, "UNH": 16.05, "JNJ": 5.68 };
 
     async function fetchCompanyData(ticker) {
         try {
@@ -131,11 +98,9 @@ document.addEventListener('DOMContentLoaded', function() {
         calculateButton.addEventListener('click', () => {
             const initialInvestment = parseFloat(document.getElementById('initial-investment').value);
             const selectedTickers = [...document.querySelectorAll('#company-dashboard input[type="checkbox"]:checked')].map(cb => cb.dataset.ticker);
-            
             if (selectedTickers.length === 0 || !initialInvestment) { alert('기업을 하나 이상 선택하고 투자금을 입력해주세요.'); return; }
             const investmentPerCompany = initialInvestment / selectedTickers.length;
             const results = {};
-
             selectedTickers.forEach(ticker => {
                 const metrics = companyMetrics[ticker];
                 if (!metrics) return;
@@ -145,34 +110,22 @@ document.addEventListener('DOMContentLoaded', function() {
                     y15: initialDividend * Math.pow(1 + metrics.growth, 15), y20: initialDividend * Math.pow(1 + metrics.growth, 20), y30: initialDividend * Math.pow(1 + metrics.growth, 30),
                 };
             });
-
             const resultsBody = document.querySelector('#simulator-results tbody');
             resultsBody.innerHTML = '';
-
             for(const ticker in results) {
                 const row = results[ticker];
                 const tr = document.createElement('tr');
-                tr.innerHTML = `
-                    <td class="text-left font-semibold">${ticker}</td>
-                    <td>$${row.y1.toFixed(2)}</td><td>$${row.y5.toFixed(2)}</td><td>$${row.y10.toFixed(2)}</td>
-                    <td>$${row.y15.toFixed(2)}</td><td>$${row.y20.toFixed(2)}</td><td>$${row.y30.toFixed(2)}</td>
-                `;
+                tr.innerHTML = `<td class="text-left font-semibold">${ticker}</td><td>$${row.y1.toFixed(2)}</td><td>$${row.y5.toFixed(2)}</td><td>$${row.y10.toFixed(2)}</td><td>$${row.y15.toFixed(2)}</td><td>$${row.y20.toFixed(2)}</td><td>$${row.y30.toFixed(2)}</td>`;
                 resultsBody.appendChild(tr);
             }
-
             if (selectedTickers.length > 1) {
                 const total = { y1: 0, y5: 0, y10: 0, y15: 0, y20: 0, y30: 0 };
                 for(const ticker in results) { Object.keys(total).forEach(year => total[year] += results[ticker][year]); }
                 const totalRow = document.createElement('tr');
                 totalRow.className = 'bg-slate-200 font-bold';
-                totalRow.innerHTML = `
-                    <td class="text-left">합계</td>
-                    <td>$${total.y1.toFixed(2)}</td><td>$${total.y5.toFixed(2)}</td><td>$${total.y10.toFixed(2)}</td>
-                    <td>$${total.y15.toFixed(2)}</td><td>$${total.y20.toFixed(2)}</td><td>$${total.y30.toFixed(2)}</td>
-                `;
+                totalRow.innerHTML = `<td class="text-left">합계</td><td>$${total.y1.toFixed(2)}</td><td>$${total.y5.toFixed(2)}</td><td>$${total.y10.toFixed(2)}</td><td>$${total.y15.toFixed(2)}</td><td>$${total.y20.toFixed(2)}</td><td>$${total.y30.toFixed(2)}</td>`;
                 resultsBody.appendChild(totalRow);
             }
-            
             document.getElementById('simulator-results-container').classList.remove('hidden');
         });
     }
