@@ -25,6 +25,8 @@ title: Economic Indicators
 <script>
 document.addEventListener('DOMContentLoaded', async function() {
     const G_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyxghT3fhJF1se7AN6H9Z8oZkUj15TKEcFnAuPR5G5wgO77E8v1VpFNDvRovX5b7s0Q/exec'; // 🚨 실제 URL로 교체하세요!
+    // ✨ 1. Jekyll의 기본 주소(baseurl)를 JavaScript 변수로 가져옵니다.
+    const baseUrl = "{{ site.baseurl }}";
 
     function formatValue(key, value) {
         if (value === 'N/A' || value === null || isNaN(value)) return 'N/A';
@@ -34,10 +36,9 @@ document.addEventListener('DOMContentLoaded', async function() {
         return value.toFixed(2) + '%';
     }
 
-    // ✨ 링크 기능이 추가된 카드 생성 함수 ✨
     function createIndicatorCard(key, data) {
-        // 각 지표에 맞는 상세 페이지 URL을 생성합니다. (예: /cpi.html)
-        const detailPageUrl = `/${key}.html`;
+        // ✨ 2. 링크를 만들 때, baseUrl을 앞에 붙여줍니다.
+        const detailPageUrl = `${baseUrl}/${key}.html`;
         
         return `
             <a href="${detailPageUrl}" class="bg-white p-6 rounded-xl shadow-lg transition-transform hover:-translate-y-1 hover:shadow-xl block">
