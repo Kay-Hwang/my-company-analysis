@@ -14,10 +14,22 @@ NEWS_SOURCES = {
 }
 
 FRED_SERIES = {
-    "inflation": {"cpi": {"id": 'CPIAUCSL', "name": '소비자물가지수 (YoY)'},"ppi": {"id": 'PPIACO', "name": '생산자물가지수 (YoY)'}},
-    "labor": {"unemployment": {"id": 'UNRATE', "name": '실업률'},"joblessClaims": {"id": 'ICSA', "name": '주간 실업수당 청구'}},
-    "growth_consumption": {"gdp": {"id": 'GDP', "name": '실질 GDP (QoQ)'},"retailSales": {"id": 'RSAFS', "name": '소매판매 (MoM)'}},
-    "interest_rates": {"fedRate": {"id": 'FEDFUNDS', "name": '미국 기준금리'},"treasury10Y": {"id": 'DGS10', "name": '10년물 국채금리'}}
+    "inflation": {
+        "cpi": {"id": 'CPIAUCSL', "name": '소비자물가지수 (YoY)'},
+        "ppi": {"id": 'PPIACO', "name": '생산자물가지수 (YoY)'}
+    },
+    "labor": {
+        "unemployment": {"id": 'UNRATE', "name": '실업률'},
+        "joblessClaims": {"id": 'ICSA', "name": '주간 실업수당 청구'}
+    },
+    "growth_consumption": {
+        "gdp": {"id": 'GDP', "name": '실질 GDP (QoQ)'},
+        "retailSales": {"id": 'RSAFS', "name": '소매판매 (MoM)'}
+    },
+    "interest_rates": {
+        "fedRate": {"id": 'FEDFUNDS', "name": '미국 기준금리'},
+        "treasury10Y": {"id": 'DGS10', "name": '10년물 국채금리'}
+    }
 }
 
 def get_news():
@@ -26,8 +38,7 @@ def get_news():
         feed = feedparser.parse(url)
         news_data[name] = []
         for entry in feed.entries[:10]:
-            # ✨✨✨ 수정된 부분 ✨✨✨
-            # entry.summary가 없을 경우를 대비하여, get() 메소드와 기본값(entry.title)을 사용합니다.
+            # entry.summary가 없을 경우를 대비하여, entry.title을 기본값으로 사용합니다.
             summary_text = getattr(entry, 'summary', entry.title)
             
             news_data[name].append({
@@ -40,6 +51,10 @@ def get_news():
 
 def get_indicators():
     indicator_data = {}
+    if not FRED_API_KEY:
+        print("FRED_API_KEY is not set.")
+        return indicator_data
+        
     for group, items in FRED_SERIES.items():
         indicator_data[group] = {}
         for key, series in items.items():
@@ -51,17 +66,20 @@ def get_indicators():
                 latest = data['observations'][0]
                 indicator_data[group][key] = {"name": series['name'],"value": float(latest['value']),"date": latest['date']}
             except Exception as e:
+                print(f"Error fetching {key}: {e}")
                 indicator_data[group][key] = {"name": series['name'], "value": "N/A", "date": "N/A"}
     return indicator_data
 
 if __name__ == "__main__":
     kst = pytz.timezone('Asia/Seoul')
+    
     final_data = {
         "lastUpdated": datetime.now(kst).strftime('%Y년 %m월 %d일 %H:%M KST'),
         "news": get_news(),
         "indicators": get_indicators()
     }
     
+    # Jekyll이 읽을 수 있도록 _data 폴더에 저장
     if not os.path.exists('_data'):
         os.makedirs('_data')
         
