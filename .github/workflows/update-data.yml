@@ -26,14 +26,14 @@ jobs:
       - name: Fetch and Update Data 📈
         run: python ./scripts/update_data.py
         env:
-          # GitHub Secrets에 저장된 API 키를 사용합니다.
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
 
       - name: Setup Ruby and Jekyll 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Jekyll에 맞는 루비 버전
-          bundler-cache: true # Gem 설치 속도 향상
+          # ✨ 루비 버전을 3.2로 수정 ✨
+          ruby-version: '3.2' 
+          bundler-cache: true
 
       - name: Build with Jekyll 🔨
         run: bundle exec jekyll build
