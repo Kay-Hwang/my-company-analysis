@@ -4,7 +4,7 @@ on:
   schedule:
     # 한국 시간 기준 매일 아침 8시에 실행 (UTC 기준 23:00)
     - cron: '0 23 * * *'
-  workflow_dispatch: # 수동 실행도 가능하도록 추가
+  workflow_dispatch:
 
 jobs:
   build_and_deploy:
