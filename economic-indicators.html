@@ -7,18 +7,37 @@ title: Economic Indicators
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900">핵심 경제 지표</h1>
         <p class="mt-4 text-lg text-gray-600">최종 업데이트: {{ site.data.latest_data.lastUpdated }}</p>
     </header>
+
     <div class="space-y-12">
-        <section>
-            <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">인플레이션</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                {% for key, indicator in site.data.latest_data.indicators.inflation %}
-                <div class="bg-white p-6 rounded-xl shadow-lg">
-                    <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
-                    <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicator.value }}%</p>
-                    <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
+        {% for group in site.data.latest_data.indicators %}
+            <section>
+                {% if group[0] == 'inflation' %}
+                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">인플레이션</h2>
+                {% elsif group[0] == 'labor' %}
+                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">고용 시장</h2>
+                {% elsif group[0] == 'growth_consumption' %}
+                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">성장 및 소비</h2>
+                {% elsif group[0] == 'interest_rates' %}
+                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">금리</h2>
+                {% endif %}
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    {% for item in group[1] %}
+                        {% assign key = item[0] %}
+                        {% assign indicator = item[1] %}
+                        <div class="bg-white p-6 rounded-xl shadow-lg">
+                            <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
+                            <p class="text-4xl font-bold text-slate-800 mt-2">
+                                {% if key == 'joblessClaims' %}{{ indicator.value | divided_by: 1000 | round: 0 }}K
+                                {% elsif key == 'gdp' %}{{ indicator.value | round: 1 }}%
+                                {% elsif key == 'retailSales' %}${{ indicator.value | divided_by: 1000 | round: 1 }}B
+                                {% else %}{{ indicator.value | round: 2 }}%{% endif %}
+                            </p>
+                            <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
+                        </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
-            </div>
-        </section>
-        </div>
+            </section>
+        {% endfor %}
+    </div>
 </main>

@@ -12,12 +12,34 @@ title: Market Updates
             <h2 class="text-2xl font-bold text-slate-800 mb-6 border-b-2 pb-2">Investing.com</h2>
             <div class="space-y-4">
                 {% for item in site.data.latest_data.news.investing %}
-                <a href="{{ item.link }}" target="_blank" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg">
+                <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
                     <h3 class="font-semibold text-blue-700">{{ item.title }}</h3>
                     <p class="text-xs text-gray-500 mt-1">{{ item.pubDate }}</p>
                 </a>
                 {% endfor %}
             </div>
         </section>
-        </div>
+        <section>
+            <h2 class="text-2xl font-bold text-slate-800 mb-6 border-b-2 pb-2">Wall Street Journal</h2>
+            <div class="space-y-4">
+                {% for item in site.data.latest_data.news.wsj %}
+                <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">{{ item.title }}</h3>
+                    <p class="text-xs text-gray-500 mt-1">{{ item.pubDate }}</p>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+        <section>
+            <h2 class="text-2xl font-bold text-slate-800 mb-6 border-b-2 pb-2">Yahoo Finance</h2>
+            <div class="space-y-4">
+                {% for item in site.data.latest_data.news.yahoo %}
+                <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">{{ item.title }}</h3>
+                    <p class="text-xs text-gray-500 mt-1">{{ item.pubDate }}</p>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
 </main>
