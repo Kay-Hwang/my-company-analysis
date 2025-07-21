@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Johnson & Johnson (JNJ) | 기업 분석 대시보드</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; background-color: #f8f9fa; }
+        .chart-container { position: relative; width: 100%; height: 350px; }
+        .tab-button.active { background-color: #0077b6; color: white; }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="bg-white shadow-md sticky top-0 z-50">
+    <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-center h-16">
+            <div class="flex items-baseline space-x-4">
+                <a href="/my-company-analysis/" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Home</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/why-dividend-growth.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Why Dividend Stock</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/companies.html" class="px-3 py-2 rounded-md text-base font-medium text-blue-600 font-bold">Company Analysis</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/economic-indicators.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Economic Indicators</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/market-updates.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Market Updates</a>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <div class="bg-white sticky top-16 z-40 shadow-sm border-b">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+        <div>
+            <a href="/my-company-analysis/companies.html" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center text-sm">
+                <span class="mr-2">&larr;</span> 기업 선택으로 돌아가기
+            </a>
+        </div>
+        <div class="hidden md:flex items-center space-x-6 text-sm">
+            <a href="#summary" class="nav-link">투자 요약</a>
+            <a href="#company-overview" class="nav-link">회사 개요</a>
+            <a href="#portfolio" class="nav-link">사업 포트폴리오</a>
+            <a href="#financials" class="nav-link">재무 및 배당</a>
+            <a href="#swot" class="nav-link">성장과 리스크</a>
+            <a href="#strategy" class="nav-link">미래 전략</a>
+        </div>
+    </div>
+</div>
+
+<main class="container mx-auto px-4 py-8 md:py-12">
+
+    <section class="text-center mb-12 md:mb-16">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">존슨앤드존슨(Johnson & Johnson) 기업 분석</h2>
+        <p class="max-w-3xl mx-auto text-gray-600">
+            본 대시보드는 존슨앤드존슨(JNJ)의 기업 구조, 사업 성과, 재무 상태, 그리고 미래 전망에 대한 심층 분석을 제공합니다. 켄뷰(Kenvue) 분사 이후 혁신 의약품과 의료기기에 집중하는 J&J의 변화를 중심으로 핵심 데이터를 시각화하여 탐색할 수 있습니다.
+        </p>
+    </section>
+    
+    <section id="kpi" class="mb-12 md:mb-16">
+         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center">
+                <h3 class="text-sm font-medium text-gray-500 mb-2">현재 주가 (2025/07)</h3>
+                <p class="text-3xl font-bold text-gray-900">$157.08</p>
+            </div>
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center">
+                <h3 class="text-sm font-medium text-gray-500 mb-2">시가총액</h3>
+                <p class="text-3xl font-bold text-gray-900">$3,736억</p>
+            </div>
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center">
+                <h3 class="text-sm font-medium text-gray-500 mb-2">P/E Ratio (TTM)</h3>
+                <p class="text-3xl font-bold text-gray-900">17.46</p>
+            </div>
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center">
+                <h3 class="text-sm font-medium text-gray-500 mb-2">배당 수익률 (연간)</h3>
+                <p class="text-3xl font-bold text-gray-900">~3.33%</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="overview" class="mb-12 md:mb-20 pt-16 -mt-16">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-6 text-center">1. 기업 개요: 혁신을 향한 재편</h2>
+        <div class="bg-white p-8 rounded-xl shadow-md">
+             <p class="text-gray-700 mb-6 leading-relaxed text-center max-w-4xl mx-auto">
+                135년 역사의 J&J는 2023년 컨슈머 헬스 사업부 '켄뷰'를 분사하며 중대한 전환점을 맞았습니다. 이 전략적 재편은 고성장이 기대되는 **혁신 의약품(Innovative Medicine)**과 **의료기기(MedTech)**에 핵심 역량을 집중하기 위함입니다. 이는 안정성보다 혁신 주도 성장을 추구하겠다는 의지를 명확히 보여줍니다.
+            </p>
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div class="text-center">
+                    <div class="w-32 h-32 mx-auto mb-4 flex items-center justify-center bg-blue-50 rounded-full text-5xl text-blue-600">🧬</div>
+                    <h3 class="text-xl font-semibold mb-2">혁신 의약품 & 의료기기</h3>
+                    <p class="text-sm text-gray-600">종양학, 면역학, 신경과학 등 고성장 분야와 로봇 수술, 디지털 솔루션 등 첨단 의료기술에 집중</p>
+                </div>
+                <div class="text-center">
+                    <div class="w-32 h-32 mx-auto mb-4 flex items-center justify-center bg-green-50 rounded-full text-5xl text-green-600">📜</div>
+                    <h3 class="text-xl font-semibold mb-2">우리의 신조 (Our Credo)</h3>
+                    <p class="text-sm text-gray-600">1943년부터 이어진 기업 철학. 환자, 직원, 사회에 대한 책임을 최우선으로 하는 윤리 경영의 근간</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="portfolio" class="mb-12 md:mb-20 pt-16 -mt-16">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2 text-center">2. 사업 포트폴리오 분석</h2>
+         <p class="text-gray-600 text-center mb-8">두 핵심 사업부의 성과와 주요 제품을 비교하며 J&J의 현재와 미래를 확인해보세요.</p>
+        <div class="flex justify-center mb-8">
+            <div class="flex space-x-1 bg-gray-200 p-1 rounded-full">
+                <button id="med-tab" class="tab-button active w-36 py-2 px-4 rounded-full text-sm font-semibold">혁신 의약품</button>
+                <button id="tech-tab" class="tab-button w-36 py-2 px-4 rounded-full text-sm font-semibold">의료기기</button>
+            </div>
+        </div>
+        <div class="grid grid-cols-1 lg:grid-cols-5 gap-8">
+            <div id="med-content" class="lg:col-span-3">
+                <div class="bg-white p-6 md:p-8 rounded-xl shadow-md h-full">
+                    <h3 id="portfolio-title" class="text-xl font-bold mb-4">혁신 의약품 부문 주요 제품 매출 (2023)</h3>
+                    <div class="chart-container"><canvas id="portfolioChart"></canvas></div>
+                </div>
+            </div>
+            <div id="portfolio-details" class="lg:col-span-2">
+                 <div class="bg-white p-6 md:p-8 rounded-xl shadow-md h-full flex flex-col justify-center">
+                    <h3 id="details-title" class="text-xl font-bold mb-4">혁신 의약품 (Innovative Medicine)</h3>
+                    <p id="details-description" class="text-gray-700 mb-6">2023년 매출 548억 달러(전체 64%)를 차지하는 최대 사업부입니다. 특히 다잘렉스(항암제), 스텔라라(면역질환)가 성장을 주도하고 있으며, 종양학, 면역학, 신경과학 분야에서 강력한 파이프라인을 보유하고 있습니다.</p>
+                    <div class="space-y-4">
+                        <div class="flex justify-between items-center"><span class="font-medium text-gray-600">2023년 매출</span><span id="details-revenue" class="font-bold text-lg text-blue-600">$548억</span></div>
+                         <div class="flex justify-between items-center"><span class="font-medium text-gray-600">전년비 성장률</span><span id="details-growth" class="font-bold text-lg text-blue-600">+4.2%</span></div>
+                         <div class="flex justify-between items-center"><span class="font-medium text-gray-600">시장 점유율</span><span id="details-market-share" class="font-bold text-lg text-blue-600">9.8% (2023년 글로벌 제약 시장 1위)</span></div>
+                         <div class="flex justify-between items-start"><span class="font-medium text-gray-600">주요 경쟁사</span><span id="details-competitors" class="font-bold text-sm text-blue-600 text-right">로슈, 화이자, 머크, 일라이 릴리, 노바티스</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="financials" class="mb-12 md:mb-20 pt-16 -mt-16">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4 text-center">3. 재무 성과 및 주주 가치</h2>
+        <p class="text-gray-600 text-center mb-8">J&J의 재무 건전성과 주주 환원 정책을 핵심 지표와 함께 살펴보세요.</p>
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-8 mb-12">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md"><h3 class="font-semibold mb-4 text-center">연간 매출액 및 영업이익률 추이 (2015-2024)</h3><div class="chart-container"><canvas id="revenueOpChart"></canvas></div></div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md"><h3 class="font-semibold mb-4 text-center">주가 추이 (2015-2025)</h3><div class="chart-container"><canvas id="stockChart"></canvas></div></div>
+        </div>
+        <h3 class="text-xl md:text-2xl font-bold text-gray-900 mb-6 text-center">배당 및 현금 흐름 분석</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">현재 배당 수익률</h3><p class="text-3xl font-bold text-gray-900">~3.33%</p><p class="text-xs text-gray-500 mt-1">현재 주가 대비 연간 배당금의 비율입니다.</p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">최근 12개월 배당성향</h3><p class="text-3xl font-bold text-gray-900">55.17%</p><p class="text-xs text-gray-500 mt-1">순이익 중 배당금으로 지급되는 비율로, 배당의 지속 가능성을 보여줍니다.</p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-blue-500 text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">5년 평균 배당성장률</h3><p class="text-3xl font-bold text-gray-900">5.68%</p><p class="text-xs text-gray-500 mt-1">지난 5년간 연평균 배당금 증가율입니다.</p></div>
+        </div>
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md"><h3 class="font-semibold mb-4 text-center">주당 연간 배당금 (DPS) 추이</h3><div class="chart-container"><canvas id="dividendChart"></canvas></div></div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md"><h3 class="font-semibold mb-4 text-center">잉여현금흐름 (FCF) 추이</h3><div class="chart-container"><canvas id="fcfChart"></canvas></div></div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md xl:col-span-2"><h3 class="font-semibold mb-4 text-center">배당성향 추이</h3><div class="chart-container"><canvas id="payoutRatioChart"></canvas></div></div>
+        </div>
+    </section>
+
+    <section id="swot" class="mb-12 md:mb-20 pt-16 -mt-16">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2 text-center">4. 성장 동력과 리스크 (SWOT)</h2>
+        <p class="text-gray-600 text-center mb-8">J&J의 내외부 환경 요인을 종합적으로 분석하여 투자 시 고려해야 할 핵심 사항을 확인합니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div><h3 class="text-xl font-bold text-green-600 mb-4 text-center">강점 & 기회</h3><div class="space-y-6"><div class="bg-white p-4 rounded-lg border-l-4 border-green-500 shadow-md"><h4 class="font-semibold text-lg mb-1">강점 (Strengths)</h4><ul class="list-disc list-inside text-gray-700 space-y-1 text-sm"><li>혁신 의약품/의료기기에 집중된 다각화된 포트폴리오</li><li>매출의 18%에 달하는 막대한 R&D 투자와 강력한 파이프라인</li><li>견고한 재무 기반 및 높은 신용 등급</li><li>글로벌 시장에서의 압도적인 브랜드 인지도</li></ul></div><div class="bg-white p-4 rounded-lg border-l-4 border-green-500 shadow-md"><h4 class="font-semibold text-lg mb-1">기회 (Opportunities)</h4><ul class="list-disc list-inside text-gray-700 space-y-1 text-sm"><li>종양학, 신경과학 등 고성장 치료 분야로의 확장</li><li>전략적 M&A를 통한 신성장 동력 확보</li><li>AI, 디지털 헬스를 활용한 R&D 효율성 증대</li><li>글로벌 인구 고령화에 따른 헬스케어 수요의 구조적 증가</li></ul></div></div></div>
+            <div><h3 class="text-xl font-bold text-red-600 mb-4 text-center">약점 & 위협</h3><div class="space-y-6"><div class="bg-white p-4 rounded-lg border-l-4 border-red-500 shadow-md"><h4 class="font-semibold text-lg mb-1">약점 (Weaknesses)</h4><ul class="list-disc list-inside text-gray-700 space-y-1 text-sm"><li>일부 의료기기 분야의 더딘 성장</li><li>주력 제품 '스텔라라' 특허 만료 임박</li><li>진행 중인 '탈크' 관련 소송 등 법적 리스크</li></ul></div><div class="bg-white p-4 rounded-lg border-l-4 border-red-500 shadow-md"><h4 class="font-semibold text-lg mb-1">위협 (Threats)</h4><ul class="list-disc list-inside text-gray-700 space-y-1 text-sm"><li>바이오시밀러/제네릭 의약품과의 경쟁 심화</li><li>정부의 약가 인하 정책 및 규제 강화</li><li>글로벌 경기 불확실성 및 환율 변동 리스크</li></ul></div></div></div>
+        </div>
+    </section>
+
+    <section id="strategy" class="pt-16 -mt-16">
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-8 text-center">5. 미래를 향한 핵심 전략</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><div class="text-4xl mb-4">🔬</div><h3 class="font-semibold text-lg mb-2">정밀 의학 & R&D</h3><p class="text-sm text-gray-600">개인 맞춤형 치료제 개발을 선도하고, 2030년까지 20개 이상의 혁신 치료제 출시를 목표로 R&D에 집중 투자합니다.</p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><div class="text-4xl mb-4">🤖</div><h3 class="font-semibold text-lg mb-2">AI & 디지털 헬스</h3><p class="text-sm text-gray-600">신약 개발부터 환자 관리까지 전 과정에 AI를 도입하고, 로봇 수술 등 디지털 의료 기술 혁신을 주도합니다.</p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><div class="text-4xl mb-4">🤝</div><h3 class="font-semibold text-lg mb-2">전략적 M&A</h3><p class="text-sm text-gray-600">견고한 재무 상태를 바탕으로 유망 기술을 보유한 기업을 인수하여 미래 성장 동력을 지속적으로 확보합니다.</p></div>
+        </div>
+    </section>
+
+</main>
+
+<footer class="bg-gray-800 text-white mt-16">
+    <div class="container mx-auto px-4 py-6 text-center text-sm">
+        <p>&copy; 2025 Interactive Report. All rights reserved.</p>
+        <p class="text-gray-400 mt-1">본 자료는 제공된 '존슨앤드존슨 기업 분석 및 투자 전망 보고서'를 기반으로 제작되었으며, 투자 추천이 아닙니다.</p>
+    </div>
+</footer>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+    Chart.register(ChartDataLabels);
+    const data = { portfolio: { medicine: { title: "혁신 의약품 부문 주요 제품 매출 (2023)", description: "2023년 매출 548억 달러(전체 64%)를 차지하는 최대 사업부입니다. 특히 다잘렉스(항암제), 스텔라라(면역질환)가 성장을 주도하고 있으며, 종양학, 면역학, 신경과학 분야에서 강력한 파이프라인을 보유하고 있습니다.", revenue: "$548억", growth: "+4.2%", marketShare: "9.8% (2023년 글로벌 제약 시장 1위)", competitors: "로슈, 화이자, 머크, 일라이 릴리, 노바티스", chartData: { labels: ['STELARA', 'DARZALEX', 'IMBRUVICA', 'TREMFYA', 'ERLEADA', 'REMICADE'], values: [10858, 9744, 3264, 3147, 2387, 1839], bgColor: 'rgba(0, 119, 182, 0.6)', borderColor: 'rgba(0, 119, 182, 1)', type: 'bar', } }, medtech: { title: "의료기기 부문 분야별 매출 비중 (2023)", description: "2023년 매출 304억 달러를 기록했습니다. Abiomed 인수를 통해 심혈관 중재 솔루션을 강화했으며, 로봇 보조 수술 및 디지털 솔루션 등 기술 혁신을 통해 성장을 추구하고 있습니다.", revenue: "$304억", growth: "+10.8%", marketShare: "글로벌 의료기기 시장 2위 (메드트로닉 다음)", competitors: "메드트로닉", chartData: { labels: ['수술', '정형외과', '중재 솔루션', '시력 관리'], values: [10037, 8900, 6400, 5100], bgColor: ['rgba(0, 119, 182, 0.7)', 'rgba(0, 173, 181, 0.7)', 'rgba(142, 202, 230, 0.7)', 'rgba(2, 48, 71, 0.7)'], borderColor: ['#FFFFFF'], type: 'doughnut', } } }, financials: { labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024'], revenue: [74.3, 70.1, 71.9, 76.5, 81.6, 82.1, 82.6, 78.7, 85.2, 88.8], operatingProfitMargin: [24.2, 25.0, 26.4, 26.8, 25.7, 26.2, 26.6, 25.4, 25.2, 25.3], dividend: [2.95, 3.15, 3.32, 3.54, 3.75, 3.98, 4.19, 4.45, 4.70, 4.91], freeCashFlow: [15.0, 14.5, 16.0, 17.0, 17.5, 18.0, 18.5, 17.0, 18.25, 19.0], payoutRatio: [45.0, 48.0, 49.0, 50.0, 51.0, 52.0, 53.0, 54.0, 55.0, 55.5], stock: { labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025(YTD)'], values: [78.94, 91.04, 113.28, 107.47, 124.90, 138.42, 154.25, 163.47, 149.45, 142.26, 156.90] } } };
+    let portfolioChartInstance;
+    const medTab = document.getElementById('med-tab');
+    const techTab = document.getElementById('tech-tab');
+    const portfolioTitle = document.getElementById('portfolio-title');
+    const detailsTitle = document.getElementById('details-title');
+    const detailsDescription = document.getElementById('details-description');
+    const detailsRevenue = document.getElementById('details-revenue');
+    const detailsGrowth = document.getElementById('details-growth');
+    const detailsMarketShare = document.getElementById('details-market-share');
+    const detailsCompetitors = document.getElementById('details-competitors');
+    function createOrUpdatePortfolioChart(chartData) { const ctx = document.getElementById('portfolioChart').getContext('2d'); if (portfolioChartInstance) { portfolioChartInstance.destroy(); } let chartOptions = { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: chartData.type !== 'bar' }, tooltip: { callbacks: { label: function(context) { let label = context.dataset.label || ''; if (label) { label += ': '; } if (chartData.type === 'bar') { label += new Intl.NumberFormat('ko-KR', { style: 'currency', currency: 'USD', notation: 'compact' }).format(context.parsed.y * 1000000); } else if(chartData.type === 'doughnut') { label += new Intl.NumberFormat('ko-KR', { style: 'currency', currency: 'USD', notation: 'compact' }).format(context.parsed * 1000000); } return label; } } }, datalabels: { color: '#fff', font: { weight: 'bold', size: 14 }, formatter: function(value, context) { if (chartData.type === 'bar') { return (value / 1000).toFixed(1) + 'B'; } else if (chartData.type === 'doughnut') { let sum = 0; context.chart.data.datasets[0].data.map(data => { sum += data; }); return (value * 100 / sum).toFixed(1) + '%'; } return value; }, textShadowBlur: 2, textShadowColor: 'rgba(0, 0, 0, 0.5)' } }, scales: chartData.type === 'bar' ? { y: { beginAtZero: true, ticks: { callback: function(value) { return value / 1000 + 'B'; } } }, x: { ticks: { maxRotation: 0, minRotation: 0, autoSkip: false, callback: function(value) { const label = this.getLabelForValue(value); return label.length > 10 ? label.substring(0, 10) + '...' : label; } } } } : {} }; portfolioChartInstance = new Chart(ctx, { type: chartData.type, data: { labels: chartData.labels, datasets: [{ label: '매출 (백만 달러)', data: chartData.values, backgroundColor: chartData.bgColor, borderColor: chartData.borderColor, borderWidth: chartData.type === 'bar' ? 1 : 2 }] }, options: chartOptions }); }
+    function updatePortfolioView(type) { const portfolioData = data.portfolio[type]; portfolioTitle.textContent = portfolioData.title; detailsTitle.textContent = type === 'medicine' ? '혁신 의약품 (Innovative Medicine)' : '의료기기 (MedTech)'; detailsDescription.textContent = portfolioData.description; detailsRevenue.textContent = portfolioData.revenue; detailsGrowth.textContent = portfolioData.growth; detailsMarketShare.textContent = portfolioData.marketShare; detailsCompetitors.textContent = portfolioData.competitors; createOrUpdatePortfolioChart(portfolioData.chartData); if (type === 'medicine') { medTab.classList.add('active'); techTab.classList.remove('active'); } else { techTab.classList.add('active'); medTab.classList.remove('active'); } }
+    medTab.addEventListener('click', () => updatePortfolioView('medicine'));
+    techTab.addEventListener('click', () => updatePortfolioView('medtech'));
+    updatePortfolioView('medicine');
+    const commonLineOptions = { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, interaction: { intersect: false, mode: 'index' }, tension: 0.2 };
+    new Chart(document.getElementById('revenueOpChart').getContext('2d'), { type: 'bar', data: { labels: data.financials.labels, datasets: [ { label: '매출액 (십억 달러)', data: data.financials.revenue, borderColor: '#0077B6', backgroundColor: 'rgba(0, 119, 182, 0.6)', yAxisID: 'y', order: 2, datalabels: { color: '#fff', font: { weight: 'bold', size: 14 }, formatter: (value) => (value).toFixed(1) + 'B', textShadowBlur: 2, textShadowColor: 'rgba(0, 0, 0, 0.5)' } }, { label: '영업이익률 (%)', data: data.financials.operatingProfitMargin, type: 'line', borderColor: '#FF7F00', backgroundColor: 'rgba(255, 127, 0, 0.1)', fill: false, yAxisID: 'y1', tension: 0.2, pointRadius: 3, pointBackgroundColor: '#FF7F00', order: 1, datalabels: { color: '#000', font: { weight: 'bold', size: 12 }, formatter: (value) => value.toFixed(1) + '%', align: 'end', anchor: 'end', offset: 4 } } ] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: true }, tooltip: { callbacks: { label: (ctx) => { if (ctx.dataset.label.includes('매출액')) { return `매출액: $${ctx.raw}B`; } else { return `영업이익률: ${ctx.raw}%`; } } } } }, scales: { y: { type: 'linear', display: true, position: 'left', title: { display: true, text: '매출액 (십억 달러)' }, ticks: { callback: (val) => '$' + val + 'B' } }, y1: { type: 'linear', display: true, position: 'right', title: { display: true, text: '영업이익률 (%)' }, grid: { drawOnChartArea: false }, ticks: { callback: (val) => val + '%' } } } } });
+    new Chart(document.getElementById('dividendChart').getContext('2d'), { type: 'bar', data: { labels: data.financials.labels, datasets: [{ label: '주당 배당금 (USD)', data: data.financials.dividend, backgroundColor: 'rgba(0, 173, 181, 0.6)', borderColor: 'rgba(0, 173, 181, 1)', borderWidth: 1 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, datalabels: { color: '#fff', font: { weight: 'bold', size: 14 }, formatter: (value) => '$' + value.toFixed(2), textShadowBlur: 2, textShadowColor: 'rgba(0, 0, 0, 0.5)' } }, scales: { y: { beginAtZero: true, ticks: { callback: (val) => '$' + val.toFixed(2) } } } } });
+    new Chart(document.getElementById('fcfChart').getContext('2d'), { type: 'line', data: { labels: data.financials.labels, datasets: [{ label: '잉여현금흐름 (십억 달러)', data: data.financials.freeCashFlow, borderColor: '#4CAF50', backgroundColor: 'rgba(76, 175, 80, 0.1)', fill: true, tension: 0.2, pointRadius: 3, pointBackgroundColor: '#4CAF50' }] }, options: { ...commonLineOptions, plugins: { tooltip: { callbacks: { label: (ctx) => `FCF: $${ctx.raw}B` } }, datalabels: { color: '#000', font: { weight: 'bold', size: 12 }, formatter: (value) => '$' + value.toFixed(1) + 'B', align: 'end', anchor: 'end', offset: 4 } }, scales: { y: { ticks: { callback: (val) => '$' + val + 'B' } } } } });
+    new Chart(document.getElementById('payoutRatioChart').getContext('2d'), { type: 'line', data: { labels: data.financials.labels, datasets: [{ label: '배당성향 (%)', data: data.financials.payoutRatio, borderColor: '#FFC107', backgroundColor: 'rgba(255, 193, 7, 0.1)', fill: true, tension: 0.2, pointRadius: 3, pointBackgroundColor: '#FFC107' }] }, options: { ...commonLineOptions, plugins: { tooltip: { callbacks: { label: (ctx) => `배당성향: ${ctx.raw}%` } }, datalabels: { color: '#000', font: { weight: 'bold', size: 12 }, formatter: (value) => value.toFixed(1) + '%', align: 'end', anchor: 'end', offset: 4 } }, scales: { y: { ticks: { callback: (val) => val + '%' } } } } });
+    new Chart(document.getElementById('stockChart').getContext('2d'), { type: 'line', data: { labels: data.financials.stock.labels, datasets: [{ label: '연말 주가 (USD)', data: data.financials.stock.values, borderColor: '#023047', backgroundColor: 'rgba(2, 48, 71, 0.1)', fill: true, }] }, options: { ...commonLineOptions, scales: { y: { ticks: { callback: (val) => '$' + val.toFixed(2) } } }, plugins: { tooltip: { callbacks: { label: (ctx) => `주가: $${ctx.raw.toFixed(2)}` } }, datalabels: { color: '#000', font: { weight: 'bold', size: 12 }, formatter: (value) => '$' + value.toFixed(2), align: 'end', anchor: 'end', offset: 4 } } } });
+    new Chart(document.getElementById('analystRatingChart').getContext('2d'), { type: 'doughnut', data: { labels: ['강력 매수', '매수', '보유', '매도'], datasets: [{ label: '애널리스트 평가', data: [38, 48, 10, 5], backgroundColor: [ 'rgba(34, 139, 34, 0.7)', 'rgba(74, 144, 226, 0.7)', 'rgba(245, 166, 35, 0.7)', 'rgba(233, 117, 91, 0.7)' ], borderColor: [ 'rgba(34, 139, 34, 1)', 'rgba(74, 144, 226, 1)', 'rgba(245, 166, 35, 1)', 'rgba(233, 117, 91, 1)' ], borderWidth: 1 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom', }, tooltip: { callbacks: { label: function(context) { return `${context.label}: ${context.raw}%`; } } } } } });
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+    mobileMenuButton.addEventListener('click', () => { mobileMenu.classList.toggle('hidden'); });
+    document.querySelectorAll('.nav-link, #mobile-menu a').forEach(anchor => { anchor.addEventListener('click', function (e) { if(this.closest('#mobile-menu')) mobileMenu.classList.add('hidden'); }); });
+    const sections = document.querySelectorAll('section[id]');
+    const navLinks = document.querySelectorAll('header nav a');
+    const observer = new IntersectionObserver(entries => { entries.forEach(entry => { if (entry.isIntersecting) { const id = entry.target.getAttribute('id'); navLinks.forEach(link => { link.classList.remove('active'); if (link.getAttribute('href') === `#${id}`) { link.classList.add('active'); } }); } }); }, { rootMargin: '-50% 0px -50% 0px' });
+    sections.forEach(section => { observer.observe(section); });
+});
+</script>
+
+</body>
+</html>
+
+    </main>
+
+</body>
+</html>

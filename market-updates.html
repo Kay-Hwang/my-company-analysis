@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market Updates | 기업 분석 대시보드</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; background-color: #f8f9fa; }
+        .chart-container { position: relative; width: 100%; height: 350px; }
+        .tab-button.active { background-color: #0077b6; color: white; }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="bg-white shadow-md sticky top-0 z-50">
+    <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-center h-16">
+            <div class="flex items-baseline space-x-4">
+                <a href="/my-company-analysis/" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Home</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/why-dividend-growth.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Why Dividend Stock</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/companies.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Company Analysis</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/economic-indicators.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Economic Indicators</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/market-updates.html" class="px-3 py-2 rounded-md text-base font-medium text-blue-600 font-bold">Market Updates</a>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <main>
+        <main class="container mx-auto p-4 md:p-8">
+    <header class="text-center my-12">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900">오늘의 시장 동향</h1>
+        <p class="mt-4 text-sm text-gray-500">최종 업데이트: 2025년 07월 22일 00:48 KST</p>
+    </header>
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <section>
+            <h2 class="text-2xl font-bold text-slate-800 mb-6 border-b-2 pb-2">Investing.com</h2>
+            <div class="space-y-4">
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-1555798" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">유럽 증시 혼조세, 실적 발표와 무역협상 주시</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 15:45:32</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-93CH-1556906" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">밀키 미스트, 운영 확대를 위해 2억 3,600만 달러 규모 IPO 신청</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 15:41:29</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-93CH-1556884" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">다임러 트럭, 글로벌 경기 침체 속 중국 생산 철수 검토 - FT</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 15:39:45</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-93CH-1556849" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">FAA, 노스다코타 상공에서 스카이웨스트 제트기와 공군기 근접 조우 조사</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 15:10:29</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-1556848" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">UBS, 신흥국 주식 투자 사례가 개선되고 있는 이유 설명</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 15:08:41</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-93CH-1556838" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">에퀴닉스, 엘리엇 지분 확대 소식에 주가 상승</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 15:03:24</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-1556825" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">TD 코웬, 인수 가능성 상승으로 노퍽 서던과 CSX 등급 상향</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 14:47:06</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-1556819" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Polymarket, 1억 1,200만 달러에 QCEX 인수로 미국 시장 확대</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 14:42:59</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-93CH-1556807" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">에어 인디아, 6개월간 안전 위반 통지 9건 받아</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 14:35:59</p>
+                </a>
+                
+                <a href="https://kr.investing.com/news/stock-market-news/article-1556806" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">제너럴 모터스, "과소평가된 상승 잠재력" 보유: 벤치마크</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21 14:35:01</p>
+                </a>
+                
+            </div>
+        </section>
+        <section>
+            <h2 class="text-2xl font-bold text-slate-800 mb-6 border-b-2 pb-2">Wall Street Journal</h2>
+            <div class="space-y-4">
+                
+                <a href="https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Stocks Sink in Broad AI Rout Sparked by China's DeepSeek</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 14:26:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Comex Gold, Silver Settle Lower</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 14:01:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">DeepSeek Won't Sink U.S. AI Titans</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 13:12:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Financial Services Roundup: Market Talk</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 12:27:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 12:20:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 09:55:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Natural Gas Falls on Shifting Weather Forecasts</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 09:05:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Building-Products Distributor QXO Launches Hostile Bid for Beacon</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 08:28:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 06:57:00 -0500</p>
+                </a>
+                
+                <a href="https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">What's New This Tax Season That Can Save You Money</h3>
+                    <p class="text-xs text-gray-500 mt-1">Mon, 27 Jan 2025 05:30:00 -0500</p>
+                </a>
+                
+            </div>
+        </section>
+        <section>
+            <h2 class="text-2xl font-bold text-slate-800 mb-6 border-b-2 pb-2">Yahoo Finance</h2>
+            <div class="space-y-4">
+                
+                <a href="https://www.wsj.com/finance/commodities-futures/gold-edges-lower-weighed-by-solid-u-s-economic-data-91e0ab1b?siteid=yhoof2&yptr=yahoo" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Gold Futures Rally on U.S. Dollar Weakness, Rate Cut Hopes</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:34:00Z</p>
+                </a>
+                
+                <a href="https://www.investors.com/news/technology/amazon-stock-project-kuiper-space-x-analyst-price-target/?src=A00220&yptr=yahoo" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Amazon Stock Nabs Price-Target Hike As Analyst Envisions 'Amazon Space Platform'</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:30:47Z</p>
+                </a>
+                
+                <a href="https://finance.yahoo.com/news/morgan-stanley-hires-shahsingh-ubs-153045758.html" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Morgan Stanley hires Shahsingh from UBS to head North American industrials banking</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:30:45Z</p>
+                </a>
+                
+                <a href="https://finance.yahoo.com/news/live/earnings-live-verizon-dominos-kick-off-busy-week-for-second-quarter-earnings-143736222.html" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Earnings live: Verizon, Domino's kick off busy week for second quarter earnings</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T14:37:36Z</p>
+                </a>
+                
+                <a href="https://finance.yahoo.com/news/california-senior-dropped-her-insurer-153000910.html" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">California senior dropped by her insurer went from paying $1,100 to nearly $8,000 under 'last resort' plan</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:30:00Z</p>
+                </a>
+                
+                <a href="https://finance.yahoo.com/research/reports/ARGUS_44159_StockPicks_1753096188000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Weekly Stock List</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T11:09:48Z</p>
+                </a>
+                
+                <a href="https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-to-start-busy-week-of-big-tech-dominated-earnings-235753115.html" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Stock market today: Dow, S&P 500, Nasdaq jump to start busy week of Big Tech-dominated earnings</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-20T23:57:53Z</p>
+                </a>
+                
+                <a href="https://finance.yahoo.com/news/trump-media-bitcoin-holdings-grow-152713733.html" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Trump Media’s Bitcoin Holdings Grow to $2B as President Trump Advances Crypto Agenda</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:27:13Z</p>
+                </a>
+                
+                <a href="https://www.investors.com/news/technology/blackline-stock-gets-relative-strength-rating-lift/?src=A00220&yptr=yahoo" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">BlackLine Stock Gets Relative Strength Rating Lift</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:25:03Z</p>
+                </a>
+                
+                <a href="https://www.investors.com/news/elon-musk-stock-market-tesla-earnings-profit-expectations-falling/?src=A00220&yptr=yahoo" target="_blank" rel="noopener noreferrer" class="block p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                    <h3 class="font-semibold text-blue-700">Elon Musk Says This Ahead Of Tesla Earnings, Even As Profit Expectations Keep Falling</h3>
+                    <p class="text-xs text-gray-500 mt-1">2025-07-21T15:19:53Z</p>
+                </a>
+                
+            </div>
+        </section>
+    </div>
+</main>
+    </main>
+
+</body>
+</html>

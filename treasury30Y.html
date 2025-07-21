@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30년물 국채금리 | 상세 분석</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; background-color: #f8f9fa; }
+        .placeholder { background-color: #e5e7eb; border-radius: 0.25rem; min-height: 1.5rem; animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="bg-white shadow-md sticky top-0 z-50">
+    <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-center h-16">
+            <div class="flex items-baseline space-x-4">
+                <a href="/my-company-analysis/" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Home</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/why-dividend-growth.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Why Dividend Stock</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/companies.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Company Analysis</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/economic-indicators.html" class="px-3 py-2 rounded-md text-base font-medium text-blue-600 font-bold">Economic Indicators</a>
+                <span class="text-slate-400">/</span>
+                <a href="/my-company-analysis/market-updates.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Market Updates</a>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <main class="container mx-auto p-4 md:p-8">
+        <div class="mb-8">
+            <a href="/my-company-analysis/economic-indicators.html" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center">
+                <span class="mr-2">&larr;</span> 경제 지표 목록으로 돌아가기
+            </a>
+        </div>
+        
+        <header class="text-center mb-12">
+            <h1 id="page-title" class="text-4xl md:text-5xl font-bold text-gray-900">30년물 국채금리</h1>
+        </header>
+
+        <section id="kpi-summary" class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">최신 수치</h3><p id="stat-latest" class="text-3xl font-bold text-gray-900 placeholder h-9"></p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">최고치</h3><p id="stat-high" class="text-3xl font-bold text-red-500 placeholder h-9"></p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">최저치</h3><p id="stat-low" class="text-3xl font-bold text-blue-500 placeholder h-9"></p></div>
+            <div class="bg-white p-6 rounded-xl shadow-md text-center"><h3 class="text-sm font-medium text-gray-500 mb-2">평균</h3><p id="stat-avg" class="text-3xl font-bold text-gray-900 placeholder h-9"></p></div>
+        </section>
+
+        <section class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+            <h2 class="text-2xl font-bold text-slate-800 mb-6 text-center">2000년 ~ 현재 데이터 추이</h2>
+            <div id="chart-container" style="position: relative; height:60vh;">
+                <canvas id="indicator-chart"></canvas>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        const seriesId = 'DGS30';
+        // ✨✨✨ 바로 이 부분의 URL을 교체해야 합니다! ✨✨✨
+        const G_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyxghT3fhJF1se7AN6H9Z8oZkUj15TKEcFnAuPR5G5wgO77E8v1VpFNDvRovX5b7s0Q/exec'; // 🚨 실제 URL로 교체하세요!
+
+        function formatStatValue(value, unit = '%') {
+            if (value === null || isNaN(value)) return 'N/A';
+            if (value > 1000000) return (value / 1000000).toFixed(2) + 'M';
+            if (value > 10000) return (value / 1000).toFixed(1) + 'K';
+            return value.toFixed(2) + unit;
+        }
+
+        document.addEventListener('DOMContentLoaded', async function() {
+            try {
+                const response = await fetch(`${G_SCRIPT_URL}?series=${seriesId}`);
+                const data = await response.json();
+
+                if (data.error || !Array.isArray(data) || data.length === 0) {
+                    throw new Error("Failed to fetch historical data");
+                }
+
+                const values = data.map(d => d.value).filter(v => v !== null && !isNaN(v));
+                const latestValue = values[values.length - 1];
+                const highValue = Math.max(...values);
+                const lowValue = Math.min(...values);
+                const avgValue = values.reduce((a, b) => a + b, 0) / values.length;
+
+                document.getElementById('stat-latest').innerText = formatStatValue(latestValue);
+                document.getElementById('stat-high').innerText = formatStatValue(highValue);
+                document.getElementById('stat-low').innerText = formatStatValue(lowValue);
+                document.getElementById('stat-avg').innerText = formatStatValue(avgValue);
+                
+                new Chart(document.getElementById('indicator-chart'), {
+                    type: 'line',
+                    data: {
+                        datasets: [{
+                            label: '30년물 국채금리',
+                            data: data.map(d => ({ x: d.date, y: d.value })),
+                            borderColor: '#0077B6',
+                            borderWidth: 2,
+                            pointRadius: 0,
+                            pointHoverRadius: 5,
+                            fill: true,
+                            backgroundColor: 'rgba(0, 119, 182, 0.1)'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            x: { type: 'time', time: { unit: 'year' }, grid: { display: false } },
+                            y: { ticks: { callback: function(value) { return formatStatValue(value); } } }
+                        },
+                        plugins: {
+                            tooltip: {
+                                callbacks: {
+                                    title: function(context) {
+                                        return new Date(context[0].parsed.x).toLocaleDateString('ko-KR');
+                                    },
+                                    label: function(context) {
+                                        return `수치: ${context.parsed.y.toFixed(2)}`;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            } catch(error) {
+                console.error("Error on indicator page:", error);
+                document.getElementById('page-title').innerText = "데이터 로딩 실패";
+            }
+        });
+    </script>
+</body>
+</html>
