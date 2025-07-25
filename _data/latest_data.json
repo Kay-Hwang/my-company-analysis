@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025년 07월 25일 18:46 KST",
+  "lastUpdated": "2025년 07월 25일 18:50 KST",
   "news": {
     "investing": [
       {
@@ -188,5 +188,8 @@
       }
     ]
   },
-  "indicators": {}
+  "indicators": {
+    "latest": {},
+    "history": {}
+  }
 }
