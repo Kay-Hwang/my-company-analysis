@@ -1,74 +1,16 @@
-<!DOCTYPE html>
-<html lang="ko" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>미국 기준금리 | 기업 분석 대시보드</title>
-    
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
-
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Noto Sans KR', sans-serif; background-color: #f8f9fa; }
-        .chart-container { position: relative; width: 100%; height: 350px; }
-        .tab-button.active { background-color: #0077b6; color: white; }
-    </style>
-</head>
-<body class="antialiased">
-
-    <header class="bg-white shadow-md sticky top-0 z-50">
-    <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex items-center justify-center h-16">
-            <div class="flex items-baseline space-x-4">
-                <a href="/my-company-analysis/" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Home</a>
-                <span class="text-slate-400">/</span>
-                <a href="/my-company-analysis/why-dividend-growth.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Why Dividend Stock</a>
-                <span class="text-slate-400">/</span>
-                <a href="/my-company-analysis/companies.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Company Analysis</a>
-                <span class="text-slate-400">/</span>
-                <a href="/my-company-analysis/economic-indicators.html" class="px-3 py-2 rounded-md text-base font-medium text-blue-600 font-bold">Economic Indicators</a>
-                <span class="text-slate-400">/</span>
-                <a href="/my-company-analysis/market-updates.html" class="px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-blue-600">Market Updates</a>
-            </div>
-        </div>
-    </nav>
-</header>
-
-    <main>
-        <main class="container mx-auto p-4 md:p-8">
-    <div class="mb-8">
-        <a href="/my-company-analysis/economic-indicators.html" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center">
-            <span class="mr-2">&larr;</span> 경제 지표 목록으로 돌아가기
-        </a>
-    </div>
-    
-    <header class="text-center mb-12">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900">미국 기준금리</h1>
-    </header>
-    
-    <section class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
-        <h2 class="text-2xl font-bold text-slate-800 mb-6 text-center">2000년 ~ 현재 데이터 추이</h2>
-        <div style="position: relative; height:60vh;">
-            <canvas id="indicator-chart"></canvas>
-        </div>
-    </section>
-</main>
-
 <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Jekyll이 빌드 시점에 _data 폴더의 JSON 데이터를 HTML에 직접 삽입합니다.
+    // Jekyll이 빌드 시점에 _data/history/[series_id].json 파일의 데이터를 삽입합니다.
     const historicalData = [{"date":"2000-01-01","value":"5.45"},{"date":"2000-02-01","value":"5.73"},{"date":"2000-03-01","value":"5.85"},{"date":"2000-04-01","value":"6.02"},{"date":"2000-05-01","value":"6.27"},{"date":"2000-06-01","value":"6.53"},{"date":"2000-07-01","value":"6.54"},{"date":"2000-08-01","value":"6.50"},{"date":"2000-09-01","value":"6.52"},{"date":"2000-10-01","value":"6.51"},{"date":"2000-11-01","value":"6.51"},{"date":"2000-12-01","value":"6.40"},{"date":"2001-01-01","value":"5.98"},{"date":"2001-02-01","value":"5.49"},{"date":"2001-03-01","value":"5.31"},{"date":"2001-04-01","value":"4.8"},{"date":"2001-05-01","value":"4.21"},{"date":"2001-06-01","value":"3.97"},{"date":"2001-07-01","value":"3.77"},{"date":"2001-08-01","value":"3.65"},{"date":"2001-09-01","value":"3.07"},{"date":"2001-10-01","value":"2.49"},{"date":"2001-11-01","value":"2.09"},{"date":"2001-12-01","value":"1.82"},{"date":"2002-01-01","value":"1.73"},{"date":"2002-02-01","value":"1.74"},{"date":"2002-03-01","value":"1.73"},{"date":"2002-04-01","value":"1.75"},{"date":"2002-05-01","value":"1.75"},{"date":"2002-06-01","value":"1.75"},{"date":"2002-07-01","value":"1.73"},{"date":"2002-08-01","value":"1.74"},{"date":"2002-09-01","value":"1.75"},{"date":"2002-10-01","value":"1.75"},{"date":"2002-11-01","value":"1.34"},{"date":"2002-12-01","value":"1.24"},{"date":"2003-01-01","value":"1.24"},{"date":"2003-02-01","value":"1.26"},{"date":"2003-03-01","value":"1.25"},{"date":"2003-04-01","value":"1.26"},{"date":"2003-05-01","value":"1.26"},{"date":"2003-06-01","value":"1.22"},{"date":"2003-07-01","value":"1.01"},{"date":"2003-08-01","value":"1.03"},{"date":"2003-09-01","value":"1.01"},{"date":"2003-10-01","value":"1.01"},{"date":"2003-11-01","value":"1.00"},{"date":"2003-12-01","value":"0.98"},{"date":"2004-01-01","value":"1.00"},{"date":"2004-02-01","value":"1.01"},{"date":"2004-03-01","value":"1.00"},{"date":"2004-04-01","value":"1.00"},{"date":"2004-05-01","value":"1.00"},{"date":"2004-06-01","value":"1.03"},{"date":"2004-07-01","value":"1.26"},{"date":"2004-08-01","value":"1.43"},{"date":"2004-09-01","value":"1.61"},{"date":"2004-10-01","value":"1.76"},{"date":"2004-11-01","value":"1.93"},{"date":"2004-12-01","value":"2.16"},{"date":"2005-01-01","value":"2.28"},{"date":"2005-02-01","value":"2.50"},{"date":"2005-03-01","value":"2.63"},{"date":"2005-04-01","value":"2.79"},{"date":"2005-05-01","value":"3.00"},{"date":"2005-06-01","value":"3.04"},{"date":"2005-07-01","value":"3.26"},{"date":"2005-08-01","value":"3.50"},{"date":"2005-09-01","value":"3.62"},{"date":"2005-10-01","value":"3.78"},{"date":"2005-11-01","value":"4.00"},{"date":"2005-12-01","value":"4.16"},{"date":"2006-01-01","value":"4.29"},{"date":"2006-02-01","value":"4.49"},{"date":"2006-03-01","value":"4.59"},{"date":"2006-04-01","value":"4.79"},{"date":"2006-05-01","value":"4.94"},{"date":"2006-06-01","value":"4.99"},{"date":"2006-07-01","value":"5.24"},{"date":"2006-08-01","value":"5.25"},{"date":"2006-09-01","value":"5.25"},{"date":"2006-10-01","value":"5.25"},{"date":"2006-11-01","value":"5.25"},{"date":"2006-12-01","value":"5.24"},{"date":"2007-01-01","value":"5.25"},{"date":"2007-02-01","value":"5.26"},{"date":"2007-03-01","value":"5.26"},{"date":"2007-04-01","value":"5.25"},{"date":"2007-05-01","value":"5.25"},{"date":"2007-06-01","value":"5.25"},{"date":"2007-07-01","value":"5.26"},{"date":"2007-08-01","value":"5.02"},{"date":"2007-09-01","value":"4.94"},{"date":"2007-10-01","value":"4.76"},{"date":"2007-11-01","value":"4.49"},{"date":"2007-12-01","value":"4.24"},{"date":"2008-01-01","value":"3.94"},{"date":"2008-02-01","value":"2.98"},{"date":"2008-03-01","value":"2.61"},{"date":"2008-04-01","value":"2.28"},{"date":"2008-05-01","value":"1.98"},{"date":"2008-06-01","value":"2.00"},{"date":"2008-07-01","value":"2.01"},{"date":"2008-08-01","value":"2.00"},{"date":"2008-09-01","value":"1.81"},{"date":"2008-10-01","value":"0.97"},{"date":"2008-11-01","value":"0.39"},{"date":"2008-12-01","value":"0.16"},{"date":"2009-01-01","value":"0.15"},{"date":"2009-02-01","value":"0.22"},{"date":"2009-03-01","value":"0.18"},{"date":"2009-04-01","value":"0.15"},{"date":"2009-05-01","value":"0.18"},{"date":"2009-06-01","value":"0.21"},{"date":"2009-07-01","value":"0.16"},{"date":"2009-08-01","value":"0.16"},{"date":"2009-09-01","value":"0.15"},{"date":"2009-10-01","value":"0.12"},{"date":"2009-11-01","value":"0.12"},{"date":"2009-12-01","value":"0.12"},{"date":"2010-01-01","value":"0.11"},{"date":"2010-02-01","value":"0.13"},{"date":"2010-03-01","value":"0.16"},{"date":"2010-04-01","value":"0.20"},{"date":"2010-05-01","value":"0.20"},{"date":"2010-06-01","value":"0.18"},{"date":"2010-07-01","value":"0.18"},{"date":"2010-08-01","value":"0.19"},{"date":"2010-09-01","value":"0.19"},{"date":"2010-10-01","value":"0.19"},{"date":"2010-11-01","value":"0.19"},{"date":"2010-12-01","value":"0.18"},{"date":"2011-01-01","value":"0.17"},{"date":"2011-02-01","value":"0.16"},{"date":"2011-03-01","value":"0.14"},{"date":"2011-04-01","value":"0.10"},{"date":"2011-05-01","value":"0.09"},{"date":"2011-06-01","value":"0.09"},{"date":"2011-07-01","value":"0.07"},{"date":"2011-08-01","value":"0.10"},{"date":"2011-09-01","value":"0.08"},{"date":"2011-10-01","value":"0.07"},{"date":"2011-11-01","value":"0.08"},{"date":"2011-12-01","value":"0.07"},{"date":"2012-01-01","value":"0.08"},{"date":"2012-02-01","value":"0.10"},{"date":"2012-03-01","value":"0.13"},{"date":"2012-04-01","value":"0.14"},{"date":"2012-05-01","value":"0.16"},{"date":"2012-06-01","value":"0.16"},{"date":"2012-07-01","value":"0.16"},{"date":"2012-08-01","value":"0.13"},{"date":"2012-09-01","value":"0.14"},{"date":"2012-10-01","value":"0.16"},{"date":"2012-11-01","value":"0.16"},{"date":"2012-12-01","value":"0.16"},{"date":"2013-01-01","value":"0.14"},{"date":"2013-02-01","value":"0.15"},{"date":"2013-03-01","value":"0.14"},{"date":"2013-04-01","value":"0.15"},{"date":"2013-05-01","value":"0.11"},{"date":"2013-06-01","value":"0.09"},{"date":"2013-07-01","value":"0.09"},{"date":"2013-08-01","value":"0.08"},{"date":"2013-09-01","value":"0.08"},{"date":"2013-10-01","value":"0.09"},{"date":"2013-11-01","value":"0.08"},{"date":"2013-12-01","value":"0.09"},{"date":"2014-01-01","value":"0.07"},{"date":"2014-02-01","value":"0.07"},{"date":"2014-03-01","value":"0.08"},{"date":"2014-04-01","value":"0.09"},{"date":"2014-05-01","value":"0.09"},{"date":"2014-06-01","value":"0.10"},{"date":"2014-07-01","value":"0.09"},{"date":"2014-08-01","value":"0.09"},{"date":"2014-09-01","value":"0.09"},{"date":"2014-10-01","value":"0.09"},{"date":"2014-11-01","value":"0.09"},{"date":"2014-12-01","value":"0.12"},{"date":"2015-01-01","value":"0.11"},{"date":"2015-02-01","value":"0.11"},{"date":"2015-03-01","value":"0.11"},{"date":"2015-04-01","value":"0.12"},{"date":"2015-05-01","value":"0.12"},{"date":"2015-06-01","value":"0.13"},{"date":"2015-07-01","value":"0.13"},{"date":"2015-08-01","value":"0.14"},{"date":"2015-09-01","value":"0.14"},{"date":"2015-10-01","value":"0.12"},{"date":"2015-11-01","value":"0.12"},{"date":"2015-12-01","value":"0.24"},{"date":"2016-01-01","value":"0.34"},{"date":"2016-02-01","value":"0.38"},{"date":"2016-03-01","value":"0.36"},{"date":"2016-04-01","value":"0.37"},{"date":"2016-05-01","value":"0.37"},{"date":"2016-06-01","value":"0.38"},{"date":"2016-07-01","value":"0.39"},{"date":"2016-08-01","value":"0.40"},{"date":"2016-09-01","value":"0.40"},{"date":"2016-10-01","value":"0.40"},{"date":"2016-11-01","value":"0.41"},{"date":"2016-12-01","value":"0.54"},{"date":"2017-01-01","value":"0.65"},{"date":"2017-02-01","value":"0.66"},{"date":"2017-03-01","value":"0.79"},{"date":"2017-04-01","value":"0.90"},{"date":"2017-05-01","value":"0.91"},{"date":"2017-06-01","value":"1.04"},{"date":"2017-07-01","value":"1.15"},{"date":"2017-08-01","value":"1.16"},{"date":"2017-09-01","value":"1.15"},{"date":"2017-10-01","value":"1.15"},{"date":"2017-11-01","value":"1.16"},{"date":"2017-12-01","value":"1.30"},{"date":"2018-01-01","value":"1.41"},{"date":"2018-02-01","value":"1.42"},{"date":"2018-03-01","value":"1.51"},{"date":"2018-04-01","value":"1.69"},{"date":"2018-05-01","value":"1.70"},{"date":"2018-06-01","value":"1.82"},{"date":"2018-07-01","value":"1.91"},{"date":"2018-08-01","value":"1.91"},{"date":"2018-09-01","value":"1.95"},{"date":"2018-10-01","value":"2.19"},{"date":"2018-11-01","value":"2.20"},{"date":"2018-12-01","value":"2.27"},{"date":"2019-01-01","value":"2.40"},{"date":"2019-02-01","value":"2.40"},{"date":"2019-03-01","value":"2.41"},{"date":"2019-04-01","value":"2.42"},{"date":"2019-05-01","value":"2.39"},{"date":"2019-06-01","value":"2.38"},{"date":"2019-07-01","value":"2.40"},{"date":"2019-08-01","value":"2.13"},{"date":"2019-09-01","value":"2.04"},{"date":"2019-10-01","value":"1.83"},{"date":"2019-11-01","value":"1.55"},{"date":"2019-12-01","value":"1.55"},{"date":"2020-01-01","value":"1.55"},{"date":"2020-02-01","value":"1.58"},{"date":"2020-03-01","value":"0.65"},{"date":"2020-04-01","value":"0.05"},{"date":"2020-05-01","value":"0.05"},{"date":"2020-06-01","value":"0.08"},{"date":"2020-07-01","value":"0.09"},{"date":"2020-08-01","value":"0.10"},{"date":"2020-09-01","value":"0.09"},{"date":"2020-10-01","value":"0.09"},{"date":"2020-11-01","value":"0.09"},{"date":"2020-12-01","value":"0.09"},{"date":"2021-01-01","value":"0.09"},{"date":"2021-02-01","value":"0.08"},{"date":"2021-03-01","value":"0.07"},{"date":"2021-04-01","value":"0.07"},{"date":"2021-05-01","value":"0.06"},{"date":"2021-06-01","value":"0.08"},{"date":"2021-07-01","value":"0.10"},{"date":"2021-08-01","value":"0.09"},{"date":"2021-09-01","value":"0.08"},{"date":"2021-10-01","value":"0.08"},{"date":"2021-11-01","value":"0.08"},{"date":"2021-12-01","value":"0.08"},{"date":"2022-01-01","value":"0.08"},{"date":"2022-02-01","value":"0.08"},{"date":"2022-03-01","value":"0.20"},{"date":"2022-04-01","value":"0.33"},{"date":"2022-05-01","value":"0.77"},{"date":"2022-06-01","value":"1.21"},{"date":"2022-07-01","value":"1.68"},{"date":"2022-08-01","value":"2.33"},{"date":"2022-09-01","value":"2.56"},{"date":"2022-10-01","value":"3.08"},{"date":"2022-11-01","value":"3.78"},{"date":"2022-12-01","value":"4.10"},{"date":"2023-01-01","value":"4.33"},{"date":"2023-02-01","value":"4.57"},{"date":"2023-03-01","value":"4.65"},{"date":"2023-04-01","value":"4.83"},{"date":"2023-05-01","value":"5.06"},{"date":"2023-06-01","value":"5.08"},{"date":"2023-07-01","value":"5.12"},{"date":"2023-08-01","value":"5.33"},{"date":"2023-09-01","value":"5.33"},{"date":"2023-10-01","value":"5.33"},{"date":"2023-11-01","value":"5.33"},{"date":"2023-12-01","value":"5.33"},{"date":"2024-01-01","value":"5.33"},{"date":"2024-02-01","value":"5.33"},{"date":"2024-03-01","value":"5.33"},{"date":"2024-04-01","value":"5.33"},{"date":"2024-05-01","value":"5.33"},{"date":"2024-06-01","value":"5.33"},{"date":"2024-07-01","value":"5.33"},{"date":"2024-08-01","value":"5.33"},{"date":"2024-09-01","value":"5.13"},{"date":"2024-10-01","value":"4.83"},{"date":"2024-11-01","value":"4.64"},{"date":"2024-12-01","value":"4.48"},{"date":"2025-01-01","value":"4.33"},{"date":"2025-02-01","value":"4.33"},{"date":"2025-03-01","value":"4.33"},{"date":"2025-04-01","value":"4.33"},{"date":"2025-05-01","value":"4.33"},{"date":"2025-06-01","value":"4.33"}];
 
     if (!historicalData || historicalData.length === 0) {
-        document.querySelector('section').innerHTML = '<p class="text-center text-red-500">이 지표의 상세 데이터를 불러올 수 없습니다.</p>';
+        document.querySelector('section.bg-white').innerHTML = '<p class="text-center text-red-500">이 지표의 상세 데이터를 불러올 수 없습니다.</p>';
         return;
     }
 
     const labels = historicalData.map(d => d.date);
-    const values = historicalData.map(d => d.value === '.' ? null : parseFloat(d.value)); // FRED 데이터의 '.' 값은 null로 처리
+    const values = historicalData.map(d => d.value === '.' ? null : parseFloat(d.value));
 
     new Chart(document.getElementById('indicator-chart'), {
         type: 'line',
@@ -77,11 +19,8 @@ document.addEventListener('DOMContentLoaded', function() {
             datasets: [{
                 label: '미국 기준금리',
                 data: values,
-                borderColor: '#0077B6',
-                borderWidth: 2,
-                pointRadius: 0,
-                fill: true,
-                backgroundColor: 'rgba(0, 119, 182, 0.1)'
+                borderColor: '#0077B6', borderWidth: 2, pointRadius: 0,
+                fill: true, backgroundColor: 'rgba(0, 119, 182, 0.1)'
             }]
         },
         options: {
@@ -91,7 +30,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
-    </main>
-
-</body>
-</html>
