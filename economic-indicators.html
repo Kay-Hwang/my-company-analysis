@@ -8,32 +8,60 @@ title: Economic Indicators
         <p class="mt-4 text-lg text-gray-600">최종 업데이트: {{ site.data.dashboard_data.lastUpdated }}</p>
     </header>
 
-    {% assign indicators = site.data.dashboard_data.indicators %}
+    {% assign latest_indicators = site.data.dashboard_data.indicators.latest %}
 
     <section class="mb-12">
         <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">주요 시장 지수</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <a href="{{ '/dji.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
-                <h3 class="text-lg font-semibold text-gray-600">다우 존스</h3>
-                <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicators.dji.value | round: 2 }}</p>
-            </a>
-            <a href="{{ '/spx.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
-                <h3 class="text-lg font-semibold text-gray-600">S&P 500</h3>
-                <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicators.spx.value | round: 2 }}</p>
-            </a>
-            <a href="{{ '/ixic.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
-                <h3 class="text-lg font-semibold text-gray-600">나스닥</h3>
-                <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicators.ixic.value | round: 2 }}</p>
-            </a>
+            {% for item in latest_indicators.indices %}
+                {% assign key = item[0] %}
+                {% assign indicator = item[1] %}
+                <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow block">
+                    <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
+                    <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicator.value | round: 2 }}</p>
+                </a>
+            {% endfor %}
         </div>
     </section>
 
     <div class="space-y-12">
         <section><h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">인플레이션</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <a href="{{ '/cpi.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block"><h3 class="text-lg font-semibold text-gray-600">소비자물가지수 (YoY)</h3><p class="text-4xl font-bold text-slate-800 mt-2">{{ indicators.cpi.value | round: 2 }}%</p><p class="text-xs text-gray-400 mt-1">({{ indicators.cpi.date }})</p></a>
-                <a href="{{ '/ppi.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block"><h3 class="text-lg font-semibold text-gray-600">생산자물가지수 (YoY)</h3><p class="text-4xl font-bold text-slate-800 mt-2">{{ indicators.ppi.value | round: 2 }}%</p><p class="text-xs text-gray-400 mt-1">({{ indicators.ppi.date }})</p></a>
+                {% for item in latest_indicators.groups.inflation %}
+                    {% assign key = item[0] %}{% assign indicator = item[1] %}
+                    <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
+                        <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
+                        <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicator.value | round: 2 }}%</p>
+                        <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
+                    </a>
+                {% endfor %}
             </div>
         </section>
-        </div>
+        <section><h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">고용 시장</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                 {% for item in latest_indicators.groups.labor %}
+                    {% assign key = item[0] %}{% assign indicator = item[1] %}
+                    <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
+                        <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
+                        <p class="text-4xl font-bold text-slate-800 mt-2">
+                            {% if key == 'joblessClaims' %}{{ indicator.value | divided_by: 1000 | round: 0 }}K{% else %}{{ indicator.value | round: 2 }}%{% endif %}
+                        </p>
+                        <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
+                    </a>
+                {% endfor %}
+            </div>
+        </section>
+        <section><h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">금리</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                 {% for item in latest_indicators.groups.interest_rates %}
+                    {% assign key = item[0] %}{% assign indicator = item[1] %}
+                    <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
+                        <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
+                        <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicator.value | round: 2 }}%</p>
+                        <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
+                    </a>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
 </main>

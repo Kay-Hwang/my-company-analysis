@@ -1,38 +1,16 @@
----
-layout: default
----
-<main class="container mx-auto p-4 md:p-8">
-    <div class="mb-8">
-        <a href="{{ '/economic-indicators.html' | relative_url }}" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center">
-            <span class="mr-2">&larr;</span> 경제 지표 목록으로 돌아가기
-        </a>
-    </div>
-    
-    <header class="text-center mb-12">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900">{{ page.title }}</h1>
-    </header>
-    
-    <section class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
-        <h2 class="text-2xl font-bold text-slate-800 mb-6 text-center">2000년 ~ 현재 데이터 추이</h2>
-        <div style="position: relative; height:60vh;">
-            <canvas id="indicator-chart"></canvas>
-        </div>
-    </section>
-</main>
-
 <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Jekyll이 빌드 시점에 _data 폴더의 JSON 데이터를 HTML에 직접 삽입합니다.
-    const historicalData = {{ site.data.latest_data.indicators.history[page.series_id] | jsonify }};
+    // Jekyll이 빌드 시점에 _data/history/[series_id].json 파일의 데이터를 삽입합니다.
+    const historicalData = {{ site.data.history[page.series_id] | jsonify }};
 
     if (!historicalData || historicalData.length === 0) {
-        document.querySelector('section').innerHTML = '<p class="text-center text-red-500">이 지표의 상세 데이터를 불러올 수 없습니다.</p>';
+        document.querySelector('section.bg-white').innerHTML = '<p class="text-center text-red-500">이 지표의 상세 데이터를 불러올 수 없습니다.</p>';
         return;
     }
 
     const labels = historicalData.map(d => d.date);
-    const values = historicalData.map(d => d.value === '.' ? null : parseFloat(d.value)); // FRED 데이터의 '.' 값은 null로 처리
+    const values = historicalData.map(d => d.value === '.' ? null : parseFloat(d.value));
 
     new Chart(document.getElementById('indicator-chart'), {
         type: 'line',
@@ -41,11 +19,8 @@ document.addEventListener('DOMContentLoaded', function() {
             datasets: [{
                 label: '{{ page.title }}',
                 data: values,
-                borderColor: '#0077B6',
-                borderWidth: 2,
-                pointRadius: 0,
-                fill: true,
-                backgroundColor: 'rgba(0, 119, 182, 0.1)'
+                borderColor: '#0077B6', borderWidth: 2, pointRadius: 0,
+                fill: true, backgroundColor: 'rgba(0, 119, 182, 0.1)'
             }]
         },
         options: {
