@@ -8,24 +8,38 @@ title: Economic Indicators
         <p class="mt-4 text-lg text-gray-600">최종 업데이트: {{ site.data.latest_data.lastUpdated }}</p>
     </header>
 
+    <section class="mb-12">
+        <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">주요 시장 지수</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {% for item in site.data.latest_data.indicators.latest.indices %}
+                {% assign key = item[0] %}
+                {% assign index = item[1] %}
+                <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow block">
+                    <h3 class="text-lg font-semibold text-gray-600">{{ index.name }}</h3>
+                    <p class="text-4xl font-bold text-slate-800 mt-2">{{ index.value | round: 2 }}</p>
+                    <p class="text-sm mt-1 {% if index.change >= 0 %}text-green-500{% else %}text-red-500{% endif %}">
+                        {% if index.change >= 0 %}▲{% else %}▼{% endif %} {{ index.change | round: 2 }}
+                    </p>
+                </a>
+            {% endfor %}
+        </div>
+    </section>
+
     <div class="space-y-12">
-        {% for group in site.data.latest_data.indicators %}
+        {% assign groups = "inflation,labor,interest_rates,growth_consumption" | split: "," %}
+        {% for group_key in groups %}
             <section>
-                {% if group[0] == 'inflation' %}
-                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">인플레이션</h2>
-                {% elsif group[0] == 'labor' %}
-                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">고용 시장</h2>
-                {% elsif group[0] == 'growth_consumption' %}
-                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">성장 및 소비</h2>
-                {% elsif group[0] == 'interest_rates' %}
-                    <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">금리</h2>
-                {% endif %}
+                {% if group_key == 'inflation' %}<h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">인플레이션</h2>
+                {% elsif group_key == 'labor' %}<h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">고용 시장</h2>
+                {% elsif group_key == 'interest_rates' %}<h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">금리</h2>
+                {% elsif group_key == 'growth_consumption' %}<h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">성장 및 소비</h2>{% endif %}
                 
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                    {% for item in group[1] %}
+                    {% assign group_data = site.data.latest_data.indicators.latest[group_key] %}
+                    {% for item in group_data %}
                         {% assign key = item[0] %}
                         {% assign indicator = item[1] %}
-                        <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow block">
                             <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
                             <p class="text-4xl font-bold text-slate-800 mt-2">
                                 {% if key == 'joblessClaims' %}{{ indicator.value | divided_by: 1000 | round: 0 }}K
@@ -34,7 +48,7 @@ title: Economic Indicators
                                 {% else %}{{ indicator.value | round: 2 }}%{% endif %}
                             </p>
                             <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
-                        </div>
+                        </a>
                     {% endfor %}
                 </div>
             </section>
