@@ -14,17 +14,20 @@ title: Economic Indicators
         <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">주요 시장 지수</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             {% for item in latest_indicators.indices %}
-                {% assign key = item[0] %}{% assign indicator = item[1] %}
+                {% assign key = item[0] %}
+                {% assign indicator = item[1] %}
                 <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow block">
                     <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
                     <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicator.value | round: 2 }}</p>
+                    <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
                 </a>
             {% endfor %}
         </div>
     </section>
 
     <div class="space-y-12">
-        {% for group_key in "inflation,labor,interest_rates" %}
+        {% assign groups = "inflation,labor,interest_rates" | split: "," %}
+        {% for group_key in groups %}
             <section>
                 {% if group_key == 'inflation' %}<h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">인플레이션</h2>
                 {% elsif group_key == 'labor' %}<h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-2">고용 시장</h2>
@@ -36,9 +39,7 @@ title: Economic Indicators
                         {% assign key = item[0] %}{% assign indicator = item[1] %}
                         <a href="{{ '/' | append: key | append: '.html' | relative_url }}" class="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl block">
                             <h3 class="text-lg font-semibold text-gray-600">{{ indicator.name }}</h3>
-                            <p class="text-4xl font-bold text-slate-800 mt-2">
-                                {% if key == 'joblessClaims' %}{{ indicator.value | divided_by: 1000 | round: 0 }}K{% else %}{{ indicator.value | round: 2 }}%{% endif %}
-                            </p>
+                            <p class="text-4xl font-bold text-slate-800 mt-2">{{ indicator.value | round: 2 }}%</p>
                             <p class="text-xs text-gray-400 mt-1">({{ indicator.date }})</p>
                         </a>
                     {% endfor %}
