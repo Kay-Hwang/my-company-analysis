@@ -1,0 +1,128 @@
+---
+layout: default
+title: Texas Instruments (TXN)
+---
+
+<style>
+    .chart-container { position: relative; width: 100%; height: 320px; max-height: 400px; }
+    @media (min-width: 768px) { .chart-container { height: 400px; } }
+    .nav-link { transition: color 0.3s, border-color 0.3s; }
+    .nav-link.active { color: #c084fc; border-bottom-color: #c084fc; }
+    .kpi-card {
+        background-color: #ffffff;
+        border-radius: 0.75rem;
+        padding: 1.5rem;
+        box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .kpi-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.07), 0 4px 6px -4px rgb(0 0 0 / 0.07);
+    }
+    .section-title {
+        font-size: 1.875rem; font-weight: 700; color: #1f2937;
+        margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e5e7eb;
+    }
+    .pill-button { transition: background-color 0.3s, color 0.3s; }
+    .pill-button.active { background-color: #8b5cf6; color: white; }
+</style>
+
+<div class="bg-white/80 backdrop-blur-lg sticky top-16 z-40 shadow-sm">
+    <div class="container mx-auto px-4">
+        <div class="flex items-center justify-between h-20">
+            <div>
+                <a href="{{ '/companies.html' | relative_url }}" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center text-sm font-medium">
+                    <span class="mr-2">&larr;</span> 기업 선택으로 돌아가기
+                </a>
+            </div>
+            <nav class="hidden md:flex items-center space-x-6">
+                <a href="#overview" class="nav-link text-gray-600 hover:text-purple-500 border-b-2 border-transparent pb-1">투자 하이라이트</a>
+                <a href="#business" class="nav-link text-gray-600 hover:text-purple-500 border-b-2 border-transparent pb-1">비즈니스</a>
+                <a href="#strategy" class="nav-link text-gray-600 hover:text-purple-500 border-b-2 border-transparent pb-1">핵심 전략</a>
+                <a href="#financials" class="nav-link text-gray-600 hover:text-purple-500 border-b-2 border-transparent pb-1">재무 성과</a>
+                <a href="#dividends" class="nav-link text-gray-600 hover:text-purple-500 border-b-2 border-transparent pb-1">배당 분석</a>
+                <a href="#outlook" class="nav-link text-gray-600 hover:text-purple-500 border-b-2 border-transparent pb-1">종합 전망</a>
+            </nav>
+            <div class="md:hidden">
+                <select id="mobile-nav" class="bg-gray-200 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-purple-500 focus:border-purple-500 block w-full p-2.5">
+                    <option value="#overview">투자 하이라이트</option>
+                    <option value="#business">비즈니스</option>
+                    <option value="#strategy">핵심 전략</option>
+                    <option value="#financials">재무 성과</option>
+                    <option value="#dividends">배당 분석</option>
+                    <option value="#outlook">종합 전망</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+<main class="container mx-auto p-4 md:p-8">
+    <section id="overview" class="mb-16 scroll-mt-24">
+        <h2 class="section-title">핵심 투자 하이라이트</h2>
+        <p class="text-lg text-gray-600 mb-8 max-w-4xl">텍사스 인스트루먼트는 아날로그 및 임베디드 반도체 시장의 지배력을 강화하기 위해 경기 역행적인 300mm 팹 투자를 단행하고 있습니다. 이 장기 전략은 단기적 현금흐름에 부담을 주지만, 구조적인 원가 우위를 확보하여 장기적인 주당 잉여현금흐름(FCF) 성장과 주주 환원 극대화를 목표로 합니다.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+            <div class="kpi-card text-center"><h3 class="text-lg font-semibold text-gray-500">배당 연속 인상</h3><p class="text-4xl font-bold text-orange-500">21년</p></div>
+            <div class="kpi-card text-center"><h3 class="text-lg font-semibold text-gray-500">10년 배당성장률</h3><p class="text-4xl font-bold text-green-600">15.3%</p></div>
+            <div class="kpi-card text-center"><h3 class="text-lg font-semibold text-gray-500">현재 배당수익률</h3><p class="text-4xl font-bold text-purple-600">2.88%</p></div>
+            <div class="kpi-card text-center"><h3 class="text-lg font-semibold text-gray-500">잉여현금흐름 (TTM)</h3><p class="text-4xl font-bold text-blue-600">$1.8B</p></div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white p-6 rounded-lg shadow-sm"><h3 class="text-xl font-bold mb-4 text-green-700">📈 장기 성장 동력</h3><ul class="list-disc list-inside space-y-2 text-gray-700"><li>신규 300mm 팹 가동에 따른 구조적 이익률 확대</li><li>자동차 및 산업 부문 반도체 시장의 장기 성장</li><li>지속적인 시장 점유율 확대 및 고객 고착 효과</li><li>안정적이고 예측 가능한 주주 환원 정책</li></ul></div>
+            <div class="bg-white p-6 rounded-lg shadow-sm"><h3 class="text-xl font-bold mb-4 text-red-700">📉 주요 고려사항</h3><ul class="list-disc list-inside space-y-2 text-gray-700"><li>대규모 자본지출에 따른 단기적 잉여현금흐름 압박</li><li>경기 순환에 따른 실적 변동성</li><li>투자 기간 동안의 높은 배당성향 관리</li><li>경쟁 심화 및 지정학적 리스크</li></ul></div>
+        </div>
+    </section>
+    <section id="business" class="mb-16 scroll-mt-24">
+        <h2 class="section-title">비즈니스 분석: 시장 지배력의 원천</h2>
+        <p class="text-lg text-gray-600 mb-8 max-w-4xl">TI의 사업은 아날로그, 임베디드 프로세싱, 기타 부문으로 구성됩니다. 특히 매출의 78%를 차지하는 아날로그 부문은 회사의 핵심 성장 동력이며, 산업 및 자동차 시장으로의 전략적 집중이 뚜렷하게 나타납니다.</p>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8"><div class="bg-white p-6 rounded-lg shadow-sm"><h3 class="text-xl font-bold text-center mb-4">부문별 매출 비중 (2024)</h3><div class="chart-container mx-auto" style="max-width: 400px; height: 300px;"><canvas id="segmentRevenueChart"></canvas></div></div><div class="bg-white p-6 rounded-lg shadow-sm"><h3 class="text-xl font-bold text-center mb-4">최종 시장별 매출 비중 추이</h3><div class="text-center mb-4"><button id="btn2022" class="pill-button px-4 py-2 text-sm font-semibold bg-gray-200 text-gray-700 rounded-full">2022</button><button id="btn2023" class="pill-button px-4 py-2 text-sm font-semibold bg-gray-200 text-gray-700 rounded-full">2023</button><button id="btn2024" class="pill-button px-4 py-2 text-sm font-semibold rounded-full active">2024</button></div><div class="chart-container"><canvas id="endMarketRevenueChart"></canvas></div></div></div>
+    </section>
+    <section id="strategy" class="mb-16 scroll-mt-24">
+        <h2 class="section-title">핵심 전략: 300mm 해자(Moat) 구축</h2>
+        <p class="text-lg text-gray-600 mb-8 max-w-4xl">TI의 전략은 '네 가지 지속 가능한 경쟁 우위'를 기반으로 하며, 그 중심에는 300mm 제조 기술이 있습니다. 이는 경쟁사 대비 압도적인 원가 우위를 제공하여 장기적인 경제적 해자를 구축하는 핵심입니다.</p>
+        <div class="bg-white p-6 rounded-lg shadow-sm mb-8"><h3 class="text-xl font-bold text-center mb-6">SWOT 분석</h3><div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm"><div class="bg-green-50 border border-green-200 p-4 rounded-lg"><h4 class="font-bold text-lg text-green-800 mb-2">강점 (Strengths)</h4><ul class="list-disc list-inside space-y-1 text-green-700"><li>300mm 제조 기술 및 원가 우위</li><li>80,000개 이상의 광범위한 제품 포트폴리오</li><li>강화된 고객 직접 판매 채널 (80% 비중)</li><li>산업/자동차 중심의 긴 수명 제품</li></ul></div><div class="bg-red-50 border border-red-200 p-4 rounded-lg"><h4 class="font-bold text-lg text-red-800 mb-2">약점 (Weaknesses)</h4><ul class="list-disc list-inside space-y-1 text-red-700"><li>높은 자본 집약도 및 단기적 FCF 감소</li><li>99.5%에 달하는 높은 배당성향</li><li>경쟁사 대비 부진한 최근 성장률</li></ul></div><div class="bg-blue-50 border border-blue-200 p-4 rounded-lg"><h4 class="font-bold text-lg text-blue-800 mb-2">기회 (Opportunities)</h4><ul class="list-disc list-inside space-y-1 text-blue-700"><li>EV, 산업 자동화, 엣지 AI 등 구조적 성장</li><li>CHIPS Act 등 정부 인센티브 수혜</li><li>공급망 재편(Reshoring) 트렌드</li></ul></div><div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg"><h4 class="font-bold text-lg text-yellow-800 mb-2">위협 (Threats)</h4><ul class="list-disc list-inside space-y-1 text-yellow-700"><li>ADI, NXP, Infineon 등과의 치열한 경쟁</li><li>거시 경제 및 지정학적 리스크</li><li>대규모 자본 지출 계획의 실행 리스크</li></ul></div></div></div>
+    </section>
+    <section id="financials" class="mb-16 scroll-mt-24">
+        <h2 class="section-title">재무 성과 분석</h2>
+        <p class="text-lg text-gray-600 mb-8 max-w-4xl">최근 매출과 이익은 경기 사이클에 따라 감소했지만, 대규모 투자 기간에도 견조한 영업현금흐름을 유지하고 있습니다.</p>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8"><div class="bg-white p-6 rounded-lg shadow-sm"><h3 class="text-xl font-bold text-center mb-4">주요 손익 현황 (2018-2024)</h3><div class="chart-container"><canvas id="incomeStatementChart"></canvas></div></div><div class="bg-white p-6 rounded-lg shadow-sm"><h3 class="text-xl font-bold text-center mb-4">현금흐름 및 자본지출 (2018-2024)</h3><div class="chart-container"><canvas id="cashFlowChart"></canvas></div></div></div>
+    </section>
+    <section id="dividends" class="mb-16 scroll-mt-24">
+        <h2 class="section-title">배당 성장 분석</h2>
+        <p class="text-lg text-gray-600 mb-8 max-w-4xl">TI의 자본 배분 정책의 핵심은 장기적인 주당 잉여현금흐름(FCF) 극대화와 지속적인 주주 환원입니다.</p>
+        <div class="bg-white p-6 rounded-lg shadow-sm lg:col-span-2 mb-8"><h3 class="text-xl font-bold text-center mb-4">배당 성장과 배당성향 (2018-2024)</h3><div class="chart-container mx-auto" style="max-width: 800px;"><canvas id="dividendChart"></canvas></div></div>
+    </section>
+    <section id="outlook" class="scroll-mt-24">
+        <h2 class="section-title">종합 분석 및 전망</h2>
+        <p class="text-lg text-gray-600 mb-8 max-w-4xl">TI의 현재 주가는 대규모 투자의 단기적 부담을 반영하고 있습니다. 하지만 300mm 팹이 본격 가동되는 2025년 이후에는 FCF 창출 능력이 극대화될 것입니다.</p>
+        <div class="bg-white p-6 rounded-lg shadow-sm flex flex-col justify-center"><h3 class="text-xl font-bold mb-4">장기 투자자를 위한 최종 논리</h3><p class="text-gray-700">TI는 현재 미래의 압도적인 경쟁력을 위해 견고한 '경제적 해자'를 구축하고 있습니다. 단기적인 재무적 압박은 장기적인 수익 창출 능력과 주주 환원 확대로 전환될 잠재력을 가지고 있습니다.</p></div>
+    </section>
+</main>
+<footer class="bg-gray-800 text-white mt-16">
+    <div class="container mx-auto p-8 text-center"><p>본 분석 자료는 제공된 보고서를 기반으로 제작되었으며, 투자 결정에 대한 참고 자료로만 활용하시기 바랍니다.</p><p class="text-sm text-gray-400 mt-2">&copy; 2025 Interactive Analysis. All Rights Reserved.</p></div>
+</footer>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const chartColors = { purple: 'rgba(139, 92, 246, 0.8)', blue: 'rgba(59, 130, 246, 0.8)', green: 'rgba(16, 185, 129, 0.8)', orange: 'rgba(249, 115, 22, 0.8)', teal: 'rgba(20, 184, 166, 0.8)', red: 'rgba(239, 68, 68, 0.8)', gray: 'rgba(107, 114, 128, 0.5)', font: '#374151' };
+        Chart.defaults.font.family = "'Noto Sans KR', sans-serif"; Chart.defaults.color = chartColors.font;
+        const segmentData = { labels: ['아날로그 (Analog)', '임베디드 (Embedded)', '기타 (Other)'], datasets: [{ data: [77.8, 16.2, 6.1], backgroundColor: [chartColors.purple, chartColors.blue, chartColors.gray], borderColor: '#f8f7f4', borderWidth: 2, hoverOffset: 4 }] };
+        const endMarketData = { '2022': [40, 25, 20, 6, 6, 3], '2023': [45, 30, 14, 5, 5, 1], '2024': [41, 31, 13, 7, 6, 2], };
+        const endMarketLabels = ['산업', '자동차', '개인용 전자제품', '통신 장비', '기업용 시스템', '기타'];
+        const financialYears = ['2018', '2019', '2020', '2021', '2022', '2023', '2024'];
+        const revenueData = [15.78, 14.38, 14.46, 18.19, 20.03, 17.52, 16.80];
+        const netIncomeData = [5.59, 5.24, 5.96, 8.26, 9.41, 7.07, 5.20];
+        const opCashFlowData = [6.0, 5.7, 6.3, 8.2, 9.0, 6.4, 6.3];
+        const capexData = [0.7, 0.8, 0.7, 0.9, 2.8, 4.8, 4.8];
+        const dividendData = { dps: [2.78, 3.39, 3.91, 4.41, 4.84, 5.12, 5.32], payoutRatio: [49.7, 64.7, 65.6, 53.4, 51.4, 72.4, 99.5] };
+        new Chart(document.getElementById('segmentRevenueChart').getContext('2d'), { type: 'doughnut', data: segmentData, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom', }, tooltip: { callbacks: { label: function(context) { return `${context.label}: ${context.raw}%`; } } } } } });
+        let endMarketChart = new Chart(document.getElementById('endMarketRevenueChart').getContext('2d'), { type: 'bar', data: { labels: endMarketLabels, datasets: [{ label: '매출 비중 (%)', data: endMarketData['2024'], backgroundColor: [chartColors.green, chartColors.orange, chartColors.red, chartColors.teal, chartColors.blue, chartColors.gray], }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, title: { display: true, text: '비중 (%)' } } } } });
+        new Chart(document.getElementById('incomeStatementChart').getContext('2d'), { type: 'bar', data: { labels: financialYears, datasets: [{ label: '총 매출 ($B)', data: revenueData, backgroundColor: chartColors.blue, }, { label: '순이익 ($B)', data: netIncomeData, backgroundColor: chartColors.purple, }] }, options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, title: { display: true, text: '금액 ($십억)' } } } } });
+        new Chart(document.getElementById('cashFlowChart').getContext('2d'), { type: 'bar', data: { labels: ['2022', '2023', '2024'], datasets: [{ label: '영업활동 현금흐름 ($B)', data: opCashFlowData.slice(-3), backgroundColor: chartColors.blue, }, { label: '자본 지출 (CapEx) ($B)', data: capexData.slice(-3), backgroundColor: chartColors.red, }] }, options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, stacked: true, title: { display: true, text: '금액 ($십억)' } }, x: { stacked: true } } } });
+        new Chart(document.getElementById('dividendChart').getContext('2d'), { type: 'bar', data: { labels: financialYears, datasets: [{ label: '주당 배당금 (DPS, $)', data: dividendData.dps, backgroundColor: chartColors.green, yAxisID: 'y', }, { label: '배당성향 (%)', data: dividendData.payoutRatio, type: 'line', borderColor: chartColors.red, backgroundColor: 'transparent', yAxisID: 'y1', tension: 0.3 }] }, options: { responsive: true, maintainAspectRatio: false, scales: { y: { type: 'linear', display: true, position: 'left', title: { display: true, text: '주당 배당금 ($)' } }, y1: { type: 'linear', display: true, position: 'right', title: { display: true, text: '배당성향 (%)' }, grid: { drawOnChartArea: false, }, } } } });
+        document.querySelectorAll('.pill-button').forEach(button => { button.addEventListener('click', () => { const year = button.id.replace('btn', ''); endMarketChart.data.datasets[0].data = endMarketData[year]; endMarketChart.update(); document.querySelectorAll('.pill-button').forEach(btn => btn.classList.remove('active')); button.classList.add('active'); }); });
+        document.getElementById('mobile-nav').addEventListener('change', (e) => { document.querySelector(e.target.value).scrollIntoView({ behavior: 'smooth' }); });
+        const navLinks = document.querySelectorAll('.nav-link');
+        const sections = document.querySelectorAll('main section');
+        window.addEventListener('scroll', () => { let current = ''; sections.forEach(section => { const sectionTop = section.offsetTop; if (pageYOffset >= sectionTop - 120) { current = section.getAttribute('id'); } }); navLinks.forEach(link => { link.classList.remove('active'); if (link.getAttribute('href').substring(1) === current) { link.classList.add('active'); } }); if (current) { document.getElementById('mobile-nav').value = '#' + current; } });
+    });
+</script>
