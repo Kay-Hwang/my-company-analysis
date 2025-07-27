@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2025년 07월 27일 08:36 KST",
+  "lastUpdated": "2025년 07월 28일 08:38 KST",
   "news": {
     "investing": [
+      {
+        "title": "이번 주 월가 분석가들의 주요 의견",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565138",
+        "pubDate": "2025-07-27 10:29:01",
+        "summary": "이번 주 월가 분석가들의 주요 의견"
+      },
+      {
+        "title": "바클레이즈: 아마존 카이퍼, 스타링크의 위성 브로드밴드 왕좌에 도전할 태세",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565135",
+        "pubDate": "2025-07-27 10:05:05",
+        "summary": "바클레이즈: 아마존 카이퍼, 스타링크의 위성 브로드밴드 왕좌에 도전할 태세"
+      },
+      {
+        "title": "5대 애널리스트 AI 움직임: 아마존 목표가 인상, 애플 생성형 AI 경쟁에서 뒤처져",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565129",
+        "pubDate": "2025-07-27 10:00:08",
+        "summary": "5대 애널리스트 AI 움직임: 아마존 목표가 인상, 애플 생성형 AI 경쟁에서 뒤처져"
+      },
+      {
+        "title": "2025년 상반기 넷플릭스 시청률 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565114",
+        "pubDate": "2025-07-27 09:00:09",
+        "summary": "2025년 상반기 넷플릭스 시청률 분석"
+      },
+      {
+        "title": "모건 스탠리, 유럽 기록적 폭염이 각 산업 부문에 미치는 영향 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565113",
+        "pubDate": "2025-07-27 09:00:04",
+        "summary": "모건 스탠리, 유럽 기록적 폭염이 각 산업 부문에 미치는 영향 분석"
+      },
+      {
+        "title": "아시아 기술주: 강세장이 계속될 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565111",
+        "pubDate": "2025-07-27 08:30:04",
+        "summary": "아시아 기술주: 강세장이 계속될 수 있을까?"
+      },
+      {
+        "title": "지금 유럽에 투자하는 6가지 방법",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1565097",
+        "pubDate": "2025-07-27 08:00:07",
+        "summary": "지금 유럽에 투자하는 6가지 방법"
+      },
       {
         "title": "록히드 마틴, F-35 계약 6,170만 달러 확보",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1565008",
@@ -19,51 +61,21 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1565005",
         "pubDate": "2025-07-26 18:28:42",
         "summary": "ATAI Life Sciences, CIAS 치료제 임상 실패 후 주가 급락"
-      },
-      {
-        "title": "제록스 선순위 무담보 채권, S&P 글로벌 'B'로 강등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1565002",
-        "pubDate": "2025-07-26 18:05:10",
-        "summary": "제록스 선순위 무담보 채권, S&P 글로벌 'B'로 강등"
-      },
-      {
-        "title": "메타, 셩지아 자오를 슈퍼인텔리전스 랩 수석 과학자로 임명",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1565000",
-        "pubDate": "2025-07-26 17:46:51",
-        "summary": "메타, 셩지아 자오를 슈퍼인텔리전스 랩 수석 과학자로 임명"
-      },
-      {
-        "title": "CrowdStrike Holdings, Moody's, 전망 '긍정적'으로 상향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1564998",
-        "pubDate": "2025-07-26 17:20:04",
-        "summary": "CrowdStrike Holdings, Moody's, 전망 '긍정적'으로 상향 조정"
-      },
-      {
-        "title": "Procept Biorobotics, CEO 교체 발표 후 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1564997",
-        "pubDate": "2025-07-26 17:15:05",
-        "summary": "Procept Biorobotics, CEO 교체 발표 후 주가 하락"
-      },
-      {
-        "title": "CrowdStrike Holdings, 무디스 전망 '긍정적'으로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1564996",
-        "pubDate": "2025-07-26 17:10:12",
-        "summary": "CrowdStrike Holdings, 무디스 전망 '긍정적'으로 상향"
-      },
-      {
-        "title": "페이저듀티, 매각 가능성 보도에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1564994",
-        "pubDate": "2025-07-26 16:51:29",
-        "summary": "페이저듀티, 매각 가능성 보도에 주가 급등"
-      },
-      {
-        "title": "LVMH, Marc Jacobs 브랜드 매각 협상 중 - WSJ",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1564993",
-        "pubDate": "2025-07-26 16:32:50",
-        "summary": "LVMH, Marc Jacobs 브랜드 매각 협상 중 - WSJ"
       }
     ],
     "cnbc": [
+      {
+        "title": "Trump announces EU trade deal with 15% tariffs",
+        "link": "https://www.cnbc.com/2025/07/27/trump-european-union-eu-trade-tariffs.html",
+        "pubDate": "Sun, 27 Jul 2025 22:59:02 GMT",
+        "summary": "President Donald Trump and European Commission President Ursula von der Leyen met for a pivotal discussion before Trump's Aug 1. tariff deadline."
+      },
+      {
+        "title": "'He's showing up.' Things are getting better at Boeing under CEO Ortberg. Can he keep it going?",
+        "link": "https://www.cnbc.com/2025/07/27/boeing-ceo-ortberg-airplane-deliveries-defense.html",
+        "pubDate": "Sun, 27 Jul 2025 12:46:03 GMT",
+        "summary": "Wall Street analysts expect the aircraft manufacturer to halve its second-quarter losses from a year ago when it reports earnings this week."
+      },
       {
         "title": "Under Trump, Uncle Sam is becoming an active investor at a scale not seen outside war or major crises",
         "link": "https://www.cnbc.com/2025/07/26/under-trump-us-an-active-investor-at-scale-not-seen-outside-major-crises.html",
@@ -71,120 +83,108 @@
         "summary": "The Trump administration has shown that it's willing to buy up stakes in publicly traded companies, a level of intervention that some say is unprecedented."
       },
       {
-        "title": "EU chief to meet Trump in Scotland in push to avoid a transatlantic trade war",
-        "link": "https://www.cnbc.com/2025/07/26/eu-chief-to-meet-trump-in-scotland-in-push-to-secure-a-us-trade-deal.html",
-        "pubDate": "Sat, 26 Jul 2025 10:22:53 GMT",
-        "summary": "\"I think we have a good 50/50 chance. That's a lot,\" Trump said."
+        "title": "How Trump and trade wars pushed Russia and Ukraine into the cold",
+        "link": "https://www.cnbc.com/2025/07/27/how-trump-and-trade-wars-pushed-russia-and-ukraine-into-the-cold.html",
+        "pubDate": "Sun, 27 Jul 2025 06:20:47 GMT",
+        "summary": "It's easy to forget Russian and Ukrainian soldiers continue to fight for every inch of frontline territory in Ukraine, and the world feels like it has moved on."
       },
       {
-        "title": "China releases AI action plan days after the U.S. as global tech race heats up",
-        "link": "https://www.cnbc.com/2025/07/26/china-ai-action-plan.html",
-        "pubDate": "Sat, 26 Jul 2025 13:54:40 GMT",
-        "summary": "China on Saturday released a global action plan for artificial intelligence that called for international cooperation on tech development and regulation."
+        "title": "The real reason a 4-day workweek makes people happier in their jobs—it's not just more free time",
+        "link": "https://www.cnbc.com/2025/07/27/the-real-reason-a-4-day-workweek-makes-people-happier-in-their-jobs.html",
+        "pubDate": "Sun, 27 Jul 2025 13:35:01 GMT",
+        "summary": "Juliet Schor has researched the impacts of a four-day workweek on 245 businesses and 8,700 people."
       },
       {
-        "title": "Tesla investors are growing wary of Elon Musk's futuristic promises",
-        "link": "https://www.cnbc.com/2025/07/26/tesla-investors-grow-wary-of-elon-musk-robotaxi-promises.html",
-        "pubDate": "Sat, 26 Jul 2025 14:45:41 GMT",
-        "summary": "Tesla shares plummeted as CEO Elon Musk's promises for robotaxis failed to excite investors following another disappointing earnings report."
+        "title": "‘This market is pricing in perfection,’ warns Verdence Capital CIO as tariff deadline looms",
+        "link": "https://www.cnbc.com/2025/07/27/tariff-turmoil-market-pricing-in-perfection-warns-verdence-cio.html",
+        "pubDate": "Sun, 27 Jul 2025 17:11:32 GMT",
+        "summary": "The market may be trading around record highs, but Verdence Capital's Megan Horneman is worried trouble is lurking."
       },
       {
-        "title": "Trump's trade deals and tariffs are on the chopping block in court. What happens next",
-        "link": "https://www.cnbc.com/2025/07/26/trump-tariffs-trade-lawsuits.html",
-        "pubDate": "Sat, 26 Jul 2025 19:51:16 GMT",
-        "summary": "Trump has recently announced preliminary trade deals with Japan and other countries, and many of his paused \"reciprocal\" tariffs are set to resume next month."
+        "title": "Marvel's 'Fantastic Four: First Steps' opens to $118 million domestically",
+        "link": "https://www.cnbc.com/2025/07/27/marvels-fantastic-four-first-steps-opens-to-118-million.html",
+        "pubDate": "Sun, 27 Jul 2025 16:20:37 GMT",
+        "summary": "Marvel's \"Fantastic Four: First Steps\" opened to an estimated $118 million at the domestic box office."
       },
       {
-        "title": "Media trailblazer Tom Rogers changes ‘raging bull’ stance on Netflix, sees worrisome signs",
-        "link": "https://www.cnbc.com/2025/07/26/netflix-raging-bull-changes-stance-what-worries-media-mogul-rogers.html",
-        "pubDate": "Sat, 26 Jul 2025 15:22:33 GMT",
-        "summary": "Former NBC Cable President Tom Rogers is raising concerns about Netflix amid a competitive streaming environment."
+        "title": "'Superman,' 'F1' both cross $500 million at the global box office",
+        "link": "https://www.cnbc.com/2025/07/27/superman-f1-both-cross-500-million-at-the-global-box-office.html",
+        "pubDate": "Sun, 27 Jul 2025 16:41:44 GMT",
+        "summary": "Warner Bros. Discovery had two films cross the $500 million mark this weekend — DC Studio's \"Superman\" and Apple's \"F1.\""
       },
       {
-        "title": "Even many high-earning Americans don't feel wealthy. Here's why",
-        "link": "https://www.cnbc.com/2025/07/26/henrys-why-high-earning-americans-do-not-feel-rich.html",
-        "pubDate": "Sat, 26 Jul 2025 10:33:01 GMT",
-        "summary": "Many high earners in the U.S. still feel broke. Between lifestyle creep, debt and social pressure, even $200,000 per year doesn't always buy peace of mind."
+        "title": "Top Wall Street analysts recommend these dividend stocks for regular income",
+        "link": "https://www.cnbc.com/2025/07/27/top-wall-street-analysts-recommend-these-dividend-stocks-for-regular-income.html",
+        "pubDate": "Sun, 27 Jul 2025 11:17:07 GMT",
+        "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks, including EOG Resources and Verizon, favored by Wall Street."
       },
       {
-        "title": "The 10 worst U.S. states to retire—6 are in the South",
-        "link": "https://www.cnbc.com/2025/07/26/worst-us-states-to-retire-bankrate.html",
-        "pubDate": "Sat, 26 Jul 2025 13:00:01 GMT",
-        "summary": "Factors like affordability and weather may make these states unattractive to retirees, but they could be right for you based on your personal preferences."
-      },
-      {
-        "title": "CBS canceling Colbert begs the question: Are more late night shows next?",
-        "link": "https://www.cnbc.com/2025/07/26/cbs-canceling-colbert-raises-late-night-questions.html",
-        "pubDate": "Sat, 26 Jul 2025 11:00:01 GMT",
-        "summary": "The cost of producing late night programs has risen as the media industry has been upended by streaming and shifting consumer habits."
-      },
-      {
-        "title": "Are 2 to 3 cups of coffee a day too much? It's complicated, experts say: 'It's different for each person'",
-        "link": "https://www.cnbc.com/2025/07/26/how-much-coffee-is-too-much-coffee-experts-weigh-in.html",
-        "pubDate": "Sat, 26 Jul 2025 16:00:01 GMT",
-        "summary": "Figuring out how much coffee is too much isn't straightforward. Experts explain why, and what you need to know about its benefits and risks."
+        "title": "I’m a travel expert who has visited 70 countries—these 7 phrases make you sound like ‘an obnoxious American’",
+        "link": "https://www.cnbc.com/2025/07/27/these-phrases-make-you-sound-like-an-obnoxious-american-traveling-abroad.html",
+        "pubDate": "Sun, 27 Jul 2025 13:00:01 GMT",
+        "summary": "These phrases Americans often say while traveling abroad \"can come off as rude, offensive, or ignorant,\" says Chicago-based travel writer Meena Thiruvengadam."
       }
     ],
     "yahoo": [
       {
-        "title": "General Dynamics Corporation (GD) Posted A Good Number, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/general-dynamics-corporation-gd-posted-231831185.html",
-        "pubDate": "2025-07-26T23:18:31Z",
-        "summary": "General Dynamics Corporation (GD) Posted A Good Number, Says Jim Cramer"
+        "title": "Everyone's Watching Nvidia -- but This AI Supplier Is the Real Power Player",
+        "link": "https://finance.yahoo.com/news/everyones-watching-nvidia-ai-supplier-134500604.html",
+        "pubDate": "2025-07-26T13:45:00Z",
+        "summary": "Everyone's Watching Nvidia -- but This AI Supplier Is the Real Power Player"
       },
       {
-        "title": "Royal Caribbean Cruises Ltd. (RCL): The Downgrades Are A Chance To Buy, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/royal-caribbean-cruises-ltd-rcl-231735198.html",
-        "pubDate": "2025-07-26T23:17:35Z",
-        "summary": "Royal Caribbean Cruises Ltd. (RCL): The Downgrades Are A Chance To Buy, Says Jim Cramer"
+        "title": "Dow Jones Futures Rise On Trump-EU Trade Deal; Tesla 'Robotaxis,' Earnings Wave In Focus",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-eu-trade-deal-tesla-robotaxis/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-07-27T23:15:59Z",
+        "summary": "Dow Jones Futures Rise On Trump-EU Trade Deal; Tesla 'Robotaxis,' Earnings Wave In Focus"
       },
       {
-        "title": "The Walt Disney Company (DIS)’s “Got A Good Cruise Business,” Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/walt-disney-company-dis-got-231706127.html",
-        "pubDate": "2025-07-26T23:17:06Z",
-        "summary": "The Walt Disney Company (DIS)’s “Got A Good Cruise Business,” Says Jim Cramer"
+        "title": "Stock Futures Rise Ahead of Fed Decision, Earnings Week",
+        "link": "https://www.barrons.com/articles/stock-futures-sunday-trading-925cb155?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-07-27T22:14:00Z",
+        "summary": "Stock Futures Rise Ahead of Fed Decision, Earnings Week"
       },
       {
-        "title": "Fiserv, Inc. (FI): “That’s A High Flyer,” Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/fiserv-inc-fi-high-flyer-231431305.html",
-        "pubDate": "2025-07-26T23:14:31Z",
-        "summary": "Fiserv, Inc. (FI): “That’s A High Flyer,” Says Jim Cramer"
+        "title": "Northrop Grumman Corporation (NOC) Has Strong Worldwide Sales, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/northrop-grumman-corporation-noc-strong-201853614.html",
+        "pubDate": "2025-07-27T20:18:53Z",
+        "summary": "Northrop Grumman Corporation (NOC) Has Strong Worldwide Sales, Says Jim Cramer"
       },
       {
-        "title": "Hasbro, Inc. (HAS)’s Shares Dropped Because Of Chinese Materials, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/hasbro-inc-shares-dropped-because-231343535.html",
-        "pubDate": "2025-07-26T23:13:43Z",
-        "summary": "Hasbro, Inc. (HAS)’s Shares Dropped Because Of Chinese Materials, Says Jim Cramer"
+        "title": "Not Lockheed Martin Corporation (LMT) But RTX, Say A Lot Of People According To Jim Cramer",
+        "link": "https://finance.yahoo.com/news/not-lockheed-martin-corporation-lmt-201840944.html",
+        "pubDate": "2025-07-27T20:18:40Z",
+        "summary": "Not Lockheed Martin Corporation (LMT) But RTX, Say A Lot Of People According To Jim Cramer"
       },
       {
-        "title": "Microsoft Corporation (MSFT): “Will You Cut It Out?” Asks Jim Cramer",
-        "link": "https://finance.yahoo.com/news/microsoft-corporation-msft-cut-asks-231259825.html",
-        "pubDate": "2025-07-26T23:12:59Z",
-        "summary": "Microsoft Corporation (MSFT): “Will You Cut It Out?” Asks Jim Cramer"
+        "title": "How To Pick the Next Apple Stock, According to Warren Buffett",
+        "link": "https://finance.yahoo.com/news/pick-next-apple-stock-according-144835186.html",
+        "pubDate": "2025-07-27T22:59:08Z",
+        "summary": "How To Pick the Next Apple Stock, According to Warren Buffett"
       },
       {
-        "title": "Alphabet Inc. (GOOGL): “I Got It Wrong,” Admits Jim Cramer",
-        "link": "https://finance.yahoo.com/news/alphabet-inc-googl-got-wrong-231235772.html",
-        "pubDate": "2025-07-26T23:12:35Z",
-        "summary": "Alphabet Inc. (GOOGL): “I Got It Wrong,” Admits Jim Cramer"
+        "title": "Alphabet Inc. (GOOGL): “This Stock Should Be Up Much More,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/alphabet-inc-googl-stock-much-201742323.html",
+        "pubDate": "2025-07-27T20:17:42Z",
+        "summary": "Alphabet Inc. (GOOGL): “This Stock Should Be Up Much More,” Says Jim Cramer"
       },
       {
-        "title": "The Bank of New York Mellon Corporation (BK)’s CEO Is Very Tech Proficient, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/bank-york-mellon-corporation-bk-231203708.html",
-        "pubDate": "2025-07-26T23:12:03Z",
-        "summary": "The Bank of New York Mellon Corporation (BK)’s CEO Is Very Tech Proficient, Says Jim Cramer"
+        "title": "NVIDIA Corporation (NVDA)’s CEO Has A Great Relationship With Trump, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/nvidia-corporation-nvda-ceo-great-201723165.html",
+        "pubDate": "2025-07-27T20:17:23Z",
+        "summary": "NVIDIA Corporation (NVDA)’s CEO Has A Great Relationship With Trump, Says Jim Cramer"
       },
       {
-        "title": "Circle Internet Group (CRCL) Might Not Have Anything Proprietary, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/circle-internet-group-crcl-might-231126835.html",
-        "pubDate": "2025-07-26T23:11:26Z",
-        "summary": "Circle Internet Group (CRCL) Might Not Have Anything Proprietary, Says Jim Cramer"
+        "title": "Tesla, Inc. (TSLA)’s “A Cult Stock,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/tesla-inc-tsla-cult-stock-201655818.html",
+        "pubDate": "2025-07-27T20:16:55Z",
+        "summary": "Tesla, Inc. (TSLA)’s “A Cult Stock,” Says Jim Cramer"
       },
       {
-        "title": "BlackRock, Inc. (BLK)’s Gonna Win Big In Stablecoins, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/blackrock-inc-blk-gonna-win-231103651.html",
-        "pubDate": "2025-07-26T23:11:03Z",
-        "summary": "BlackRock, Inc. (BLK)’s Gonna Win Big In Stablecoins, Says Jim Cramer"
+        "title": "Dow Inc. (DOW): Good News About Industrial Economy Isn’t Helping, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/dow-inc-dow-good-news-201632880.html",
+        "pubDate": "2025-07-27T20:16:32Z",
+        "summary": "Dow Inc. (DOW): Good News About Industrial Economy Isn’t Helping, Says Jim Cramer"
       }
     ]
   }
