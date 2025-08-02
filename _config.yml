@@ -26,4 +26,3 @@ plugins:
 # _config.yml 파일 맨 아래에 추가
 
 finnhub_api_key: "d1p607hr01qu436cphr0d1p607hr01qu436cphrg"
-baseurl: "/my-company-analysis"

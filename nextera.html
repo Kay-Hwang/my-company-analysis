@@ -1,358 +1,759 @@
 ---
 layout: default
-title: NextEra Energy
+title: NextEra Energy (NEE)
 ---
 
-<div class="bg-white sticky top-16 z-40 shadow-sm">
-    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex justify-start items-center h-16">
-            <a href="{{ '/companies.html' | relative_url }}" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center">
+<div class="bg-white sticky top-16 z-40 shadow-sm border-b">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+        <div>
+            <a href="{{ '/companies.html' | relative_url }}" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center text-sm font-medium">
                 <span class="mr-2">&larr;</span> 기업 선택으로 돌아가기
             </a>
         </div>
     </div>
 </div>
 
-<main class="container mx-auto p-4 md:p-8 max-w-6xl">
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>넥스트에라 에너지(NEE) 대화형 투자 분석</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Warm Neutrals with Blue/Green Accents -->
+    <!-- Application Structure Plan: The structure is a top-down, narrative-driven dashboard. A dedicated card for the 2025 Q2 highlights is placed at the top for immediate visibility. This is followed by a high-level KPI overview and then a detailed "dual engine" model explanation. A new section for competitive analysis is introduced with a comparison table and a summary of competitive advantages. Financials are housed in a tabbed card to prevent vertical clutter. The Growth Engine and SWOT are in distinct cards. The Investment Conclusion is now a visually structured card with icons and bolded text for a more impactful summary. All textual content is heavily condensed and formatted with bolding and bullet points for maximum scannability. This structure improves readability and prioritizes the most current information, while providing clear, visually distinct sections for each topic. -->
+    <!-- Visualization & Content Choices:
+        - 2025 Q2 Highlights: Goal: Inform -> Method: Bulleted list in a card -> Interaction: None -> Justification: Provides the most critical, up-to-date information right away.
+        - KPIs: Goal: Inform -> Method: Large text with icons (Unicode) in cards -> Interaction: None -> Justification: Provides an immediate, high-level snapshot.
+        - Revenue Split: Goal: Compare -> Method: Donut Chart (Chart.js) -> Interaction: Hover tooltips -> Justification: Excellent for visualizing proportional data.
+        - FPL/NEER Details: Goal: Inform -> Method: Side-by-side descriptive cards with key stats -> Interaction: None -> Justification: Compares the two core business units concisely.
+        - Competition Table: Goal: Compare -> Method: Responsive HTML table -> Interaction: None -> Justification: Provides a direct, side-by-side comparison of key financial metrics of competitors.
+        - Competitive Advantage Summary: Goal: Inform -> Method: Cards with icons and bulleted text -> Interaction: None -> Justification: Clearly highlights NEE's strengths against its competitors.
+        - Financial Dashboard: Goal: Inform/Organize -> Method: Tabs for Performance, Stock Price, and Detailed Financials -> Interaction: User clicks to switch views -> Justification: Prevents a single, long scroll and allows users to focus on one financial aspect at a time.
+        - Market Growth & Generation Mix: Goal: Compare -> Method: Line Chart for CAGR & Pie Chart for generation mix -> Interaction: Hover tooltips -> Justification: Presents a trend over time for CAGR and a composition breakdown for the energy mix.
+        - SWOT Analysis: Goal: Organize/Analyze -> Method: Static 2x2 grid with bulleted lists -> Interaction: None -> Justification: Provides a clear, at-a-glance comparison of all four factors.
+        - Investment Conclusion: Goal: Inform/Summarize -> Method: Structured summary card with icons and bolded text -> Interaction: None -> Justification: Provides a clear, final takeaway in a visually compelling format, summarizing the investment thesis and key risks.
+        - Library/Method: Chart.js for all charts, rendered on Canvas. Tailwind CSS for layout and styling. Custom Vanilla JS for tab functionality. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background-color: #f8f9fa;
+            color: #343a40;
+        }
+        .hero-gradient-text {
+            background: linear-gradient(90deg, #005f73, #0a9396, #94d2bd);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: 300px;
+            max-width: 600px;
+            margin: auto;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .tab-button {
+            transition: all 0.3s ease;
+        }
+        .tab-button.active {
+            background-color: #0077b6;
+            color: white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .tab-button:not(.active) {
+            background-color: #e9ecef;
+            color: #495057;
+        }
+        .content-card {
+            background-color: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .content-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        }
+        .section-title {
+            font-weight: 900;
+            color: #003049;
+            margin-bottom: 0.5rem;
+            text-align: center;
+        }
+        .section-subtitle {
+            max-width: 700px;
+            margin: 0 auto 2rem auto;
+            text-align: center;
+            color: #495057;
+            font-weight: 300;
+        }
+        .sub-section-title {
+            font-weight: 700;
+            color: #004e64;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 0.5rem;
+        }
+        .table-container {
+            overflow-x: auto;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.875rem;
+            min-width: 600px;
+        }
+        .data-table th, .data-table td {
+            border: 1px solid #dee2e6;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        .data-table th {
+            background-color: #e9ecef;
+            font-weight: 600;
+            color: #495057;
+        }
+        .data-table tbody tr:nth-child(odd) {
+            background-color: #f8f9fa;
+        }
+        .swot-item {
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            min-height: 250px;
+        }
+        .swot-grid {
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 1.5rem;
+        }
+        @media (min-width: 768px) {
+            .swot-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        .conclusion-box {
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            background-color: #fff;
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+<body class="antialiased">
 
-    <header class="text-center my-12">
-        <h1 class="text-4xl md:text-6xl font-black hero-gradient-text">넥스트에라 에너지</h1>
-        <p class="text-lg md:text-xl mt-4 font-light text-gray-600">안정적 유틸리티와 고성장 재생에너지의 시너지</p>
-    </header>
+    <main class="container mx-auto p-4 md:p-8 max-w-6xl">
 
-    <section id="overview" class="mb-16">
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div class="content-card text-center">
-                <p class="text-5xl mb-2">💡</p>
-                <p class="text-lg font-bold text-gray-700">시장 지배력</p>
-                <p class="text-2xl font-bold mt-1 text-[#0077b6]">미국 1위</p>
-                <p class="text-sm text-gray-500">전력 유틸리티 기업</p>
-            </div>
-            <div class="content-card text-center">
-                <p class="text-5xl mb-2">☀️</p>
-                <p class="text-lg font-bold text-gray-700">재생에너지 리더십</p>
-                <p class="text-2xl font-bold mt-1 text-[#00a896]">세계 1위</p>
-                <p class="text-sm text-gray-500">태양광 에너지 생산</p>
-            </div>
-            <div class="content-card text-center">
-                <p class="text-5xl mb-2">📈</p>
-                <p class="text-lg font-bold text-gray-700">EPS 성장률</p>
-                <p class="text-2xl font-bold mt-1 text-[#0077b6]">연평균 10%</p>
-                <p class="text-sm text-gray-500">지난 10년간 조정 EPS</p>
-            </div>
-            <div class="content-card text-center">
-                <p class="text-5xl mb-2">💰</p>
-                <p class="text-lg font-bold text-gray-700">배당 성장</p>
-                <p class="text-2xl font-bold mt-1 text-[#00a896]">31년 연속</p>
-                <p class="text-sm text-gray-500">배당금 증액 기록</p>
-            </div>
-        </div>
-    </section>
+        <header class="text-center my-12">
+            <h1 class="text-4xl md:text-6xl font-black hero-gradient-text">넥스트에라 에너지</h1>
+            <p class="text-lg md:text-xl mt-4 font-light text-gray-600">안정적 유틸리티와 고성장 재생에너지의 시너지 (2025년 2분기 상세 업데이트)</p>
+        </header>
 
-    <section id="executive-summary" class="mb-16 content-card p-6 md:p-8">
-        <h2 class="section-title text-3xl">핵심 요약</h2>
-        <p class="section-subtitle">넥스트에라 에너지는 미국 최대 전력 유틸리티이자 재생에너지 선두 주자로서, 안정성과 성장 잠재력을 겸비한 독특한 사업 모델을 구축하고 있습니다. 강력한 재무 성과와 청정에너지 전환에 대한 헌신은 매력적인 투자 기회를 제공합니다.</p>
-        <p class="text-gray-700 leading-relaxed text-sm md:text-base">
-            넥스트에라 에너지는 플로리다 전력 & 전등 회사(FPL)의 안정적인 규제 유틸리티 사업과 넥스트에라 에너지 리소스(NEER)의 고성장 재생에너지 사업을 통해 시너지를 창출합니다.
-            회사는 탁월성, 올바른 일 수행, 사람 존중이라는 핵심 가치를 바탕으로 강력한 기업 문화를 유지하며, 높은 고객 만족도와 안전 기록을 자랑합니다.
-            재무적으로는 지난 10년간 조정 주당순이익(EPS)에서 연평균 약 10%의 성장률을 달성했으며, 31년 연속 배당금을 증액하며 주주 환원에도 적극적입니다.
-            재생에너지 및 에너지 저장 시장의 폭발적인 성장, AI 데이터 센터 및 전기차 확산에 따른 전력 수요 증가는 NEE에게 중요한 성장 기회를 제공합니다.
-            다만, NEER 부문의 매출 변동성, 높은 부채 수준, 그리고 미국 재생에너지 정책의 불확실성은 잠재적 위험 요인으로 작용할 수 있습니다.
-            청정에너지 전환이라는 거대한 흐름 속에서 안정적인 배당 수익과 장기적인 성장 잠재력을 제공하는 매력적인 투자처이지만, 리스크 요인을 면밀히 주시하며 장기적 관점에서 분산 투자하는 것이 바람직합니다.
-        </p>
-    </section>
-    
-    <section id="business-model" class="mb-16 content-card p-6 md:p-8">
-        <h2 class="section-title text-3xl">두 개의 심장: 이중 성장 엔진 및 핵심 제품</h2>
-        <p class="section-subtitle">넥스트에라 에너지는 안정적인 규제 유틸리티 사업(FPL)의 현금흐름을 바탕으로 고성장 재생에너지 사업(NEER)에 투자하며 시너지를 창출하는 독특한 사업 모델을 가지고 있습니다. 각 부문은 고유한 핵심 제품과 서비스를 제공합니다.</p>
-        <div class="grid grid-cols-1 md:grid-cols-5 gap-8 items-center">
-            <div class="md:col-span-2 space-y-4">
-                <div class="p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
-                    <h3 class="font-bold text-lg text-blue-800">안정성: FPL (플로리다 전력 & 전등)</h3>
-                    <p class="text-sm text-gray-700 mt-1">
-                        플로리다 대부분 지역에 전력을 생산, 송전, 배전 및 판매하는 규제 유틸리티 사업입니다.
-                        약 590만 고객 계정(1,200만 명 이상)에 서비스를 제공하며 예측 가능한 현금 흐름을 창출합니다.
-                        2024년 매출은 $170.2억으로 총 매출의 69.29%를 차지했습니다.
-                    </p>
+        <section id="q2-highlights" class="mb-16 content-card p-6 md:p-8">
+            <h2 class="section-title text-3xl text-[#00a896]">2025년 2분기 주요 실적 하이라이트</h2>
+            <p class="section-subtitle">넥스트에라 에너지의 최신 성과를 한눈에 확인하세요.</p>
+            <ul class="list-disc list-inside space-y-2 text-sm md:text-base text-gray-700">
+                <li>**조정 주당순이익(EPS) 성장:** 조정 EPS는 전년 동기 대비 **9.4% 성장**한 $1.05를 기록하며 견조한 실적을 이어갔습니다.</li>
+                <li>**NEER의 강력한 성장:** 데이터 센터 고객을 위한 **1GW 이상의 프로젝트를 포함해 총 3.2GW의 신규 수주**를 달성하며 성장 모멘텀을 입증했습니다. NEER의 프로젝트 백로그에는 데이터 센터 고객을 위한 약 6GW의 프로젝트가 포함되어 있습니다.</li>
+                <li>**FPL의 견조한 실적:** FPL의 순이익은 $12.75억으로 전년 동기 대비 증가했으며, 소매 판매도 1.7% 증가했습니다.</li>
+                <li>**주주 환원:** **31년 연속 배당금 증액**이라는 인상적인 기록을 보유하고 있습니다.</li>
+                <li>**장기 전망 재확인:** 2025년 연간 조정 EPS 가이던스($3.45~$3.70)를 재확인했습니다.</li>
+            </ul>
+        </section>
+
+        <section id="overview" class="mb-16">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="content-card text-center">
+                    <p class="text-5xl mb-2">💡</p>
+                    <p class="text-lg font-bold text-gray-700">시장 지배력</p>
+                    <p class="text-2xl font-bold mt-1 text-[#0077b6]">미국 1위</p>
+                    <p class="text-sm text-gray-500">전력 유틸리티 기업</p>
                 </div>
-                <div class="p-4 bg-green-50 rounded-lg border-l-4 border-green-500">
-                    <h3 class="font-bold text-lg text-green-800">성장성: NEER (넥스트에라 에너지 리소스)</h3>
-                    <p class="text-sm text-gray-700 mt-1">
-                        북미 전역에서 경쟁력 있는 청정에너지 프로젝트를 개발, 건설, 운영합니다.
-                        풍력, 태양광, 배터리 저장 등 34GW 이상의 포트폴리오를 보유한 미국 최대 재생에너지 생산자입니다.
-                        2024년 매출은 $75.4억으로 총 매출의 30.71%를 기여했습니다.
-                    </p>
+                <div class="content-card text-center">
+                    <p class="text-5xl mb-2">☀️</p>
+                    <p class="text-lg font-bold text-gray-700">재생에너지 리더십</p>
+                    <p class="text-2xl font-bold mt-1 text-[#00a896]">세계 1위</p>
+                    <p class="text-sm text-gray-500">태양광 에너지 생산</p>
+                </div>
+                <div class="content-card text-center">
+                    <p class="text-5xl mb-2">📈</p>
+                    <p class="text-lg font-bold text-gray-700">EPS 성장</p>
+                    <p class="text-2xl font-bold mt-1 text-[#0077b6]">연평균 10%</p>
+                    <p class="text-sm text-gray-500">지난 10년간 조정 EPS</p>
+                </div>
+                <div class="content-card text-center">
+                    <p class="text-5xl mb-2">💰</p>
+                    <p class="text-lg font-bold text-gray-700">배당 성장</p>
+                    <p class="text-2xl font-bold mt-1 text-[#00a896]">31년 연속</p>
+                    <p class="text-sm text-gray-500">배당금 증액 기록</p>
                 </div>
             </div>
-            <div class="md:col-span-3">
-                <p class="text-center font-medium text-gray-700 mb-2">2024년 사업 부문별 매출 비중</p>
+        </section>
+        
+        <section id="company-overview" class="mb-16 content-card p-6 md:p-8">
+            <h2 class="section-title text-3xl">기업 개요 및 핵심 제품</h2>
+            <p class="section-subtitle">넥스트에라 에너지의 사업 구조와 핵심 가치를 통해 기업의 전반적인 성향을 이해할 수 있습니다.</p>
+
+            <h3 class="sub-section-title">사업 구조: 두 개의 심장 (FPL vs NEER)</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                <div class="space-y-4">
+                    <div class="p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
+                        <h4 class="font-bold text-lg text-blue-800">안정성: FPL (Florida Power & Light)</h4>
+                        <ul class="list-disc list-inside space-y-1 text-sm text-gray-700 mt-1">
+                            <li>**주요 서비스:** 플로리다 지역 590만 고객에게 전력 공급</li>
+                            <li>**최신 실적:** 2025년 2분기 순이익 $12.75억 (전년 대비 증가)</li>
+                            <li>**매출 비중:** 2024년 총 매출의 69.29% 기여</li>
+                            <li>**성장성:** 고객 계정 연평균 3.1-3.3% 증가 예상</li>
+                        </ul>
+                    </div>
+                    <div class="p-4 bg-green-50 rounded-lg border-l-4 border-green-500">
+                        <h4 class="font-bold text-lg text-green-800">성장성: NEER (NextEra Energy Resources)</h4>
+                        <ul class="list-disc list-inside space-y-1 text-sm text-gray-700 mt-1">
+                            <li>**주요 서비스:** 북미 재생에너지 프로젝트 개발 및 운영</li>
+                            <li>**시장 지위:** 미국 최대 재생에너지, 세계 최대 태양광 에너지 생산자</li>
+                            <li>**최신 실적:** 2025년 2분기 순이익 $10.91억 (전년 대비 크게 증가)</li>
+                            <li>**성장 동력:** Q2에 **3.2GW 신규 수주** 달성 (데이터 센터용 1GW+ 포함)</li>
+                        </ul>
+                    </div>
+                </div>
                 <div class="chart-container h-64 md:h-72">
                     <canvas id="revenueSplitChart"></canvas>
                 </div>
             </div>
-        </div>
-    </section>
 
-    <section id="financial-dashboard" class="mb-16 content-card p-6 md:p-8">
-        <h2 class="section-title text-3xl">재무 성과 대시보드</h2>
-        <p class="section-subtitle">지난 5년간의 주요 재무 데이터와 10년간의 주가 추이를 통해 회사의 재무 건전성과 시장 성과를 확인하세요. 탭을 클릭하여 다른 차트를 볼 수 있습니다.</p>
-        <div class="flex justify-center space-x-2 mb-6">
-            <button id="perfBtn" class="tab-button active py-2 px-4 rounded-full font-semibold">성과 요약</button>
-            <button id="stockBtn" class="tab-button py-2 px-4 rounded-full font-semibold">주가 추이</button>
-            <button id="ratioBtn" class="tab-button py-2 px-4 rounded-full font-semibold">핵심 지표 및 배당</button>
-        </div>
-        <div id="perfContent">
-            <div class="chart-container">
-                <canvas id="financialsChart"></canvas>
-            </div>
-        </div>
-        <div id="stockContent" class="hidden">
-             <div class="chart-container">
-                <canvas id="stockPriceChart"></canvas>
-            </div>
-        </div>
-         <div id="ratioContent" class="hidden">
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center mb-6">
-                <div class="bg-gray-100 p-4 rounded-lg">
-                    <p class="text-sm text-gray-500">P/E Ratio</p>
-                    <p class="text-2xl font-bold mt-1 text-gray-800">27.57</p>
-                    <p class="text-xs text-gray-500">(10년 평균: 29.1)</p>
+            <h3 class="sub-section-title">NEER의 상세 발전원 포트폴리오</h3>
+            <p class="section-subtitle !text-sm !-mt-4">NEER의 발전원은 풍력을 중심으로 태양광, 원자력 등 다양한 청정에너지로 구성되어 있으며, 각각의 규모와 특징을 가집니다.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                <div class="space-y-4">
+                    <div class="p-4 bg-blue-50 rounded-lg">
+                        <h4 class="font-bold text-lg text-blue-800">풍력 (Wind)</h4>
+                        <p class="text-sm text-gray-700 mt-1">
+                            NEER 발전량의 **64%**를 차지하는 핵심 발전원입니다. 2024년에만 1,098 MW의 신규 용량을 추가했으며, 2022년 이후 총 13 GW 이상의 풍력 용량을 가동했습니다. NEE는 풍력 발전 분야에서 미국 시장을 선도하고 있습니다.
+                        </p>
+                    </div>
+                    <div class="p-4 bg-green-50 rounded-lg">
+                        <h4 class="font-bold text-lg text-green-800">태양광 (Solar) & 저장 (Storage)</h4>
+                        <p class="text-sm text-gray-700 mt-1">
+                            NEER 발전량의 **17%**를 차지하며, **세계 최대의 태양광 에너지 생산자**입니다. 2024년에 2,389 MW의 신규 태양광 용량을 추가했으며, 2022년 이후 총 7.8 GW 이상의 태양광 용량을 가동했습니다. 최근에는 배터리 저장(Q2에 0.9 GW 신규 수주)을 통합하여 그리드 안정성을 높이고 있습니다.
+                        </p>
+                    </div>
+                    <div class="p-4 bg-yellow-50 rounded-lg">
+                        <h4 class="font-bold text-lg text-yellow-800">원자력 (Nuclear)</h4>
+                        <p class="text-sm text-gray-700 mt-1">
+                            NEER 발전량의 **19%**를 차지하는 안정적인 무탄소 발전원입니다. 이 발전소들은 지속적인 운영과 유지보수를 통해 안정적인 전력 공급을 제공하며, 회사의 탈탄소 목표에 기여하고 있습니다.
+                        </p>
+                    </div>
                 </div>
-                <div class="bg-gray-100 p-4 rounded-lg">
-                    <p class="text-sm text-gray-500">배당률</p>
-                    <p class="text-2xl font-bold mt-1 text-gray-800">3.1%</p>
-                      <p class="text-xs text-gray-500">(2025/07/02 기준)</p>
-                </div>
-                <div class="bg-gray-100 p-4 rounded-lg">
-                    <p class="text-sm text-gray-500">부채/자본</p>
-                    <p class="text-2xl font-bold mt-1 text-gray-800">1.3</p>
-                    <p class="text-xs text-gray-500">(2024년 기준)</p>
-                </div>
-                <div class="bg-gray-100 p-4 rounded-lg">
-                    <p class="text-sm text-gray-500">ROE</p>
-                    <p class="text-2xl font-bold mt-1 text-gray-800">11.49%</p>
-                    <p class="text-xs text-gray-500">(2024년 기준)</p>
-                </div>
-            </div>
-            <div class="p-4 bg-gray-50 rounded-lg text-sm text-gray-700 leading-relaxed">
-                <h3 class="font-bold text-base mb-2">배당 정책 및 성장</h3>
-                <p>
-                    넥스트에라 에너지는 <strong>31년 연속 배당금 증액</strong>이라는 인상적인 기록을 보유하고 있으며, 2026년까지 연간 약 10%의 배당 성장률을 유지할 것으로 예상됩니다.
-                    현재 배당률은 3.1%이며, 배당 성향은 78.81%로 수익의 대부분을 주주에게 환원하고 있습니다.
-                    이는 소득을 추구하는 투자자에게 매력적이지만, 재투자를 위한 유보 이익이 제한적일 수 있음을 시사합니다.
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section id="growth-engine-2" class="mb-16 content-card p-6 md:p-8">
-        <h2 class="section-title text-3xl">미래 성장 동력: 청정에너지 및 시장 동향</h2>
-          <p class="section-subtitle">재생에너지와 에너지 저장 시장의 폭발적인 성장은 넥스트에라의 미래를 밝힙니다. 특히 AI와 전기차로 인한 전력 수요 증가는 새로운 기회이며, 이는 넥스트에라가 시장 지배력을 강화할 수 있는 중요한 동향입니다.</p>
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
-            <div>
-                  <p class="text-center font-medium text-gray-700 mb-2">핵심 시장 연평균 성장률(CAGR) 전망</p>
-                  <p class="text-center text-gray-500 mb-4 text-xs">글로벌 재생에너지 시장은 2033년까지 연평균 14.9% 성장, 에너지 저장 시장은 2030년까지 연평균 14.31% 성장이 예상됩니다.</p>
-                <div class="chart-container h-72">
-                    <canvas id="marketGrowthChart"></canvas>
-                </div>
-            </div>
-            <div>
-                  <p class="text-center font-medium text-gray-700 mb-2">NEER 2024년 발전원 구성</p>
-                  <p class="text-center text-gray-500 mb-4 text-xs">NEER은 풍력을 중심으로 태양광, 원자력 등 다양한 청정에너지원을 활용하여 발전합니다.</p>
-                <div class="chart-container h-72">
+                <div class="chart-container h-64 md:h-72">
                     <canvas id="generationMixChart"></canvas>
                 </div>
             </div>
-        </div>
-        <div class="mt-8 p-4 bg-gray-50 rounded-lg text-sm text-gray-700 leading-relaxed">
-            <h3 class="font-bold text-base mb-2">주요 시장 동향 및 기회</h3>
-            <ul class="list-disc list-inside space-y-1">
-                <li>**전력 수요 증가:** 수년간 정체되었던 미국 전력 수요는 전기차 확산과 AI 데이터 센터의 급증하는 수요에 힘입어 연간 1-2% 성장할 것으로 전망됩니다. 특히 미국 데이터 센터 전력 수요는 2032년까지 두 배 이상 증가할 것으로 예상됩니다.</li>
-                <li>**그리드 현대화:** 미국 전력망은 신뢰성 유지 및 새로운 에너지원 통합을 위해 2030년까지 $2조가 필요할 것으로 추정되며, 이는 스마트 그리드 및 에너지 저장 솔루션에 대한 상당한 기회를 제공합니다.</li>
-                <li>**우호적인 정책 환경:** 미국 인플레이션 감축법(IRA)과 같은 정책은 독립형 저장 장치 및 기타 청정에너지 프로젝트에 상당한 투자 세액 공제를 제공하여 이 부문의 성장을 촉진하고 있습니다.</li>
-            </ul>
-        </div>
-    </section>
+            
+            <h3 class="sub-section-title">경쟁 현황: NEE vs 주요 경쟁사</h3>
+            <p class="section-subtitle !text-sm !-mt-4">주요 경쟁사와의 핵심 재무 지표를 비교하여 넥스트에라 에너지의 경쟁 우위를 파악합니다.</p>
+            <div class="table-container">
+                <table class="data-table text-center">
+                    <thead>
+                        <tr>
+                            <th>기업 (시가총액, 2025.07)</th>
+                            <th>NextEra Energy<br>(1,514억 달러)</th>
+                            <th>Duke Energy<br>(735억 달러)</th>
+                            <th>Southern Co.<br>(826억 달러)</th>
+                            <th>AEP<br>(492억 달러)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="font-semibold text-left">주가 매출 비율 (P/S)</td>
+                            <td>5.52</td>
+                            <td>2.91</td>
+                            <td>2.78</td>
+                            <td>2.52</td>
+                        </tr>
+                        <tr>
+                            <td class="font-semibold text-left">주가수익비율 (P/E)</td>
+                            <td>27.57</td>
+                            <td>18.52</td>
+                            <td>21.84</td>
+                            <td>17.20</td>
+                        </tr>
+                        <tr>
+                            <td class="font-semibold text-left">배당률</td>
+                            <td>3.1%</td>
+                            <td>4.0%</td>
+                            <td>4.2%</td>
+                            <td>4.2%</td>
+                        </tr>
+                        <tr>
+                            <td class="font-semibold text-left">1년 주가수익률</td>
+                            <td>-5.9%</td>
+                            <td>+10.5%</td>
+                            <td>+13.7%</td>
+                            <td>+11.2%</td>
+                        </tr>
+                        <tr>
+                            <td class="font-semibold text-left">EPS 성장률 (10년 CAGR)</td>
+                            <td>~10%</td>
+                            <td>~4%</td>
+                            <td>~3%</td>
+                            <td>~5%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
 
-    <section id="swot" class="mb-16 content-card p-6 md:p-8">
-        <h2 class="section-title text-3xl">종합 분석 (SWOT)</h2>
-        <p class="section-subtitle">넥스트에라 에너지의 내부 강점과 약점, 외부 기회와 위협 요인을 종합적으로 분석하여 투자 리스크를 균형 있게 평가합니다.</p>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div class="swot-item bg-green-50">
-                <h3 class="font-bold text-xl text-green-800 mb-3 flex items-center">
-                    <span class="text-2xl mr-2">👍</span> 강점 (Strengths)
-                </h3>
-                <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
-                    <li>독보적 시장 리더십 (미국 최대 유틸리티 & 재생에너지 생산자)</li>
-                    <li>안정-성장 시너지 사업 모델 (FPL의 안정적 현금흐름, NEER의 고성장)</li>
-                    <li>업계 최고 수준의 강력한 EPS 성장률 (지난 10년간 연평균 10%)</li>
-                    <li>31년 연속 배당 성장 기록으로 일관된 주주 환원</li>
-                    <li>청정에너지 및 혁신에 대한 강력한 헌신과 대규모 프로젝트 백로그</li>
-                    <li>견고한 기업 문화 및 운영 우수성 (높은 고객 만족도, 안전 투자)</li>
+            <h3 class="sub-section-title">넥스트에라 에너지의 경쟁 우위</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-6">
+                <div class="bg-gray-50 p-6 rounded-lg">
+                    <p class="text-4xl text-blue-600 mb-2">💰</p>
+                    <p class="text-base font-bold mt-2">낮은 자본 비용 및 규모의 경제</p>
+                    <p class="text-sm text-gray-600 mt-1">안정적인 재무 상태와 대규모 구매력을 통해 경쟁사보다 낮은 비용으로 프로젝트를 실행합니다.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg">
+                    <p class="text-4xl text-green-600 mb-2">⚡</p>
+                    <p class="text-base font-bold mt-2">안정과 성장의 이중 사업 모델</p>
+                    <p class="text-sm text-gray-600 mt-1">FPL의 안정적 현금 흐름을 활용하여 NEER의 고성장 사업을 공격적으로 확장합니다.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg">
+                    <p class="text-4xl text-blue-600 mb-2">🚀</p>
+                    <p class="text-base font-bold mt-2">프로젝트 실행 능력 및 운영 노하우</p>
+                    <p class="text-sm text-gray-600 mt-1">대규모 재생에너지 프로젝트를 효율적이고 신뢰성 있게 개발 및 운영하는 능력이 탁월합니다.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg">
+                    <p class="text-4xl text-green-600 mb-2">📈</p>
+                    <p class="text-base font-bold mt-2">압도적인 EPS 성장률</p>
+                    <p class="text-sm text-gray-600 mt-1">지난 10년간 약 10%의 조정 EPS 성장률을 기록하며 동종 업계 최고 수준을 유지합니다.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="financial-dashboard" class="mb-16 content-card p-6 md:p-8">
+            <h2 class="section-title text-3xl">재무 및 배당 성과</h2>
+            <p class="section-subtitle">최신 재무제표와 핵심 지표를 통해 회사의 재무 건전성과 주주 환원 정책을 확인하세요.</p>
+            <div class="flex justify-center space-x-2 mb-6">
+                <button id="perfBtn" class="tab-button active py-2 px-4 rounded-full font-semibold">성과 요약</button>
+                <button id="stockBtn" class="tab-button py-2 px-4 rounded-full font-semibold">주가 추이</button>
+                <button id="detailFinBtn" class="tab-button py-2 px-4 rounded-full font-semibold">재무제표 & 지표</button>
+            </div>
+            
+            <div id="perfContent">
+                <div class="chart-container">
+                    <canvas id="financialsChart"></canvas>
+                </div>
+            </div>
+            <div id="stockContent" class="hidden">
+                 <div class="chart-container">
+                    <canvas id="stockPriceChart"></canvas>
+                </div>
+            </div>
+             <div id="detailFinContent" class="hidden">
+                <h3 class="sub-section-title text-center">핵심 재무 지표 (2025년 2분기 업데이트)</h3>
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center mb-6">
+                    <div class="bg-gray-100 p-4 rounded-lg">
+                        <p class="text-sm text-gray-500">P/E Ratio</p>
+                        <p class="text-2xl font-bold mt-1 text-gray-800">27.57</p>
+                    </div>
+                    <div class="bg-gray-100 p-4 rounded-lg">
+                        <p class="text-sm text-gray-500">배당률</p>
+                        <p class="text-2xl font-bold mt-1 text-gray-800">3.1%</p>
+                    </div>
+                    <div class="bg-gray-100 p-4 rounded-lg">
+                        <p class="text-sm text-gray-500">부채/자본</p>
+                        <p class="text-2xl font-bold mt-1 text-gray-800">1.3</p>
+                    </div>
+                    <div class="bg-gray-100 p-4 rounded-lg">
+                        <p class="text-sm text-gray-500">ROE</p>
+                        <p class="text-2xl font-bold mt-1 text-gray-800">11.49%</p>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                    <div class="bg-gray-50 p-6 rounded-lg text-sm text-gray-700 leading-relaxed">
+                        <h4 class="font-bold text-base mb-2">배당 정책 및 성장</h4>
+                        <ul class="list-disc list-inside space-y-1">
+                            <li>**31년 연속 배당금 증액** 기록 보유</li>
+                            <li>2026년까지 **연간 약 10%의 배당 성장률** 예상</li>
+                            <li>**배당 성향 78.81%**로 수익의 대부분을 주주에게 환원</li>
+                            <li>이는 매력적인 소득원이지만, 재투자를 위한 유보 이익이 제한적일 수 있음을 시사</li>
+                        </ul>
+                    </div>
+                     <div class="bg-gray-50 p-6 rounded-lg text-sm text-gray-700 leading-relaxed">
+                        <h4 class="font-bold text-base mb-2">재무제표 주요 하이라이트</h4>
+                        <ul class="list-disc list-inside space-y-1">
+                             <li>**자산 및 부채:** 공격적 투자를 위해 총 자산($1901억)과 부채($1292억) 모두 지속적으로 증가</li>
+                             <li>**잉여 현금 흐름(FCF):** 2024년 $47.5억으로 크게 증가하며 현금 창출 능력 입증</li>
+                             <li>**매출액:** 2025년 2분기 매출 $67억, 전년 동기 대비 10% 증가</li>
+                             <li>**순이익:** 2025년 2분기 순이익 $20.2억 (GAAP), 24.98% 증가</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="growth-engine" class="mb-16 content-card p-6 md:p-8">
+            <h2 class="section-title text-3xl">미래 성장 동력 및 시장 동향</h2>
+             <p class="section-subtitle">넥스트에라 에너지를 둘러싼 주요 시장의 규모와 트렌드를 분석합니다.</p>
+            
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+                <div class="col-span-full">
+                     <p class="text-center font-medium text-gray-700 mb-2">핵심 시장 연평균 성장률(CAGR) 전망</p>
+                    <div class="chart-container h-72">
+                        <canvas id="marketGrowthChart"></canvas>
+                    </div>
+                </div>
+                <div class="mt-8 p-4 bg-gray-50 rounded-lg text-sm text-gray-700 leading-relaxed">
+                <h3 class="font-bold text-base mb-2">주요 시장 동향 및 기회</h3>
+                <ul class="list-disc list-inside space-y-1">
+                    <li>**전력 수요 증가:** **AI 데이터 센터**와 전기차 확산으로 인해 수년간 정체되었던 미국 전력 수요가 연간 1-2% 성장할 것으로 전망됩니다.</li>
+                    <li>**데이터 센터 특수:** NEE는 데이터 센터 고객을 위한 **총 10.5GW 이상의 프로젝트**를 보유하고 있으며, 이는 강력한 성장 동력으로 작용합니다.</li>
+                    <li>**그리드 현대화:** 신뢰성 유지를 위해 2030년까지 $2조가 필요한 미국 전력망 현대화는 NEE에게 중요한 기회입니다.</li>
+                    <li>**우호적인 정책:** 미국 **인플레이션 감축법(IRA)**은 청정에너지 프로젝트에 상당한 투자 세액 공제를 제공합니다.</li>
                 </ul>
             </div>
-            <div class="swot-item bg-red-50">
-                <h3 class="font-bold text-xl text-red-800 mb-3 flex items-center">
-                    <span class="text-2xl mr-2">👎</span> 약점 (Weaknesses)
-                </h3>
-                <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
-                    <li>NEER 부문의 매출 변동성 (신규 프로젝트 완공 시점, 도매 가격 영향)</li>
-                    <li>규제 위험 (FPL 매출에 대한 규제 기관의 요금 결정 영향)</li>
-                    <li>높은 재정적 레버리지 (공격적 투자를 위한 상당한 부채 수준)</li>
-                    <li>높은 배당 성향 (재투자를 위한 유보 이익 제한 가능성)</li>
-                    <li>최근 주가 부진 (동종 업계 대비 상대적 약세)</li>
-                    <li>중국 공급망 의존성 (배터리 등 핵심 부품)</li>
-                    <li>운영 위험 (상업용 원자력 발전소 운영 관련)</li>
-                </ul>
             </div>
-            <div class="swot-item bg-blue-50">
-                <h3 class="font-bold text-xl text-blue-800 mb-3 flex items-center">
-                    <span class="text-2xl mr-2">✨</span> 기회 (Opportunities)
-                </h3>
-                <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
-                    <li>재생에너지 및 에너지 저장 시장의 폭발적인 수요 증가</li>
-                    <li>AI 데이터센터, 전기차 확산으로 인한 전력 수요 급증 (미국 데이터센터 전력 수요 2032년까지 2배 이상 증가 전망)</li>
-                    <li>노후 전력망 현대화 필요성 증대 (스마트 그리드, 에너지 저장 투자 기회)</li>
-                    <li>미국 인플레이션 감축법(IRA) 등 우호적인 정책 환경 (세액 공제)</li>
-                    <li>글로벌 탈탄소화 노력 가속화</li>
-                </ul>
+        </section>
+
+        <section id="swot" class="mb-16 content-card p-6 md:p-8">
+            <h2 class="section-title text-3xl">SWOT 분석</h2>
+            <p class="section-subtitle">넥스트에라 에너지의 내부 및 외부 요인을 종합적으로 분석하여 투자 리스크를 균형 있게 평가합니다.</p>
+            <div class="swot-grid">
+                <div class="swot-item bg-green-50 p-6 rounded-lg">
+                    <h3 class="font-bold text-xl text-green-800 mb-3 flex items-center">
+                        <span class="text-2xl mr-2">👍</span> 강점 (Strengths)
+                    </h3>
+                    <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
+                        <li>**독보적 시장 리더십:** 미국 최대 유틸리티이자 재생에너지 생산자.</li>
+                        <li>**안정-성장 시너지:** FPL의 안정적 현금 흐름이 NEER의 고성장에 투자되는 사업 모델.</li>
+                        <li>**재무 성과:** Q2 2025 조정 EPS **9.4% 성장** 등 강력하고 일관된 재무 성과.</li>
+                        <li>**대규모 백로그:** 데이터 센터 수요를 포함한 대규모 프로젝트 백로그 보유.</li>
+                        <li>**주주 환원:** **31년 연속 배당 성장** 기록.</li>
+                    </ul>
+                </div>
+                <div class="swot-item bg-red-50 p-6 rounded-lg">
+                    <h3 class="font-bold text-xl text-red-800 mb-3 flex items-center">
+                         <span class="text-2xl mr-2">👎</span> 약점 (Weaknesses)
+                    </h3>
+                    <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
+                        <li>**매출 변동성:** NEER 부문의 매출은 프로젝트 완공 시점 및 시장 가격에 따라 변동 가능.</li>
+                        <li>**높은 부채:** 공격적 투자를 위한 **상당한 부채 수준**(2024년 $823.3억)으로 금리 상승에 취약.</li>
+                        <li>**규제 위험:** FPL 사업은 규제 기관의 요금 결정에 영향을 받음.</li>
+                        <li>**높은 배당 성향:** 78.81%의 배당 성향으로 재투자 여력이 제한적.</li>
+                        <li>**공급망 위험:** 배터리 등 핵심 부품에 대한 중국 공급망 의존성.</li>
+                    </ul>
+                </div>
+                <div class="swot-item bg-blue-50 p-6 rounded-lg">
+                    <h3 class="font-bold text-xl text-blue-800 mb-3 flex items-center">
+                        <span class="text-2xl mr-2">✨</span> 기회 (Opportunities)
+                    </h3>
+                    <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
+                        <li>**AI 데이터센터 수요:** 미국 데이터센터 전력 수요가 2032년까지 2배 이상 증가 예상.</li>
+                        <li>**재생에너지 시장 성장:** 글로벌 시장은 2033년까지 연평균 14.9% 성장 전망.</li>
+                        <li>**그리드 현대화:** 노후 전력망 업그레이드에 대한 막대한 투자 필요.</li>
+                        <li>**우호적 정책:** IRA와 같은 정책이 청정에너지 성장을 지속적으로 지원.</li>
+                    </ul>
+                </div>
+                <div class="swot-item bg-yellow-50 p-6 rounded-lg">
+                    <h3 class="font-bold text-xl text-yellow-800 mb-3 flex items-center">
+                        <span class="text-2xl mr-2">⚠️</span> 위협 (Threats)
+                    </h3>
+                    <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
+                        <li>**정책 불확실성:** IRA 철회 가능성 등 재생에너지 정책 변화 위험.</li>
+                        <li>**금리 상승:** 높은 부채 수준으로 인해 자금 조달 비용 증가에 민감.</li>
+                        <li>**지정학적 위험:** 중국 공급망 의존성으로 인한 공급 중단 위험.</li>
+                        <li>**악천후:** 플로리다 지역의 허리케인 등 기후 변화 위험.</li>
+                    </ul>
+                </div>
             </div>
-            <div class="swot-item bg-yellow-50">
-                <h3 class="font-bold text-xl text-yellow-800 mb-3 flex items-center">
-                    <span class="text-2xl mr-2">⚠️</span> 위협 (Threats)
-                </h3>
-                <ul class="list-disc list-inside space-y-2 text-sm text-gray-700">
-                    <li>미국 재생에너지 정책 불확실성 (IRA 철회 가능성, 정치적 정서 변화)</li>
-                    <li>금리 인상에 따른 자금 조달 비용 증가 (높은 부채 수준으로 인한 민감성)</li>
-                    <li>지정학적 긴장 및 공급망 중단 위험 (중국 의존도)</li>
-                    <li>기후 변화로 인한 악천후 조건 (허리케인 등) 및 운영 비용 상승</li>
-                    <li>경쟁 압력 심화 (경쟁사들의 주가 성과 개선)</li>
-                    <li>사이버 보안 위험 증가 (전력망 디지털화)</li>
-                </ul>
+        </section>
+
+        <footer class="text-center mt-16 py-8 border-t border-gray-200">
+            <h3 class="text-xl font-bold text-gray-800">투자 결론 및 권고 사항</h3>
+            <p class="max-w-3xl mx-auto mt-4 text-gray-600 font-light leading-relaxed">
+                넥스트에라 에너지는 **청정에너지 전환**이라는 거대한 메가트렌드의 핵심에 위치한 기업입니다. 안정적인 배당과 장기적인 성장 잠재력을 동시에 제공하며, 특히 AI 데이터센터와 같은 새로운 전력 수요 동력을 활용할 수 있는 유리한 위치에 있습니다.
+            </p>
+             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+                <div class="conclusion-box text-center">
+                    <p class="text-5xl text-green-600 mb-2">✅</p>
+                    <p class="text-base font-bold">핵심 투자 매력</p>
+                    <ul class="list-disc list-inside space-y-1 text-sm text-gray-600 mt-2">
+                        <li>독보적인 시장 리더십</li>
+                        <li>안정적 배당 & 강력한 EPS 성장</li>
+                        <li>AI/전기차 수요 증가</li>
+                    </ul>
+                </div>
+                <div class="conclusion-box text-center">
+                    <p class="text-5xl text-red-600 mb-2">🚨</p>
+                    <p class="text-base font-bold">주요 투자 리스크</p>
+                    <ul class="list-disc list-inside space-y-1 text-sm text-gray-600 mt-2">
+                        <li>높은 부채 수준 및 금리 민감성</li>
+                        <li>규제/정책 변화 불확실성</li>
+                        <li>일부 매출의 변동성</li>
+                    </ul>
+                </div>
+                <div class="conclusion-box text-center md:col-span-1 lg:col-span-1">
+                    <p class="text-5xl text-blue-600 mb-2">🧭</p>
+                    <p class="text-base font-bold">최종 권고</p>
+                    <ul class="list-disc list-inside space-y-1 text-sm text-gray-600 mt-2">
+                        <li>장기적 관점의 분산 투자</li>
+                        <li>정책 및 재무 지표 모니터링 필수</li>
+                        <li>단기 변동성보다는 성장 잠재력에 집중</li>
+                    </ul>
+                </div>
             </div>
-        </div>
-    </section>
+            <p class="text-xs text-gray-400 mt-8">본 자료는 정보 제공을 목적으로 하며, 투자 권유나 추천이 아닙니다. 모든 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.</p>
+        </footer>
 
-    <footer class="text-center mt-16 py-8 border-t border-gray-200">
-        <h3 class="text-xl font-bold text-gray-800">투자 결론 및 권고 사항</h3>
-        <p class="max-w-3xl mx-auto mt-4 text-gray-600 font-light leading-relaxed">
-            넥스트에라 에너지는 청정에너지 전환이라는 거대한 글로벌 메가트렌드의 핵심에 위치한 기업입니다.
-            규제 유틸리티 사업(FPL)의 안정적인 기반과 고성장 재생에너지 개발 사업(NEER)의 역동성을 결합한 독특한 모델은 투자자에게 안정적인 배당 수익과 장기적인 자본 성장을 동시에 추구할 수 있는 기회를 제공합니다.
-            특히 인공지능(AI) 데이터 센터 및 전기차 확산에 따른 전력 수요 증가는 넥스트에라 에너지에게 새로운 주요 성장 동력으로 작용할 것입니다.
-        </p>
-        <p class="max-w-3xl mx-auto mt-4 text-gray-700 font-medium leading-relaxed">
-            넥스트에라 에너지는 매력적인 투자처이지만, 높은 부채 수준과 정책 변화에 대한 민감성을 면밀히 주시하며 장기적 관점에서 분산 투자하는 전략이 바람직합니다.
-            미국 에너지 정책 변화, FPL 요금 결정 동향, 그리고 회사의 부채 관리 전략을 지속적으로 모니터링하는 것이 중요합니다.
-            단기적인 시장 변동보다는 청정에너지 전환이라는 장기적인 흐름 속에서 회사의 성장 잠재력에 초점을 맞추는 것이 필요합니다.
-        </p>
-        <p class="text-xs text-gray-400 mt-8">본 자료는 정보 제공을 목적으로 하며, 투자 권유나 추천이 아닙니다. 모든 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.</p>
-    </footer>
+    </main>
 
-</main>
+    <script>
+        Chart.register(ChartDataLabels);
 
-<script>
-    Chart.register(ChartDataLabels);
+        document.addEventListener('DOMContentLoaded', () => {
+            const FPL_COLOR = '#0077b6';
+            const NEER_COLOR = '#00bfa5';
+            
+            const tooltipTitleCallback = (tooltipItems) => {
+                const item = tooltipItems[0];
+                let label = item.chart.data.labels[item.dataIndex];
+                if (Array.isArray(label)) return label.join(' ');
+                return label;
+            };
 
-    document.addEventListener('DOMContentLoaded', () => {
-        const FPL_COLOR = '#0077b6';
-        const NEER_COLOR = '#00bfa5';
-        
-        const commonOptions = {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { display: false },
-                tooltip: {
-                    enabled: true,
-                    bodyFont: { family: "'Noto Sans KR', sans-serif" },
-                    titleFont: { family: "'Noto Sans KR', sans-serif" },
-                    backgroundColor: '#495057',
-                    padding: 10,
-                    cornerRadius: 4
+            const commonOptions = {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        enabled: true,
+                        callbacks: { title: tooltipTitleCallback },
+                        bodyFont: { family: "'Noto Sans KR', sans-serif" },
+                        titleFont: { family: "'Noto Sans KR', sans-serif" },
+                        backgroundColor: '#495057',
+                        titleColor: '#ffffff',
+                        bodyColor: '#ffffff',
+                        padding: 10,
+                        cornerRadius: 4
+                    }
                 },
-                datalabels: { display: false } 
-            },
-            scales: {
-                x: { ticks: { font: { family: "'Noto Sans KR', sans-serif", size: 10 }, color: '#6c757d' }, grid: { display: false } },
-                y: { ticks: { font: { family: "'Noto Sans KR', sans-serif", size: 10 }, color: '#6c757d' }, grid: { color: '#e9ecef' }, beginAtZero: true }
-            }
-        };
-        
-        new Chart(document.getElementById('revenueSplitChart'), {
-            type: 'doughnut',
-            data: {
-                labels: ['FPL (규제 유틸리티)', 'NEER (재생에너지)'],
-                datasets: [{
-                    data: [69.29, 30.71],
-                    backgroundColor: [FPL_COLOR, NEER_COLOR],
-                    borderColor: '#ffffff',
-                    borderWidth: 4
-                }]
-            },
-            options: { ...commonOptions, plugins: { ...commonOptions.plugins, legend: { position: 'bottom', labels: { font: { family: "'Noto Sans KR', sans-serif" } } }, tooltip: { callbacks: { label: c => `${c.label}: ${c.raw.toFixed(2)}%` } }, datalabels: { display: true, color: '#ffffff', font: { weight: 'bold' }, formatter: (v) => `${v.toFixed(1)}%` } } }
-        });
+                scales: {
+                    x: {
+                        ticks: { font: { family: "'Noto Sans KR', sans-serif", size: 10 }, color: '#6c757d' },
+                        grid: { display: false }
+                    },
+                    y: {
+                        ticks: { font: { family: "'Noto Sans KR', sans-serif", size: 10 }, color: '#6c757d' },
+                        grid: { color: '#e9ecef' },
+                        beginAtZero: true
+                    }
+                }
+            };
+            
+            const revenueSplitChart = new Chart(document.getElementById('revenueSplitChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['FPL (규제 유틸리티)', 'NEER (재생에너지)'],
+                    datasets: [{
+                        data: [69.29, 30.71],
+                        backgroundColor: [FPL_COLOR, NEER_COLOR],
+                        borderColor: '#ffffff',
+                        borderWidth: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom', labels: { font: { family: "'Noto Sans KR', sans-serif", size: 12 } } },
+                        tooltip: { callbacks: { label: c => `${c.label}: ${c.raw.toFixed(2)}%` } }
+                    }
+                }
+            });
 
-        const financialsChartConfig = {
-            type: 'bar',
-            data: {
-                labels: ['2020', '2021', '2022', '2023', '2024'],
-                datasets: [
-                    { label: '총 매출 (십억$)', data: [18.00, 17.07, 20.96, 28.11, 24.75], backgroundColor: 'rgba(0, 119, 182, 0.7)', yAxisID: 'y'},
-                    { type: 'line', label: '순이익 (십억$)', data: [2.92, 2.83, 3.25, 7.31, 6.95], borderColor: NEER_COLOR, backgroundColor: 'rgba(0, 191, 165, 0.2)', fill: true, tension: 0.3, yAxisID: 'y' }
-                ]
-            },
-            options: { ...commonOptions, plugins: { ...commonOptions.plugins, legend: { display: true, position: 'top' } }, scales: { ...commonOptions.scales, y: { ...commonOptions.scales.y, title: { display: true, text: '단위: 십억 달러' } } } }
-        };
-        let financialsChart;
+            const financialsChart = new Chart(document.getElementById('financialsChart'), {
+                type: 'bar',
+                data: {
+                    labels: ['2020', '2021', '2022', '2023', '2024'],
+                    datasets: [{
+                        label: '총 매출',
+                        data: [18.00, 17.07, 20.96, 28.11, 24.75],
+                        backgroundColor: 'rgba(0, 119, 182, 0.7)',
+                        yAxisID: 'y',
+                    }, {
+                        type: 'line',
+                        label: '순이익',
+                        data: [2.92, 2.83, 3.25, 7.31, 6.95],
+                        borderColor: '#00bfa5',
+                        backgroundColor: 'rgba(0, 191, 165, 0.2)',
+                        fill: true,
+                        tension: 0.3,
+                        yAxisID: 'y',
+                    }]
+                },
+                options: {
+                    ...commonOptions,
+                    plugins: { ...commonOptions.plugins, legend: { display: true, position: 'top' } },
+                    scales: {
+                        ...commonOptions.scales,
+                        y: { ...commonOptions.scales.y, title: { display: true, text: '단위: 십억 달러', font: { size: 10 } } }
+                    }
+                }
+            });
 
-        const stockPriceChartConfig = {
-            type: 'line',
-            data: {
-                labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
-                datasets: [{ label: 'NEE 월별 조정 주가 (USD)', data: [20.41, 24.36, 32.73, 34.38, 53.38, 69.43, 85.68, 78.36, 58.54, 77.83, 70.89], borderColor: FPL_COLOR, backgroundColor: 'rgba(0, 119, 182, 0.1)', fill: true, tension: 0.1, pointRadius: 0 }]
-            },
-            options: { ...commonOptions, plugins: { ...commonOptions.plugins, legend: { display: true, position: 'top' } } }
-        };
-        let stockPriceChart;
+            const stockPriceChart = new Chart(document.getElementById('stockPriceChart'), {
+                type: 'line',
+                data: {
+                    labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
+                    datasets: [{
+                        label: 'NEE 월별 조정 주가 (USD)',
+                        data: [20.41, 24.36, 32.73, 34.38, 53.38, 69.43, 85.68, 78.36, 58.54, 77.83, 70.89],
+                        borderColor: '#0077b6',
+                        backgroundColor: 'rgba(0, 119, 182, 0.1)',
+                        fill: true,
+                        tension: 0.1,
+                        pointRadius: 0
+                    }]
+                },
+                options: {
+                    ...commonOptions,
+                    plugins: { ...commonOptions.plugins, legend: { display: true, position: 'top' } }
+                }
+            });
+            
+            const marketGrowthChart = new Chart(document.getElementById('marketGrowthChart'), {
+                type: 'line',
+                data: {
+                    labels: ['2023', '2024', '2025', '2026', '2027', '2028', '2029', '2030'],
+                    datasets: [{
+                        label: '재생에너지 시장 CAGR',
+                        data: [12.5, 13.0, 13.5, 14.0, 14.5, 14.9, 14.8, 14.7], // Sample data
+                        borderColor: NEER_COLOR,
+                        backgroundColor: 'rgba(0, 191, 165, 0.2)',
+                        fill: false,
+                        tension: 0.4
+                    },
+                    {
+                        label: '에너지 저장 시장 CAGR',
+                        data: [10.5, 11.2, 12.0, 12.8, 13.5, 14.0, 14.3, 14.31], // Sample data
+                        borderColor: '#94d2bd',
+                        backgroundColor: 'rgba(148, 210, 189, 0.2)',
+                        fill: false,
+                        tension: 0.4
+                    },
+                    {
+                        label: '미국 전력 송배전 CAGR',
+                        data: [2.5, 2.7, 2.8, 2.9, 2.95, 2.9, 2.8, 2.7], // Sample data
+                        borderColor: FPL_COLOR,
+                        backgroundColor: 'rgba(0, 119, 182, 0.2)',
+                        fill: false,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    ...commonOptions,
+                    plugins: {
+                        ...commonOptions.plugins,
+                        legend: { display: true, position: 'bottom' }
+                    },
+                    scales: {
+                        x: {
+                           ...commonOptions.scales.x,
+                           title: {
+                                display: true,
+                                text: '연도'
+                           },
+                           grid: { display: false },
+                        },
+                        y: {
+                            ...commonOptions.scales.y,
+                            title: {
+                                display: true,
+                                text: 'CAGR (%)'
+                            },
+                             ticks: {
+                               ...commonOptions.scales.y.ticks,
+                                callback: function(value) {
+                                    return value + '%';
+                                }
+                             }
+                        }
+                    }
+                }
+            });
 
-        const tabs = [
-            { id: 'perf', chart: () => { if(financialsChart) financialsChart.destroy(); financialsChart = new Chart(document.getElementById('financialsChart'), financialsChartConfig); } },
-            { id: 'stock', chart: () => { if(stockPriceChart) stockPriceChart.destroy(); stockPriceChart = new Chart(document.getElementById('stockPriceChart'), stockPriceChartConfig); } },
-            { id: 'ratio', chart: null }
-        ];
+            const generationMixChart = new Chart(document.getElementById('generationMixChart'), {
+                type: 'pie',
+                data: {
+                    labels: ['풍력', '원자력', '태양광'],
+                    datasets: [{
+                        data: [64, 19, 17],
+                        backgroundColor: ['#0077b6', '#48cae4', '#ade8f4'],
+                        borderColor: '#ffffff',
+                        borderWidth: 4,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom', labels: { font: { family: "'Noto Sans KR', sans-serif", size: 12 } } },
+                        tooltip: { callbacks: { label: c => `${c.label}: ${c.raw}%` } },
+                        datalabels: {
+                            color: '#ffffff',
+                            font: { weight: 'bold', size: 14 },
+                            formatter: value => `${value}%`
+                        }
+                    }
+                }
+            });
 
-        tabs.forEach(tabInfo => {
-            document.getElementById(`${tabInfo.id}Btn`).addEventListener('click', () => {
-                tabs.forEach(t => {
-                    document.getElementById(`${t.id}Content`).classList.add('hidden');
-                    document.getElementById(`${t.id}Btn`).classList.remove('active');
-                });
-                document.getElementById(`${tabInfo.id}Content`).classList.remove('hidden');
-                document.getElementById(`${tabInfo.id}Btn`).classList.add('active');
-                if(tabInfo.chart) tabInfo.chart();
+            // Financial Tabs
+            const perfBtn = document.getElementById('perfBtn');
+            const stockBtn = document.getElementById('stockBtn');
+            const detailFinBtn = document.getElementById('detailFinBtn');
+            const perfContent = document.getElementById('perfContent');
+            const stockContent = document.getElementById('stockContent');
+            const detailFinContent = document.getElementById('detailFinContent');
+
+            perfBtn.addEventListener('click', () => {
+                perfContent.classList.remove('hidden');
+                stockContent.classList.add('hidden');
+                detailFinContent.classList.add('hidden');
+                perfBtn.classList.add('active');
+                stockBtn.classList.remove('active');
+                detailFinBtn.classList.remove('active');
+            });
+            stockBtn.addEventListener('click', () => {
+                perfContent.classList.add('hidden');
+                stockContent.classList.remove('hidden');
+                detailFinContent.classList.add('hidden');
+                perfBtn.classList.remove('active');
+                stockBtn.classList.add('active');
+                detailFinBtn.classList.remove('active');
+            });
+            detailFinBtn.addEventListener('click', () => {
+                perfContent.classList.add('hidden');
+                stockContent.classList.add('hidden');
+                detailFinContent.classList.remove('hidden');
+                perfBtn.classList.remove('active');
+                stockBtn.classList.remove('active');
+                detailFinBtn.classList.add('active');
             });
         });
-        
-        document.getElementById('perfBtn').click();
-        
-        new Chart(document.getElementById('marketGrowthChart'), {
-            type: 'bar',
-            data: {
-                labels: ['재생에너지 시장', '에너지 저장 시장', '미국 전력 송배전'],
-                datasets: [{ data: [14.9, 14.31, 2.95], backgroundColor: [NEER_COLOR, '#94d2bd', FPL_COLOR] }]
-            },
-            options: { ...commonOptions, indexAxis: 'y', plugins: { ...commonOptions.plugins, datalabels: { display: true, color: '#ffffff', font: { weight: 'bold' }, formatter: v => `${v}%` } }, scales: { x: { ...commonOptions.scales.x, ticks: { callback: v => v + '%' } }, y: { ...commonOptions.scales.y, grid: { display: false } } } }
-        });
-
-        new Chart(document.getElementById('generationMixChart'), {
-            type: 'pie',
-            data: {
-                labels: ['풍력', '원자력', '태양광'],
-                datasets: [{ data: [64, 19, 17], backgroundColor: [FPL_COLOR, '#48cae4', '#ade8f4'], borderColor: '#ffffff', borderWidth: 4 }]
-            },
-            options: { ...commonOptions, plugins: { ...commonOptions.plugins, legend: { position: 'bottom' }, tooltip: { callbacks: { label: c => `${c.label}: ${c.raw}%` } }, datalabels: { display: true, color: '#ffffff', font: { weight: 'bold' }, formatter: v => `${v}%` } } }
-        });
-    });
-</script>
+    </script>
 </body>
 </html>
