@@ -35,103 +35,310 @@
 </header>
 
     <main>
-        <div class="bg-white sticky top-16 z-40 shadow-sm">
-    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex justify-between items-center h-16">
-            <div>
-                <a href="/my-company-analysis/companies.html" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center">
-                    <span class="mr-2">&larr;</span> 기업 선택으로 돌아가기
-                </a>
-            </div>
-            <div class="hidden md:flex space-x-6 text-sm">
-                <a href="#hero" class="nav-link border-b-2 border-transparent pb-1">핵심 요약</a>
-                <a href="#growth-engine" class="nav-link border-b-2 border-transparent pb-1">성장 엔진</a>
-                <a href="#portfolio" class="nav-link border-b-2 border-transparent pb-1">포트폴리오</a>
-                <a href="#financials" class="nav-link border-b-2 border-transparent pb-1">재무 및 배당</a>
-                <a href="#outlook" class="nav-link border-b-2 border-transparent pb-1">전망</a>
-            </div>
+        <div class="bg-white sticky top-16 z-40 shadow-sm border-b">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+        <div>
+            <a href="/my-company-analysis/companies.html" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center text-sm font-medium">
+                <span class="mr-2">&larr;</span> 기업 선택으로 돌아가기
+            </a>
         </div>
     </div>
 </div>
 
-<main class="container mx-auto p-4 md:p-8">
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>애브비 (ABBV) 대화형 투자 분석 대시보드</title>
+    <!-- Chosen Palette: Warm Neutrals & Soft Accents -->
+    <!-- Application Structure Plan: The SPA is designed with a clear, logical flow mirroring the NextEra Energy format. It starts with a Hero section for key statistics, followed by a Business Structure section to visualize the main revenue drivers. The Market Dynamics section analyzes the broader industry context, and the Financials & Dividends section provides a deep dive into the company's financial health and shareholder returns. Finally, the Outlook section summarizes strategic analysis, with a new section on investment conclusions and recommendations to provide a final summary of the investment case without specific monetary values. The investment conclusion is broken down into three distinct blocks for improved readability. -->
+    <!-- Visualization & Content Choices: 
+        - Hero Stats: Inform -> 4 KPI Cards (HTML/CSS) -> Displays critical metrics like key immunology revenue and current dividend yield.
+        - Business Structure: Organize -> Doughnut Chart with Datalabels (Chart.js) -> Shows revenue contribution by main therapeutic segments.
+        - Market Dynamics: Inform/Compare -> Vertical Bar Chart (Chart.js) for Market Size, with a separate table below for CAGR and market share. The detailed competitive analysis text is now presented in a table for improved readability and direct comparison.
+        - Financials: Change/Inform -> Line Chart for Stock Price, Bar Chart for Revenue/Net Income, Line Chart for DPS (Chart.js) -> Tracks long-term financial trends with clear datalabels on bar charts for direct value reading.
+        - SWOT Analysis: Organize -> Four-Quadrant Layout (HTML/CSS) -> A clean, structured way to present qualitative analysis.
+        - Investment Conclusion: Inform -> Three separate text blocks with bullet points (HTML/CSS) summarizing the investment thesis and providing specific recommendations without fixed amounts.
+    -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: 350px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 400px;
+            }
+        }
+        .nav-link {
+            transition: color 0.3s, border-bottom-color 0.3s;
+        }
+        .nav-link:hover, .nav-link.active {
+            color: #4A55A2;
+            border-bottom-color: #4A55A2;
+        }
+        .tab-button.active {
+            background-color: #4A55A2;
+            color: white;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .mini-chart-container {
+            position: relative;
+            width: 100%;
+            height: 120px;
+            max-height: 150px;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
 
-    <section id="hero" class="text-center pt-12">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900">애브비(ABBV): 새로운 시대를 여는 거인</h1>
-        <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
-            애브비는 블록버스터 '휴미라'의 특허 만료 위기를 성공적으로 극복하고, 차세대 성장 동력으로 무장하여 지속 가능한 성장을 증명하고 있습니다.
-        </p>
-        <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-indigo-500">
-                <p class="text-sm text-gray-500">스카이리치 & 린보크</p>
-                <p class="text-3xl font-bold text-indigo-600 mt-2">$310억+</p>
-                <p class="text-sm text-gray-500 mt-1">2027년 예상 합산 매출</p>
-            </div>
-            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-purple-500">
-                <p class="text-sm text-gray-500">연속 배당 성장</p>
-                <p class="text-3xl font-bold text-purple-600 mt-2">11년+</p>
-                <p class="text-sm text-gray-500 mt-1">강력한 주주 환원 의지</p>
-            </div>
-            <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-sky-500">
-                <p class="text-sm text-gray-500">Q1 2025 순매출</p>
-                <p class="text-3xl font-bold text-sky-600 mt-2">$133.4억</p>
-                <p class="text-sm text-gray-500 mt-1">운영 기준 9.8% 성장</p>
+    <nav id="navbar" class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <div class="text-2xl font-bold text-gray-900">애브비(ABBV) 분석</div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#q2-highlight-section" class="nav-link border-b-2 border-transparent pb-1">2분기 실적</a>
+                    <a href="#hero" class="nav-link border-b-2 border-transparent pb-1">핵심 요약</a>
+                    <a href="#growth-engine" class="nav-link border-b-2 border-transparent pb-1">성장 엔진</a>
+                    <a href="#market-dynamics" class="nav-link border-b-2 border-transparent pb-1">시장 동향</a>
+                    <a href="#financials" class="nav-link border-b-2 border-transparent pb-1">재무 및 배당</a>
+                    <a href="#outlook" class="nav-link border-b-2 border-transparent pb-1">전망</a>
+                </div>
             </div>
         </div>
-    </section>
+    </nav>
 
-    <section id="growth-engine" class="py-12">
-        <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
-            <h2 class="text-3xl font-bold text-center mb-2">핵심 성장 엔진: 성공적인 포트폴리오 전환</h2>
-            <p class="text-center text-gray-600 max-w-2xl mx-auto mb-8">
-                휴미라의 매출 감소는 스카이리치와 린보크의 폭발적인 성장으로 상쇄되고 있습니다. 이 두 블록버스터는 이제 애브비의 미래를 이끌며, 휴미라의 전성기 매출을 넘어설 준비를 마쳤습니다.
+    <main class="container mx-auto p-4 md:p-8">
+
+        <section id="q2-highlight-section" class="text-center py-12">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">2025년 2분기 주요 실적 하이라이트</h2>
+                <p class="text-gray-600 max-w-3xl mx-auto mb-6">애브비의 최신 성과를 한눈에 확인하세요.</p>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <div class="bg-gray-100 p-6 rounded-lg text-left">
+                        <h3 class="font-bold text-gray-900 text-lg">매출 및 EPS 예상치 상회</h3>
+                        <p class="mt-2 text-gray-700">매출 <span class="font-bold text-indigo-600">154.2억 달러</span>, 조정 주당순이익(Adjusted EPS) <span class="font-bold text-indigo-600">2.97달러</span>로 시장 예상치를 상회했습니다.</p>
+                    </div>
+                    <div class="bg-gray-100 p-6 rounded-lg text-left">
+                        <h3 class="font-bold text-gray-900 text-lg">연간 가이던스 상향</h3>
+                        <p class="mt-2 text-gray-700">2025년 연간 조정 EPS 가이던스를 기존 <span class="font-bold text-purple-600">11.67~11.87달러</span>에서 <span class="font-bold text-purple-600">11.88~12.08달러</span>로 상향 조정했습니다.</p>
+                    </div>
+                    <div class="bg-gray-100 p-6 rounded-lg text-left">
+                        <h3 class="font-bold text-gray-900 text-lg">면역학 부문 강력한 성장</h3>
+                        <p class="mt-2 text-gray-700">전체 면역학 부문 매출이 전년 대비 <span class="font-bold text-sky-600">9.5% 증가</span>하며 '휴미라'의 빈자리를 성공적으로 채웠습니다.</p>
+                    </div>
+                    <div class="bg-gray-100 p-6 rounded-lg text-left">
+                        <h3 class="font-bold text-gray-900 text-lg">R&D 및 파이프라인</h3>
+                        <p class="mt-2 text-gray-700">IGI 테라퓨틱스와 7억 달러 규모의 라이선스 계약을 체결하는 등 파이프라인 강화를 위한 노력을 지속하고 있습니다.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="hero" class="text-center py-12">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-900">새로운 시대를 여는 거인: 애브비</h1>
+            <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
+                애브비는 블록버스터 '휴미라'의 특허 만료 위기를 성공적으로 극복하고, 차세대 성장 동력으로 무장하여 지속 가능한 성장을 증명하고 있는 글로벌 바이오 제약 기업입니다.
             </p>
-            <div class="chart-container mx-auto">
-                <canvas id="growthEngineChart"></canvas>
+            <div class="mt-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+                <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-indigo-500">
+                    <p class="text-sm text-gray-500">핵심 면역학 매출 (Q2 2025)</p>
+                    <p class="text-2xl font-bold text-indigo-600 mt-2">$76.3억</p>
+                    <p class="text-sm text-gray-500 mt-1">스카이리치 & 린버크 중심</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-purple-500">
+                    <p class="text-sm text-gray-500">연속 배당 성장</p>
+                    <p class="text-2xl font-bold text-purple-600 mt-2">11년+</p>
+                    <p class="text-sm text-gray-500 mt-1">강력한 주주 환원 의지</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-sky-500">
+                    <p class="text-sm text-gray-500">Q2 2025 순매출</p>
+                    <p class="text-2xl font-bold text-sky-600 mt-2">$154.2억</p>
+                    <p class="text-sm text-gray-500 mt-1">시장 예상치 상회</p>
+                </div>
+                 <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-emerald-500">
+                    <p class="text-sm text-gray-500">현재 배당률</p>
+                    <p class="text-2xl font-bold text-emerald-600 mt-2">3.36%</p>
+                    <p class="text-sm text-gray-500 mt-1">견고한 배당 수익률</p>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section id="portfolio" class="py-12">
-        <h2 class="text-3xl font-bold text-center mb-8">다각화된 성장 포트폴리오</h2>
-        <div class="grid grid-cols-1 lg:grid-cols-5 gap-8">
-            <div class="lg:col-span-2 bg-white p-6 rounded-xl shadow-lg flex flex-col justify-center">
-                <h3 class="text-xl font-bold text-center mb-4">Q1 2025 매출 비중</h3>
-                <div class="chart-container" style="height: 300px;">
-                    <canvas id="portfolioDonutChart"></canvas>
+        <section id="growth-engine" class="py-12">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                <h2 class="text-3xl font-bold text-center mb-2">핵심 성장 엔진: 휴미라 이후의 포트폴리오 전환</h2>
+                <p class="text-center text-gray-600 max-w-2xl mx-auto mb-8">
+                    애브비는 블록버스터 휴미라의 특허 만료로 인한 매출 감소를 스카이리치와 린버크라는 강력한 차세대 치료제들의 폭발적인 성장으로 성공적으로 상쇄하고 있습니다. 이들 신약은 이미 휴미라의 전성기 매출을 넘어설 것으로 예상되며, 회사의 미래 성장을 견인할 핵심 동력입니다.
+                </p>
+                <div class="chart-container mx-auto">
+                    <canvas id="growthEngineChart"></canvas>
                 </div>
+                <p class="mt-6 text-sm text-center text-gray-500">위 차트는 휴미라의 매출 감소와 스카이리치 및 린버크의 급격한 성장을 보여주며, 애브비의 성공적인 포트폴리오 전환 전략을 시각적으로 나타냅니다.</p>
             </div>
-            <div id="portfolio-details" class="lg:col-span-3 bg-white p-6 md:p-8 rounded-xl shadow-lg">
-                </div>
-        </div>
-    </section>
+        </section>
 
-    <section id="financials" class="py-12">
-        <h2 class="text-3xl font-bold text-center mb-8">견고한 재무 성과와 주주 환원</h2>
-         <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            <div class="bg-white p-6 rounded-xl shadow-lg">
-                <h3 class="text-xl font-bold text-center mb-4">10년 주가 추이 (2015-2025)</h3>
-                <div class="chart-container">
-                    <canvas id="stockPriceChart"></canvas>
+        <section id="market-dynamics" class="py-12">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                <h2 class="text-3xl font-bold text-center mb-2">글로벌 시장 역학: 애브비 사업 분야의 잠재력</h2>
+                <p class="text-center text-gray-600 max-w-2xl mx-auto mb-8">
+                    애브비는 고성장이 예상되는 면역학, 종양학, 신경과학, 에스테틱스 등 다각화된 치료 분야에서 사업을 운영하고 있습니다. 각 시장은 고령화 인구 증가와 미충족 의료 수요에 힘입어 견고한 성장세를 보이며, 애브비는 혁신적인 제품과 전략적 인수를 통해 이들 시장에서 중요한 점유율을 확보하고 있습니다.
+                </p>
+                <div class="chart-container mx-auto">
+                    <canvas id="marketDynamicsChart"></canvas>
                 </div>
-            </div>
-            <div class="bg-white p-6 rounded-xl shadow-lg">
-                <h3 class="text-xl font-bold text-center mb-4">연간 매출 및 순이익 (단위: 10억$)</h3>
-                <div class="chart-container">
-                    <canvas id="revenueIncomeChart"></canvas>
+                <p class="mt-6 text-sm text-center text-gray-500">위 차트는 애브비의 주요 치료 분야별 글로벌 시장 규모(2024년 기준)를 보여줍니다. 각 시장의 예상 연평균 성장률(CAGR)과 애브비의 시장 점유율은 아래 표를 통해 확인하실 수 있습니다.</p>
+                
+                <h3 class="text-2xl font-bold mt-12 mb-4 text-center">주요 시장 지표 및 경쟁 환경</h3>
+                <div class="overflow-x-auto rounded-lg shadow-md mx-auto max-w-2xl">
+                    <table class="w-full text-left text-gray-700">
+                        <thead class="bg-gray-100 text-gray-900 uppercase text-sm">
+                            <tr>
+                                <th scope="col" class="px-6 py-3">치료 분야</th>
+                                <th scope="col" class="px-6 py-3">예상 CAGR (%)</th>
+                                <th scope="col" class="px-6 py-3">애브비 시장 점유율 (%) <br>(2025년 Q2 추정)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="bg-white border-b">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">면역학</td>
+                                <td class="px-6 py-4">12.1</td>
+                                <td class="px-6 py-4">22.9</td>
+                            </tr>
+                            <tr class="bg-gray-50 border-b">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">종양학</td>
+                                <td class="px-6 py-4">10.9</td>
+                                <td class="px-6 py-4">2.03</td>
+                            </tr>
+                            <tr class="bg-white border-b">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">신경과학</td>
+                                <td class="px-6 py-4">5.6</td>
+                                <td class="px-6 py-4">19.87</td>
+                            </tr>
+                            <tr class="bg-gray-50">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">에스테틱스</td>
+                                <td class="px-6 py-4">9.8</td>
+                                <td class="px-6 py-4">4.81</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
-            </div>
-        </div>
-    </section>
 
-    <section id="outlook" class="py-12">
-        <h2 class="text-3xl font-bold text-center mb-8">미래 전망: 기회와 리스크</h2>
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            <div class="bg-white p-6 rounded-xl shadow-lg">
+                <h3 class="text-2xl font-bold mt-12 mb-4 text-center">경쟁 환경 상세 분석</h3>
+                <div class="overflow-x-auto rounded-lg shadow-md mx-auto max-w-4xl">
+                    <table class="w-full text-left text-gray-700">
+                        <thead class="bg-gray-100 text-gray-900 uppercase text-sm">
+                            <tr>
+                                <th scope="col" class="px-6 py-3">치료 분야</th>
+                                <th scope="col" class="px-6 py-3">핵심 경쟁사 및 제품</th>
+                                <th scope="col" class="px-6 py-3">경쟁 우위 및 특징</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="bg-white border-b">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">면역학</td>
+                                <td class="px-6 py-4">존슨앤드존슨 (스텔라라, 트렘피아), 화이자, 머크</td>
+                                <td class="px-6 py-4">스카이리치(건선 시장 점유율 35% 이상) 및 린버크를 통한 성공적인 휴미라 대체</td>
+                            </tr>
+                            <tr class="bg-gray-50 border-b">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">종양학</td>
+                                <td class="px-6 py-4">아스트라제네카 (타그리소, 린파자), 머크 (키트루다), 화이자</td>
+                                <td class="px-6 py-4">임브루비카/벤클렉스타를 기반으로 고형암 분야로 확장 중</td>
+                            </tr>
+                            <tr class="bg-white border-b">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">신경과학</td>
+                                <td class="px-6 py-4">다수 제약사 (경구용 편두통 치료제)</td>
+                                <td class="px-6 py-4">보톡스 치료제, 브라이라 등의 견고한 매출과 세레벨 인수를 통한 파이프라인 강화</td>
+                            </tr>
+                            <tr class="bg-gray-50">
+                                <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">에스테틱스</td>
+                                <td class="px-6 py-4">갈더마, 머츠</td>
+                                <td class="px-6 py-4">보톡스 코스메틱(시장 점유율 60-68%)과 쥬비덤을 통한 시장 지배력 유지</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section id="financials" class="py-12">
+            <h2 class="text-3xl font-bold text-center mb-8">견고한 재무 성과와 배당 성장</h2>
+            <p class="text-center text-gray-600 max-w-2xl mx-auto mb-8">
+                애브비는 지난 10년간 꾸준한 주가 상승과 함께 안정적인 매출을 기록하며 강력한 재무 건전성을 보여주었습니다. 특히, 지속적인 배당금 인상은 장기 투자자에게 매력적인 요소로, 강력한 주주 환원 의지를 나타냅니다.
+            </p>
+             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div class="bg-white p-6 rounded-xl shadow-lg">
+                    <h3 class="text-xl font-bold text-center mb-4">10년 주가 추이 (2015-2025)</h3>
+                    <div class="chart-container">
+                        <canvas id="stockPriceChart"></canvas>
+                    </div>
+                    <p class="mt-4 text-sm text-center text-gray-500">2013년 분사 이후 전반적인 우상향 추세를 보여주며 장기적인 주주 가치 창출을 입증합니다.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-lg">
+                    <h3 class="text-xl font-bold text-center mb-4">연간 매출 및 순이익 (단위: 10억$)</h3>
+                    <div class="chart-container">
+                        <canvas id="revenueIncomeChart"></canvas>
+                    </div>
+                    <p class="mt-4 text-sm text-center text-gray-500">휴미라 특허 만료 영향에도 불구하고 매출은 회복세를 보이며 순이익은 변동성을 보였습니다.</p>
+                </div>
+                <div class="lg:col-span-2 bg-white p-6 rounded-xl shadow-lg">
+                    <h3 class="text-xl font-bold text-center mb-4">지난 10년 주당 배당금 (DPS) 추이 ($)</h3>
+                    <div class="chart-container">
+                        <canvas id="dpsChart"></canvas>
+                    </div>
+                    <p class="mt-4 text-sm text-center text-gray-500">애브비는 11년 연속 배당금을 인상하며 꾸준한 배당 성장을 보여왔습니다.</p>
+                </div>
+            </div>
+            <div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-indigo-500 text-center">
+                    <p class="text-sm text-gray-500">현재 배당률</p>
+                    <p class="text-3xl font-bold text-indigo-600 mt-2">3.36%</p>
+                    <p class="text-sm text-gray-500 mt-1">(2025년 Q2 기준)</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-purple-500 text-center">
+                    <p class="text-sm text-gray-500">10년 연평균 배당성장률</p>
+                    <p class="text-3xl font-bold text-purple-600 mt-2">13.24%</p>
+                    <p class="text-sm text-gray-500 mt-1">장기적인 주주가치 증대 기여</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md border-t-4 border-sky-500">
+                    <p class="text-sm text-gray-500 text-center">배당성향 (2024년 기준)</p>
+                    <p class="text-3xl font-bold text-sky-600 mt-2 text-center">213.59%</p>
+                    <p class="text-xs text-gray-500 mt-1 text-center">
+                        <span class="font-bold">높은 배당성향 설명:</span> 애브비의 높은 배당성향은 주로 회계상 순이익 변동성(특히 앨러간 인수 관련 상각비 등 비현금성 비용) 때문일 수 있습니다. 제약사의 배당 지속 가능성은 순이익뿐만 아니라 **잉여 현금 흐름(Free Cash Flow)**에 기반하여 평가하는 것이 더 중요합니다. 애브비는 강력한 현금 흐름을 바탕으로 배당금을 지급하고 있으며, 이는 배당 지속 가능성에 대한 우려를 완화합니다.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="outlook" class="py-12">
+            <h2 class="text-3xl font-bold text-center mb-8">미래 전망: 기회와 리스크</h2>
+            <p class="text-center text-gray-600 max-w-2xl mx-auto mb-8">
+                애브비의 미래를 이해하기 위한 중요한 단계는 내외부 환경 요인을 분석하는 것입니다. 아래 SWOT 분석을 통해 애브비가 직면한 기회와 위협을 파악할 수 있습니다.
+            </p>
+            <div class="bg-white p-6 rounded-xl shadow-lg w-full">
                 <h3 class="text-xl font-bold text-center mb-4">SWOT 분석</h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-800">강점</h4>
+                        <h4 class="font-bold text-green-800">강점 (Strengths)</h4>
                         <ul class="mt-2 list-disc list-inside text-gray-700">
                             <li>다각화된 강력한 파이프라인</li>
                             <li>우수한 R&D 및 상업화 역량</li>
@@ -140,17 +347,17 @@
                         </ul>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
-                         <h4 class="font-bold text-red-800">약점</h4>
+                         <h4 class="font-bold text-red-800">약점 (Weaknesses)</h4>
                         <ul class="mt-2 list-disc list-inside text-gray-700">
                             <li>신규 주력 제품 의존도</li>
                             <li>지속적인 특허 만료 리스크</li>
-                            <li>M&A 관련 부채 부담</li>
+                            <li>대규모 M&A로 인한 부채 부담</li>
                             <li>글로벌 규제 및 가격 압력</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
-                         <h4 class="font-bold text-blue-800">기회</h4>
-                        <ul class="mt-2 list-disc list-inside text-gray-700">
+                         <h4 class="font-bold text-blue-800">기회 (Opportunities)</h4>
+                        <ul class="mt-2 list-disc list-inside text-blue-700">
                             <li>신규 적응증 확대</li>
                             <li>글로벌 헬스케어 시장 성장</li>
                             <li>AI/디지털 헬스 기술 접목</li>
@@ -158,8 +365,8 @@
                         </ul>
                     </div>
                     <div class="bg-yellow-50 p-4 rounded-lg">
-                         <h4 class="font-bold text-yellow-800">위협</h4>
-                        <ul class="mt-2 list-disc list-inside text-gray-700">
+                         <h4 class="font-bold text-yellow-800">위협 (Threats)</h4>
+                        <ul class="mt-2 list-disc list-inside text-yellow-700">
                             <li>치열한 시장 경쟁</li>
                             <li>헬스케어 정책 변화</li>
                             <li>R&D 실패 및 지연 리스크</li>
@@ -168,217 +375,457 @@
                     </div>
                 </div>
             </div>
-             <div class="bg-white p-6 rounded-xl shadow-lg">
-                <h3 class="text-xl font-bold text-center mb-4">애널리스트 컨센서스</h3>
-                <p class="text-center text-gray-600 mb-6">48명의 애널리스트 기반 종합 의견</p>
-                <div class="chart-container" style="height: 300px;">
-                    <canvas id="analystRatingsChart"></canvas>
+        </section>
+
+        <section id="investment-conclusion" class="py-12">
+            <h2 class="text-3xl font-bold text-center mb-8">투자 결론 및 권고 사항</h2>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg w-full">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="p-6 bg-green-50 rounded-lg">
+                        <h3 class="text-xl font-bold text-green-800 mb-2">✅ 핵심 투자 매력</h3>
+                        <ul class="list-disc list-inside text-gray-700 space-y-1">
+                            <li>독보적인 시장 리더십 (면역학, 에스테틱스)</li>
+                            <li>안정적 배당 & 강력한 EPS 성장 (장기 가이던스)</li>
+                            <li>성공적인 포트폴리오 전환 (휴미라 → 스카이리치/린버크)</li>
+                            <li>다양한 치료 분야에 걸친 사업 포트폴리오</li>
+                        </ul>
+                    </div>
+                    <div class="p-6 bg-red-50 rounded-lg">
+                        <h3 class="text-xl font-bold text-red-800 mb-2">🚨 주요 투자 리스크</h3>
+                        <ul class="list-disc list-inside text-gray-700 space-y-1">
+                            <li>높은 부채 수준 및 금리 민감성</li>
+                            <li>규제/정책 변화 불확실성 (약가 인하 압력)</li>
+                            <li>일부 제품(휴미라, 임브루비카) 매출의 변동성</li>
+                            <li>R&D 및 파이프라인 개발 실패 가능성</li>
+                        </ul>
+                    </div>
+                    <div class="p-6 bg-blue-50 rounded-lg">
+                        <h3 class="text-xl font-bold text-blue-800 mb-2">🧭 최종 권고</h3>
+                        <ul class="list-disc list-inside text-gray-700 space-y-1">
+                            <li>장기적 관점의 분산 투자</li>
+                            <li>정책 및 재무 지표 모니터링 필수</li>
+                            <li>단기 변동성보다는 성장 잠재력에 집중</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
+        </section>
+
+    </main>
+    
+    <footer class="bg-gray-800 text-white mt-12">
+        <div class="container mx-auto px-8 py-6 text-center text-gray-400">
+            <p>본 자료는 제공된 분석 보고서를 기반으로 제작되었으며, 투자 결정에 대한 참고 자료로 활용되어야 합니다. 최종 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.</p>
+            <p class="text-sm mt-2">&copy; 2025 Interactive Investment Dashboard. All Rights Reserved.</p>
         </div>
-    </section>
+    </footer>
 
-</main>
+    <script>
+        Chart.register(ChartDataLabels);
 
-<footer class="bg-gray-800 text-white mt-12">
-    <div class="container mx-auto px-8 py-6 text-center text-gray-400">
-        <p>본 자료는 제공된 분석 보고서를 기반으로 제작되었으며, 투자 결정에 대한 참고 자료로 활용되어야 합니다. 최종 투자 결정은 본인의 판단과 책임 하에 이루어져야 합니다.</p>
-        <p class="text-sm mt-2">&copy; 2025 Interactive Investment Dashboard. All Rights Reserved.</p>
-    </div>
-</footer>
+        const chartColors = {
+            primary: '#4A55A2',
+            secondary: '#7895CB',
+            accent: '#A0BFE0',
+            neutral: '#C5DFF8',
+            humira: '#9ca3af',
+            text: '#1f2937',
+            success: '#16a34a',
+            warning: '#f59e0b',
+            danger: '#ef4444',
+            info: '#3b82f6',
+            bgGray: '#f8f9fa'
+        };
 
-<script>
-    const chartColors = {
-        primary: '#4A55A2',
-        secondary: '#7895CB',
-        accent: '#A0BFE0',
-        neutral: '#C5DFF8',
-        humira: '#9ca3af',
-        text: '#1f2937'
-    };
-
-    const tooltipTitleCallback = (tooltipItems) => {
-        const item = tooltipItems[0];
-        let label = item.chart.data.labels[item.dataIndex];
-        if (Array.isArray(label)) {
-            return label.join(' ');
-        }
-        return label;
-    };
-    
-    const defaultChartOptions = {
-        maintainAspectRatio: false,
-        responsive: true,
-        plugins: {
-            legend: {
-                position: 'bottom',
-                labels: {
-                    color: chartColors.text,
-                    font: { size: 12, family: "'Noto Sans KR', sans-serif" }
+        const tooltipTitleCallback = (tooltipItems) => {
+            const item = tooltipItems[0];
+            let label = item.chart.data.labels[item.dataIndex];
+            if (Array.isArray(label)) {
+                return label.join(' ');
+            }
+            return label;
+        };
+        
+        const defaultChartOptions = {
+            maintainAspectRatio: false,
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        color: chartColors.text,
+                        font: { size: 12, family: "'Noto Sans KR', sans-serif" }
+                    }
+                },
+                tooltip: {
+                    backgroundColor: 'rgba(31, 41, 55, 0.9)',
+                    titleFont: { size: 14, weight: 'bold' },
+                    bodyFont: { size: 12 },
+                    padding: 12,
+                    callbacks: { title: tooltipTitleCallback }
+                },
+                datalabels: {
+                    color: '#ffffff',
+                    font: { weight: 'bold', size: 12 },
+                    formatter: function(value, context) {
+                        return value;
+                    }
                 }
             },
-            tooltip: {
-                backgroundColor: 'rgba(31, 41, 55, 0.9)',
-                titleFont: { size: 14, weight: 'bold' },
-                bodyFont: { size: 12 },
-                padding: 12,
-                callbacks: { title: tooltipTitleCallback }
+            scales: {
+                x: {
+                    ticks: { color: chartColors.text, font: { family: "'Noto Sans KR', sans-serif" } },
+                    grid: { display: false }
+                },
+                y: {
+                    ticks: { color: chartColors.text, font: { family: "'Noto Sans KR', sans-serif" } },
+                    grid: { color: '#e5e7eb' }
+                }
             }
-        },
-        scales: {
-            x: {
-                ticks: { color: chartColors.text, font: { family: "'Noto Sans KR', sans-serif" } },
-                grid: { display: false }
-            },
-            y: {
-                ticks: { color: chartColors.text, font: { family: "'Noto Sans KR', sans-serif" } },
-                grid: { color: '#e5e7eb' }
-            }
-        }
-    };
+        };
 
-    // Section: Growth Engine
-    new Chart(document.getElementById('growthEngineChart'), {
-        type: 'bar',
-        data: {
-            labels: ['2023', '2024', 'Q1 2025', '2027 (E)'],
-            datasets: [
+        const processLabel = (label) => {
+            const maxLength = 16;
+            if (typeof label !== 'string' || label.length <= maxLength) return label;
+            const words = label.split(' ');
+            let lines = [];
+            let currentLine = '';
+            words.forEach(word => {
+                if ((currentLine + ' ' + word).trim().length > maxLength) {
+                    lines.push(currentLine.trim());
+                    currentLine = '';
+                }
+                currentLine += word + ' ';
+            });
+            lines.push(currentLine.trim());
+            return lines;
+        };
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Section: Growth Engine
+            if (document.getElementById('growthEngineChart')) {
+                new Chart(document.getElementById('growthEngineChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: ['2023', '2024', 'Q1 2025', 'Q2 2025', '2027(E)'],
+                        datasets: [
+                            {
+                                label: '휴미라 (억$)',
+                                data: [14.4, 12.16, 1.12, 1.18, 0], 
+                                backgroundColor: chartColors.humira,
+                            },
+                            {
+                                label: '스카이리치 + 린버크 (억$)',
+                                data: [11.7, 16.1, 5.14, 6.451, 31],
+                                backgroundColor: chartColors.primary,
+                            }
+                        ]
+                    },
+                    options: {
+                        ...defaultChartOptions,
+                        plugins: {
+                            ...defaultChartOptions.plugins,
+                            datalabels: {
+                                color: chartColors.text,
+                                anchor: 'end',
+                                align: 'top',
+                                font: { weight: 'bold', size: 10 },
+                                formatter: function(value, context) {
+                                    return '$' + value.toFixed(1) + 'B';
+                                }
+                            }
+                        },
+                        scales: {
+                            y: { ...defaultChartOptions.scales.y, title: { display: true, text: '매출 (10억$)' } }
+                        }
+                    }
+                });
+            }
+
+            // Section: Market Dynamics
+            if (document.getElementById('marketDynamicsChart')) {
+                new Chart(document.getElementById('marketDynamicsChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: ['면역학', '종양학', '신경과학', '에스테틱스'].map(processLabel),
+                        datasets: [
+                            {
+                                label: '2024년 시장 규모 (십억 $)',
+                                data: [109.4, 321.19, 45.936, 91.51],
+                                backgroundColor: chartColors.secondary,
+                            }
+                        ]
+                    },
+                    options: {
+                        ...defaultChartOptions,
+                        indexAxis: 'x',
+                        plugins: {
+                            ...defaultChartOptions.plugins,
+                            legend: { position: 'top' },
+                            datalabels: {
+                                color: chartColors.text,
+                                anchor: 'end',
+                                align: 'top',
+                                font: { weight: 'bold', size: 10 },
+                                formatter: function(value) {
+                                    return '$' + value.toFixed(1) + 'B';
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                ticks: { color: chartColors.text, font: { family: "'Noto Sans KR', sans-serif" } },
+                                grid: { display: false }
+                            },
+                            y: {
+                                ticks: { color: chartColors.text, font: { family: "'Noto Sans KR', sans-serif" } },
+                                grid: { display: true, color: '#e5e7eb' },
+                                title: { display: true, text: '시장 규모 (십억 $)' },
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Section: Financials
+            if (document.getElementById('stockPriceChart')) {
+                new Chart(document.getElementById('stockPriceChart'), {
+                    type: 'line',
+                    data: {
+                        labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025(Q1)', '2025(Q2)'],
+                        datasets: [{
+                            label: '애브비 종가 ($)',
+                            data: [62, 60, 97, 92, 88, 107, 135, 162, 112, 171, 190, 195],
+                            borderColor: chartColors.secondary,
+                            backgroundColor: 'rgba(120, 149, 203, 0.1)',
+                            fill: true,
+                            tension: 0.2
+                        }]
+                    },
+                    options: { ...defaultChartOptions, plugins: { ...defaultChartOptions.plugins, legend: { display: false }, datalabels: { display: false } } }
+                });
+            }
+
+            if (document.getElementById('revenueIncomeChart')) {
+                new Chart(document.getElementById('revenueIncomeChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: ['2020', '2021', '2022', '2023', '2024', 'Q2 2025'],
+                        datasets: [
+                            {
+                                label: '매출 (십억$)',
+                                data: [45.8, 56.2, 58.1, 54.3, 56.3, 15.42],
+                                backgroundColor: chartColors.secondary,
+                            },
+                            {
+                                label: '순이익 (십억$)',
+                                data: [4.6, 11.5, 11.8, 4.8, 4.2, 5.23],
+                                backgroundColor: chartColors.accent,
+                            }
+                        ]
+                    },
+                    options: {
+                        ...defaultChartOptions,
+                        plugins: {
+                            ...defaultChartOptions.plugins,
+                            legend: { position: 'top' },
+                            datalabels: {
+                                color: chartColors.text,
+                                anchor: 'end',
+                                align: 'top',
+                                font: { weight: 'bold', size: 10 },
+                                formatter: function(value, context) {
+                                    if (context.dataset.label.includes('매출')) {
+                                        return '$' + value.toFixed(1) + 'B';
+                                    }
+                                    return '$' + value.toFixed(1) + 'B';
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            if (document.getElementById('dpsChart')) {
+                new Chart(document.getElementById('dpsChart'), {
+                    type: 'line',
+                    data: {
+                        labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025(E)'],
+                        datasets: [{
+                            label: '주당 배당금 (DPS, $)',
+                            data: [2.16, 2.28, 2.56, 3.20, 3.60, 4.28, 5.20, 5.64, 5.92, 6.20, 6.56],
+                            borderColor: chartColors.primary,
+                            backgroundColor: 'rgba(74, 85, 162, 0.1)',
+                            fill: true,
+                            tension: 0.2
+                        }]
+                    },
+                    options: { ...defaultChartOptions, plugins: { ...defaultChartOptions.plugins, legend: { display: false }, datalabels: { display: false } } }
+                });
+            }
+            
+            // Section: Portfolio
+            const portfolioData = {
+                labels: ['면역학', '신경과학', '종양학', '에스테틱스', '기타'],
+                datasets: [{
+                    data: [49.5, 17.4, 10.9, 8.3, 13.9],
+                    backgroundColor: [chartColors.primary, chartColors.secondary, chartColors.accent, chartColors.neutral, chartColors.humira],
+                    borderColor: chartColors.bgGray,
+                    borderWidth: 4,
+                    hoverOffset: 8
+                }]
+            };
+            const portfolioDetailsData = [
                 {
-                    label: '휴미라',
-                    data: [14.4, 12.16, 1.12, 0], 
-                    backgroundColor: chartColors.humira,
+                    title: '면역학 (Immunology)',
+                    cagr: '12.1%',
+                    abbvShare: '약 18.8%',
+                    productShares: [
+                        '**스카이리치:** Q2 2025 매출 <span class="font-bold text-lg text-indigo-600">$44.23억</span>',
+                        '**린버크:** Q2 2025 매출 <span class="font-bold text-lg text-indigo-600">$20.28억</span>',
+                        '**휴미라:** Q2 2025 매출 <span class="font-bold text-lg text-indigo-600">$11.8억</span> (전년 대비 58.1% 감소)'
+                    ],
+                    desc: '면역학은 애브비의 가장 큰 사업 부문이며, 휴미라의 특허 만료에 대한 성공적인 대응을 통해 스카이리치와 린버크가 새로운 성장 축으로 확고히 자리매김했습니다.',
+                    color: 'indigo'
                 },
                 {
-                    label: '스카이리치 + 린보크',
-                    data: [11.7, 16.1, 5.14, 31],
-                    backgroundColor: chartColors.primary,
-                }
-            ]
-        },
-        options: {
-            ...defaultChartOptions,
-            scales: {
-                y: { ...defaultChartOptions.scales.y, title: { display: true, text: '매출 (10억$)' } }
-            }
-        }
-    });
-
-    // Section: Portfolio
-    const portfolioData = {
-        labels: ['면역학', '신경과학', '종양학', '에스테틱스', '기타'],
-        datasets: [{
-            data: [47.5, 22.8, 12.2, 8.3, 9.2],
-            backgroundColor: [chartColors.primary, chartColors.secondary, chartColors.accent, chartColors.neutral, chartColors.humira],
-            borderColor: '#f8f9fa',
-            borderWidth: 4,
-            hoverOffset: 8
-        }]
-    };
-    const portfolioDetailsData = [
-        { title: '면역학 (Immunology)', cagr: '12.1%', desc: '스카이리치와 린보크가 성장을 주도합니다. 휴미라의 공백을 성공적으로 메우며 시장 리더십을 강화하고 있습니다.', color: 'indigo' },
-        { title: '신경과학 (Neuroscience)', cagr: '5.6%', desc: '보톡스 치료제, 브레일라 등이 견고한 매출을 보이며, 최근 세레벨 인수를 통해 미래 파이프라인을 대폭 강화했습니다.', color: 'blue' },
-        { title: '종양학 (Oncology)', cagr: '10.9%', desc: '임브루비카, 벤클렉스타를 기반으로, 최근 엘라히어 등 신규 인수를 통해 고형암 분야로 확장하며 성장 동력을 확보하고 있습니다.', color: 'purple' },
-        { title: '에스테틱스 (Aesthetics)', cagr: '9.8%', desc: '보톡스 코스메틱과 쥬비덤이 시장을 지배합니다. 소비자 중심의 안정적 수익을 창출하지만 경제 상황에 민감합니다.', color: 'sky' },
-        { title: '기타 포트폴리오', cagr: 'N/A', desc: '안과, 바이러스학 등 다양한 치료 분야의 제품들이 안정적인 수익 기반을 제공하며 전체 포트폴리오의 다각화에 기여합니다.', color: 'gray' }
-    ];
-
-    const detailsContainer = document.getElementById('portfolio-details');
-    const updateDetails = (index) => {
-        const data = portfolioDetailsData[index];
-        detailsContainer.innerHTML = `
-            <h3 class="text-2xl font-bold text-${data.color}-600">${data.title}</h3>
-            <p class="mt-4 text-gray-500">예상 시장 성장률 (CAGR)</p>
-            <p class="text-4xl font-bold text-gray-800">${data.cagr}</p>
-            <p class="mt-6 text-gray-700 leading-relaxed">${data.desc}</p>
-        `;
-    };
-    
-    new Chart(document.getElementById('portfolioDonutChart'), {
-        type: 'doughnut',
-        data: portfolioData,
-        options: {
-            ...defaultChartOptions,
-            onClick: (evt, elements) => {
-                if (elements.length > 0) {
-                    updateDetails(elements[0].index);
-                }
-            },
-            plugins: { ...defaultChartOptions.plugins, legend: { position: 'right' } },
-            scales: { x: { display: false }, y: { display: false } }
-        }
-    });
-    updateDetails(0); // Initial display
-
-    // Section: Financials
-    new Chart(document.getElementById('stockPriceChart'), {
-        type: 'line',
-        data: {
-            labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025(YTD)'],
-            datasets: [{
-                label: '애브비 종가 ($)',
-                data: [62, 60, 97, 92, 88, 107, 135, 162, 112, 171, 190],
-                borderColor: chartColors.secondary,
-                backgroundColor: 'rgba(120, 149, 203, 0.1)',
-                fill: true,
-                tension: 0.2
-            }]
-        },
-        options: { ...defaultChartOptions, plugins: { ...defaultChartOptions.plugins, legend: { display: false } } }
-    });
-
-    new Chart(document.getElementById('revenueIncomeChart'), {
-        type: 'bar',
-        data: {
-            labels: ['2020', '2021', '2022', '2023', '2024'],
-            datasets: [
-                {
-                    label: '매출',
-                    data: [45.8, 56.2, 58.1, 54.3, 56.3],
-                    backgroundColor: chartColors.secondary,
+                    title: '신경과학 (Neuroscience)',
+                    cagr: '5.6%',
+                    abbvShare: '약 19.9%',
+                    productShares: [
+                        '**보톡스 치료제:** Q2 2025 매출 <span class="font-bold text-lg text-blue-600">$9.5억</span>',
+                        '**브라이라:** Q2 2025 매출 <span class="font-bold text-lg text-blue-600">$8.0억</span>'
+                    ],
+                    desc: '보톡스 치료제, 브라이라 등이 견고한 매출을 보이며, 최근 세레벨 인수를 통해 미래 파이프라인을 대폭 강화했습니다.',
+                    color: 'blue'
                 },
                 {
-                    label: '순이익',
-                    data: [4.6, 11.5, 11.8, 4.8, 4.2],
-                    backgroundColor: chartColors.accent,
+                    title: '종양학 (Oncology)',
+                    cagr: '10.9%',
+                    abbvShare: '약 2.0%',
+                    productShares: [
+                        '**임브루비카:** Q2 2025 매출 <span class="font-bold text-lg text-purple-600">$7.38억</span>',
+                        '**벤클렉스타:** Q2 2025 매출 <span class="font-bold text-lg text-purple-600">$6.65억</span>'
+                    ],
+                    desc: '임브루비카, 벤클렉스타를 기반으로, 최근 엘라히어 등 신규 인수를 통해 고형암 분야로 확장하며 성장 동력을 확보하고 있습니다.',
+                    color: 'purple'
+                },
+                {
+                    title: '에스테틱스 (Aesthetics)',
+                    cagr: '9.8%',
+                    abbvShare: '약 4.8%',
+                    productShares: [
+                        '**보톡스 코스메틱:** Q2 2025 매출 <span class="font-bold text-lg text-sky-600">$5.7억</span>',
+                        '**쥬비덤:** Q2 2025 매출 <span class="font-bold text-lg text-sky-600">$2.5억</span>'
+                    ],
+                    desc: '보톡스 코스메틱과 쥬비덤이 시장을 지배합니다. 소비자 중심의 안정적 수익을 창출하지만 경기 상황에 민감합니다.',
+                    color: 'sky'
+                },
+                {
+                    title: '기타 포트폴리오',
+                    cagr: 'N/A',
+                    abbvShare: 'N/A',
+                    productShares: [],
+                    desc: '안과, 바이러스학 등 다양한 치료 분야의 제품들이 안정적인 수익 기반을 제공하며 전체 포트폴리오의 다각화에 기여합니다.',
+                    color: 'gray'
                 }
-            ]
-        },
-        options: {
-            ...defaultChartOptions,
-            plugins: { ...defaultChartOptions.plugins, legend: { position: 'top' } }
-        }
-    });
+            ];
 
-    // Section: Outlook
-    new Chart(document.getElementById('analystRatingsChart'), {
-        type: 'bar',
-        data: {
-            labels: ['강력 매수', '매수', '보유', '매도'],
-            datasets: [{
-                label: '애널리스트 의견',
-                data: [21, 21, 5, 1],
-                backgroundColor: [
-                    '#16a34a', // green-600
-                    '#22c55e', // green-500
-                    '#f59e0b', // amber-500
-                    '#ef4444'  // red-500
-                ],
-                borderWidth: 0
-            }]
-        },
-        options: {
-            ...defaultChartOptions,
-            indexAxis: 'y',
-            plugins: { ...defaultChartOptions.plugins, legend: { display: false } },
-            scales: {
-                x: { ...defaultChartOptions.scales.x, grid: { display: false } },
-                y: { ...defaultChartOptions.scales.y, grid: { display: false } }
+            const detailsContainer = document.getElementById('portfolio-details');
+            const updateDetails = (index) => {
+                const data = portfolioDetailsData[index];
+                let productSharesHtml = '';
+                if (data.productShares && data.productShares.length > 0) {
+                    productSharesHtml = `
+                        <h4 class="font-semibold text-lg text-gray-900 mt-6 mb-2">주요 제품별 매출 현황 및 특징</h4>
+                        <ul class="list-disc list-inside text-gray-700 space-y-1">
+                            ${data.productShares.map(item => `<li>${item}</li>`).join('')}
+                        </ul>
+                    `;
+                }
+                detailsContainer.innerHTML = `
+                    <h3 class="text-2xl font-bold text-${data.color}-600 mb-4">${data.title}</h3>
+                    <p class="mt-4 text-gray-500">예상 시장 성장률 (CAGR)</p>
+                    <p class="text-4xl font-bold text-gray-800">${data.cagr}</p>
+                    <p class="mt-4 text-gray-500">애브비 시장 점유율 (해당 시장 내)</p>
+                    <p class="text-3xl font-bold text-${data.color}-600">${data.abbvShare}</p>
+                    <p class="mt-6 text-gray-700 leading-relaxed">${data.desc}</p>
+                    ${productSharesHtml}
+                `;
+            };
+            
+            if (document.getElementById('portfolioDonutChart')) {
+                new Chart(document.getElementById('portfolioDonutChart'), {
+                    type: 'doughnut',
+                    data: portfolioData,
+                    options: {
+                        ...defaultChartOptions,
+                        onClick: (evt, elements) => {
+                            if (elements.length > 0) {
+                                updateDetails(elements[0].index);
+                            }
+                        },
+                        plugins: {
+                            ...defaultChartOptions.plugins,
+                            legend: { position: 'right' },
+                            datalabels: {
+                                color: '#ffffff',
+                                textAlign: 'center',
+                                font: { weight: 'bold', size: 10 },
+                                formatter: function(value, context) {
+                                    const total = context.chart.data.datasets[0].data.reduce((a, b) => a + b, 0);
+                                    const percentage = (value / total * 100).toFixed(1);
+                                    return percentage + '%';
+                                }
+                            }
+                        },
+                        scales: { x: { display: false }, y: { display: false } }
+                    }
+                });
+                updateDetails(0);
             }
-        }
-    });
-</script>
+        });
+
+        const navbar = document.getElementById('navbar');
+        const sections = document.querySelectorAll('section');
+        const navLinks = document.querySelectorAll('.nav-link');
+
+        window.onscroll = () => {
+            let current = '';
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop;
+                if (pageYOffset >= sectionTop - 60) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href').slice(1) === current) {
+                    link.classList.add('active');
+                }
+            });
+        };
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                // Check if the target element exists before scrolling
+                const targetId = this.getAttribute('href').slice(1);
+                const targetElement = document.getElementById(targetId);
+                if (targetElement) {
+                    targetElement.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+
+    </script>
 </body>
 </html>
+
     </main>
 
 </body>
