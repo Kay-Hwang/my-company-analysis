@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2025년 08월 03일 08:20 KST",
+  "lastUpdated": "2025년 08월 04일 08:19 KST",
   "news": {
     "investing": [
+      {
+        "title": "JP모건, 구글 반독점 소송이 애플 수익에 미칠 영향 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576035",
+        "pubDate": "2025-08-03 10:35:06",
+        "summary": "JP모건, 구글 반독점 소송이 애플 수익에 미칠 영향 분석"
+      },
+      {
+        "title": "BofA, 산업 전반의 AI 도입 사례 및 투자 방법 제시",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576033",
+        "pubDate": "2025-08-03 10:00:05",
+        "summary": "BofA, 산업 전반의 AI 도입 사례 및 투자 방법 제시"
+      },
+      {
+        "title": "LVMH 실적 발표 후 투자자들의 관심사",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576029",
+        "pubDate": "2025-08-03 09:30:04",
+        "summary": "LVMH 실적 발표 후 투자자들의 관심사"
+      },
+      {
+        "title": "5대 애널리스트 AI 움직임: 애저 성장으로 마이크로소프트 상향, 반도체 주식 목표가 인상",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576026",
+        "pubDate": "2025-08-03 09:00:08",
+        "summary": "5대 애널리스트 AI 움직임: 애저 성장으로 마이크로소프트 상향, 반도체 주식 목표가 인상"
+      },
+      {
+        "title": "AI가 선정한 주식으로 106%+ 수익률 달성 — 최신 목록과 방법 확인하기",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576023",
+        "pubDate": "2025-08-03 08:39:05",
+        "summary": "AI가 선정한 주식으로 106%+ 수익률 달성 — 최신 목록과 방법 확인하기"
+      },
+      {
+        "title": "'배틀필드 6' 공개에서 얻은 4가지 핵심 포인트",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576022",
+        "pubDate": "2025-08-03 08:30:11",
+        "summary": "'배틀필드 6' 공개에서 얻은 4가지 핵심 포인트"
+      },
+      {
+        "title": "아디다스의 승승장구, Q2 실적으로 시험대에 오르다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1576021",
+        "pubDate": "2025-08-03 08:30:09",
+        "summary": "아디다스의 승승장구, Q2 실적으로 시험대에 오르다"
+      },
       {
         "title": "애플, AI 문제 해결을 위해 Perplexity를 인수해야 할까?",
         "link": "https://kr.investing.com/news/stock-market-news/article-1575949",
@@ -19,51 +61,27 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1575945",
         "pubDate": "2025-08-02 09:00:21",
         "summary": "트럼프의 최신 관세 조치가 반도체 제조업체에 미칠 영향은? 번스타인의 분석"
-      },
-      {
-        "title": "향후 신흥국 주식이 더 좋은 성과를 낼 수 있는 5가지 이유: JP모건",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1575946",
-        "pubDate": "2025-08-02 09:00:19",
-        "summary": "향후 신흥국 주식이 더 좋은 성과를 낼 수 있는 5가지 이유: JP모건"
-      },
-      {
-        "title": "미국 에너지 정책 변화가 재생에너지 부문에 미칠 영향은?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1575943",
-        "pubDate": "2025-08-02 09:00:14",
-        "summary": "미국 에너지 정책 변화가 재생에너지 부문에 미칠 영향은?"
-      },
-      {
-        "title": "인텔, 팹리스 전환 가능성 더 이상 상상이 아니다",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1575944",
-        "pubDate": "2025-08-02 09:00:07",
-        "summary": "인텔, 팹리스 전환 가능성 더 이상 상상이 아니다"
-      },
-      {
-        "title": "유럽 에너지 주식, 다년간의 강세장 준비 중인가?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1575941",
-        "pubDate": "2025-08-02 08:30:05",
-        "summary": "유럽 에너지 주식, 다년간의 강세장 준비 중인가?"
-      },
-      {
-        "title": "Investing.com의 이번 주 주목할 주식들",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1575939",
-        "pubDate": "2025-08-02 08:28:32",
-        "summary": "Investing.com의 이번 주 주목할 주식들"
-      },
-      {
-        "title": "중국 로보택시의 미래는 어떻게 될까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1575937",
-        "pubDate": "2025-08-02 08:00:09",
-        "summary": "중국 로보택시의 미래는 어떻게 될까?"
-      },
-      {
-        "title": "보잉, 미 육군과 1조 2천억 원 규모 화물 지원 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1575821",
-        "pubDate": "2025-08-01 21:23:25",
-        "summary": "보잉, 미 육군과 1조 2천억 원 규모 화물 지원 계약 체결"
       }
     ],
     "cnbc": [
+      {
+        "title": "'The revisions are hard evidence': White House struggles to justify firing of BLS chief over weak jobs numbers",
+        "link": "https://www.cnbc.com/2025/08/03/white-house-trump-bls-chief-firing.html",
+        "pubDate": "Sun, 03 Aug 2025 21:02:37 GMT",
+        "summary": "The firing drew backlash from economists and others fearing that such a move will undermine trust in the key economic data in the future."
+      },
+      {
+        "title": "Figma CEO's path from college dropout and Thiel fellow to tech billionaire",
+        "link": "https://www.cnbc.com/2025/08/03/figma-ceo-dylan-fields-path-from-college-dropout-to-billionaire.html",
+        "pubDate": "Sun, 03 Aug 2025 12:00:01 GMT",
+        "summary": "After Figma's first two days of trading on the NYSE, 33-year-old CEO Dylan Field owns a stake worth about $6.6 billion."
+      },
+      {
+        "title": "Ethereum turns 10: From scrappy experiment to Wall Street’s invisible backbone",
+        "link": "https://www.cnbc.com/2025/08/02/ethereum-turns-10-from-scrappy-experiment-to-wall-streets-invisible-backbone.html",
+        "pubDate": "Sun, 03 Aug 2025 00:03:44 GMT",
+        "summary": "Once dismissed as a side project to bitcoin, the blockchain now powers stablecoins, tokenized assets, and the payment rails of major banks."
+      },
       {
         "title": "Berkshire Hathaway operating earnings dip 4% as conglomerate braces for tariff impact",
         "link": "https://www.cnbc.com/2025/08/02/berkshire-hathaway-brk-earnings-q2-2025.html",
@@ -71,120 +89,102 @@
         "summary": "Berkshire's operating profit dipped 4% year over year to $11.16 billion in the second quarter."
       },
       {
-        "title": "Ethereum turns 10: From scrappy experiment to Wall Street’s invisible backbone",
-        "link": "https://www.cnbc.com/2025/08/02/ethereum-turns-10-from-scrappy-experiment-to-wall-streets-invisible-backbone.html",
-        "pubDate": "Sat, 02 Aug 2025 19:08:31 GMT",
-        "summary": "Once dismissed as a side project to bitcoin, the blockchain now powers stablecoins, tokenized assets, and the payment rails of major banks."
+        "title": "New guide to wealth terminology aims to 'counteract some of the BS' for investors",
+        "link": "https://www.cnbc.com/2025/08/03/wealth-terminology-investors.html",
+        "pubDate": "Sun, 03 Aug 2025 12:00:01 GMT",
+        "summary": "Competition for ultra-wealthy investors has grown fierce among private banks, wirehouses, registered investment advisors, private equity firms and boutiques."
       },
       {
-        "title": "Trump fires commissioner of labor statistics after weaker-than-expected jobs figures slam markets",
-        "link": "https://www.cnbc.com/2025/08/01/trump-erika-mcentarfer-jobs-report-fired.html",
-        "pubDate": "Sat, 02 Aug 2025 00:01:47 GMT",
-        "summary": "Trump accused BLS Commissioner Erika McEntarfer of being a political appointee who was manipulating jobs data."
+        "title": "The top 10 U.S. cities for job opportunities and earning potential, according to new report—New York and LA don't make the list",
+        "link": "https://www.cnbc.com/2025/08/03/the-top-10-us-cities-for-job-opportunities-and-earning-potential-according-to-new-report.html",
+        "pubDate": "Sun, 03 Aug 2025 14:00:01 GMT",
+        "summary": "These U.S. cities offer thriving job markets, competitive wages, and affordable living."
+      },
+      {
+        "title": "The AI 'algorithmic audit' could be coming to hotel room checkout",
+        "link": "https://www.cnbc.com/2025/08/03/ai-audit-coming-for-hotel-room-checkout-travel-costs.html",
+        "pubDate": "Sun, 03 Aug 2025 12:30:01 GMT",
+        "summary": "AI is already influencing bills at the car rental counter. Your hotel room charges and dinner check could be next."
+      },
+      {
+        "title": "How Florida quietly surpassed California in solar growth",
+        "link": "https://www.cnbc.com/2025/08/02/how-florida-quietly-surpassed-california-in-solar-growth.html",
+        "pubDate": "Sun, 03 Aug 2025 19:48:10 GMT",
+        "summary": "Florida added more solar than California in 2024, despite no climate mandate. Can the boom last? CNBC visited Babcock Ranch to find out."
+      },
+      {
+        "title": "Top Wall Street analysts pick these 3 stocks for their growth potential",
+        "link": "https://www.cnbc.com/2025/08/03/top-wall-street-analysts-pick-these-3-stocks-for-their-growth-potential.html",
+        "pubDate": "Sun, 03 Aug 2025 12:53:32 GMT",
+        "summary": "TipRanks' analyst ranking service discusses three stocks, including MongoDB and ServiceNow, favored by Wall Street."
       },
       {
         "title": "Fed Governor Kugler is resigning, giving Trump a nominee on committee that sets interest rates",
         "link": "https://www.cnbc.com/2025/08/01/federal-reserve-governor-kugler-part-of-the-committee-that-sets-interest-rates-is-resigning.html",
         "pubDate": "Fri, 01 Aug 2025 21:49:02 GMT",
         "summary": "Her resignation now paves the way for Trump to put his own nominee in for the Board of Governors."
-      },
-      {
-        "title": "Restaurants are adding dozens of new spicy menu items in a bid for younger diners",
-        "link": "https://www.cnbc.com/2025/08/02/restaurants-spicy-menu-items-younger-diners.html",
-        "pubDate": "Sat, 02 Aug 2025 12:45:54 GMT",
-        "summary": "Spicy menu items have gained traction primarily through social media via platforms like TikTok and Instagram."
-      },
-      {
-        "title": "'What am I falling in love with?' Human-AI relationships are no longer just science fiction",
-        "link": "https://www.cnbc.com/2025/08/01/human-ai-relationships-love-nomi.html",
-        "pubDate": "Fri, 01 Aug 2025 11:54:05 GMT",
-        "summary": "Since ChatGPT’s late 2022 launch, everyday people have formed emotional connections to chatbots, describing them as deep friendships and even life partnerships."
-      },
-      {
-        "title": "Google has dropped more than 50 DEI-related organizations from one of its funding lists",
-        "link": "https://www.cnbc.com/2025/08/01/google-dropped-50-dei-groups-from-funding-list-.html",
-        "pubDate": "Fri, 01 Aug 2025 18:23:01 GMT",
-        "summary": "The dropped groups had mission statements that included the words \"diversity, \"equity,\" \"inclusion,\" or \"race,\" \"activism,\" and \"women.\""
-      },
-      {
-        "title": "Here's where the jobs are in this slowing economy",
-        "link": "https://www.cnbc.com/2025/08/01/heres-where-the-jobs-are-in-this-slowing-economy.html",
-        "pubDate": "Fri, 01 Aug 2025 15:04:23 GMT",
-        "summary": "July's much weaker-than-expected job growth was supported primarily by the health-care sector, data from the Bureau of Labor Statistics released Friday shows."
-      },
-      {
-        "title": "How activist Elliott could use its data center know-how to amplify returns at Equinix",
-        "link": "https://www.cnbc.com/2025/08/02/how-activist-elliott-may-use-its-data-center-know-how-to-lift-returns-at-equinix.html",
-        "pubDate": "Sat, 02 Aug 2025 11:09:31 GMT",
-        "summary": "Activist Elliott Investment Management brings a unique expertise on data centers to Equinix."
-      },
-      {
-        "title": "How Florida quietly surpassed California in solar growth",
-        "link": "https://www.cnbc.com/2025/08/02/how-florida-quietly-surpassed-california-in-solar-growth.html",
-        "pubDate": "Sat, 02 Aug 2025 16:00:01 GMT",
-        "summary": "Florida added more solar than California in 2024, despite no climate mandate. Can the boom last? CNBC visited Babcock Ranch to find out."
       }
     ],
     "yahoo": [
       {
-        "title": "If You'd Invested $1,000 in Solana 5 Years Ago, Here's How Much You'd Have Today",
-        "link": "https://finance.yahoo.com/news/youd-invested-1-000-solana-221400727.html",
-        "pubDate": "2025-08-02T22:14:00Z",
-        "summary": "If You'd Invested $1,000 in Solana 5 Years Ago, Here's How Much You'd Have Today"
+        "title": "Analysis-China's independent oil firms elbow into Iraq's majors-dominated market",
+        "link": "https://finance.yahoo.com/news/analysis-chinas-independent-oil-firms-230329424.html",
+        "pubDate": "2025-08-03T23:03:29Z",
+        "summary": "Analysis-China's independent oil firms elbow into Iraq's majors-dominated market"
       },
       {
-        "title": "Berkshire takes $3.8 billion Kraft Heinz write-down, operating profit falls",
-        "link": "https://finance.yahoo.com/news/berkshire-takes-kraft-heinz-writedown-122007987.html",
-        "pubDate": "2025-08-02T12:20:07Z",
-        "summary": "Berkshire takes $3.8 billion Kraft Heinz write-down, operating profit falls"
+        "title": "Kevin O'Leary Rejects Trump's Tariff Rebate Plan, Says Taxpayers Want To See The National Debt Paid Down",
+        "link": "https://finance.yahoo.com/news/kevin-oleary-rejects-trumps-tariff-230119455.html",
+        "pubDate": "2025-08-03T23:01:19Z",
+        "summary": "Kevin O'Leary Rejects Trump's Tariff Rebate Plan, Says Taxpayers Want To See The National Debt Paid Down"
       },
       {
-        "title": "Trade deal aside, Mercedes and Porsche see more tariff pain on the way",
-        "link": "https://finance.yahoo.com/news/trade-deal-aside-mercedes-and-porsche-see-more-tariff-pain-on-the-way-162251235.html",
-        "pubDate": "2025-07-30T16:22:51Z",
-        "summary": "Trade deal aside, Mercedes and Porsche see more tariff pain on the way"
+        "title": "Dow Jones Futures: Market Tries To Steady After Sell-Off; Palantir, AMD Earnings Ahead",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sell-off-palantir-amd-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-08-03T22:57:46Z",
+        "summary": "Dow Jones Futures: Market Tries To Steady After Sell-Off; Palantir, AMD Earnings Ahead"
       },
       {
-        "title": "Graco Inc. (GGG): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/graco-inc-ggg-bull-case-192524550.html",
-        "pubDate": "2025-08-02T19:25:24Z",
-        "summary": "Graco Inc. (GGG): A Bull Case Theory"
+        "title": "Australia's BlueScope leads global steel giants in push for Gupta’s Whyalla plant",
+        "link": "https://finance.yahoo.com/news/australias-bluescope-leads-global-steel-225514975.html",
+        "pubDate": "2025-08-03T22:55:14Z",
+        "summary": "Australia's BlueScope leads global steel giants in push for Gupta’s Whyalla plant"
       },
       {
-        "title": "Markel Group Inc. (MKL): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/markel-group-inc-mkl-bull-192458668.html",
-        "pubDate": "2025-08-02T19:24:58Z",
-        "summary": "Markel Group Inc. (MKL): A Bull Case Theory"
+        "title": "Oil slips after OPEC+ agrees to hike output in September",
+        "link": "https://finance.yahoo.com/news/oil-slips-opec-agrees-hike-223952738.html",
+        "pubDate": "2025-08-03T22:39:52Z",
+        "summary": "Oil slips after OPEC+ agrees to hike output in September"
       },
       {
-        "title": "3 Millionaire-Maker Technology Stocks",
-        "link": "https://finance.yahoo.com/news/3-millionaire-maker-technology-stocks-220500296.html",
-        "pubDate": "2025-08-02T22:05:00Z",
-        "summary": "3 Millionaire-Maker Technology Stocks"
+        "title": "Amphenol Nears Big Broadband Deal in AI Boom",
+        "link": "https://www.wsj.com/business/deals/amphenol-nears-big-broadband-deal-in-ai-boom-3909b0df?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-08-03T21:04:00Z",
+        "summary": "Amphenol Nears Big Broadband Deal in AI Boom"
       },
       {
-        "title": "Talos Energy Inc. (TALO): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/talos-energy-inc-talo-bull-192444342.html",
-        "pubDate": "2025-08-02T19:24:44Z",
-        "summary": "Talos Energy Inc. (TALO): A Bull Case Theory"
+        "title": "4 Genius Artificial Intelligence (AI) Stocks to Buy in August",
+        "link": "https://finance.yahoo.com/news/4-genius-artificial-intelligence-ai-223000932.html",
+        "pubDate": "2025-08-03T22:30:00Z",
+        "summary": "4 Genius Artificial Intelligence (AI) Stocks to Buy in August"
       },
       {
-        "title": "Teradyne, Inc. (TER): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/teradyne-inc-ter-bull-case-192426115.html",
-        "pubDate": "2025-08-02T19:24:26Z",
-        "summary": "Teradyne, Inc. (TER): A Bull Case Theory"
+        "title": "Job market concerns take center stage as earnings season rolls on: What to watch this week",
+        "link": "https://finance.yahoo.com/news/job-market-concerns-take-center-stage-as-earnings-season-rolls-on-what-to-watch-this-week-113608612.html",
+        "pubDate": "2025-08-03T11:36:08Z",
+        "summary": "Job market concerns take center stage as earnings season rolls on: What to watch this week"
       },
       {
-        "title": "Target Corporation (TGT): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/target-corporation-tgt-bull-case-192224196.html",
-        "pubDate": "2025-08-02T19:22:24Z",
-        "summary": "Target Corporation (TGT): A Bull Case Theory"
+        "title": "The Fate of a Little-Known Company Behind Goldman’s Apple Card Is in Limbo",
+        "link": "https://www.wsj.com/finance/apple-card-corecard-leland-strange-ff5ac7da?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-08-03T19:39:00Z",
+        "summary": "The Fate of a Little-Known Company Behind Goldman’s Apple Card Is in Limbo"
       },
       {
-        "title": "TransMedics Group, Inc. (TMDX): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/transmedics-group-inc-tmdx-bull-192159731.html",
-        "pubDate": "2025-08-02T19:21:59Z",
-        "summary": "TransMedics Group, Inc. (TMDX): A Bull Case Theory"
+        "title": "MercadoLibre, Inc. (MELI): A Bull Case Theory",
+        "link": "https://finance.yahoo.com/news/mercadolibre-inc-meli-bull-case-191706749.html",
+        "pubDate": "2025-08-03T19:17:06Z",
+        "summary": "MercadoLibre, Inc. (MELI): A Bull Case Theory"
       }
     ]
   }
