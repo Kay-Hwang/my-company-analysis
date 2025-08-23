@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2025년 08월 23일 08:16 KST",
+  "lastUpdated": "2025년 08월 24일 08:16 KST",
   "news": {
     "investing": [
+      {
+        "title": "바클레이즈, 39% 관세 충격 후 스위스 수출에 대한 3가지 시나리오 제시",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606810",
+        "pubDate": "2025-08-23 09:00:15",
+        "summary": "바클레이즈, 39% 관세 충격 후 스위스 수출에 대한 3가지 시나리오 제시"
+      },
+      {
+        "title": "조던 브랜드가 나이키를 구할 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606809",
+        "pubDate": "2025-08-23 09:00:13",
+        "summary": "조던 브랜드가 나이키를 구할 수 있을까?"
+      },
+      {
+        "title": "기술 기업 중 가장 많이 지출하는 곳과 가장 적게 지출하는 곳은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606808",
+        "pubDate": "2025-08-23 09:00:08",
+        "summary": "기술 기업 중 가장 많이 지출하는 곳과 가장 적게 지출하는 곳은?"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606799",
+        "pubDate": "2025-08-23 09:00:00",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "AI 인재 전쟁에서 SBC가 '중요한 수단'으로 부상하는 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606802",
+        "pubDate": "2025-08-23 08:30:11",
+        "summary": "AI 인재 전쟁에서 SBC가 '중요한 수단'으로 부상하는 이유"
+      },
+      {
+        "title": "AI 모델이 금융 애널리스트와 같은 업무를 수행할 수 있을까? 번스타인이 조사하다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606800",
+        "pubDate": "2025-08-23 08:30:04",
+        "summary": "AI 모델이 금융 애널리스트와 같은 업무를 수행할 수 있을까? 번스타인이 조사하다"
+      },
+      {
+        "title": "AI가 임상 시험을 개선할 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606796",
+        "pubDate": "2025-08-23 08:00:10",
+        "summary": "AI가 임상 시험을 개선할 수 있을까?"
+      },
+      {
+        "title": "제프리스, 유럽 인프라 10대 테마 발표",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1606795",
+        "pubDate": "2025-08-23 08:00:05",
+        "summary": "제프리스, 유럽 인프라 10대 테마 발표"
+      },
       {
         "title": "엘리트 익스프레스 홀딩, 나스닥에서 1,520만 달러 규모 IPO 완료",
         "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1606712",
@@ -9,84 +57,24 @@
         "summary": "엘리트 익스프레스 홀딩, 나스닥에서 1,520만 달러 규모 IPO 완료"
       },
       {
-        "title": "미국, 인텔 지분 10% 보유 확인",
+        "title": "미국 정부, 인텔 지분 10% 보유 확인",
         "link": "https://kr.investing.com/news/stock-market-news/article-1606634",
-        "pubDate": "2025-08-22 20:19:10",
-        "summary": "미국, 인텔 지분 10% 보유 확인"
-      },
-      {
-        "title": "Cantor Equity Partners IV, 나스닥에서 4억 5천만 달러 IPO 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1606627",
-        "pubDate": "2025-08-22 20:16:23",
-        "summary": "Cantor Equity Partners IV, 나스닥에서 4억 5천만 달러 IPO 완료"
-      },
-      {
-        "title": "피치, 미국 신용등급 'AA+' 유지, 전망은 '안정적'",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1606583",
-        "pubDate": "2025-08-22 19:16:37",
-        "summary": "피치, 미국 신용등급 'AA+' 유지, 전망은 '안정적'"
-      },
-      {
-        "title": "파라마운트, 20억 달러 비용 절감 위해 11월 대규모 감원 계획 - NYP",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1606570",
-        "pubDate": "2025-08-22 18:17:03",
-        "summary": "파라마운트, 20억 달러 비용 절감 위해 11월 대규모 감원 계획 - NYP"
-      },
-      {
-        "title": "보잉, 기계공 조합과 월요일 계약 협상 재개",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1606555",
-        "pubDate": "2025-08-22 18:00:10",
-        "summary": "보잉, 기계공 조합과 월요일 계약 협상 재개"
-      },
-      {
-        "title": "애플, 새로운 시리에 구글의 제미나이 적용 검토 중",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1606526",
-        "pubDate": "2025-08-22 17:24:19",
-        "summary": "애플, 새로운 시리에 구글의 제미나이 적용 검토 중"
-      },
-      {
-        "title": "코스피, 정책 개혁과 원화 강세로 연말 반등 전망",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1606524",
-        "pubDate": "2025-08-22 17:22:26",
-        "summary": "코스피, 정책 개혁과 원화 강세로 연말 반등 전망"
-      },
-      {
-        "title": "루브릭 경쟁사 넷스코프, 나스닥 IPO 신청서 제출",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1606521",
-        "pubDate": "2025-08-22 17:16:36",
-        "summary": "루브릭 경쟁사 넷스코프, 나스닥 IPO 신청서 제출"
-      },
-      {
-        "title": "바클레이스, 관세 압박으로 마진 확대 희망 사라져 갭 등급 하향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1606500",
-        "pubDate": "2025-08-22 16:21:32",
-        "summary": "바클레이스, 관세 압박으로 마진 확대 희망 사라져 갭 등급 하향 조정"
+        "pubDate": "2025-08-22 20:19:05",
+        "summary": "미국 정부, 인텔 지분 10% 보유 확인"
       }
     ],
     "cnbc": [
       {
-        "title": "U.S. government takes 10% stake in Intel, as Trump expands control over private sector",
-        "link": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
-        "pubDate": "Fri, 22 Aug 2025 21:12:48 GMT",
-        "summary": "Commerce Secretary Howard Lutnick said that the U.S. government has taken a 10% stake in chipmaker Intel."
+        "title": "Higher tariffs are kicking in. Here's what Walmart and other retailers said about their impact",
+        "link": "https://www.cnbc.com/2025/08/22/retail-earnings-walmart-target-home-depot-discuss-tariffs.html",
+        "pubDate": "Sat, 23 Aug 2025 21:36:25 GMT",
+        "summary": "Consumer spending has largely stayed strong so far and the pinch from higher duties hasn't been as severe as some companies had feared."
       },
       {
-        "title": "Trump says furniture tariffs are coming later this year",
-        "link": "https://www.cnbc.com/2025/08/22/trump-tariffs-furniture-trade.html",
-        "pubDate": "Fri, 22 Aug 2025 21:17:41 GMT",
-        "summary": "Stocks for some furniture and home goods companies, including Wayfair, RH and Williams-Sonoma, tumbled after the market close, following Trump's post."
-      },
-      {
-        "title": "Ether notches first new record since 2021 after Powell speech teasing rate cuts",
-        "link": "https://www.cnbc.com/2025/08/22/crypto-market-today.html",
-        "pubDate": "Fri, 22 Aug 2025 23:06:07 GMT",
-        "summary": "The price of ether smashed through its 2021 record on Friday after Federal Reserve Chair Jerome Powell hinted at upcoming rate cuts."
-      },
-      {
-        "title": "Ghislaine Maxwell interview released by DOJ; Epstein procurer questioned about Trump",
-        "link": "https://www.cnbc.com/2025/08/22/ghislaine-maxwell-transcripts-trump-epstein-doj.html",
-        "pubDate": "Fri, 22 Aug 2025 22:14:18 GMT",
-        "summary": "The Trump administration has been criticized for reneging on promises to release files about sex offenders Jeffrey Epstein and Ghislaine Maxwell."
+        "title": "Businesses bringing back recession specials could be the latest sign of deteriorating consumer sentiment",
+        "link": "https://www.cnbc.com/2025/08/23/recession-specials-could-be-the-latest-sign-of-deteriorating-consumer-sentiment.html",
+        "pubDate": "Sat, 23 Aug 2025 11:50:20 GMT",
+        "summary": "The term \"recession\" has popped up again as a selling point this summer, perhaps providing a look at how businesses are reacting to consumer sentiment."
       },
       {
         "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month",
@@ -95,96 +83,108 @@
         "summary": "Meta's glasses are codenamed Hypernova and will include a small display in the right lens of the device, people familiar with the matter told CNBC."
       },
       {
-        "title": "Google shares rise on report of Apple using Gemini for Siri",
-        "link": "https://www.cnbc.com/2025/08/22/google-shares-rise-on-report-of-apple-using-gemini-for-siri.html",
-        "pubDate": "Fri, 22 Aug 2025 21:56:52 GMT",
-        "summary": "The reported talks have been for a potential AI deal between the two giants."
+        "title": "Trump administration considering deporting Kilmar Abrego Garcia to Uganda, his lawyers say",
+        "link": "https://www.cnbc.com/2025/08/23/trump-kilmar-abrego-garcia-uganda-el-salvador.html",
+        "pubDate": "Sat, 23 Aug 2025 18:04:55 GMT",
+        "summary": "Kilmar Abrego Garcia, who in March was wrongfully deported to El Salvador's infamous CECOT prison, was released from a jail near Nashville, Tennessee on Friday."
       },
       {
-        "title": "Powell indicates conditions 'may warrant' interest rate cuts as Fed proceeds 'carefully'",
-        "link": "https://www.cnbc.com/2025/08/22/powell-indicates-conditions-may-warrant-interest-rate-cuts-as-fed-proceeds-carefully.html",
-        "pubDate": "Fri, 22 Aug 2025 19:58:42 GMT",
-        "summary": "Powell on Friday gave a tepid indication of possible cuts ahead as he noted a high level of uncertainty."
+        "title": "U.S. government takes 10% stake in Intel, as Trump expands control over private sector",
+        "link": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
+        "pubDate": "Fri, 22 Aug 2025 21:12:48 GMT",
+        "summary": "Commerce Secretary Howard Lutnick said that the U.S. government has taken a 10% stake in chipmaker Intel."
       },
       {
-        "title": "Canada drops many of its retaliatory tariffs on the U.S.",
-        "link": "https://www.cnbc.com/2025/08/22/canada-retaliatory-tariffs-trump-autos-steel.html",
-        "pubDate": "Fri, 22 Aug 2025 18:42:30 GMT",
-        "summary": "Canada announced Friday it was dropping many of its retaliatory tariffs on U.S. goods, though the 25% counter-tariff on autos, steel and aluminum remains."
+        "title": "Here's what current and former Fed officials are saying about Lisa Cook investigation",
+        "link": "https://www.cnbc.com/2025/08/22/heres-what-current-and-former-fed-officials-are-saying-about-lisa-cook-investigation.html",
+        "pubDate": "Fri, 22 Aug 2025 18:50:10 GMT",
+        "summary": "Multiple current and former Fed officials are speaking up as Federal Reserve Governor Lisa Cook faces attacks from the Trump administration."
       },
       {
-        "title": "Inside Texas Instruments' $60 billion U.S. megaproject, where Apple will make iPhone chips",
-        "link": "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html",
-        "pubDate": "Fri, 22 Aug 2025 13:50:10 GMT",
-        "summary": "Apple committed to making iPhone chips at Texas Instruments' new U.S. factories. CNBC got an exclusive first look inside TI's $60 billion megaproject."
+        "title": "What wealthy parents need to know about giving real estate to their kids",
+        "link": "https://www.cnbc.com/2025/08/23/real-estate-wealth-transfer-family.html",
+        "pubDate": "Sat, 23 Aug 2025 12:00:02 GMT",
+        "summary": "Lawyers to the rich share tips on how to pass down homes without sibling drama and a massive tax bill."
       },
       {
-        "title": "Wage growth is doing something odd in 2025 — the last time it happened was around the Great Recession",
-        "link": "https://www.cnbc.com/2025/08/22/wage-growth-2025-job-switcher-job-stayer.html",
-        "pubDate": "Fri, 22 Aug 2025 13:55:12 GMT",
-        "summary": "Job \"switchers\" generally see wages grow at a faster pace than those who stay in their current role. However, that trend has reversed."
+        "title": "Spirit Airlines is on shakier ground after avoiding hard decisions in bankruptcy",
+        "link": "https://www.cnbc.com/2025/08/21/spirit-airlines-lessors-bankruptcy.html",
+        "pubDate": "Fri, 22 Aug 2025 21:51:51 GMT",
+        "summary": "Spirit Airlines raised doubts last week that it could survive a year without more cash."
+      },
+      {
+        "title": "Epstein files released to Congress are mostly ‘recycled’ documents, Democrat says",
+        "link": "https://www.cnbc.com/2025/08/23/jeffrey-epstein-ghislaine-maxwell-trump-doj.html",
+        "pubDate": "Sat, 23 Aug 2025 19:34:28 GMT",
+        "summary": "The Justice Department late Friday gave Congress the first trove of documents to comply with a subpoena by the House Oversight Committee."
+      },
+      {
+        "title": "From NYC to Cape Town and Shanghai: The 10 best cities for Gen Z to live in, according to them",
+        "link": "https://www.cnbc.com/2025/08/23/best-cities-around-world-gen-z-live-in-time-out-survey.html",
+        "pubDate": "Sat, 23 Aug 2025 16:00:01 GMT",
+        "summary": "Time Out surveyed over 18,000 people around the world to create its first ranking of the world's best cities. Here's where Gen Z most wants to live."
       }
     ],
     "yahoo": [
       {
-        "title": "Strategy Stock Has Hit a Wall. Expect More Losses Ahead, This Analyst Says.",
-        "link": "https://www.barrons.com/articles/strategy-stock-microstrategy-bitcoin-sell-a25c7681?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-08-21T16:08:00Z",
-        "summary": "Strategy Stock Has Hit a Wall. Expect More Losses Ahead, This Analyst Says."
+        "title": "3 Reasons You Should Buy Apple Stock Ahead of a Major Product Launch",
+        "link": "https://finance.yahoo.com/news/experts-explain-why-buy-apple-120121253.html",
+        "pubDate": "2025-08-23T22:27:08Z",
+        "summary": "3 Reasons You Should Buy Apple Stock Ahead of a Major Product Launch"
       },
       {
-        "title": "The Goldman Sachs Group, Inc. (GS) “Is The Barometer” For The Stock Market, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/goldman-sachs-group-inc-gs-160546593.html",
-        "pubDate": "2025-08-21T16:05:46Z",
-        "summary": "The Goldman Sachs Group, Inc. (GS) “Is The Barometer” For The Stock Market, Says Jim Cramer"
+        "title": "Best CD rates today, August 23, 2025 (best account provides 4.4% APY)",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-23-2025-184915843.html",
+        "pubDate": "2025-08-23T18:49:15Z",
+        "summary": "Best CD rates today, August 23, 2025 (best account provides 4.4% APY)"
       },
       {
-        "title": "Average rate on a 30-year mortgage holds steady at lowest level in nearly 10 months",
-        "link": "https://finance.yahoo.com/news/average-rate-30-mortgage-holds-160454041.html",
-        "pubDate": "2025-08-21T16:04:54Z",
-        "summary": "Average rate on a 30-year mortgage holds steady at lowest level in nearly 10 months"
+        "title": "Best high-yield savings interest rates today, August 23, 2025 (Earn up to 4.3% APY)",
+        "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-august-23-2025-184608470.html",
+        "pubDate": "2025-08-23T18:46:08Z",
+        "summary": "Best high-yield savings interest rates today, August 23, 2025 (Earn up to 4.3% APY)"
       },
       {
-        "title": "Bullish Analysts, Options Traders Expect New Highs for Nvidia Stock After Earnings",
-        "link": "https://finance.yahoo.com/news/bullish-analysts-options-traders-expect-160435272.html",
-        "pubDate": "2025-08-21T16:04:35Z",
-        "summary": "Bullish Analysts, Options Traders Expect New Highs for Nvidia Stock After Earnings"
+        "title": "Best money market account rates today, August 23, 2025 (best account provides 4.41% APY)",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-august-23-2025-184122629.html",
+        "pubDate": "2025-08-23T18:41:22Z",
+        "summary": "Best money market account rates today, August 23, 2025 (best account provides 4.41% APY)"
       },
       {
-        "title": "CoreWeave, Inc. (CRWV) Is Constrained Due To Power Supply, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/coreweave-inc-crwv-constrained-due-160319694.html",
-        "pubDate": "2025-08-21T16:03:19Z",
-        "summary": "CoreWeave, Inc. (CRWV) Is Constrained Due To Power Supply, Says Jim Cramer"
+        "title": "Dow Jones Futures: Nvidia Earnings Are Next Test After Powell-Led Stock Market Rally",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rallies-highs-dovish-powell-nvidia-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-08-23T16:45:02Z",
+        "summary": "Dow Jones Futures: Nvidia Earnings Are Next Test After Powell-Led Stock Market Rally"
       },
       {
-        "title": "Mortgage rates hold steady at lowest level of the year",
-        "link": "https://finance.yahoo.com/news/mortgage-rates-hold-steady-at-lowest-level-of-the-year-160215255.html",
-        "pubDate": "2025-08-21T16:02:15Z",
-        "summary": "Mortgage rates hold steady at lowest level of the year"
+        "title": "Wall Street Analysts Expect This Popular AI Stock Could Face Challenges Ahead",
+        "link": "https://finance.yahoo.com/news/wall-street-analysts-expect-popular-221500681.html",
+        "pubDate": "2025-08-23T22:15:00Z",
+        "summary": "Wall Street Analysts Expect This Popular AI Stock Could Face Challenges Ahead"
       },
       {
-        "title": "Mortgage Rates Tumble To 10-Month Low, But Tariffs May Drive A Reversal",
-        "link": "https://finance.yahoo.com/news/mortgage-rates-tumble-10-month-160103849.html",
-        "pubDate": "2025-08-21T16:01:03Z",
-        "summary": "Mortgage Rates Tumble To 10-Month Low, But Tariffs May Drive A Reversal"
+        "title": "$7,500 EV Tax Credit Extended For Tesla, Other Automakers — Kind Of",
+        "link": "https://www.investors.com/news/7500-ev-tax-credit-irs-extended-tesla-gm/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-08-23T16:43:20Z",
+        "summary": "$7,500 EV Tax Credit Extended For Tesla, Other Automakers — Kind Of"
       },
       {
-        "title": "Analysts Think This Drone Stock Has a Massive $50 Billion Opportunity. Should You Buy Shares Here?",
-        "link": "https://finance.yahoo.com/news/analysts-think-drone-stock-massive-155835657.html",
-        "pubDate": "2025-08-21T15:58:35Z",
-        "summary": "Analysts Think This Drone Stock Has a Massive $50 Billion Opportunity. Should You Buy Shares Here?"
+        "title": "Here are the top 5 things happy Americans do really well in retirement — how many are you doing?",
+        "link": "https://finance.yahoo.com/news/top-5-things-happy-americans-160400920.html",
+        "pubDate": "2025-08-23T16:04:00Z",
+        "summary": "Here are the top 5 things happy Americans do really well in retirement — how many are you doing?"
       },
       {
-        "title": "Walmart Stock Falls Despite a Higher Earnings Forecast. Here’s Why.",
-        "link": "https://www.barrons.com/articles/walmart-stock-price-earnings-4008b5aa?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-08-21T15:59:00Z",
-        "summary": "Walmart Stock Falls Despite a Higher Earnings Forecast. Here’s Why."
+        "title": "Why Cracker Barrel’s Stock Drop Wasn’t a ‘Buy the Dip’ Moment",
+        "link": "https://www.barrons.com/articles/cracker-barrel-logo-stock-0997d43d?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-08-23T16:03:00Z",
+        "summary": "Why Cracker Barrel’s Stock Drop Wasn’t a ‘Buy the Dip’ Moment"
       },
       {
-        "title": "Analyst Report: Intuit Inc",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_3714_AnalystReport_1755884481000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2025-08-22T17:41:21Z",
-        "summary": "Analyst Report: Intuit Inc"
+        "title": "Should You Buy Nvidia Stock Before August 27?",
+        "link": "https://finance.yahoo.com/news/buy-nvidia-stock-august-27-160002533.html",
+        "pubDate": "2025-08-23T16:00:02Z",
+        "summary": "Should You Buy Nvidia Stock Before August 27?"
       }
     ]
   }
