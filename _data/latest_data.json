@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2025년 08월 30일 08:16 KST",
+  "lastUpdated": "2025년 08월 31일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "중국의 레버리지와 공매도 제도, 규제 강화에도 시장 영향력 유지",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614005",
+        "pubDate": "2025-08-30 10:00:05",
+        "summary": "중국의 레버리지와 공매도 제도, 규제 강화에도 시장 영향력 유지"
+      },
+      {
+        "title": "DeepSeek의 최신 혁신이 GPU 제조업체에 위협이 될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614003",
+        "pubDate": "2025-08-30 09:00:09",
+        "summary": "DeepSeek의 최신 혁신이 GPU 제조업체에 위협이 될까?"
+      },
+      {
+        "title": "다가오는 아이폰 출시 이벤트에서 기대할 수 있는 것",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614002",
+        "pubDate": "2025-08-30 09:00:07",
+        "summary": "다가오는 아이폰 출시 이벤트에서 기대할 수 있는 것"
+      },
+      {
+        "title": "미국 기업들, 관세·OBBBA·AI에 대한 입장 밝혀",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1613993",
+        "pubDate": "2025-08-30 08:30:07",
+        "summary": "미국 기업들, 관세·OBBBA·AI에 대한 입장 밝혀"
+      },
+      {
+        "title": "AI 랠리, 4년차에 접어들면서 다음 단계는?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1613991",
+        "pubDate": "2025-08-30 08:05:08",
+        "summary": "AI 랠리, 4년차에 접어들면서 다음 단계는?"
+      },
+      {
+        "title": "트럼프의 \"칩 대 희토류\" 전략이 역효과를 낳았나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1613992",
+        "pubDate": "2025-08-30 08:05:03",
+        "summary": "트럼프의 \"칩 대 희토류\" 전략이 역효과를 낳았나?"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1613989",
+        "pubDate": "2025-08-30 08:00:08",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
       {
         "title": "제너럴 다이내믹스, 연안전투함 관련 3500만 달러 계약 체결",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613901",
@@ -19,68 +61,26 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613899",
         "pubDate": "2025-08-29 21:35:36",
         "summary": "레이시온, 해군 미사일 시스템 계약 974억 원 규모 수주"
-      },
-      {
-        "title": "스피릿 항공, 파산보호 신청 후 주가 45% 폭락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613890",
-        "pubDate": "2025-08-29 21:21:00",
-        "summary": "스피릿 항공, 파산보호 신청 후 주가 45% 폭락"
-      },
-      {
-        "title": "Canopy Growth, 2억 달러 규모 주식 매각 계획 발표 후 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613886",
-        "pubDate": "2025-08-29 21:14:38",
-        "summary": "Canopy Growth, 2억 달러 규모 주식 매각 계획 발표 후 급락"
-      },
-      {
-        "title": "무디스, Otter Tail Power 신용등급 Baa1으로 하향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613881",
-        "pubDate": "2025-08-29 21:03:51",
-        "summary": "무디스, Otter Tail Power 신용등급 Baa1으로 하향 조정"
-      },
-      {
-        "title": "제록스, 현금 흐름 우려로 S&P 신용등급 'B'로 강등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613880",
-        "pubDate": "2025-08-29 21:03:18",
-        "summary": "제록스, 현금 흐름 우려로 S&P 신용등급 'B'로 강등"
-      },
-      {
-        "title": "그린파워 모터, 나스닥 상장 폐지 통보 후 주가 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613869",
-        "pubDate": "2025-08-29 20:50:41",
-        "summary": "그린파워 모터, 나스닥 상장 폐지 통보 후 주가 급락"
-      },
-      {
-        "title": "하이스케일 데이터 주가, 1억 2,500만 달러 규모 시장 조성 발행 발표 후 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613845",
-        "pubDate": "2025-08-29 20:32:29",
-        "summary": "하이스케일 데이터 주가, 1억 2,500만 달러 규모 시장 조성 발행 발표 후 급락"
-      },
-      {
-        "title": "S&P, 포르투갈 신용등급 'A+'로 상향…부채 감축 성과",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613831",
-        "pubDate": "2025-08-29 20:19:58",
-        "summary": "S&P, 포르투갈 신용등급 'A+'로 상향…부채 감축 성과"
       }
     ],
     "cnbc": [
       {
-        "title": "Most Trump tariffs ruled illegal by appeals court, dealing major blow to trade policy",
-        "link": "https://www.cnbc.com/2025/08/29/trump-trade-tariffs-appeals-court-ieepa.html",
-        "pubDate": "Fri, 29 Aug 2025 23:08:05 GMT",
-        "summary": "The appeals court stayed its ruling until Oct. 14, giving the Trump administration time to ask the Supreme Court to hear the case."
+        "title": "Trump tariffs that are voided by — and ones that are safe from — Friday's appeals court ruling",
+        "link": "https://www.cnbc.com/2025/08/30/trump-trade-tariffs-appeals.html",
+        "pubDate": "Sat, 30 Aug 2025 19:25:45 GMT",
+        "summary": "If the Supreme Court upholds the ruling, President Donald Trump would lose some, but not all, of his broad tariff powers."
       },
       {
-        "title": "Spirit Airlines files for Chapter 11 bankruptcy protection for the second time in a year",
-        "link": "https://www.cnbc.com/2025/08/29/spirit-airlines-chapter-11-bankruptcy.html",
-        "pubDate": "Fri, 29 Aug 2025 21:56:21 GMT",
-        "summary": "Spirit Airlines filed for bankruptcy protection again, just months after the budget carrier came out of Chapter 11 protection earlier this year."
+        "title": "CDC asks all staff to return to office Sept. 15, five weeks after shooting at headquarters",
+        "link": "https://www.cnbc.com/2025/08/30/cdc-asks-all-staff-to-return-to-office-sept-15-after-hq-shooting.html",
+        "pubDate": "Sat, 30 Aug 2025 16:36:05 GMT",
+        "summary": "The internal announcement comes at a tumultuous time for the CDC and its workforce, which is still reeling from the shooting on Aug. 8."
       },
       {
-        "title": "'AI may eat software,' but several tech names just wrapped a huge week",
-        "link": "https://www.cnbc.com/2025/08/29/ai-software-stocks-mongodb-pure-storage-snowflake.html",
-        "pubDate": "Fri, 29 Aug 2025 21:18:22 GMT",
-        "summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week."
+        "title": "Here's what it really means for Trump to get control of the Federal Reserve board",
+        "link": "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html",
+        "pubDate": "Sat, 30 Aug 2025 12:54:03 GMT",
+        "summary": "Since taking office in January, Trump has placed the Fed directly in the crosshairs of executive power."
       },
       {
         "title": "Fate of Fed Gov. Lisa Cook still up in the air after court hearing on Trump firing bid",
@@ -89,102 +89,102 @@
         "summary": "Lisa Cook's lawyer said \"crazy midnight tweets\" by housing official Bill Pulte about alleged mortgage fraud do not give President Trump cause to remove her."
       },
       {
-        "title": "Meta changes teen AI chatbot responses as Senate begins probe into 'romantic' conversations",
-        "link": "https://www.cnbc.com/2025/08/29/meta-ai-chatbot-teen-senate-probe.html",
-        "pubDate": "Fri, 29 Aug 2025 20:34:26 GMT",
-        "summary": "Sen. Josh Hawley, R-Mo., said he was launching an investigation into Meta following a damning Reuters report about the company's AI policies."
+        "title": "Powerball jackpot hits $1 billion—here’s the after-tax payout in every U.S. state",
+        "link": "https://www.cnbc.com/2025/08/30/powerball-jackpot-nears-1-billion-dollars.html",
+        "pubDate": "Sat, 30 Aug 2025 14:59:49 GMT",
+        "summary": "The Powerball jackpot is the largest its been in 2025 so far, but winners’ take-home pay varies widely depending on the state."
       },
       {
-        "title": "Core inflation rose to 2.9% in July, highest since February",
-        "link": "https://www.cnbc.com/2025/08/29/pce-inflation-report-july-2025.html",
-        "pubDate": "Fri, 29 Aug 2025 16:29:02 GMT",
-        "summary": "The PCE report today was expected to show core inflation at 2.9% and headline inflation at 2.6%."
+        "title": "Spirit Airlines files for Chapter 11 bankruptcy protection for the second time in a year",
+        "link": "https://www.cnbc.com/2025/08/29/spirit-airlines-chapter-11-bankruptcy.html",
+        "pubDate": "Fri, 29 Aug 2025 21:56:21 GMT",
+        "summary": "Spirit Airlines filed for bankruptcy protection again, just months after the budget carrier came out of Chapter 11 protection earlier this year."
       },
       {
-        "title": "Retail panic: What the end of the 'de minimis' exemption means for brands across the globe",
-        "link": "https://www.cnbc.com/2025/08/29/retail-impact-de-minimis-exemption-ends-globally.html",
-        "pubDate": "Fri, 29 Aug 2025 15:02:37 GMT",
-        "summary": "The de minimis exemption, an obscure trade law provision, came to an end globally on Friday, setting off a panic across the retail industry."
+        "title": "Look inside the $17 million Brooklyn penthouse Denzel Washington calls home in Spike Lee's new film 'Highest 2 Lowest'",
+        "link": "https://www.cnbc.com/2025/08/30/look-inside-penthouse-spike-lee-highest-2-lowest-film.html",
+        "pubDate": "Sat, 30 Aug 2025 16:41:57 GMT",
+        "summary": "In Spike Lee's \"Highest 2 Lowest,\" Denzel Washington's character lives in a penthouse at the Olympia Dumbo in NYC that will be on the market for $17.5 million."
       },
       {
-        "title": "End of de minimis shipping could be biggest Trump tariff of all for many U.S. businesses",
-        "link": "https://www.cnbc.com/2025/08/29/trump-de-minimis-shipping-trade-war-tariffs.html",
-        "pubDate": "Fri, 29 Aug 2025 12:58:03 GMT",
-        "summary": "Trump's removal of duty-free shipping for low-value packages from overseas will hit small and medium-sized businesses with steep trade war costs."
+        "title": "I'm a personal finance reporter and I recently bought my wedding dress. Here's what I wish I knew sooner",
+        "link": "https://www.cnbc.com/2025/08/30/i-recently-bought-my-wedding-dress-what-i-wish-i-knew-sooner.html",
+        "pubDate": "Sat, 30 Aug 2025 11:00:01 GMT",
+        "summary": "I'm a personal finance reporter and I recently bought my wedding dress. Here's what I learned from the experience."
       },
       {
-        "title": "Inaugural Essence HBCU Classic football game to kick off Saturday in Boston",
-        "link": "https://www.cnbc.com/2025/08/29/inaugural-essence-hbcu-classic-football-game.html",
-        "pubDate": "Fri, 29 Aug 2025 19:25:41 GMT",
-        "summary": "The inaugural match-up is between with the Morehouse College Maroon Tigers and the Johnson C. Smith University Golden Bulls at Harvard Stadium on Saturday."
+        "title": "'We shouldn't ignore this:' Longtime investor Rebecca Patterson warns Trump could damage Fed independence",
+        "link": "https://www.cnbc.com/2025/08/30/trump-firing-cook-could-damage-fed-independence-rebecca-patterson.html",
+        "pubDate": "Sat, 30 Aug 2025 19:09:49 GMT",
+        "summary": "Politicizing the Fed could have long-term economic consequences, according to former Bridgewater Associates chief investment strategist Rebecca Patterson."
       },
       {
-        "title": "Trophy-property ranches hit the market as more heirs choose to sell",
-        "link": "https://www.cnbc.com/2025/08/29/luxury-real-estate-ranch-montana-wyoming-california.html",
-        "pubDate": "Fri, 29 Aug 2025 17:27:53 GMT",
-        "summary": "Massive ranches are commanding eight-figure price tags after hitting the market for the first time in decades or generations."
+        "title": "'AI may eat software,' but several tech names just wrapped a huge week",
+        "link": "https://www.cnbc.com/2025/08/29/ai-software-stocks-mongodb-pure-storage-snowflake.html",
+        "pubDate": "Fri, 29 Aug 2025 21:18:22 GMT",
+        "summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week."
       }
     ],
     "yahoo": [
       {
-        "title": "Accounting talent shortage eases as layoff fears creep up",
-        "link": "https://finance.yahoo.com/news/accounting-talent-shortage-eases-layoff-155932677.html",
-        "pubDate": "2025-08-28T15:59:32Z",
-        "summary": "Accounting talent shortage eases as layoff fears creep up"
+        "title": "Why Cronos Is Skyrocketing This Week",
+        "link": "https://finance.yahoo.com/news/why-cronos-skyrocketing-week-224301681.html",
+        "pubDate": "2025-08-30T22:43:01Z",
+        "summary": "Why Cronos Is Skyrocketing This Week"
       },
       {
-        "title": "Average rate on a 30-year mortgage slips to 10-month low",
-        "link": "https://finance.yahoo.com/news/average-rate-30-mortgage-slips-160323990.html",
-        "pubDate": "2025-08-28T16:03:23Z",
-        "summary": "Average rate on a 30-year mortgage slips to 10-month low"
+        "title": "GE Vernova Inc. (GEV)’s Shares Have Gained 50% Since Jim Cramer Said “I Don’t Think It’s Done”",
+        "link": "https://finance.yahoo.com/news/ge-vernova-inc-gev-shares-213045753.html",
+        "pubDate": "2025-08-30T21:30:45Z",
+        "summary": "GE Vernova Inc. (GEV)’s Shares Have Gained 50% Since Jim Cramer Said “I Don’t Think It’s Done”"
       },
       {
-        "title": "Why Nvidia's bull market rages on: Opening Bid top takeaway",
-        "link": "https://finance.yahoo.com/news/why-nvidias-bull-market-rages-on-opening-bid-top-takeaway-155031062.html",
-        "pubDate": "2025-08-28T15:50:31Z",
-        "summary": "Why Nvidia's bull market rages on: Opening Bid top takeaway"
+        "title": "‘Check washing’ costs Americans over $1 billion each year, says USPIS — how to spot it and protect your money",
+        "link": "https://finance.yahoo.com/news/check-washing-costs-americans-over-210000527.html",
+        "pubDate": "2025-08-30T21:00:00Z",
+        "summary": "‘Check washing’ costs Americans over $1 billion each year, says USPIS — how to spot it and protect your money"
       },
       {
-        "title": "Cooper Cos. Is Falling on Earnings. Why Citi Downgraded the Stock.",
-        "link": "https://www.barrons.com/articles/cooper-cos-earnings-stock-price-news-0c5cf111?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-08-28T15:48:00Z",
-        "summary": "Cooper Cos. Is Falling on Earnings. Why Citi Downgraded the Stock."
+        "title": "Williams-Sonoma, Inc. (WSM) Has A Great CEO, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/williams-sonoma-inc-wsm-great-193349324.html",
+        "pubDate": "2025-08-30T19:33:49Z",
+        "summary": "Williams-Sonoma, Inc. (WSM) Has A Great CEO, Says Jim Cramer"
       },
       {
-        "title": "Oil Glut Concerns Cloud Price Outlook Despite Geopolitical Risks",
-        "link": "https://www.wsj.com/business/energy-oil/oil-glut-concerns-cloud-price-outlook-despite-geopolitical-risks-3eb9a813?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-08-28T16:07:00Z",
-        "summary": "Oil Glut Concerns Cloud Price Outlook Despite Geopolitical Risks"
+        "title": "Best Buy Co., Inc. (BBY) Might Have A Tariff Problem, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/best-buy-co-inc-bby-193319933.html",
+        "pubDate": "2025-08-30T19:33:19Z",
+        "summary": "Best Buy Co., Inc. (BBY) Might Have A Tariff Problem, Says Jim Cramer"
       },
       {
-        "title": "Is the generative AI revolution stalling out?",
-        "link": "https://finance.yahoo.com/news/generative-ai-revolution-stalling-160000494.html",
-        "pubDate": "2025-08-28T16:00:00Z",
-        "summary": "Is the generative AI revolution stalling out?"
+        "title": "Where Will Costco Stock Be in 5 Years?",
+        "link": "https://finance.yahoo.com/news/where-costco-stock-5-years-223700813.html",
+        "pubDate": "2025-08-30T22:37:00Z",
+        "summary": "Where Will Costco Stock Be in 5 Years?"
       },
       {
-        "title": "Mortgage rates hit fresh 2025 lows despite Trump-Fed drama",
-        "link": "https://finance.yahoo.com/news/mortgage-rates-hit-fresh-2025-lows-despite-trump-fed-drama-160903231.html",
-        "pubDate": "2025-08-28T16:09:03Z",
-        "summary": "Mortgage rates hit fresh 2025 lows despite Trump-Fed drama"
+        "title": "Ollie’s Bargain Outlet Holdings, Inc. (OLLI) Is “The Bargain Place Of All Bargain Places,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/ollie-bargain-outlet-holdings-inc-193254986.html",
+        "pubDate": "2025-08-30T19:32:54Z",
+        "summary": "Ollie’s Bargain Outlet Holdings, Inc. (OLLI) Is “The Bargain Place Of All Bargain Places,” Says Jim Cramer"
       },
       {
-        "title": "The UnitedHealth Probe Is Bigger Than Investors Previously Thought. What Does That Mean for UNH Stock?",
-        "link": "https://finance.yahoo.com/news/unitedhealth-probe-bigger-investors-previously-154415824.html",
-        "pubDate": "2025-08-28T15:44:15Z",
-        "summary": "The UnitedHealth Probe Is Bigger Than Investors Previously Thought. What Does That Mean for UNH Stock?"
+        "title": "American People Are Shoping At Ross Stores, Inc. (ROST), Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/american-people-shoping-ross-stores-193203609.html",
+        "pubDate": "2025-08-30T19:32:03Z",
+        "summary": "American People Are Shoping At Ross Stores, Inc. (ROST), Says Jim Cramer"
       },
       {
-        "title": "As Webull Brings Back Crypto Trading, Is BULL Stock a Buy?",
-        "link": "https://finance.yahoo.com/news/webull-brings-back-crypto-trading-161007069.html",
-        "pubDate": "2025-08-28T16:10:07Z",
-        "summary": "As Webull Brings Back Crypto Trading, Is BULL Stock a Buy?"
+        "title": "American People Are Shoping At Five Below, Inc. (FIVE), Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/american-people-shoping-five-below-193134203.html",
+        "pubDate": "2025-08-30T19:31:34Z",
+        "summary": "American People Are Shoping At Five Below, Inc. (FIVE), Says Jim Cramer"
       },
       {
-        "title": "Over 600 Memphis FedEx Workers Laid Off As Cummins Moves Out of State",
-        "link": "https://finance.yahoo.com/news/over-600-memphis-fedex-workers-154155179.html",
-        "pubDate": "2025-08-28T15:41:55Z",
-        "summary": "Over 600 Memphis FedEx Workers Laid Off As Cummins Moves Out of State"
+        "title": "American People Are Shoping At Dollar General Corporation (DG), Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/american-people-shoping-dollar-general-193105458.html",
+        "pubDate": "2025-08-30T19:31:05Z",
+        "summary": "American People Are Shoping At Dollar General Corporation (DG), Says Jim Cramer"
       }
     ]
   }
