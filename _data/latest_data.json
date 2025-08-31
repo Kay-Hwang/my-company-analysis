@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2025년 08월 31일 08:15 KST",
+  "lastUpdated": "2025년 09월 01일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "중국, AI 자급자족을 향한 진전을 이루고 있나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614084",
+        "pubDate": "2025-08-31 10:00:09",
+        "summary": "중국, AI 자급자족을 향한 진전을 이루고 있나?"
+      },
+      {
+        "title": "5대 애널리스트 AI 움직임: AI 주식 밸류에이션 닷컴 수준에 근접; AMD 상향 조정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614077",
+        "pubDate": "2025-08-31 09:00:12",
+        "summary": "5대 애널리스트 AI 움직임: AI 주식 밸류에이션 닷컴 수준에 근접; AMD 상향 조정"
+      },
+      {
+        "title": "AI vs 인간: 버스타인이 말하는 LLM 활용법",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614075",
+        "pubDate": "2025-08-31 09:00:09",
+        "summary": "AI vs 인간: 버스타인이 말하는 LLM 활용법"
+      },
+      {
+        "title": "메타, 2026년까지 구글(검색)을 따라잡을까? 번스타인의 답변",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614076",
+        "pubDate": "2025-08-31 09:00:07",
+        "summary": "메타, 2026년까지 구글(검색)을 따라잡을까? 번스타인의 답변"
+      },
+      {
+        "title": "월가, 이번 주 주목할 종목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614074",
+        "pubDate": "2025-08-31 08:55:44",
+        "summary": "월가, 이번 주 주목할 종목"
+      },
+      {
+        "title": "스페인 경제 기적은 얼마나 오래 지속될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1614060",
+        "pubDate": "2025-08-31 08:00:04",
+        "summary": "스페인 경제 기적은 얼마나 오래 지속될까?"
+      },
       {
         "title": "중국의 레버리지와 공매도 제도, 규제 강화에도 시장 영향력 유지",
         "link": "https://kr.investing.com/news/stock-market-news/article-1614005",
@@ -25,50 +61,38 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1613993",
         "pubDate": "2025-08-30 08:30:07",
         "summary": "미국 기업들, 관세·OBBBA·AI에 대한 입장 밝혀"
-      },
-      {
-        "title": "AI 랠리, 4년차에 접어들면서 다음 단계는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1613991",
-        "pubDate": "2025-08-30 08:05:08",
-        "summary": "AI 랠리, 4년차에 접어들면서 다음 단계는?"
-      },
-      {
-        "title": "트럼프의 \"칩 대 희토류\" 전략이 역효과를 낳았나?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1613992",
-        "pubDate": "2025-08-30 08:05:03",
-        "summary": "트럼프의 \"칩 대 희토류\" 전략이 역효과를 낳았나?"
-      },
-      {
-        "title": "Investing.com의 이번 주 주목할 주식들",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1613989",
-        "pubDate": "2025-08-30 08:00:08",
-        "summary": "Investing.com의 이번 주 주목할 주식들"
-      },
-      {
-        "title": "제너럴 다이내믹스, 연안전투함 관련 3500만 달러 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613901",
-        "pubDate": "2025-08-29 21:37:15",
-        "summary": "제너럴 다이내믹스, 연안전투함 관련 3500만 달러 계약 체결"
-      },
-      {
-        "title": "헌팅턴 잉걸스, USS 스테니스 정비에 1억 달러 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613900",
-        "pubDate": "2025-08-29 21:35:45",
-        "summary": "헌팅턴 잉걸스, USS 스테니스 정비에 1억 달러 계약 체결"
-      },
-      {
-        "title": "레이시온, 해군 미사일 시스템 계약 974억 원 규모 수주",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1613899",
-        "pubDate": "2025-08-29 21:35:36",
-        "summary": "레이시온, 해군 미사일 시스템 계약 974억 원 규모 수주"
       }
     ],
     "cnbc": [
+      {
+        "title": "The man behind OpenAI's global expansion and its effort to win the enterprise",
+        "link": "https://www.cnbc.com/2025/08/31/openais-brad-lightcap-leads-global-expansion-pursuit-of-enterprise.html",
+        "pubDate": "Sun, 31 Aug 2025 12:00:01 GMT",
+        "summary": "OpenAI is expanding globally and building an enterprise business that’s fueling tension with its biggest backer and cloud partner, Microsoft."
+      },
       {
         "title": "Trump tariffs that are voided by — and ones that are safe from — Friday's appeals court ruling",
         "link": "https://www.cnbc.com/2025/08/30/trump-trade-tariffs-appeals.html",
         "pubDate": "Sat, 30 Aug 2025 19:25:45 GMT",
         "summary": "If the Supreme Court upholds the ruling, President Donald Trump would lose some, but not all, of his broad tariff powers."
+      },
+      {
+        "title": "Here's what it really means for Trump to get control of the Federal Reserve board",
+        "link": "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html",
+        "pubDate": "Sun, 31 Aug 2025 12:11:48 GMT",
+        "summary": "Since taking office in January, Trump has placed the Fed directly in the crosshairs of executive power."
+      },
+      {
+        "title": "Rudy Giuliani hospitalized with serious injuries after New Hampshire car accident",
+        "link": "https://www.cnbc.com/2025/08/31/rudy-giuliani-hospitalized-after-car-accident-spokesman.html",
+        "pubDate": "Sun, 31 Aug 2025 22:45:07 GMT",
+        "summary": "The former New York City mayor was taken to a trauma center with a fractured thoracic vertebrae, as well as lacerations and contusions, from a car accident."
+      },
+      {
+        "title": "Trump trade adviser blasts tariff ruling, calling it 'weaponized partisan injustice'",
+        "link": "https://www.cnbc.com/2025/08/31/trump-trade-adviser-tariff-ruling-peter-navarro-.html",
+        "pubDate": "Sun, 31 Aug 2025 19:45:03 GMT",
+        "summary": "As the legal battle over tariffs intensifies, President Donald Trump's advisers are casting the ultimate outcome as pivotal to the future of the country."
       },
       {
         "title": "CDC asks all staff to return to office Sept. 15, five weeks after shooting at headquarters",
@@ -77,114 +101,90 @@
         "summary": "The internal announcement comes at a tumultuous time for the CDC and its workforce, which is still reeling from the shooting on Aug. 8."
       },
       {
-        "title": "Here's what it really means for Trump to get control of the Federal Reserve board",
-        "link": "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html",
-        "pubDate": "Sat, 30 Aug 2025 12:54:03 GMT",
-        "summary": "Since taking office in January, Trump has placed the Fed directly in the crosshairs of executive power."
+        "title": "Rhode Island's 'Taylor Swift Tax' on vacation homes of the wealthy is spreading to other states",
+        "link": "https://www.cnbc.com/2025/08/31/taylor-swift-tax-on-high-end-vacation-homes-spreads-to-more-states.html",
+        "pubDate": "Sun, 31 Aug 2025 12:00:01 GMT",
+        "summary": "A push to tax the real estate of the wealthy has sparked a backlash among brokers and potential buyers, who say the taxes punish the most important local spenders."
       },
       {
-        "title": "Fate of Fed Gov. Lisa Cook still up in the air after court hearing on Trump firing bid",
-        "link": "https://www.cnbc.com/2025/08/29/lisa-cook-trump-fed-powell-court-hearing.html",
-        "pubDate": "Fri, 29 Aug 2025 19:10:46 GMT",
-        "summary": "Lisa Cook's lawyer said \"crazy midnight tweets\" by housing official Bill Pulte about alleged mortgage fraud do not give President Trump cause to remove her."
+        "title": "Here's how to get the $7,500 EV tax credit — even after the Sept. 30 deadline",
+        "link": "https://www.cnbc.com/2025/08/31/how-to-get-7500-ev-tax-credit-after-the-deadline.html",
+        "pubDate": "Sun, 31 Aug 2025 11:00:01 GMT",
+        "summary": "The IRS clarified that consumers don't need to drive their EV off the car lot by Sept. 30 to qualify for a federal tax break."
       },
       {
-        "title": "Powerball jackpot hits $1 billion—here’s the after-tax payout in every U.S. state",
-        "link": "https://www.cnbc.com/2025/08/30/powerball-jackpot-nears-1-billion-dollars.html",
-        "pubDate": "Sat, 30 Aug 2025 14:59:49 GMT",
-        "summary": "The Powerball jackpot is the largest its been in 2025 so far, but winners’ take-home pay varies widely depending on the state."
+        "title": "Global week ahead: Welcome to September, Wall Street’s least-loved month",
+        "link": "https://www.cnbc.com/2025/08/31/global-week-ahead-welcome-to-september-wall-streets-least-loved-month.html",
+        "pubDate": "Sun, 31 Aug 2025 07:54:39 GMT",
+        "summary": "We're two-thirds of the way through the third quarter, and corporate earnings — along with macro uncertainty — have revealed some clear winners and losers."
       },
       {
-        "title": "Spirit Airlines files for Chapter 11 bankruptcy protection for the second time in a year",
-        "link": "https://www.cnbc.com/2025/08/29/spirit-airlines-chapter-11-bankruptcy.html",
-        "pubDate": "Fri, 29 Aug 2025 21:56:21 GMT",
-        "summary": "Spirit Airlines filed for bankruptcy protection again, just months after the budget carrier came out of Chapter 11 protection earlier this year."
-      },
-      {
-        "title": "Look inside the $17 million Brooklyn penthouse Denzel Washington calls home in Spike Lee's new film 'Highest 2 Lowest'",
-        "link": "https://www.cnbc.com/2025/08/30/look-inside-penthouse-spike-lee-highest-2-lowest-film.html",
-        "pubDate": "Sat, 30 Aug 2025 16:41:57 GMT",
-        "summary": "In Spike Lee's \"Highest 2 Lowest,\" Denzel Washington's character lives in a penthouse at the Olympia Dumbo in NYC that will be on the market for $17.5 million."
-      },
-      {
-        "title": "I'm a personal finance reporter and I recently bought my wedding dress. Here's what I wish I knew sooner",
-        "link": "https://www.cnbc.com/2025/08/30/i-recently-bought-my-wedding-dress-what-i-wish-i-knew-sooner.html",
-        "pubDate": "Sat, 30 Aug 2025 11:00:01 GMT",
-        "summary": "I'm a personal finance reporter and I recently bought my wedding dress. Here's what I learned from the experience."
-      },
-      {
-        "title": "'We shouldn't ignore this:' Longtime investor Rebecca Patterson warns Trump could damage Fed independence",
-        "link": "https://www.cnbc.com/2025/08/30/trump-firing-cook-could-damage-fed-independence-rebecca-patterson.html",
-        "pubDate": "Sat, 30 Aug 2025 19:09:49 GMT",
-        "summary": "Politicizing the Fed could have long-term economic consequences, according to former Bridgewater Associates chief investment strategist Rebecca Patterson."
-      },
-      {
-        "title": "'AI may eat software,' but several tech names just wrapped a huge week",
-        "link": "https://www.cnbc.com/2025/08/29/ai-software-stocks-mongodb-pure-storage-snowflake.html",
-        "pubDate": "Fri, 29 Aug 2025 21:18:22 GMT",
-        "summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week."
+        "title": "Top Wall Street analysts recommend these 3 stocks for long-term investors",
+        "link": "https://www.cnbc.com/2025/08/31/top-wall-street-analysts-recommend-these-3-stocks-for-long-term-investors.html",
+        "pubDate": "Sun, 31 Aug 2025 11:40:59 GMT",
+        "summary": "TipRanks' ranking service highlights three stocks favored by top flight analysts, including Palo Alto Networks and MongoDB."
       }
     ],
     "yahoo": [
       {
-        "title": "Why Cronos Is Skyrocketing This Week",
-        "link": "https://finance.yahoo.com/news/why-cronos-skyrocketing-week-224301681.html",
-        "pubDate": "2025-08-30T22:43:01Z",
-        "summary": "Why Cronos Is Skyrocketing This Week"
+        "title": "Dow Jones Futures: Trump Tariff Ruling May Not Affect Markets. Alibaba News Hits Nvidia, AI.",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-tariff-ruling-alibaba-news-nvidia-ai-stocks/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-08-31T22:47:54Z",
+        "summary": "Dow Jones Futures: Trump Tariff Ruling May Not Affect Markets. Alibaba News Hits Nvidia, AI."
       },
       {
-        "title": "GE Vernova Inc. (GEV)’s Shares Have Gained 50% Since Jim Cramer Said “I Don’t Think It’s Done”",
-        "link": "https://finance.yahoo.com/news/ge-vernova-inc-gev-shares-213045753.html",
-        "pubDate": "2025-08-30T21:30:45Z",
-        "summary": "GE Vernova Inc. (GEV)’s Shares Have Gained 50% Since Jim Cramer Said “I Don’t Think It’s Done”"
+        "title": "A Son Warned His Mom To Save For Retirement, But She Told Him It's A Scam. Now She's Getting Divorced And Is Retired With Nothing Saved",
+        "link": "https://finance.yahoo.com/news/son-warned-mom-save-retirement-223104077.html",
+        "pubDate": "2025-08-31T22:31:04Z",
+        "summary": "A Son Warned His Mom To Save For Retirement, But She Told Him It's A Scam. Now She's Getting Divorced And Is Retired With Nothing Saved"
       },
       {
-        "title": "‘Check washing’ costs Americans over $1 billion each year, says USPIS — how to spot it and protect your money",
-        "link": "https://finance.yahoo.com/news/check-washing-costs-americans-over-210000527.html",
-        "pubDate": "2025-08-30T21:00:00Z",
-        "summary": "‘Check washing’ costs Americans over $1 billion each year, says USPIS — how to spot it and protect your money"
+        "title": "Kevin O’Leary reveals why Americans are fleeing to Canada — and it’s not because they dislike the US. Do you agree?",
+        "link": "https://finance.yahoo.com/news/kevin-o-leary-reveals-why-210000492.html",
+        "pubDate": "2025-08-31T21:00:00Z",
+        "summary": "Kevin O’Leary reveals why Americans are fleeing to Canada — and it’s not because they dislike the US. Do you agree?"
       },
       {
-        "title": "Williams-Sonoma, Inc. (WSM) Has A Great CEO, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/williams-sonoma-inc-wsm-great-193349324.html",
-        "pubDate": "2025-08-30T19:33:49Z",
-        "summary": "Williams-Sonoma, Inc. (WSM) Has A Great CEO, Says Jim Cramer"
+        "title": "L B Foster Co (FSTR) Delivers First 320-Foot Rail Train to Lake State Railway",
+        "link": "https://finance.yahoo.com/news/l-b-foster-co-fstr-201919576.html",
+        "pubDate": "2025-08-31T20:19:19Z",
+        "summary": "L B Foster Co (FSTR) Delivers First 320-Foot Rail Train to Lake State Railway"
       },
       {
-        "title": "Best Buy Co., Inc. (BBY) Might Have A Tariff Problem, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/best-buy-co-inc-bby-193319933.html",
-        "pubDate": "2025-08-30T19:33:19Z",
-        "summary": "Best Buy Co., Inc. (BBY) Might Have A Tariff Problem, Says Jim Cramer"
+        "title": "Canadian Pacific Kansas City Ltd (CP) Financial Position Strengthened by Credit Amendment",
+        "link": "https://finance.yahoo.com/news/canadian-pacific-kansas-city-ltd-201917066.html",
+        "pubDate": "2025-08-31T20:19:17Z",
+        "summary": "Canadian Pacific Kansas City Ltd (CP) Financial Position Strengthened by Credit Amendment"
       },
       {
-        "title": "Where Will Costco Stock Be in 5 Years?",
-        "link": "https://finance.yahoo.com/news/where-costco-stock-5-years-223700813.html",
-        "pubDate": "2025-08-30T22:37:00Z",
-        "summary": "Where Will Costco Stock Be in 5 Years?"
+        "title": "Freightcar (RAIL) Investing in Growth Strategy to Strengthen Cost Position",
+        "link": "https://finance.yahoo.com/news/freightcar-rail-investing-growth-strategy-201916635.html",
+        "pubDate": "2025-08-31T20:19:16Z",
+        "summary": "Freightcar (RAIL) Investing in Growth Strategy to Strengthen Cost Position"
       },
       {
-        "title": "Ollie’s Bargain Outlet Holdings, Inc. (OLLI) Is “The Bargain Place Of All Bargain Places,” Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/ollie-bargain-outlet-holdings-inc-193254986.html",
-        "pubDate": "2025-08-30T19:32:54Z",
-        "summary": "Ollie’s Bargain Outlet Holdings, Inc. (OLLI) Is “The Bargain Place Of All Bargain Places,” Says Jim Cramer"
+        "title": "Westinghouse Air Brake Technologies Corp (WAB) Celebrates EVO Legacy with Fuel-Saving Engine Upgrade",
+        "link": "https://finance.yahoo.com/news/westinghouse-air-brake-technologies-corp-201914568.html",
+        "pubDate": "2025-08-31T20:19:14Z",
+        "summary": "Westinghouse Air Brake Technologies Corp (WAB) Celebrates EVO Legacy with Fuel-Saving Engine Upgrade"
       },
       {
-        "title": "American People Are Shoping At Ross Stores, Inc. (ROST), Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/american-people-shoping-ross-stores-193203609.html",
-        "pubDate": "2025-08-30T19:32:03Z",
-        "summary": "American People Are Shoping At Ross Stores, Inc. (ROST), Says Jim Cramer"
+        "title": "TD Cowen Lowers CSX Corp (CSX) Price Target Amid Berkshire Speculation",
+        "link": "https://finance.yahoo.com/news/td-cowen-lowers-csx-corp-201912752.html",
+        "pubDate": "2025-08-31T20:19:12Z",
+        "summary": "TD Cowen Lowers CSX Corp (CSX) Price Target Amid Berkshire Speculation"
       },
       {
-        "title": "American People Are Shoping At Five Below, Inc. (FIVE), Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/american-people-shoping-five-below-193134203.html",
-        "pubDate": "2025-08-30T19:31:34Z",
-        "summary": "American People Are Shoping At Five Below, Inc. (FIVE), Says Jim Cramer"
+        "title": "Union Pacific Corp (UNP) Expands Network with 15 Focus Sites",
+        "link": "https://finance.yahoo.com/news/union-pacific-corp-unp-expands-201911858.html",
+        "pubDate": "2025-08-31T20:19:11Z",
+        "summary": "Union Pacific Corp (UNP) Expands Network with 15 Focus Sites"
       },
       {
-        "title": "American People Are Shoping At Dollar General Corporation (DG), Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/american-people-shoping-dollar-general-193105458.html",
-        "pubDate": "2025-08-30T19:31:05Z",
-        "summary": "American People Are Shoping At Dollar General Corporation (DG), Says Jim Cramer"
+        "title": "Warren Buffett's Strategy: It's A Terrible Mistake To Think of Stocks As Something That Bob Up And Down, And You Should Pay Attention To Those'",
+        "link": "https://finance.yahoo.com/news/warren-buffetts-strategy-terrible-mistake-201626742.html",
+        "pubDate": "2025-08-31T20:16:26Z",
+        "summary": "Warren Buffett's Strategy: It's A Terrible Mistake To Think of Stocks As Something That Bob Up And Down, And You Should Pay Attention To Those'"
       }
     ]
   }
