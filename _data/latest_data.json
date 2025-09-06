@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2025년 09월 06일 08:15 KST",
+  "lastUpdated": "2025년 09월 07일 08:14 KST",
   "news": {
     "investing": [
+      {
+        "title": "미즈호, \"미국 실적 시즌은 소비자가 좋은 상태임을 보여줘\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1622483",
+        "pubDate": "2025-09-06 09:00:04",
+        "summary": "미즈호, \"미국 실적 시즌은 소비자가 좋은 상태임을 보여줘\""
+      },
+      {
+        "title": "뮌헨 모터쇼 미리보기: 메르세데스, BMW, 폭스바겐에서 기대할 점",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1622479",
+        "pubDate": "2025-09-06 08:30:06",
+        "summary": "뮌헨 모터쇼 미리보기: 메르세데스, BMW, 폭스바겐에서 기대할 점"
+      },
+      {
+        "title": "트럼프, 연준, 러시아 등: BCA의 5가지 전술적 견해",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1622475",
+        "pubDate": "2025-09-06 07:40:29",
+        "summary": "트럼프, 연준, 러시아 등: BCA의 5가지 전술적 견해"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1622470",
+        "pubDate": "2025-09-06 07:33:57",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
       {
         "title": "피치, 보나도 등급 전망 ’긍정적’으로 상향, ’BB+’ 등급 유지",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1622344",
@@ -37,38 +61,38 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1622170",
         "pubDate": "2025-09-05 19:17:52",
         "summary": "트럼프, EU의 구글 35억 달러 벌금에 대항 약속"
-      },
-      {
-        "title": "메타, 2028년까지 미국 인프라에 최소 6천억 달러 투자 계획",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1622129",
-        "pubDate": "2025-09-05 18:20:59",
-        "summary": "메타, 2028년까지 미국 인프라에 최소 6천억 달러 투자 계획"
-      },
-      {
-        "title": "블랙 록 커피 IPO, 수 배 초과 청약 보고돼",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1622118",
-        "pubDate": "2025-09-05 18:03:09",
-        "summary": "블랙 록 커피 IPO, 수 배 초과 청약 보고돼"
-      },
-      {
-        "title": "켄뷰, 타이레놀-자폐증 연관성 조사 보도에 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1622103",
-        "pubDate": "2025-09-05 17:47:26",
-        "summary": "켄뷰, 타이레놀-자폐증 연관성 조사 보도에 급락"
-      },
-      {
-        "title": "맥쿼리, 중국 성장이 수익 견인하는 루이싱 커피에 낙관적 전망",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1622057",
-        "pubDate": "2025-09-05 16:25:25",
-        "summary": "맥쿼리, 중국 성장이 수익 견인하는 루이싱 커피에 낙관적 전망"
       }
     ],
     "cnbc": [
       {
-        "title": "Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap",
-        "link": "https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html",
-        "pubDate": "Fri, 05 Sep 2025 20:19:21 GMT",
-        "summary": "Tech's megacaps got bigger this week, and the eight trillion-dollar companies now make up a combined 36% of the S&amp;P 500."
+        "title": "Warren Buffett's public Kraft Heinz criticism is extremely unusual for the typically passive owner",
+        "link": "https://www.cnbc.com/2025/09/06/warren-buffetts-public-kraft-heinz-criticism-is-extremely-unusual-for-the-typically-passive-owner.html",
+        "pubDate": "Sat, 06 Sep 2025 13:55:37 GMT",
+        "summary": "Alex Crippen on the latest Warren Buffett news for the Warren Buffett Watch newsletter."
+      },
+      {
+        "title": "FTC commissioner questions status of Snap AI chatbot complaint: 'People deserve answers'",
+        "link": "https://www.cnbc.com/2025/09/05/ftc-snap-ai-chatbot-rebecca-slaughter.html",
+        "pubDate": "Fri, 05 Sep 2025 21:50:16 GMT",
+        "summary": "President Trump attempted to remove Slaughter from her FTC position, but a U.S. appeals court allowed her to maintain her role."
+      },
+      {
+        "title": "Powerball jackpot hits $1.8 billion. Here’s the tax bill if you win",
+        "link": "https://www.cnbc.com/2025/09/05/powerball-jackpot-tax-bill.html",
+        "pubDate": "Fri, 05 Sep 2025 16:38:15 GMT",
+        "summary": "The Powerball jackpot soared to an estimated $1.8 billion on Friday. Here's what the winner can expect to pay in taxes."
+      },
+      {
+        "title": "Roblox announces short-video, AI features amid child safety concerns",
+        "link": "https://www.cnbc.com/2025/09/05/roblox-short-video-ai-child-safety-concerns.html",
+        "pubDate": "Fri, 05 Sep 2025 23:26:31 GMT",
+        "summary": "Roblox on Friday announced new short-video and AI features that come amid increasing lawmaker scrutiny into how the company protects children on its platform."
+      },
+      {
+        "title": "Behind the AI talent war: Why tech giants are paying millions to top hires",
+        "link": "https://www.cnbc.com/2025/09/06/ai-talent-war-tech-giants-pay-talent-millions-of-dollars.html",
+        "pubDate": "Sat, 06 Sep 2025 05:39:35 GMT",
+        "summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race."
       },
       {
         "title": "Mystery of former Federal Reserve Governor Kugler's resignation deepens as real estate records raise new questions",
@@ -83,108 +107,84 @@
         "summary": "HHS will release the report that could draw that link between the pain medication and autism this month, according to the Wall Street Journal."
       },
       {
-        "title": "Anthropic agrees to pay $1.5 billion to settle authors' copyright lawsuit",
-        "link": "https://www.cnbc.com/2025/09/05/anthropic-to-pay-1point5-billion-to-settle-authors-copyright-lawsuit-.html",
-        "pubDate": "Fri, 05 Sep 2025 22:06:49 GMT",
-        "summary": "Authors had sued Anthropic, claiming the artificial intelligence startup had illegally used their books to train its models."
+        "title": "Trump threatens trade probe after 'discriminatory' EU fines against Google, Apple",
+        "link": "https://www.cnbc.com/2025/09/05/trump-threatens-trade-probe-after-discriminatory-eu-fines-against-google-apple.html",
+        "pubDate": "Fri, 05 Sep 2025 20:06:12 GMT",
+        "summary": "Google CEO Sundar Pichai thanked Trump at a White House dinner after a U.S. judge issued a favorable ruling in the landmark antitrust case against Alphabet."
       },
       {
-        "title": "AppLovin and Robinhood added to S&P 500",
-        "link": "https://www.cnbc.com/2025/09/05/applovin-robinhood-sp-500.html",
-        "pubDate": "Fri, 05 Sep 2025 23:02:13 GMT",
-        "summary": "The S&amp;P 500 already has a heavy concentration of large technology companies. Datadog and DoorDash entered earlier this year."
+        "title": "5 facts a dermatologist wants you to know about sunscreen: Using it is just as important as brushing your teeth, he says",
+        "link": "https://www.cnbc.com/2025/09/06/5-facts-a-dermatologist-wants-you-know-about-sunscreen.html",
+        "pubDate": "Sat, 06 Sep 2025 15:00:01 GMT",
+        "summary": "There are many misconceptions about sunscreen. Here are a few facts that may surprise you from dermatologist Dr. Adam Friedman."
       },
       {
-        "title": "FTC commissioner questions status of Snap AI chatbot complaint: 'People deserve answers'",
-        "link": "https://www.cnbc.com/2025/09/05/ftc-snap-ai-chatbot-rebecca-slaughter.html",
-        "pubDate": "Fri, 05 Sep 2025 21:50:16 GMT",
-        "summary": "President Trump attempted to remove Slaughter from her FTC position, but a U.S. appeals court allowed her to maintain her role."
-      },
-      {
-        "title": "New York Mayor Eric Adams refuses to drop out of race after Trump nomination floated",
-        "link": "https://www.cnbc.com/2025/09/05/new-york-mayor-eric-adams-to-make-important-campaign-announcement-as-trump-nomination-floated.html",
-        "pubDate": "Fri, 05 Sep 2025 21:34:52 GMT",
-        "summary": "President Trump has said he wants two candidates to drop out of the New York mayor's race to clear the way to beat Democratic nominee Zohran Mamdani."
-      },
-      {
-        "title": "Roblox announces short-video, AI features amid child safety concerns",
-        "link": "https://www.cnbc.com/2025/09/05/roblox-short-video-ai-child-safety-concerns.html",
-        "pubDate": "Fri, 05 Sep 2025 17:39:23 GMT",
-        "summary": "Roblox on Friday announced new short-video and AI features that come amid increasing lawmaker scrutiny into how the company protects children on its platform."
-      },
-      {
-        "title": "Powerball jackpot hits $1.8 billion. Here’s the tax bill if you win",
-        "link": "https://www.cnbc.com/2025/09/05/powerball-jackpot-tax-bill.html",
-        "pubDate": "Fri, 05 Sep 2025 16:38:15 GMT",
-        "summary": "The Powerball jackpot soared to an estimated $1.8 billion on Friday. Here's what the winner can expect to pay in taxes."
-      },
-      {
-        "title": "Cramer's week ahead: New economic data and Apple's latest iPhone",
-        "link": "https://www.cnbc.com/2025/09/05/cramers-week-ahead-new-economic-data-and-apples-latest-iphone.html",
-        "pubDate": "Fri, 05 Sep 2025 23:01:02 GMT",
-        "summary": "CNBC's Jim Cramer on Friday walked investors through next week on Wall Street."
+        "title": "Wall Street’s dilemma: How Fed rate cut hopes clashed with slowing jobs growth",
+        "link": "https://www.cnbc.com/2025/09/06/wall-streets-dilemma-how-fed-rate-cut-hopes-clashed-with-slowing-jobs-growth.html",
+        "pubDate": "Sat, 06 Sep 2025 16:34:03 GMT",
+        "summary": "The S&amp;P 500 and Nasdaq both briefly hit record intraday highs Friday before tumbling on a weaker August jobs report."
       }
     ],
     "yahoo": [
       {
-        "title": "Dell, HPE reap revenue gains from AI server demand surge",
-        "link": "https://finance.yahoo.com/news/dell-hpe-reap-revenue-gains-160806804.html",
-        "pubDate": "2025-09-04T16:08:06Z",
-        "summary": "Dell, HPE reap revenue gains from AI server demand surge"
+        "title": "I Asked Grok Whether the Stock Market Will Go Down in 2025: Here’s What It Said",
+        "link": "https://finance.yahoo.com/news/asked-grok-whether-stock-market-221512611.html",
+        "pubDate": "2025-09-06T22:15:12Z",
+        "summary": "I Asked Grok Whether the Stock Market Will Go Down in 2025: Here’s What It Said"
       },
       {
-        "title": "Save the Date: 5th Palm Beach CorpGov Forum | Preview Speakers & Topics",
-        "link": "https://finance.yahoo.com/news/save-date-5th-palm-beach-160814812.html",
-        "pubDate": "2025-09-04T16:08:14Z",
-        "summary": "Save the Date: 5th Palm Beach CorpGov Forum | Preview Speakers & Topics"
+        "title": "Dow Jones Futures: AI Stocks Diverge As AppLovin, Robinhood Jump; Apple iPhone Event Due",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-iphone-nvidia-tesla-applovin-robinhood/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-09-06T22:14:47Z",
+        "summary": "Dow Jones Futures: AI Stocks Diverge As AppLovin, Robinhood Jump; Apple iPhone Event Due"
       },
       {
-        "title": "Prominent Talk Show Host Ensnared in Alleged Real Estate Ponzi Scheme",
-        "link": "https://www.barrons.com/articles/buck-sexton-rad-reit-lawsuit-1d4580ba?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-09-04T16:06:00Z",
-        "summary": "Prominent Talk Show Host Ensnared in Alleged Real Estate Ponzi Scheme"
+        "title": "EV Armageddon? Tesla, GM, Ford EV sales will be cut in half when tax credit expires, analyst says.",
+        "link": "https://finance.yahoo.com/news/ev-armageddon-tesla-gm-ford-ev-sales-will-be-cut-in-half-when-tax-credit-expires-analyst-says-124602947.html",
+        "pubDate": "2025-09-03T12:46:02Z",
+        "summary": "EV Armageddon? Tesla, GM, Ford EV sales will be cut in half when tax credit expires, analyst says."
       },
       {
-        "title": "Mizuho Reiterates ‘Outperform’ Rating on Canadian Solar (CSIQ) on Tariff Clarity Impact",
-        "link": "https://finance.yahoo.com/news/mizuho-reiterates-outperform-rating-canadian-161036622.html",
-        "pubDate": "2025-09-04T16:10:36Z",
-        "summary": "Mizuho Reiterates ‘Outperform’ Rating on Canadian Solar (CSIQ) on Tariff Clarity Impact"
+        "title": "Dollar stores draw in more shoppers making six figures as Americans across income levels look to save",
+        "link": "https://finance.yahoo.com/news/dollar-stores-draw-in-more-shoppers-making-six-figures-as-americans-across-income-levels-look-to-save-080041053.html",
+        "pubDate": "2025-09-04T08:00:41Z",
+        "summary": "Dollar stores draw in more shoppers making six figures as Americans across income levels look to save"
       },
       {
-        "title": "Ciena Stock Spikes 18% on Earnings and Plans to Lay Off Up to 5% of Workforce",
-        "link": "https://www.barrons.com/articles/ciena-earnings-stock-price-bc2516f6?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-09-04T16:10:00Z",
-        "summary": "Ciena Stock Spikes 18% on Earnings and Plans to Lay Off Up to 5% of Workforce"
+        "title": "I’m middle class, but feel like I’m always on the brink of financial collapse — how do I finally pull ahead?",
+        "link": "https://finance.yahoo.com/news/m-middle-class-feel-m-193000043.html",
+        "pubDate": "2025-09-06T19:30:00Z",
+        "summary": "I’m middle class, but feel like I’m always on the brink of financial collapse — how do I finally pull ahead?"
       },
       {
-        "title": "How To Invest Like a Billionaire (And Do It Within Your Budget)",
-        "link": "https://finance.yahoo.com/news/invest-billionaire-within-budget-120026046.html",
-        "pubDate": "2025-09-04T16:06:10Z",
-        "summary": "How To Invest Like a Billionaire (And Do It Within Your Budget)"
+        "title": "Robinhood jumps 6% on S&P 500 debut, retail isn't behind the rally",
+        "link": "https://finance.yahoo.com/news/robinhood-jumps-6-p-500-215417171.html",
+        "pubDate": "2025-09-06T21:54:17Z",
+        "summary": "Robinhood jumps 6% on S&P 500 debut, retail isn't behind the rally"
       },
       {
-        "title": "NextNRG Inc. (NXXT) Unveils RenCast for Solar Energy Forecasting",
-        "link": "https://finance.yahoo.com/news/nextnrg-inc-nxxt-unveils-rencast-161029081.html",
-        "pubDate": "2025-09-04T16:10:29Z",
-        "summary": "NextNRG Inc. (NXXT) Unveils RenCast for Solar Energy Forecasting"
+        "title": "OPEC+ will likely raise oil output further from October, sources say",
+        "link": "https://finance.yahoo.com/news/opec-likely-agree-further-oil-172325368.html",
+        "pubDate": "2025-09-06T17:23:25Z",
+        "summary": "OPEC+ will likely raise oil output further from October, sources say"
       },
       {
-        "title": "Hannon Armstrong Sustainable Infrastructure Capital (HASI) Rallies Amid Earnings Growth Expectations",
-        "link": "https://finance.yahoo.com/news/hannon-armstrong-sustainable-infrastructure-capital-161035343.html",
-        "pubDate": "2025-09-04T16:10:35Z",
-        "summary": "Hannon Armstrong Sustainable Infrastructure Capital (HASI) Rallies Amid Earnings Growth Expectations"
+        "title": "‘Oracle of Wall Street’ who predicted 2008 crash sees trouble in US housing — and the problem is demographics",
+        "link": "https://finance.yahoo.com/news/oracle-wall-street-predicted-2008-171600020.html",
+        "pubDate": "2025-09-06T17:16:00Z",
+        "summary": "‘Oracle of Wall Street’ who predicted 2008 crash sees trouble in US housing — and the problem is demographics"
       },
       {
-        "title": "PowerBank Corp (SUUN) Secures Site Control for Pennsylvania Solar Project",
-        "link": "https://finance.yahoo.com/news/powerbank-corp-suun-secures-control-161030140.html",
-        "pubDate": "2025-09-04T16:10:30Z",
-        "summary": "PowerBank Corp (SUUN) Secures Site Control for Pennsylvania Solar Project"
+        "title": "US SEC closes investigation of Swedbank",
+        "link": "https://finance.yahoo.com/news/us-sec-closes-investigation-swedbank-164627626.html",
+        "pubDate": "2025-09-06T16:46:27Z",
+        "summary": "US SEC closes investigation of Swedbank"
       },
       {
-        "title": "Lithium Americas Corp (LAC) Touts Lithium Thacker Pass Project Growth",
-        "link": "https://finance.yahoo.com/news/lithium-americas-corp-lac-touts-161038368.html",
-        "pubDate": "2025-09-04T16:10:38Z",
-        "summary": "Lithium Americas Corp (LAC) Touts Lithium Thacker Pass Project Growth"
+        "title": "Up 50% in 2025, Is This ‘Strong Buy’ Growth Stock Worth Snapping Up Now?",
+        "link": "https://finance.yahoo.com/news/50-2025-strong-buy-growth-160002640.html",
+        "pubDate": "2025-09-06T16:00:02Z",
+        "summary": "Up 50% in 2025, Is This ‘Strong Buy’ Growth Stock Worth Snapping Up Now?"
       }
     ]
   }
