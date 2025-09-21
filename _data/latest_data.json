@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2025년 09월 21일 08:14 KST",
+  "lastUpdated": "2025년 09월 22일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "ESPN 스트리밍이 디즈니 재정에 어떤 영향을 미칠까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639627",
+        "pubDate": "2025-09-21 11:00:07",
+        "summary": "ESPN 스트리밍이 디즈니 재정에 어떤 영향을 미칠까?"
+      },
+      {
+        "title": "5대 애널리스트 AI 움직임: 테슬라 '물리적 AI' 전망으로 상향, 인텔 하향",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639625",
+        "pubDate": "2025-09-21 10:00:12",
+        "summary": "5대 애널리스트 AI 움직임: 테슬라 '물리적 AI' 전망으로 상향, 인텔 하향"
+      },
+      {
+        "title": "데이터센터 전력 아키텍처의 변화",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639623",
+        "pubDate": "2025-09-21 09:00:08",
+        "summary": "데이터센터 전력 아키텍처의 변화"
+      },
+      {
+        "title": "트럼프, 반기별 기업 실적 보고 지지... 주식 시장에 미칠 영향은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639619",
+        "pubDate": "2025-09-21 08:11:13",
+        "summary": "트럼프, 반기별 기업 실적 보고 지지... 주식 시장에 미칠 영향은?"
+      },
+      {
+        "title": "아이폰 대기 시간, 실제 수요 신호인가 모델 구성 차이인가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639586",
+        "pubDate": "2025-09-21 08:00:06",
+        "summary": "아이폰 대기 시간, 실제 수요 신호인가 모델 구성 차이인가?"
+      },
+      {
+        "title": "디즈니, 국제 콘텐츠에 더 많은 투자가 필요한 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639585",
+        "pubDate": "2025-09-21 07:59:28",
+        "summary": "디즈니, 국제 콘텐츠에 더 많은 투자가 필요한 이유"
+      },
+      {
+        "title": "이번 주 월가 애널리스트 주요 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1639584",
+        "pubDate": "2025-09-21 07:55:16",
+        "summary": "이번 주 월가 애널리스트 주요 분석"
+      },
       {
         "title": "레이놀즈 컨슈머, S&P 스몰캡 600 편입 소식에 주가 급등",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639569",
@@ -19,56 +61,44 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639565",
         "pubDate": "2025-09-20 18:40:03",
         "summary": "예스웨이, IPO 재추진…3억 달러 조달 목표"
-      },
-      {
-        "title": "앱티브, 50억 달러 규모의 전기 배전 사업부 매각 검토 - 블룸버그",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639562",
-        "pubDate": "2025-09-20 17:52:58",
-        "summary": "앱티브, 50억 달러 규모의 전기 배전 사업부 매각 검토 - 블룸버그"
-      },
-      {
-        "title": "무디스, Avient 선순위 담보 대출 신용등급 Baa3로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639561",
-        "pubDate": "2025-09-20 17:40:52",
-        "summary": "무디스, Avient 선순위 담보 대출 신용등급 Baa3로 상향"
-      },
-      {
-        "title": "H&F 지원 자동차 수리업체 Caliber, 2026년 IPO 계획 - Bloomberg",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639560",
-        "pubDate": "2025-09-20 17:22:27",
-        "summary": "H&F 지원 자동차 수리업체 Caliber, 2026년 IPO 계획 - Bloomberg"
-      },
-      {
-        "title": "트럼프 행정부, 의약품 할인 웹사이트 ’TrumpRx’ 고려 - 블룸버그",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639559",
-        "pubDate": "2025-09-20 17:08:29",
-        "summary": "트럼프 행정부, 의약품 할인 웹사이트 ’TrumpRx’ 고려 - 블룸버그"
-      },
-      {
-        "title": "렌트 더 런웨이, 자본 재조정 우려 속 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639558",
-        "pubDate": "2025-09-20 16:57:26",
-        "summary": "렌트 더 런웨이, 자본 재조정 우려 속 주가 하락"
-      },
-      {
-        "title": "GE 에어로스페이스, UAW 노조와 노동 계약 체결...3주 파업 종료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639557",
-        "pubDate": "2025-09-20 16:33:31",
-        "summary": "GE 에어로스페이스, UAW 노조와 노동 계약 체결...3주 파업 종료"
-      },
-      {
-        "title": "워렌AI, 최고 자동차 부품 소매업체 Top 5: 가치주 vs. 프리미엄",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1639556",
-        "pubDate": "2025-09-20 16:17:21",
-        "summary": "워렌AI, 최고 자동차 부품 소매업체 Top 5: 가치주 vs. 프리미엄"
       }
     ],
     "cnbc": [
+      {
+        "title": "Trump says Murdochs are potential TikTok deal partners",
+        "link": "https://www.cnbc.com/2025/09/21/trump-tiktok-murdoch-fox-bytedance.html",
+        "pubDate": "Sun, 21 Sep 2025 18:24:56 GMT",
+        "summary": "President Donald Trump also said that Larry Ellison and Michael Dell are also likely to be involved in the TikTok deal."
+      },
+      {
+        "title": "Trump administration reportedly plans to link autism to Tylenol use during pregnancy",
+        "link": "https://www.cnbc.com/2025/09/21/trump-admin-reportedly-set-to-link-autism-to-tylenol-use-in-pregnancy.html",
+        "pubDate": "Sun, 21 Sep 2025 21:32:54 GMT",
+        "summary": "Federal health officials also are expected to highlight leucovorin as a potential autism treatment, according to The Washington Post."
+      },
+      {
+        "title": "Schumer presses Trump to negotiate with Democrats as government shutdown deadline nears",
+        "link": "https://www.cnbc.com/2025/09/21/trump-schumer-government-shutdown-funding-.html",
+        "pubDate": "Sun, 21 Sep 2025 20:12:58 GMT",
+        "summary": "The Senate last week rejected proposals to keep the government funded at least temporarily,  raising the possibility of a lapse."
+      },
       {
         "title": "Big Tech companies, foreign governments scramble after Trump slaps $100,000 fee on H-1B visas",
         "link": "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
         "pubDate": "Sat, 20 Sep 2025 21:45:46 GMT",
         "summary": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America."
+      },
+      {
+        "title": "'Cheaper is not better': Avoid these 3 mistakes to get the full value of your rewards card, from a credit expert",
+        "link": "https://www.cnbc.com/2025/09/21/rewards-credit-card-mistakes.html",
+        "pubDate": "Sun, 21 Sep 2025 14:00:01 GMT",
+        "summary": "Just about anyone can reap the benefits of cards that come with a modest fee, says The Points Guy founder Brian Kelly."
+      },
+      {
+        "title": "Some premium travel rewards credit cards now cost over $500 per year. What to know before you apply",
+        "link": "https://www.cnbc.com/2025/09/21/how-to-maximize-travel-credit-card-benefits-with-high-annual-fees.html",
+        "pubDate": "Sun, 21 Sep 2025 11:30:01 GMT",
+        "summary": "American Express was the latest credit card company to increase the annual fee for a premium rewards card. Here’s what to consider before signing up."
       },
       {
         "title": "Trump aide denies Jimmy Kimmel suspended because of WH pressure despite Carr threat",
@@ -77,16 +107,10 @@
         "summary": "White House press secretary Karoline Leavitt on Saturday denied late-night TV host Jimmy Kimmel was suspended because of pressure from the Trump administration."
       },
       {
-        "title": "The Fed cut its interest rate, but long-term rates — including those on mortgages — went higher",
-        "link": "https://www.cnbc.com/2025/09/20/the-fed-cut-its-interest-rate-but-mortgage-costs-went-higher.html",
-        "pubDate": "Sat, 20 Sep 2025 13:25:24 GMT",
-        "summary": "Ten- and 30-year Treasury yields rose this week after the central bank cut its short-term interest rate."
-      },
-      {
-        "title": "OpenAI leads private market surge as 7 tech startups reach combined $1.3 trillion valuation",
-        "link": "https://www.cnbc.com/2025/09/20/openai-leads-private-market-surge-as-7-startups-reach-1point3-trillion.html",
-        "pubDate": "Sat, 20 Sep 2025 12:00:01 GMT",
-        "summary": "The rapid rise of AI startups OpenAI, Anthropic and xAI has spurred a historic increase in private market valuations."
+        "title": "Buffett's Berkshire totally exits its profitable stake in Chinese EV maker bought because of Munger",
+        "link": "https://www.cnbc.com/2025/09/21/buffett-munger-byd-exits-stake.html",
+        "pubDate": "Sun, 21 Sep 2025 12:03:20 GMT",
+        "summary": "Berkshire Hathaway has completed exited its extremely profitable equity investment in the Chinese electric vehicle maker BYD."
       },
       {
         "title": "Luxury face cream from a pizza parlor: Inside fraud on Walmart.com",
@@ -95,96 +119,72 @@
         "summary": "Walmart's marketplace is booming, but the strategy poses risks as a CNBC investigation found  lax vetting contributed to fraud and fakes on the site."
       },
       {
-        "title": "Trump wields ‘golden share’ to halt U.S. Steel plant shutdown, WSJ reports",
-        "link": "https://www.cnbc.com/2025/09/20/trump-golden-share-us-steel.html",
-        "pubDate": "Sat, 20 Sep 2025 17:43:33 GMT",
-        "summary": "The intervention marked Trump's first use of so-called \"golden share\" rights, a condition of the $14.1 billion takeover cleared in June."
-      },
-      {
-        "title": "Hands-on with the Meta Ray-Ban Display glasses",
-        "link": "https://www.cnbc.com/2025/09/20/hands-on-with-the-meta-ray-ban-display-glasses.html",
-        "pubDate": "Sat, 20 Sep 2025 12:00:01 GMT",
-        "summary": "CNBC tries out the $799 Meta Ray-Ban Display glasses that Mark Zuckerberg debuted during the social media company's annual Connect event."
-      },
-      {
-        "title": "Look inside: 24-year-old American pays just $238 to rent her apartment in the Japanese countryside",
-        "link": "https://www.cnbc.com/2025/09/20/american-japan-chiba-prefecture-apartment-tour-unlocked.html",
-        "pubDate": "Sat, 20 Sep 2025 16:00:02 GMT",
-        "summary": "Lexi Smith lives in a one-bedroom apartment in the Chiba Prefecture on Japan's eastern Pacific coast."
-      },
-      {
-        "title": "Elliott builds a position in Workday after software company unveils a multiyear plan to boost value",
-        "link": "https://www.cnbc.com/2025/09/20/elliott-builds-a-position-in-workday-after-software-company-unveils-a-multiyear-plan-to-boost-value.html",
-        "pubDate": "Sat, 20 Sep 2025 13:14:27 GMT",
-        "summary": "Elliott announced on Wednesday that they have taken a more than $2 billion position in Workday and expressed their support of the company's management team."
-      },
-      {
-        "title": "Why the rich are propping up car sales",
-        "link": "https://www.cnbc.com/2025/09/18/car-sales-rich-vehicles.html",
-        "pubDate": "Thu, 18 Sep 2025 15:00:01 GMT",
-        "summary": "While the average Americans have a hard time paying their loans or get new ones, automakers and dealers are posting record profits. And its thanks to the rich."
+        "title": "Apple takes control of all core chips in iPhone Air with new architecture to prioritize AI",
+        "link": "https://www.cnbc.com/2025/09/21/apple-now-controls-all-core-iphone-chips-prioritizing-ai-workloads.html",
+        "pubDate": "Sun, 21 Sep 2025 22:14:10 GMT",
+        "summary": "Apple is quietly taking control of all the core chips in iPhone with new architecture to prioritize AI workloads on its most advanced chip, the A19 Pro."
       }
     ],
     "yahoo": [
       {
-        "title": "Could Buying United Parcel Service Today Set You Up for Life?",
-        "link": "https://finance.yahoo.com/news/could-buying-united-parcel-today-224100076.html",
-        "pubDate": "2025-09-20T22:41:00Z",
-        "summary": "Could Buying United Parcel Service Today Set You Up for Life?"
-      },
-      {
-        "title": "BofA Sees Stronger Demand for ASML’s Chipmaking Tools Amid AI Boom",
-        "link": "https://finance.yahoo.com/news/bofa-sees-stronger-demand-asml-223915890.html",
-        "pubDate": "2025-09-20T22:39:15Z",
-        "summary": "BofA Sees Stronger Demand for ASML’s Chipmaking Tools Amid AI Boom"
-      },
-      {
-        "title": "Needham Raises Arista (ANET) Price Target to $160 After Analyst Day",
-        "link": "https://finance.yahoo.com/news/needham-raises-arista-anet-price-223658339.html",
-        "pubDate": "2025-09-20T22:36:58Z",
-        "summary": "Needham Raises Arista (ANET) Price Target to $160 After Analyst Day"
-      },
-      {
-        "title": "Mizuho Raises Micron (MU) Price Target to $182 Ahead of Earnings",
-        "link": "https://finance.yahoo.com/news/mizuho-raises-micron-mu-price-223054410.html",
-        "pubDate": "2025-09-20T22:30:54Z",
-        "summary": "Mizuho Raises Micron (MU) Price Target to $182 Ahead of Earnings"
-      },
-      {
-        "title": "Wedbush: Nvidia–Intel (INTC) Deal Is a “Game Changer” for Struggling Chipmaker",
-        "link": "https://finance.yahoo.com/news/wedbush-nvidia-intel-intc-deal-222855903.html",
-        "pubDate": "2025-09-20T22:28:55Z",
-        "summary": "Wedbush: Nvidia–Intel (INTC) Deal Is a “Game Changer” for Struggling Chipmaker"
-      },
-      {
-        "title": "Is Lockheed Martin Stock an Obvious Buy Right Now?",
-        "link": "https://finance.yahoo.com/news/lockheed-martin-stock-obvious-buy-223200433.html",
-        "pubDate": "2025-09-20T22:32:00Z",
-        "summary": "Is Lockheed Martin Stock an Obvious Buy Right Now?"
-      },
-      {
-        "title": "Goldman Sachs: Tesla (TSLA) Deliveries Set to Improve in 2H 2025",
-        "link": "https://finance.yahoo.com/news/goldman-sachs-tesla-tsla-deliveries-222534681.html",
-        "pubDate": "2025-09-20T22:25:34Z",
-        "summary": "Goldman Sachs: Tesla (TSLA) Deliveries Set to Improve in 2H 2025"
-      },
-      {
-        "title": "Dow Jones Futures: Apple, Nvidia At Key Levels; Take Profits In These Vertical Stocks?",
+        "title": "Dow Jones Futures Fall With Apple, Nvidia At Key Levels; Take In These Red-Hot Stocks?",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-breaks-out-nvidia-take-profits-micron-ionq-oklo/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-09-20T21:52:12Z",
-        "summary": "Dow Jones Futures: Apple, Nvidia At Key Levels; Take Profits In These Vertical Stocks?"
+        "pubDate": "2025-09-21T23:03:17Z",
+        "summary": "Dow Jones Futures Fall With Apple, Nvidia At Key Levels; Take In These Red-Hot Stocks?"
       },
       {
-        "title": "TD Cowen Sees Upside in Alphabet (GOOGL) With Rising GenAI Adoption",
-        "link": "https://finance.yahoo.com/news/td-cowen-sees-upside-alphabet-211302489.html",
-        "pubDate": "2025-09-20T21:13:02Z",
-        "summary": "TD Cowen Sees Upside in Alphabet (GOOGL) With Rising GenAI Adoption"
+        "title": "These 2 Healthcare Stocks Are Up Over 100% in a Month. Can They Keep Climbing?",
+        "link": "https://finance.yahoo.com/news/2-healthcare-stocks-over-100-224300290.html",
+        "pubDate": "2025-09-21T22:43:00Z",
+        "summary": "These 2 Healthcare Stocks Are Up Over 100% in a Month. Can They Keep Climbing?"
       },
       {
-        "title": "Daiwa Raises NVDA Target to $205, Says the Chipmaker Is Undervalued",
-        "link": "https://finance.yahoo.com/news/daiwa-raises-nvda-target-205-211036995.html",
-        "pubDate": "2025-09-20T21:10:36Z",
-        "summary": "Daiwa Raises NVDA Target to $205, Says the Chipmaker Is Undervalued"
+        "title": "Stock Futures Edge Lower Ahead of New Week",
+        "link": "https://www.barrons.com/articles/stock-futures-trading-week-4e428b0f?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-09-21T22:32:00Z",
+        "summary": "Stock Futures Edge Lower Ahead of New Week"
+      },
+      {
+        "title": "Saks Global in talks to sell 49% stake in Bergdorf Goodman for about $1 billion, WSJ reports",
+        "link": "https://finance.yahoo.com/news/saks-global-talks-sell-49-214815075.html",
+        "pubDate": "2025-09-21T21:48:15Z",
+        "summary": "Saks Global in talks to sell 49% stake in Bergdorf Goodman for about $1 billion, WSJ reports"
+      },
+      {
+        "title": "Wealthy Americans’ online shopping habits are costing retailers billions — and all consumers may pay the price",
+        "link": "https://finance.yahoo.com/news/wealthy-americans-online-shopping-habits-193000599.html",
+        "pubDate": "2025-09-21T19:30:00Z",
+        "summary": "Wealthy Americans’ online shopping habits are costing retailers billions — and all consumers may pay the price"
+      },
+      {
+        "title": "One of the key business stories to watch in 2026",
+        "link": "https://finance.yahoo.com/news/one-of-the-key-business-stories-to-watch-in-2026-190111686.html",
+        "pubDate": "2025-09-21T19:01:11Z",
+        "summary": "One of the key business stories to watch in 2026"
+      },
+      {
+        "title": "Should You Buy Peloton Stock in September With $10,000 and Hold for 10 Years?",
+        "link": "https://finance.yahoo.com/news/buy-peloton-stock-september-10-223600755.html",
+        "pubDate": "2025-09-21T22:36:00Z",
+        "summary": "Should You Buy Peloton Stock in September With $10,000 and Hold for 10 Years?"
+      },
+      {
+        "title": "Trump Says Murdochs Likely to Be Part of TikTok U.S. Investor Consortium",
+        "link": "https://www.wsj.com/business/media/tiktok-deal-murdoch-investor-trump-817d10ec?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-09-21T18:34:00Z",
+        "summary": "Trump Says Murdochs Likely to Be Part of TikTok U.S. Investor Consortium"
+      },
+      {
+        "title": "Here Comes an Inflation Update. Plus Micron, Costco, AutoZone, Firefly, and More Stocks to Watch This Week.",
+        "link": "https://www.barrons.com/articles/here-comes-an-inflation-update-plus-micron-costco-autozone-firefly-and-more-stocks-to-watch-this-week-5f49f097?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-09-21T18:00:00Z",
+        "summary": "Here Comes an Inflation Update. Plus Micron, Costco, AutoZone, Firefly, and More Stocks to Watch This Week."
+      },
+      {
+        "title": "Powell, Parabolic Moves and Other Key Things to Watch this Week",
+        "link": "https://finance.yahoo.com/news/powell-parabolic-moves-other-key-170002014.html",
+        "pubDate": "2025-09-21T17:00:02Z",
+        "summary": "Powell, Parabolic Moves and Other Key Things to Watch this Week"
       }
     ]
   }
