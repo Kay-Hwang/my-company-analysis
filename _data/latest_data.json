@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2025년 09월 27일 08:15 KST",
+  "lastUpdated": "2025년 09월 28일 08:14 KST",
   "news": {
     "investing": [
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648623",
+        "pubDate": "2025-09-27 09:00:38",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "비트코인 사이트, AI 인프라의 핵심으로 부상",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648622",
+        "pubDate": "2025-09-27 09:00:30",
+        "summary": "비트코인 사이트, AI 인프라의 핵심으로 부상"
+      },
+      {
+        "title": "AI, 미국에서 기하급수적 채택 성장 단계에 진입할까? UBS 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648621",
+        "pubDate": "2025-09-27 09:00:23",
+        "summary": "AI, 미국에서 기하급수적 채택 성장 단계에 진입할까? UBS 분석"
+      },
+      {
+        "title": "의료 분야 혁신, 비용과 AI가 핵심 축으로 작용",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648620",
+        "pubDate": "2025-09-27 09:00:19",
+        "summary": "의료 분야 혁신, 비용과 AI가 핵심 축으로 작용"
+      },
+      {
+        "title": "HIRE법이 IT 서비스 부문에 어떤 타격을 줄 수 있을까",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648619",
+        "pubDate": "2025-09-27 09:00:07",
+        "summary": "HIRE법이 IT 서비스 부문에 어떤 타격을 줄 수 있을까"
+      },
+      {
+        "title": "중국 기업이 설계한 AI 칩, TSMC와 삼성이 제조할 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648618",
+        "pubDate": "2025-09-27 08:30:04",
+        "summary": "중국 기업이 설계한 AI 칩, TSMC와 삼성이 제조할 수 있을까?"
+      },
+      {
+        "title": "넷플릭스는 정말 대형 스튜디오를 인수할 필요가 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648601",
+        "pubDate": "2025-09-27 08:00:04",
+        "summary": "넷플릭스는 정말 대형 스튜디오를 인수할 필요가 있을까?"
+      },
+      {
+        "title": "AI 에이전트 플랫폼 경쟁, 누가 승리할까? Barclays 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1648588",
+        "pubDate": "2025-09-27 07:30:03",
+        "summary": "AI 에이전트 플랫폼 경쟁, 누가 승리할까? Barclays 분석"
+      },
       {
         "title": "보잉, 항공기 유지 보수 관련 2,100억 원 규모 방위 계약 체결",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648342",
@@ -13,116 +61,68 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648340",
         "pubDate": "2025-09-26 21:38:47",
         "summary": "노스롭 그루먼, 8420만 달러 규모 방위 계약 체결"
-      },
-      {
-        "title": "제너럴 다이내믹스, 해군 계약 6억 9,800만 달러 확보",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648334",
-        "pubDate": "2025-09-26 21:33:44",
-        "summary": "제너럴 다이내믹스, 해군 계약 6억 9,800만 달러 확보"
-      },
-      {
-        "title": "레이시언, 미사일 시스템 방위 계약 3억 5,260만 달러 확보",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648333",
-        "pubDate": "2025-09-26 21:33:18",
-        "summary": "레이시언, 미사일 시스템 방위 계약 3억 5,260만 달러 확보"
-      },
-      {
-        "title": "록히드 마틴, 해병대 헬기 13조원 규모 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648328",
-        "pubDate": "2025-09-26 21:26:10",
-        "summary": "록히드 마틴, 해병대 헬기 13조원 규모 계약 체결"
-      },
-      {
-        "title": "엑셀 에너지, 화재 합의 후 S&P 전망 ’안정적’으로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648317",
-        "pubDate": "2025-09-26 21:18:17",
-        "summary": "엑셀 에너지, 화재 합의 후 S&P 전망 ’안정적’으로 상향"
-      },
-      {
-        "title": "에미스 인수 법인, 1억 1,500만 달러 규모 기업공개(IPO) 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1648313",
-        "pubDate": "2025-09-26 21:13:07",
-        "summary": "에미스 인수 법인, 1억 1,500만 달러 규모 기업공개(IPO) 완료"
-      },
-      {
-        "title": "워렌AI 선정 2025년 최고 암호화폐 주식 톱5: 비트코인 프록시 및 채굴업체 주도",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648301",
-        "pubDate": "2025-09-26 21:03:39",
-        "summary": "워렌AI 선정 2025년 최고 암호화폐 주식 톱5: 비트코인 프록시 및 채굴업체 주도"
-      },
-      {
-        "title": "무디스, 스페인 신용등급 A3로 상향…전망은 ’안정적’",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648288",
-        "pubDate": "2025-09-26 20:47:11",
-        "summary": "무디스, 스페인 신용등급 A3로 상향…전망은 ’안정적’"
-      },
-      {
-        "title": "JFB 건설, 4390만 달러 사모 투자 유치 후 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1648284",
-        "pubDate": "2025-09-26 20:40:34",
-        "summary": "JFB 건설, 4390만 달러 사모 투자 유치 후 급등"
       }
     ],
     "cnbc": [
       {
-        "title": "Here's what to know about a federal government shutdown",
-        "link": "https://www.cnbc.com/2025/09/26/government-shutdown-jobs-economy-trump.html",
-        "pubDate": "Fri, 26 Sep 2025 16:22:31 GMT",
-        "summary": "The government previously shut down during President Donald Trump's first term over disputes about funding his planned U.S.-Mexico border wall."
+        "title": "The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing",
+        "link": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "pubDate": "Sat, 27 Sep 2025 14:07:58 GMT",
+        "summary": "Consumers with larger stock holdings are feeling fine, while those with smaller or no holdings are not."
       },
       {
-        "title": "Markets won't care if Trump fires Fed Governor Cook, DOJ tells Supreme Court",
-        "link": "https://www.cnbc.com/2025/09/26/trump-fed-cook-scotus-markets.html",
-        "pubDate": "Fri, 26 Sep 2025 20:26:07 GMT",
-        "summary": "Governor Lisa Cook has urged the Supreme Court not to let President Donald Trump's attempt to fire her take effect while her lawsuit against him plays out."
+        "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
+        "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
+        "pubDate": "Sat, 27 Sep 2025 21:29:47 GMT",
+        "summary": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\""
+      },
+      {
+        "title": "How a 'nudify' site turned a group of friends into key figures in a fight against AI-generated porn",
+        "link": "https://www.cnbc.com/2025/09/27/nudify-ai-generated-deepfake-fbi.html",
+        "pubDate": "Sat, 27 Sep 2025 16:52:15 GMT",
+        "summary": "A group of friends in Minnesota last year learned that a man they knew had used their social media photos to create pornographic deepfakes."
+      },
+      {
+        "title": "'Seconds count': Avoiding airplane collisions at airports could come down to cockpit alerts",
+        "link": "https://www.cnbc.com/2025/09/27/airplane-collisions-airports-honeywell.html",
+        "pubDate": "Sat, 27 Sep 2025 12:00:01 GMT",
+        "summary": "Honeywell is developing a series of new cockpit alerts aimed at preventing collisions at or around airports."
+      },
+      {
+        "title": "10 tons, built in seven days, and maybe a way to restore American Dream of affordable home ownership",
+        "link": "https://www.cnbc.com/2025/09/27/real-estate-prices-home-ownership-housing-affordability.html",
+        "pubDate": "Sat, 27 Sep 2025 21:07:28 GMT",
+        "summary": "Can modular housing revive the American Dream of affordable home ownership? One homebuilder thinks so, and it's having success across the U.S. West."
       },
       {
         "title": "Trump calls for the firing of Lisa Monaco, Microsoft president of global affairs",
         "link": "https://www.cnbc.com/2025/09/26/trump-calls-for-the-firing-of-lisa-monaco-microsoft-president-of-global-affairs.html",
-        "pubDate": "Fri, 26 Sep 2025 22:01:04 GMT",
-        "summary": "Microsoft is facing pressure from President Donald Trump for hiring a Biden law enforcement official."
+        "pubDate": "Fri, 26 Sep 2025 23:21:16 GMT",
+        "summary": "Fox Business anchor Maria Bartiromo brought up Monaco's position at Microsoft during her show. The appointment happened in July."
       },
       {
-        "title": "Sinclair, Nexstar will bring 'Jimmy Kimmel Live' back to owned ABC stations on Friday",
-        "link": "https://www.cnbc.com/2025/09/26/sinclair-abc-jimmy-kimmel.html",
-        "pubDate": "Fri, 26 Sep 2025 21:07:19 GMT",
-        "summary": "Broadcast station owners Sinclair and Nexstar will begin airing \"Jimmy Kimmel Live!\" after three days of preempting the program since its return."
+        "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
+        "link": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
+        "pubDate": "Sat, 27 Sep 2025 15:00:01 GMT",
+        "summary": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday."
       },
       {
-        "title": "Musk, Thiel, Bannon named in partially redacted Epstein documents released by Democrats",
-        "link": "https://www.cnbc.com/2025/09/26/musk-thiel-bannon-partially-redacted-epstein-files-democrats-release.html",
-        "pubDate": "Fri, 26 Sep 2025 22:17:17 GMT",
-        "summary": "In partially redacted files released by House Democrats appeared the names of Elon Musk, Peter Thiel and Steve Bannon."
+        "title": "From PepsiCo to Taco Bell, dirty soda is taking over",
+        "link": "https://www.cnbc.com/2025/09/27/dirty-soda-swig-taco-bell-pepsico.html",
+        "pubDate": "Sat, 27 Sep 2025 12:00:01 GMT",
+        "summary": "Dirty soda is fueling a resurgence in carbonated soft drinks, kicked off by Utah-based chain Swig and now extending to giant PepsiCo."
       },
       {
-        "title": "Electronic Arts stock closes up 15% on report company near $50 billion deal to go private",
-        "link": "https://www.cnbc.com/2025/09/26/electronic-arts-buyout.html",
-        "pubDate": "Fri, 26 Sep 2025 20:17:31 GMT",
-        "summary": "The deal would likely be the largest leverage buyout of all time, according to a report."
+        "title": "36-year-old American Air Force vet moved to Vietnam, lives on $4,000 a month: You can 'focus on what makes you happy' here",
+        "link": "https://www.cnbc.com/2025/09/27/american-army-vet-moved-to-vietnam-relocated.html",
+        "pubDate": "Sat, 27 Sep 2025 20:21:26 GMT",
+        "summary": "Markeiz Ryan was in the U.S. Air Force for nine years before he moved to Vietnam in 2019."
       },
       {
-        "title": "Money manager Howard Rubin detained in sex trafficking case after feds cite hitman threat",
-        "link": "https://www.cnbc.com/2025/09/26/howard-rubin-sex-trafficking-new-york-investment.html",
-        "pubDate": "Fri, 26 Sep 2025 22:50:22 GMT",
-        "summary": "Howard Rubin, an infamous money manager, was sued in 2017 by Playboy models and another woman who claimed they were beaten, sexually abused and raped."
-      },
-      {
-        "title": "Spirit Airlines is halting 40 routes, hires ex-Amazon network planning exec",
-        "link": "https://www.cnbc.com/2025/09/26/spirit-airlines-routes-network-planning.html",
-        "pubDate": "Fri, 26 Sep 2025 20:12:51 GMT",
-        "summary": "Spirit said it is halting 40 routes to focus on stronger markets."
-      },
-      {
-        "title": "The global wealthy are lining up for Trump's $1 million Gold Card after price cut",
-        "link": "https://www.cnbc.com/2025/09/26/trump-gold-card-visa-wealthy.html",
-        "pubDate": "Fri, 26 Sep 2025 16:47:15 GMT",
-        "summary": "Advisors to the ultra-wealthy said their clients are keen to access the U.S. education system, health care system, banking system and financial markets."
-      },
-      {
-        "title": "Mamdani advocates for city-owned grocery stores; such experiments have seen limited success nationwide",
-        "link": "https://www.cnbc.com/2025/09/26/mamdani-city-run-grocery-store-plan-criticized-as-unrealistic.html",
-        "pubDate": "Fri, 26 Sep 2025 10:00:01 GMT",
-        "summary": "New York mayoral candidate Zohran Mamdani says city-owned grocery stores would make food more affordable, as urban consumers feel the effects of rising  prices."
+        "title": "'Spectacular' AI growth is creating a serious labor market problem for Fed, Jefferies' David Zervos warns",
+        "link": "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html",
+        "pubDate": "Sat, 27 Sep 2025 16:00:01 GMT",
+        "summary": "Long-time market bull David Zervos is worried the Federal Reserve is dangerously ignoring the artificial intelligence boom's fallout."
       }
     ],
     "yahoo": [
@@ -133,58 +133,58 @@
         "summary": "Final call for entries: Leasing Life Awards 2025"
       },
       {
-        "title": "General Motors (GM): Balancing Innovation and Income as Part of Cheap Quarterly Dividend Stocks",
-        "link": "https://finance.yahoo.com/news/general-motors-gm-balancing-innovation-160236663.html",
-        "pubDate": "2025-09-25T16:02:36Z",
-        "summary": "General Motors (GM): Balancing Innovation and Income as Part of Cheap Quarterly Dividend Stocks"
+        "title": "Amazon (AMZN) Stock Upgraded to Overweight on AWS Growth Outlook",
+        "link": "https://finance.yahoo.com/news/amazon-amzn-stock-upgraded-overweight-224237792.html",
+        "pubDate": "2025-09-27T22:42:37Z",
+        "summary": "Amazon (AMZN) Stock Upgraded to Overweight on AWS Growth Outlook"
       },
       {
-        "title": "Vertiv Stock Pulls Back On Data Center Technology Competition And Why Investors Shouldn't Worry",
-        "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/vertiv-stock-data-center-vrt-cooling-technology-competition/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-09-25T16:03:11Z",
-        "summary": "Vertiv Stock Pulls Back On Data Center Technology Competition And Why Investors Shouldn't Worry"
+        "title": "Alphabet (GOOGL) Stock Reiterated Neutral After Gemini Chrome Integration",
+        "link": "https://finance.yahoo.com/news/alphabet-googl-stock-reiterated-neutral-224128864.html",
+        "pubDate": "2025-09-27T22:41:28Z",
+        "summary": "Alphabet (GOOGL) Stock Reiterated Neutral After Gemini Chrome Integration"
       },
       {
-        "title": "Mortgage rates move higher despite Fed rate cut",
-        "link": "https://finance.yahoo.com/news/mortgage-rates-move-higher-despite-fed-rate-cut-160207860.html",
-        "pubDate": "2025-09-25T16:02:07Z",
-        "summary": "Mortgage rates move higher despite Fed rate cut"
+        "title": "Nvidia (NVDA) Seen as Key AI Beneficiary Despite Risks Tied to OpenAI Funding",
+        "link": "https://finance.yahoo.com/news/nvidia-nvda-seen-key-ai-223936553.html",
+        "pubDate": "2025-09-27T22:39:36Z",
+        "summary": "Nvidia (NVDA) Seen as Key AI Beneficiary Despite Risks Tied to OpenAI Funding"
       },
       {
-        "title": "Average rate on a 30-year mortgage edges higher after declining four weeks in a row",
-        "link": "https://finance.yahoo.com/news/average-rate-30-mortgage-edges-160406048.html",
-        "pubDate": "2025-09-25T16:04:06Z",
-        "summary": "Average rate on a 30-year mortgage edges higher after declining four weeks in a row"
+        "title": "Why Analysts See Alibaba (BABA) as a Global Super Cloud Platform",
+        "link": "https://finance.yahoo.com/news/why-analysts-see-alibaba-baba-223828410.html",
+        "pubDate": "2025-09-27T22:38:28Z",
+        "summary": "Why Analysts See Alibaba (BABA) as a Global Super Cloud Platform"
       },
       {
-        "title": "How much money do you need to retire? Expert reveals the truth.",
-        "link": "https://finance.yahoo.com/news/how-much-money-do-you-need-to-retire-expert-reveals-the-truth-160045665.html",
-        "pubDate": "2025-09-25T16:00:45Z",
-        "summary": "How much money do you need to retire? Expert reveals the truth."
+        "title": "Huge News For Rocket Lab Stock Investors",
+        "link": "https://finance.yahoo.com/news/huge-news-rocket-lab-stock-224100948.html",
+        "pubDate": "2025-09-27T22:41:00Z",
+        "summary": "Huge News For Rocket Lab Stock Investors"
       },
       {
-        "title": "Up Close: In Conversation with Narvar CEO Anisa Kumar",
-        "link": "https://finance.yahoo.com/news/close-conversation-narvar-ceo-anisa-160000234.html",
-        "pubDate": "2025-09-25T16:00:00Z",
-        "summary": "Up Close: In Conversation with Narvar CEO Anisa Kumar"
+        "title": "Micron (MU) Delivers Earnings Beat and Strong Forecast, Stock Outlook Brightens",
+        "link": "https://finance.yahoo.com/news/micron-mu-delivers-earnings-beat-223649274.html",
+        "pubDate": "2025-09-27T22:36:49Z",
+        "summary": "Micron (MU) Delivers Earnings Beat and Strong Forecast, Stock Outlook Brightens"
       },
       {
-        "title": "National Fuel Gas (NFG): A Hidden Gem in Energy Among Cheap Quarterly Dividend Stocks",
-        "link": "https://finance.yahoo.com/news/national-fuel-gas-nfg-hidden-155859929.html",
-        "pubDate": "2025-09-25T15:58:59Z",
-        "summary": "National Fuel Gas (NFG): A Hidden Gem in Energy Among Cheap Quarterly Dividend Stocks"
+        "title": "Fal.Con Event Boosts CrowdStrike (CRWD) as Investors Cheer AI Strategy",
+        "link": "https://finance.yahoo.com/news/fal-con-event-boosts-crowdstrike-223219761.html",
+        "pubDate": "2025-09-27T22:32:19Z",
+        "summary": "Fal.Con Event Boosts CrowdStrike (CRWD) as Investors Cheer AI Strategy"
       },
       {
-        "title": "How to get a mortgage",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-get-a-mortgage-183513159.html",
-        "pubDate": "2024-05-07T17:13:21Z",
-        "summary": "How to get a mortgage"
+        "title": "ServiceTitan (TTAN) Stock Reaffirmed Overweight on Expanding AI Opportunities",
+        "link": "https://finance.yahoo.com/news/servicetitan-ttan-stock-reaffirmed-overweight-223011642.html",
+        "pubDate": "2025-09-27T22:30:11Z",
+        "summary": "ServiceTitan (TTAN) Stock Reaffirmed Overweight on Expanding AI Opportunities"
       },
       {
-        "title": "Will mortgage rates go up to 7%? Signs to watch for.",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-mortgage-rates-go-up-to-7-184023225.html",
-        "pubDate": "2025-07-29T18:40:23Z",
-        "summary": "Will mortgage rates go up to 7%? Signs to watch for."
+        "title": "Why Jefferies Cut Bloom Energy (BE) to Underperform Despite AI Data Center Hype",
+        "link": "https://finance.yahoo.com/news/why-jefferies-cut-bloom-energy-222906219.html",
+        "pubDate": "2025-09-27T22:29:06Z",
+        "summary": "Why Jefferies Cut Bloom Energy (BE) to Underperform Despite AI Data Center Hype"
       }
     ]
   }
