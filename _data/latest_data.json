@@ -1,69 +1,81 @@
 {
-  "lastUpdated": "2025년 10월 04일 08:15 KST",
+  "lastUpdated": "2025년 10월 05일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "AI 붐에서 혜택을 받을 IT 하드웨어 주식은? 번스타인의 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657884",
+        "pubDate": "2025-10-04 10:00:12",
+        "summary": "AI 붐에서 혜택을 받을 IT 하드웨어 주식은? 번스타인의 분석"
+      },
+      {
+        "title": "통신사 인센티브로 아이폰 구매가 더 저렴해지는 방법",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657883",
+        "pubDate": "2025-10-04 10:00:07",
+        "summary": "통신사 인센티브로 아이폰 구매가 더 저렴해지는 방법"
+      },
+      {
+        "title": "저가 호텔에 무슨 문제가 있는가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657882",
+        "pubDate": "2025-10-04 09:30:08",
+        "summary": "저가 호텔에 무슨 문제가 있는가?"
+      },
+      {
+        "title": "분석가가 말하는 미국 전력망 붕괴는 '언제'가 아닌 '만약'의 문제",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657881",
+        "pubDate": "2025-10-04 09:04:21",
+        "summary": "분석가가 말하는 미국 전력망 붕괴는 '언제'가 아닌 '만약'의 문제"
+      },
+      {
+        "title": "미국 금리 인하, 중국에 호재로 작용할 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657879",
+        "pubDate": "2025-10-04 09:00:04",
+        "summary": "미국 금리 인하, 중국에 호재로 작용할 전망"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657878",
+        "pubDate": "2025-10-04 08:57:37",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "EU 의료기기: 무역확장법 232조 조사에 따른 위험은 무엇인가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657876",
+        "pubDate": "2025-10-04 08:30:04",
+        "summary": "EU 의료기기: 무역확장법 232조 조사에 따른 위험은 무엇인가?"
+      },
+      {
+        "title": "정부 셧다운이 장기화될 경우 투자자들에게 미치는 영향은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657873",
+        "pubDate": "2025-10-04 08:00:10",
+        "summary": "정부 셧다운이 장기화될 경우 투자자들에게 미치는 영향은?"
+      },
+      {
+        "title": "이 분석가들은 원자력 에너지가 \"르네상스\"를 맞이할 것이라고 말한다. 그 이유는?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1657849",
+        "pubDate": "2025-10-04 07:00:04",
+        "summary": "이 분석가들은 원자력 에너지가 \"르네상스\"를 맞이할 것이라고 말한다. 그 이유는?"
+      },
       {
         "title": "GigCapital8, 주당 10달러에 2억 2천만 달러 IPO 가격 책정",
         "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1657801",
         "pubDate": "2025-10-03 22:15:08",
         "summary": "GigCapital8, 주당 10달러에 2억 2천만 달러 IPO 가격 책정"
-      },
-      {
-        "title": "피치, 로켓社 인수 후 Mr. Cooper 신용등급 ’BBB-’로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657773",
-        "pubDate": "2025-10-03 21:11:11",
-        "summary": "피치, 로켓社 인수 후 Mr. Cooper 신용등급 ’BBB-’로 상향"
-      },
-      {
-        "title": "피치, 덴마크 신용등급 ’AAA’ 유지, 안정적 전망 제시",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657767",
-        "pubDate": "2025-10-03 21:07:33",
-        "summary": "피치, 덴마크 신용등급 ’AAA’ 유지, 안정적 전망 제시"
-      },
-      {
-        "title": "BTC 개발사, 나스닥에서 2억 5,300만 달러 규모 기업공개 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1657697",
-        "pubDate": "2025-10-03 20:02:07",
-        "summary": "BTC 개발사, 나스닥에서 2억 5,300만 달러 규모 기업공개 완료"
-      },
-      {
-        "title": "AMD, 인텔에 칩 생산 안 맡긴다 – SemiAccurate",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1657686",
-        "pubDate": "2025-10-03 19:52:48",
-        "summary": "AMD, 인텔에 칩 생산 안 맡긴다 – SemiAccurate"
-      },
-      {
-        "title": "BancFirst, 아메리뱅크 홀딩스 인수 승인 받아",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657679",
-        "pubDate": "2025-10-03 19:37:40",
-        "summary": "BancFirst, 아메리뱅크 홀딩스 인수 승인 받아"
-      },
-      {
-        "title": "켄뷰, 운영 난항 속 무디스 전망 ’부정적’으로 변경",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657677",
-        "pubDate": "2025-10-03 19:31:06",
-        "summary": "켄뷰, 운영 난항 속 무디스 전망 ’부정적’으로 변경"
-      },
-      {
-        "title": "S&P, Stanley Black & Decker 신용등급 ’BBB+’로 하향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657674",
-        "pubDate": "2025-10-03 19:23:55",
-        "summary": "S&P, Stanley Black & Decker 신용등급 ’BBB+’로 하향 조정"
-      },
-      {
-        "title": "파라마운트 스카이댄스, 프리 프레스 인수 및 바리 와이스 CBS 뉴스 책임자로 임명",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657670",
-        "pubDate": "2025-10-03 19:15:24",
-        "summary": "파라마운트 스카이댄스, 프리 프레스 인수 및 바리 와이스 CBS 뉴스 책임자로 임명"
-      },
-      {
-        "title": "트럼프, 미국 자동차 생산에 대한 관세 완화 고려 - 로이터",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1657667",
-        "pubDate": "2025-10-03 19:13:20",
-        "summary": "트럼프, 미국 자동차 생산에 대한 관세 완화 고려 - 로이터"
       }
     ],
     "cnbc": [
+      {
+        "title": "AI Sam Altman and the Sora copyright gamble: 'I hope Nintendo doesn't sue us'",
+        "link": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
+        "pubDate": "Sat, 04 Oct 2025 12:00:01 GMT",
+        "summary": "CNBC has seen videos of characters from shows like \"SpongeBob SquarePants\" on the platform and was able to independently generate other characters."
+      },
+      {
+        "title": "Warren Buffett Watch: His last big deal as Berkshire CEO before Abel takes over?",
+        "link": "https://www.cnbc.com/2025/10/04/warren-buffett-watch-his-last-big-deal-as-berkshire-ceo-before-abel-takes-over.html",
+        "pubDate": "Sat, 04 Oct 2025 12:33:26 GMT",
+        "summary": "Berkshire Hathaway has a deal to pay $9.7 billion in cash to buy OxyChem, Occidental Petroleum's chemical business."
+      },
       {
         "title": "The shutdown meant no jobs report. Here's what it would have said about the economy",
         "link": "https://www.cnbc.com/2025/10/03/shutdown-jobs-report-economy.html",
@@ -71,46 +83,22 @@
         "summary": "While the BLS has gone dark with the shutdown, other reports  suggest the labor market just plodded along in September."
       },
       {
-        "title": "Goldman boss David Solomon warns of a stock market drawdown: ‘People won’t feel good’",
-        "link": "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html",
-        "pubDate": "Fri, 03 Oct 2025 15:17:31 GMT",
-        "summary": "The Goldman Sachs CEO said AI presented opportunities but that some investors were overlooking \"things you should be skeptical about.\""
+        "title": "Inside the uranium plant at the center of U.S. plans to expand nuclear power",
+        "link": "https://www.cnbc.com/2025/10/04/urenco-centrus-orano-enriched-uranium-nuclear-russia-ai-data-center.html",
+        "pubDate": "Sat, 04 Oct 2025 12:40:09 GMT",
+        "summary": "Urenco operates the only uranium enrichment plant in the U.S. It is boosting production as the U.S. bans Russian fuel at the same time nuclear demand grows."
       },
       {
-        "title": "AI chipmaker Cerebras withdraws IPO",
-        "link": "https://www.cnbc.com/2025/10/03/cerebras-withdraws-ipo-ai.html",
-        "pubDate": "Fri, 03 Oct 2025 22:02:42 GMT",
-        "summary": "Days after announcing that it raised $1.1 billion in a financing round, Cerebras said it's pulling its IPO plans."
+        "title": "Investors may want to consider boosting their exposure abroad — even with U.S. stocks around record highs",
+        "link": "https://www.cnbc.com/2025/10/04/case-for-investing-abroad-despite-record-us-market-gains.html",
+        "pubDate": "Sat, 04 Oct 2025 15:00:01 GMT",
+        "summary": "\"Home bias is about as bad as it's ever been in the United States,\" ETF.com's Dave Nadig told CNBC's \"ETF Edge\" this week."
       },
       {
-        "title": "Treasury weighs minting $1 coin with Trump's face for U.S. 250th anniversary",
-        "link": "https://www.cnbc.com/2025/10/03/trump-face-coin-treasury-dollar.html",
-        "pubDate": "Fri, 03 Oct 2025 21:33:09 GMT",
-        "summary": "U.S. Treasurer Brandon Beach confirmed in a social media post that the draft coin depicting Trump is real. Treasury Secretary Scott Bessent shared Beach's post."
-      },
-      {
-        "title": "Bitcoin rallies to within 1% of all-time high, gaining safe haven status during shutdown",
-        "link": "https://www.cnbc.com/2025/10/03/bitcoin-rallies-to-within-1percent-of-all-time-high-gaining-safe-haven-status-during-shutdown-.html",
-        "pubDate": "Fri, 03 Oct 2025 16:50:34 GMT",
-        "summary": "Bitcoin is trading within striking distance of its record price as the U.S. government shutdown enters its third day."
-      },
-      {
-        "title": "Perplexity CEO: Comet AI browser can boost productivity so companies won't have to hire more people",
-        "link": "https://www.cnbc.com/2025/10/03/perplexity-ceo-comet-ai-browser-hiring-gdp.html",
-        "pubDate": "Fri, 03 Oct 2025 20:10:02 GMT",
-        "summary": "Chicago Fed Austan Goolsbee agreed that AI could be a boon to the GDP, but cautioned about over-investment."
-      },
-      {
-        "title": "Quantum stocks Rigetti Computing and D-Wave surged double digits this week. Here's what's driving the big move",
-        "link": "https://www.cnbc.com/2025/10/03/quantum-stocks-rigetti-computing-d-wave.html",
-        "pubDate": "Fri, 03 Oct 2025 20:59:02 GMT",
-        "summary": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\""
-      },
-      {
-        "title": "Amazon shutters 4 Fresh stores in Southern California as grocery strategy keeps shifting",
-        "link": "https://www.cnbc.com/2025/10/03/amazon-shuts-4-fresh-stores-in-southern-california-after-uk-closures.html",
-        "pubDate": "Fri, 03 Oct 2025 23:00:11 GMT",
-        "summary": "Amazon has been closing Fresh supermarkets in the U.S. and U.K. as the company focuses its grocery strategy on Whole Foods and delivery."
+        "title": "Activist Irenic builds a stake in Workiva, hoping to gain a voice on the software company's board",
+        "link": "https://www.cnbc.com/2025/10/04/activist-irenic-builds-a-stake-in-workiva-hoping-to-gain-two-board-seats.html",
+        "pubDate": "Sat, 04 Oct 2025 12:43:47 GMT",
+        "summary": "The activist investor is calling on Workiva to review strategic alternatives and refresh its board after years of posting losses."
       },
       {
         "title": "Elon Musk is telling his followers to cancel Netflix subscriptions. Here's what's happening",
@@ -119,72 +107,84 @@
         "summary": "Elon Musk this week urged his followers to cancel their Netflix subscriptions over a controversy surrounding an animated show and its creator."
       },
       {
-        "title": "Student loan borrowers can't access repayment plans under Trump. What to know",
-        "link": "https://www.cnbc.com/2025/10/03/student-loan-repayment-plan-backlog-under-trump.html",
-        "pubDate": "Fri, 03 Oct 2025 18:27:29 GMT",
-        "summary": "Student loan borrowers who are trying to get into a new repayment plan face delays amid a Trump-era backlog of applications and the shutdown of the government."
+        "title": "Lyft CEO left Microsoft in the 90s to join a tiny startup called Amazon—here's how Jeff Bezos convinced him",
+        "link": "https://www.cnbc.com/2025/10/04/how-jeff-bezos-convinced-lyft-ceo-to-quit-microsoft-join-amazon-in-the-90s.html",
+        "pubDate": "Sat, 04 Oct 2025 13:00:01 GMT",
+        "summary": "Lyft CEO David Risher admits leaving a multibillion-dollar business to join a 'tiny' online bookstore 'wasn't an entirely rational move.'"
+      },
+      {
+        "title": "Bitcoin rallies to within 1% of all-time high, gaining safe-haven status during shutdown",
+        "link": "https://www.cnbc.com/2025/10/03/bitcoin-rallies-to-within-1percent-of-all-time-high-gaining-safe-haven-status-during-shutdown-.html",
+        "pubDate": "Sat, 04 Oct 2025 10:46:15 GMT",
+        "summary": "Bitcoin is trading within striking distance of its record price as the U.S. government shutdown enters its third day."
+      },
+      {
+        "title": "Goldman boss David Solomon warns of a stock market drawdown: ‘People won’t feel good’",
+        "link": "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html",
+        "pubDate": "Fri, 03 Oct 2025 15:17:31 GMT",
+        "summary": "The Goldman Sachs CEO said AI presented opportunities but that some investors were overlooking \"things you should be skeptical about.\""
       }
     ],
     "yahoo": [
       {
-        "title": "Humana’s Medicare Advantage star ratings slip for 2026",
-        "link": "https://finance.yahoo.com/news/humana-medicare-advantage-star-ratings-153000468.html",
-        "pubDate": "2025-10-02T15:30:00Z",
-        "summary": "Humana’s Medicare Advantage star ratings slip for 2026"
+        "title": "Meet the Suspicious 8: Dividends Over 6% With Plenty of Problems",
+        "link": "https://www.barrons.com/articles/dividend-stocks-yields-suspicious-90461aa3?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-10-03T12:24:00Z",
+        "summary": "Meet the Suspicious 8: Dividends Over 6% With Plenty of Problems"
       },
       {
-        "title": "Suze Orman warns these 4 financial blunders will set you back in a major way",
-        "link": "https://finance.yahoo.com/news/suze-orman-warns-4-financial-130900517.html",
-        "pubDate": "2025-10-02T13:09:00Z",
-        "summary": "Suze Orman warns these 4 financial blunders will set you back in a major way"
+        "title": "Is Rivian Stock a Buy After Its Recent Pullback?",
+        "link": "https://finance.yahoo.com/news/rivian-stock-buy-recent-pullback-223500382.html",
+        "pubDate": "2025-10-04T22:35:00Z",
+        "summary": "Is Rivian Stock a Buy After Its Recent Pullback?"
       },
       {
-        "title": "Interactive Brokers’ Founder Changed Trading Forever. What He Sees Next.",
-        "link": "https://www.barrons.com/articles/interactive-brokers-peterffy-automated-securities-trading-4b3c5a19?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-10-02T15:59:00Z",
-        "summary": "Interactive Brokers’ Founder Changed Trading Forever. What He Sees Next."
+        "title": "Arqit Quantum (ARQQ) Announces that Fabric Networks Purchases Full Commercial PI License for Arqit’s NetworkSecure™ Platform",
+        "link": "https://finance.yahoo.com/news/arqit-quantum-arqq-announces-fabric-211603617.html",
+        "pubDate": "2025-10-04T21:16:03Z",
+        "summary": "Arqit Quantum (ARQQ) Announces that Fabric Networks Purchases Full Commercial PI License for Arqit’s NetworkSecure™ Platform"
       },
       {
-        "title": "Aberdeen Crumbles Under UK’s Windfall Energy Tax",
-        "link": "https://finance.yahoo.com/news/aberdeen-crumbles-under-uk-windfall-160000087.html",
-        "pubDate": "2025-10-02T16:00:00Z",
-        "summary": "Aberdeen Crumbles Under UK’s Windfall Energy Tax"
+        "title": "NewtekOne (NEWT) Secures $95M Financing from Goldman Sachs Alternatives",
+        "link": "https://finance.yahoo.com/news/newtekone-newt-secures-95m-financing-211602583.html",
+        "pubDate": "2025-10-04T21:16:02Z",
+        "summary": "NewtekOne (NEWT) Secures $95M Financing from Goldman Sachs Alternatives"
       },
       {
-        "title": "US banks expect victory in capital requirements as Trump regulators revamp rules",
-        "link": "https://finance.yahoo.com/news/us-banks-expect-victory-capital-155403787.html",
-        "pubDate": "2025-10-02T15:54:03Z",
-        "summary": "US banks expect victory in capital requirements as Trump regulators revamp rules"
+        "title": "Lake Street Initiates Buy Rating on Quantum Computing (QUBT) Stock",
+        "link": "https://finance.yahoo.com/news/lake-street-initiates-buy-rating-211601987.html",
+        "pubDate": "2025-10-04T21:16:01Z",
+        "summary": "Lake Street Initiates Buy Rating on Quantum Computing (QUBT) Stock"
       },
       {
-        "title": "Here’s Why Retirees Shouldn’t Always Pay for Renovations With Cash",
-        "link": "https://finance.yahoo.com/news/why-retirees-shouldn-t-always-155740239.html",
-        "pubDate": "2025-10-02T15:57:40Z",
-        "summary": "Here’s Why Retirees Shouldn’t Always Pay for Renovations With Cash"
+        "title": "PayPal (PYPL) Partners with Spark to Inject $1B PYUSD Liquidity",
+        "link": "https://finance.yahoo.com/news/paypal-pypl-partners-spark-inject-211600800.html",
+        "pubDate": "2025-10-04T21:16:00Z",
+        "summary": "PayPal (PYPL) Partners with Spark to Inject $1B PYUSD Liquidity"
       },
       {
-        "title": "This Is the Mortgage Rate Needed to Revitalize the Housing Market",
-        "link": "https://www.barrons.com/articles/mortgage-rates-housing-market-sales-economy-fannie-mae-18f4dfe2?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-10-02T16:02:00Z",
-        "summary": "This Is the Mortgage Rate Needed to Revitalize the Housing Market"
+        "title": "Althera42: The New Fund Bringing the Music Royalties Model to Tech Investments",
+        "link": "https://finance.yahoo.com/news/althera42-fund-bringing-music-royalties-223158413.html",
+        "pubDate": "2025-10-04T22:31:58Z",
+        "summary": "Althera42: The New Fund Bringing the Music Royalties Model to Tech Investments"
       },
       {
-        "title": "The Pentagon Wants to Quadruple Missile Production. That’s a Big Win for This 1 ‘Strong Buy’ Stock.",
-        "link": "https://finance.yahoo.com/news/pentagon-wants-quadruple-missile-production-160328615.html",
-        "pubDate": "2025-10-02T16:03:28Z",
-        "summary": "The Pentagon Wants to Quadruple Missile Production. That’s a Big Win for This 1 ‘Strong Buy’ Stock."
+        "title": "Rigetti Computing (RGTI) Secures Purchase Orders of ~$5.7 million for Two 9-qubit Novera™ Quantum Computing Systems",
+        "link": "https://finance.yahoo.com/news/rigetti-computing-rgti-secures-purchase-211600174.html",
+        "pubDate": "2025-10-04T21:16:00Z",
+        "summary": "Rigetti Computing (RGTI) Secures Purchase Orders of ~$5.7 million for Two 9-qubit Novera™ Quantum Computing Systems"
       },
       {
-        "title": "Plug Power Just Delivered a New Electrolyzer. Should You Buy PLUG Stock Here?",
-        "link": "https://finance.yahoo.com/news/plug-power-just-delivered-electrolyzer-154831921.html",
-        "pubDate": "2025-10-02T15:48:31Z",
-        "summary": "Plug Power Just Delivered a New Electrolyzer. Should You Buy PLUG Stock Here?"
+        "title": "D-Wave Quantum (QBTS) and North Wales Police (NWP) Announce Completion of Joint Proof-of-technology Project",
+        "link": "https://finance.yahoo.com/news/d-wave-quantum-qbts-north-211558618.html",
+        "pubDate": "2025-10-04T21:15:58Z",
+        "summary": "D-Wave Quantum (QBTS) and North Wales Police (NWP) Announce Completion of Joint Proof-of-technology Project"
       },
       {
-        "title": "Market Update: ADM",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_44894_MarketUpdate_1759509828000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2025-10-03T16:43:48Z",
-        "summary": "Market Update: ADM"
+        "title": "Jefferies Cuts Virtu (VIRT) Target to $49, Maintains Buy Rating",
+        "link": "https://finance.yahoo.com/news/jefferies-cuts-virtu-virt-target-211559312.html",
+        "pubDate": "2025-10-04T21:15:59Z",
+        "summary": "Jefferies Cuts Virtu (VIRT) Target to $49, Maintains Buy Rating"
       }
     ]
   }
