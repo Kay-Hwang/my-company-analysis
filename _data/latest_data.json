@@ -1,110 +1,92 @@
 {
-  "lastUpdated": "2025년 10월 12일 08:15 KST",
+  "lastUpdated": "2025년 10월 13일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "[개장] 뉴욕증시, 중국과의 무역 전쟁 우려에 급락..나스닥 3%↓",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665365",
+        "pubDate": "2025-10-12 22:40:45",
+        "summary": "[개장] 뉴욕증시, 중국과의 무역 전쟁 우려에 급락..나스닥 3%↓"
+      },
+      {
+        "title": "[주간경제전망] 미국 주요 경제지표·IMF 총회 주목… 국감도 본격화",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665358",
+        "pubDate": "2025-10-12 21:10:40",
+        "summary": "[주간경제전망] 미국 주요 경제지표·IMF 총회 주목… 국감도 본격화"
+      },
+      {
+        "title": "랜디안 캐피탈, 경영진 반응 후 원 그룹 계획 강화",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665344",
+        "pubDate": "2025-10-12 17:12:23",
+        "summary": "랜디안 캐피탈, 경영진 반응 후 원 그룹 계획 강화"
+      },
+      {
+        "title": "[전망] 은행주, 기준금리 인하에도 마진 선전...주주환원 기대감 유효",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665338",
+        "pubDate": "2025-10-12 15:10:47",
+        "summary": "[전망] 은행주, 기준금리 인하에도 마진 선전...주주환원 기대감 유효"
+      },
+      {
+        "title": "AI와 온라인 여행: 파괴인가 혁신인가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665323",
+        "pubDate": "2025-10-12 10:05:07",
+        "summary": "AI와 온라인 여행: 파괴인가 혁신인가?"
+      },
+      {
+        "title": "이번 주 월가 주요 투자 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665304",
+        "pubDate": "2025-10-12 09:09:59",
+        "summary": "이번 주 월가 주요 투자 분석"
+      },
+      {
+        "title": "엔화 반등해도 일본 주식 상승세 이어질 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665301",
+        "pubDate": "2025-10-12 09:05:03",
+        "summary": "엔화 반등해도 일본 주식 상승세 이어질 전망"
+      },
+      {
+        "title": "중국, 첨단 미국 칩 수입 임박했나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665299",
+        "pubDate": "2025-10-12 08:30:05",
+        "summary": "중국, 첨단 미국 칩 수입 임박했나?"
+      },
+      {
+        "title": "AI 에이전트 커머스, 누가 이득을 보고 누가 손해를 볼까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1665298",
+        "pubDate": "2025-10-12 08:05:04",
+        "summary": "AI 에이전트 커머스, 누가 이득을 보고 누가 손해를 볼까?"
+      },
       {
         "title": "UBS, \"강력한 펀더멘털에도 불구하고 이 섹터는 투자자들에게 ’외면 받고 있다’\"",
         "link": "https://kr.investing.com/news/stock-market-news/article-1665213",
         "pubDate": "2025-10-11 09:00:11",
         "summary": "UBS, \"강력한 펀더멘털에도 불구하고 이 섹터는 투자자들에게 ’외면 받고 있다’\""
-      },
-      {
-        "title": "AI 수요와 중국 반등으로 브로드컴과 Nvidia의 3분기 실적 강세 예상",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1665212",
-        "pubDate": "2025-10-11 09:00:04",
-        "summary": "AI 수요와 중국 반등으로 브로드컴과 Nvidia의 3분기 실적 강세 예상"
-      },
-      {
-        "title": "미국-중국 매도세, 매수 기회일까? 월가 전문가의 견해",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1665211",
-        "pubDate": "2025-10-11 08:53:11",
-        "summary": "미국-중국 매도세, 매수 기회일까? 월가 전문가의 견해"
-      },
-      {
-        "title": "2025년 하반기 어떤 레스토랑 브랜드가 트렌드인가?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1665202",
-        "pubDate": "2025-10-11 08:05:03",
-        "summary": "2025년 하반기 어떤 레스토랑 브랜드가 트렌드인가?"
-      },
-      {
-        "title": "Investing.com의 주간 주목할 주식",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1665200",
-        "pubDate": "2025-10-11 07:59:56",
-        "summary": "Investing.com의 주간 주목할 주식"
-      },
-      {
-        "title": "센트럴 뱅컴퍼니, 나스닥에 A클래스 보통주 IPO 신청",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1665070",
-        "pubDate": "2025-10-10 21:34:04",
-        "summary": "센트럴 뱅컴퍼니, 나스닥에 A클래스 보통주 IPO 신청"
-      },
-      {
-        "title": "모건 스탠리, 퍼스트 브랜즈 파산 중 제프리스 펀드 상환 요청",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1665062",
-        "pubDate": "2025-10-10 21:24:42",
-        "summary": "모건 스탠리, 퍼스트 브랜즈 파산 중 제프리스 펀드 상환 요청"
-      },
-      {
-        "title": "S&P, Conduent 신용등급 ’B’로 하향...더딘 부채 축소",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1665042",
-        "pubDate": "2025-10-10 21:13:34",
-        "summary": "S&P, Conduent 신용등급 ’B’로 하향...더딘 부채 축소"
-      },
-      {
-        "title": "트럼프, 11월 1일부터 중국산 제품에 100% 관세 부과",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1665039",
-        "pubDate": "2025-10-10 21:07:06",
-        "summary": "트럼프, 11월 1일부터 중국산 제품에 100% 관세 부과"
-      },
-      {
-        "title": "주미아, S&P 이집트 신용등급 상향에 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1665030",
-        "pubDate": "2025-10-10 21:02:33",
-        "summary": "주미아, S&P 이집트 신용등급 상향에 주가 상승"
       }
     ],
     "cnbc": [
       {
-        "title": "Market sell-off: Trump post lops off $2 trillion from stocks in a single day",
-        "link": "https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
-        "pubDate": "Sat, 11 Oct 2025 13:32:09 GMT",
-        "summary": "The unraveling shows the sway the president's one-man trade policy still has over the fate of the global economy."
+        "title": "Government shutdown: Vance says 'fraud' is rife in ACA tax credits use",
+        "link": "https://www.cnbc.com/2025/10/12/government-shutdown-vance-aca-democrats.html",
+        "pubDate": "Sun, 12 Oct 2025 18:28:05 GMT",
+        "summary": "Democrats want any government funding bill include an extension for enhanced Obamacare subsidies, which are set to expire at the end of this year."
       },
       {
-        "title": "Trump says administration has 'identified funds' to pay troops during shutdown",
-        "link": "https://www.cnbc.com/2025/10/11/trump-government-shutdown-pay-troops.html",
-        "pubDate": "Sat, 11 Oct 2025 19:16:41 GMT",
-        "summary": "President Donald Trump on Saturday said his administration has \"identified funds\" to pay troops next week despite the federal government shutdown."
+        "title": "Trump will greet Israel hostages 'in person' after Hamas releases them from Gaza, Vance says",
+        "link": "https://www.cnbc.com/2025/10/12/trump-israel-hostages-hamas-vance.html",
+        "pubDate": "Sun, 12 Oct 2025 16:55:07 GMT",
+        "summary": "Vice President JD Vance in an interview on NBC News' \"Meet the Press\" said Hamas will release Israeli hostages from Gaza at \"any moment now.\""
       },
       {
-        "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
-        "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
-        "pubDate": "Sat, 11 Oct 2025 22:55:57 GMT",
-        "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting the company in competition with a growing list of startups."
+        "title": "AG Pam Bondi embraces SNL spoof of her and DHS Sec. Kristi Noem: 'Loving Amy Poehler!'",
+        "link": "https://www.cnbc.com/2025/10/12/trump-bondi-snl-poehler-noem-fey.html",
+        "pubDate": "Sun, 12 Oct 2025 19:48:14 GMT",
+        "summary": "The \"Saturday Night Live\" skit spoofed Pam Bondi's stonewalling, Kristi Noem's history of killing a dog, and President Donald Trump's preferred hair color."
       },
       {
-        "title": "Airlines waive flight-change fees for East Coast flights ahead of storm",
-        "link": "https://www.cnbc.com/2025/10/11/airlines-flight-change-fees-waived-east-coast-storm.html",
-        "pubDate": "Sat, 11 Oct 2025 20:01:48 GMT",
-        "summary": "U.S. airlines waived fare differences and change fees for more than a dozen airports ahead of an incoming coastal storm."
-      },
-      {
-        "title": "BlackRock sees shift in artificial intelligence trade. Where investors are putting their money now.",
-        "link": "https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html",
-        "pubDate": "Sat, 11 Oct 2025 15:00:01 GMT",
-        "summary": "The key trend BlackRock is seeing when it comes to exchange traded funds."
-      },
-      {
-        "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
-        "link": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
-        "pubDate": "Sat, 11 Oct 2025 05:24:13 GMT",
-        "summary": "Nvidia dropped almost 5%, pacing a steep decline in tech stocks, after President Trump threatened more tariffs on China."
-      },
-      {
-        "title": "Trump says 'a lot' of federal workers are being laid off during government shutdown",
-        "link": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-        "pubDate": "Sat, 11 Oct 2025 04:27:26 GMT",
-        "summary": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it."
+        "title": "Global week ahead: Three-speed Europe heads to Washington D.C.",
+        "link": "https://www.cnbc.com/2025/10/12/global-week-ahead-three-speed-europe-heads-to-washington-dc.html",
+        "pubDate": "Sun, 12 Oct 2025 02:17:24 GMT",
+        "summary": "Diverging economic fortunes in Europe come at a time when the bloc should put on a united front on U.S. relations."
       },
       {
         "title": "How Julia Roberts learned to navigate career criticism: 'I had a lot of things I needed to overcome for myself'",
@@ -113,78 +95,96 @@
         "summary": "Julia Roberts faced harsh criticism early in her career, she says. Here's how to use that feedback to your advantage, according to a career coach."
       },
       {
-        "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
-        "link": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
-        "pubDate": "Fri, 10 Oct 2025 18:11:35 GMT",
-        "summary": "The launch of OpenAI’s Sora 2 video service kicked off another round of anxiety among content creators in the U.S."
+        "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
+        "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
+        "pubDate": "Sat, 11 Oct 2025 22:55:57 GMT",
+        "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting the company in competition with a growing list of startups."
       },
       {
-        "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
-        "link": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
-        "pubDate": "Fri, 10 Oct 2025 23:42:56 GMT",
-        "summary": "Apple is in late-stage talks with startup Prompt AI to bring on the company's employees and its computer vision technology."
+        "title": "Baby boomers still love their department stores. Here’s what they know that Gen Zers don’t",
+        "link": "https://www.cnbc.com/2025/10/12/department-store-perks-rival-some-online-retailers.html",
+        "pubDate": "Sun, 12 Oct 2025 11:30:01 GMT",
+        "summary": "While younger consumers find themselves shopping online, baby boomers still hit the stores. Here's what they know that others don't, experts say."
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
+        "link": "https://www.cnbc.com/2025/10/12/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
+        "pubDate": "Sun, 12 Oct 2025 11:35:49 GMT",
+        "summary": "TipRanks' ranking service discusses three stocks, including Snowflake and Advanced Micro Devices, favored by Wall Street."
+      },
+      {
+        "title": "Trump says administration has 'identified funds' to pay troops during shutdown",
+        "link": "https://www.cnbc.com/2025/10/11/trump-government-shutdown-pay-troops.html",
+        "pubDate": "Sun, 12 Oct 2025 10:11:27 GMT",
+        "summary": "President Donald Trump on Saturday said his administration has \"identified funds\" to pay troops next week despite the federal government shutdown."
+      },
+      {
+        "title": "33-year-old was rejected from a baseball internship, now she's the team's general manager: 'I never pictured I could have a career in baseball'",
+        "link": "https://www.cnbc.com/2025/10/12/33-year-old-was-rejected-from-a-baseball-internship-now-shes-the-teams-general-manager.html",
+        "pubDate": "Sun, 12 Oct 2025 13:45:01 GMT",
+        "summary": "Brooke Cooper is the general manager of the Worcester Red Sox. She was rejected the first time she applied for an internship with the team."
       }
     ],
     "yahoo": [
       {
-        "title": "Trucking company files Chapter 7 bankruptcy, shuts down abruptly",
-        "link": "https://finance.yahoo.com/news/trucking-company-files-chapter-7-173300912.html",
-        "pubDate": "2025-10-10T17:33:00Z",
-        "summary": "Trucking company files Chapter 7 bankruptcy, shuts down abruptly"
+        "title": "Dow Jones Futures Rise As Trump Says 'Eternity' Before Extra 100% China Tariff",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-china-tariffs-oracle-ai/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-10-12T22:55:27Z",
+        "summary": "Dow Jones Futures Rise As Trump Says 'Eternity' Before Extra 100% China Tariff"
       },
       {
-        "title": "Alphabet (GOOGL) Gains Momentum in AI Search and Cloud; BMO Ups Price Target to $294",
-        "link": "https://finance.yahoo.com/news/alphabet-googl-gains-momentum-ai-222923397.html",
-        "pubDate": "2025-10-11T22:29:23Z",
-        "summary": "Alphabet (GOOGL) Gains Momentum in AI Search and Cloud; BMO Ups Price Target to $294"
+        "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+        "link": "https://finance.yahoo.com/news/2-artificial-intelligence-stocks-buy-223000199.html",
+        "pubDate": "2025-10-12T22:30:00Z",
+        "summary": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
       },
       {
-        "title": "Goldman Sachs Reiterates Buy on Broadcom (AVGO), Calls It a Leader in AI Custom Compute",
-        "link": "https://finance.yahoo.com/news/goldman-sachs-reiterates-buy-broadcom-222818219.html",
-        "pubDate": "2025-10-11T22:28:18Z",
-        "summary": "Goldman Sachs Reiterates Buy on Broadcom (AVGO), Calls It a Leader in AI Custom Compute"
+        "title": "Stocks dip as government shutdown continues, rare earths rally: What to watch this week",
+        "link": "https://finance.yahoo.com/news/stocks-dip-as-government-shutdown-continues-rare-earths-rally-what-to-watch-this-week-114600627.html",
+        "pubDate": "2025-10-12T11:46:00Z",
+        "summary": "Stocks dip as government shutdown continues, rare earths rally: What to watch this week"
       },
       {
-        "title": "Baird Initiates Oracle (ORCL) at Outperform With $365 Target, Calls It a Major AI Beneficiary",
-        "link": "https://finance.yahoo.com/news/baird-initiates-oracle-orcl-outperform-222713664.html",
-        "pubDate": "2025-10-11T22:27:13Z",
-        "summary": "Baird Initiates Oracle (ORCL) at Outperform With $365 Target, Calls It a Major AI Beneficiary"
+        "title": "Wall Street's biggest banks are riding high as earnings season begins",
+        "link": "https://finance.yahoo.com/news/wall-streets-biggest-banks-are-riding-high-as-earnings-season-begins-130017995.html",
+        "pubDate": "2025-10-12T13:00:17Z",
+        "summary": "Wall Street's biggest banks are riding high as earnings season begins"
       },
       {
-        "title": "Tesla (TSLA) Target Boosted to $509 by TD Cowen After Strong Deliveries and AI Momentum",
-        "link": "https://finance.yahoo.com/news/tesla-tsla-target-boosted-509-222528234.html",
-        "pubDate": "2025-10-11T22:25:28Z",
-        "summary": "Tesla (TSLA) Target Boosted to $509 by TD Cowen After Strong Deliveries and AI Momentum"
+        "title": "This Industrial Stock’s Earnings Could Send an All-Clear—or a Warning to the Economy",
+        "link": "https://www.barrons.com/articles/fastenal-earnings-stock-price-665ca45e?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-10-12T20:26:00Z",
+        "summary": "This Industrial Stock’s Earnings Could Send an All-Clear—or a Warning to the Economy"
       },
       {
-        "title": "What Sent This High-Flying Ultra-Luxury Giant's Stock 16% Lower Thursday?",
-        "link": "https://finance.yahoo.com/news/sent-high-flying-ultra-luxury-224200133.html",
-        "pubDate": "2025-10-11T22:42:00Z",
-        "summary": "What Sent This High-Flying Ultra-Luxury Giant's Stock 16% Lower Thursday?"
+        "title": "Palantir Stock Flashes Strong Fundamentals As Chart Struggles. Is AI Play A Buy?",
+        "link": "https://www.investors.com/news/technology/palantir-stock-pltr-stock-buy-sell-october-2025/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-10-12T19:41:25Z",
+        "summary": "Palantir Stock Flashes Strong Fundamentals As Chart Struggles. Is AI Play A Buy?"
       },
       {
-        "title": "AMD Stock Target Lifted to $270 by TD Cowen After Landmark OpenAI Deal",
-        "link": "https://finance.yahoo.com/news/amd-stock-target-lifted-270-222412291.html",
-        "pubDate": "2025-10-11T22:24:12Z",
-        "summary": "AMD Stock Target Lifted to $270 by TD Cowen After Landmark OpenAI Deal"
+        "title": "Prediction: These Will Be Wall Street's 2 Most Prominent Stock-Split Stocks of 2026",
+        "link": "https://finance.yahoo.com/news/prediction-wall-streets-2-most-221900209.html",
+        "pubDate": "2025-10-12T22:19:00Z",
+        "summary": "Prediction: These Will Be Wall Street's 2 Most Prominent Stock-Split Stocks of 2026"
       },
       {
-        "title": "Macquarie Sees “Hidden Value” in Baidu’s (BIDU) AI Pivot, Raises Price Target to $176",
-        "link": "https://finance.yahoo.com/news/macquarie-sees-hidden-value-baidu-222252924.html",
-        "pubDate": "2025-10-11T22:22:52Z",
-        "summary": "Macquarie Sees “Hidden Value” in Baidu’s (BIDU) AI Pivot, Raises Price Target to $176"
+        "title": "Rhode Island cop blocked from accessing his retirement savings under any circumstances — quitting may be his only option",
+        "link": "https://finance.yahoo.com/news/rhode-island-cop-blocked-accessing-193000907.html",
+        "pubDate": "2025-10-12T19:30:00Z",
+        "summary": "Rhode Island cop blocked from accessing his retirement savings under any circumstances — quitting may be his only option"
       },
       {
-        "title": "Cantor Fitzgerald Reiterates Overweight on NVIDIA (NVDA), Says AI Demand Proves It’s “Not a Bubble”",
-        "link": "https://finance.yahoo.com/news/cantor-fitzgerald-reiterates-overweight-nvidia-222126853.html",
-        "pubDate": "2025-10-11T22:21:26Z",
-        "summary": "Cantor Fitzgerald Reiterates Overweight on NVIDIA (NVDA), Says AI Demand Proves It’s “Not a Bubble”"
+        "title": "Analyst Explains ‘The Problem’ With Apple (AAPL)",
+        "link": "https://finance.yahoo.com/news/analyst-explains-problem-apple-aapl-192307165.html",
+        "pubDate": "2025-10-12T19:23:07Z",
+        "summary": "Analyst Explains ‘The Problem’ With Apple (AAPL)"
       },
       {
-        "title": "META Stock Target Raised to $900 by Citizens, Citing Strong AI-Driven Growth",
-        "link": "https://finance.yahoo.com/news/meta-stock-target-raised-900-221955035.html",
-        "pubDate": "2025-10-11T22:19:55Z",
-        "summary": "META Stock Target Raised to $900 by Citizens, Citing Strong AI-Driven Growth"
+        "title": "This Analyst’s Prediction About Broadcom (AVGO) Was Right",
+        "link": "https://finance.yahoo.com/news/analyst-prediction-broadcom-avgo-192010525.html",
+        "pubDate": "2025-10-12T19:20:10Z",
+        "summary": "This Analyst’s Prediction About Broadcom (AVGO) Was Right"
       }
     ]
   }
