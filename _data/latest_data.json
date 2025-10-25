@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2025년 10월 25일 08:16 KST",
+  "lastUpdated": "2025년 10월 26일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "AWS, AI 경쟁에서 뒤처지고 있나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1684619",
+        "pubDate": "2025-10-25 09:35:03",
+        "summary": "AWS, AI 경쟁에서 뒤처지고 있나?"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1684571",
+        "pubDate": "2025-10-25 07:33:24",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "하버드 Ave, 나스닥에서 1억 4,500만 달러 IPO 완료",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1684562",
+        "pubDate": "2025-10-25 01:42:09",
+        "summary": "하버드 Ave, 나스닥에서 1억 4,500만 달러 IPO 완료"
+      },
+      {
+        "title": "밀루나 인수합병, 6천만 달러 규모 IPO 완료",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1684557",
+        "pubDate": "2025-10-25 00:51:08",
+        "summary": "밀루나 인수합병, 6천만 달러 규모 IPO 완료"
+      },
       {
         "title": "Grindr, 주당 18달러 인수 제안 확인 후 주가 상승",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1684472",
@@ -37,80 +61,38 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1684338",
         "pubDate": "2025-10-24 19:11:51",
         "summary": "박하 바이오로지컬 테크놀로지, 티커 심볼 변경에 상승세"
-      },
-      {
-        "title": "SuperX AI, 엔비디아 파트너 투자 후 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1684331",
-        "pubDate": "2025-10-24 18:57:33",
-        "summary": "SuperX AI, 엔비디아 파트너 투자 후 주가 상승"
-      },
-      {
-        "title": "PMV 파마슈티컬 주가, 긍정적 암 치료제 임상 데이터에 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1684328",
-        "pubDate": "2025-10-24 18:50:03",
-        "summary": "PMV 파마슈티컬 주가, 긍정적 암 치료제 임상 데이터에 상승"
-      },
-      {
-        "title": "인베스코 주가, QQQ 펀드 투표 연기 후 상승 전환",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1684326",
-        "pubDate": "2025-10-24 18:47:33",
-        "summary": "인베스코 주가, QQQ 펀드 투표 연기 후 상승 전환"
-      },
-      {
-        "title": "넥스트Nav, Oscilloquartz와 5G 타이밍 통합 성공 후 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1684323",
-        "pubDate": "2025-10-24 18:41:07",
-        "summary": "넥스트Nav, Oscilloquartz와 5G 타이밍 통합 성공 후 주가 상승"
       }
     ],
     "cnbc": [
       {
-        "title": "Here's the inflation breakdown for September 2025 — in one chart",
-        "link": "https://www.cnbc.com/2025/10/24/inflation-breakdown-september-2025-cpi-chart.html",
-        "pubDate": "Fri, 24 Oct 2025 18:13:40 GMT",
-        "summary": "The annual inflation rate ticked higher in September, amid higher prices at the gasoline pump and a more muted increase at the grocery store."
-      },
-      {
-        "title": "Ontario to pause Reagan tariffs ad — but only after it's shown during World Series this weekend",
+        "title": "Trump slaps 10% extra tariff on Canada over Reagan trade ad",
         "link": "https://www.cnbc.com/2025/10/24/trump-canada-doug-ford-reagan-trade-tariffs.html",
-        "pubDate": "Fri, 24 Oct 2025 23:12:45 GMT",
-        "summary": "Ontario Premier Doug Ford earlier had tweeted an unedited video showing Ronald Reagan criticizing tariffs. Trump has made tariffs a focus of his second term."
+        "pubDate": "Sat, 25 Oct 2025 21:12:26 GMT",
+        "summary": "President Donald Trump is imposing an extra 10% tariff on Canadian imports for what he says is a misleading TV ad featuring former President Ronald Reagan."
       },
       {
-        "title": "Trump claimed Canada's anti-tariff ad twisted Reagan's words. Compare for yourself",
-        "link": "https://www.cnbc.com/2025/10/24/trump-canada-tariff-reagan-trade.html",
-        "pubDate": "Fri, 24 Oct 2025 21:22:48 GMT",
-        "summary": "Ontario's ad uses as its entire narration a half-dozen snippets of audio from Reagan's speech on tariffs at Camp David, Maryland, on April 25, 1987."
+        "title": "Timothy Mellon is Trump's $130 million mystery military donor: NYT",
+        "link": "https://www.cnbc.com/2025/10/25/trump-timothy-mellon-military-donor-government-shutdown.html",
+        "pubDate": "Sat, 25 Oct 2025 19:47:07 GMT",
+        "summary": "Reclusive billionaire Timothy Mellon, whose grandfather was a Treasury secretary, was a top donor to President Donald Trump for the 2024 election."
       },
       {
-        "title": "3 takeaways from Intel earnings: Cash flow, foundry progress and hardware surprise",
-        "link": "https://www.cnbc.com/2025/10/24/intel-earnings-q3-stock-trump.html",
-        "pubDate": "Fri, 24 Oct 2025 18:13:52 GMT",
-        "summary": "CEO Lip-Bu Tan said that artificial intelligence \"is a strong foundation for sustainable long-term growth."
+        "title": "AI spending is boosting the economy, but many businesses are in survival mode",
+        "link": "https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html",
+        "pubDate": "Sat, 25 Oct 2025 12:07:11 GMT",
+        "summary": "As AI lifts the economy and stock market, businesses in retail, travel and construction are struggling with high costs and a downbeat consumer."
       },
       {
-        "title": "Trump tariff tiff: U.S. terminates all trade talks with Canada over Reagan TV ad",
-        "link": "https://www.cnbc.com/2025/10/24/trump-canada-trade-reagan.html",
-        "pubDate": "Fri, 24 Oct 2025 21:41:14 GMT",
-        "summary": "President Trump claimed Canada ran an ad featuring former President Ronald Reagan talking about tariffs to influence a pending U.S. Supreme Court case."
+        "title": "Warren Buffett's Berkshire is lagging the S&P 500 by the largest gap so far this year",
+        "link": "https://www.cnbc.com/2025/10/25/buffetts-berkshire-is-lagging-the-sp-500-by-the-largest-gap-so-far-this-year.html",
+        "pubDate": "Sat, 25 Oct 2025 13:44:09 GMT",
+        "summary": "Shares of Warren Buffett's company are underperforming the benchmark index by almost 7%"
       },
       {
-        "title": "Deckers Brands stock sinks 15% after soft outlook raises concerns about Hoka, Ugg growth",
-        "link": "https://www.cnbc.com/2025/10/24/deckers-stock-deck-hoka-ugg.html",
-        "pubDate": "Fri, 24 Oct 2025 21:14:12 GMT",
-        "summary": "Deckers Brands shares fell about 15% after fiscal Q2 results with softer outlook and fears HOKA’s rapid growth is slowing amid cautious consumers and tariff pressures."
-      },
-      {
-        "title": "With two months to Christmas, here's what retail leaders expect for holiday shopping",
-        "link": "https://www.cnbc.com/2025/10/24/christmas-shopping-holiday-season-retail-expectations.html",
-        "pubDate": "Fri, 24 Oct 2025 18:36:13 GMT",
-        "summary": "Kohl's and Academy Sports and Outdoors are among the retailers that said they're seeing consumers trade down or pull back."
-      },
-      {
-        "title": "Social Security Administration announces 2026 COLA benefit increase of 2.8% — what it means for you",
-        "link": "https://www.cnbc.com/2025/10/24/social-security-cola-2026-benefits-increase.html",
-        "pubDate": "Fri, 24 Oct 2025 15:54:51 GMT",
-        "summary": "The Social Security cost-of-living adjustment for 2026 will give millions of beneficiaries an increase. Here's how much to expect."
+        "title": "'VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks at all-time highs",
+        "link": "https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html",
+        "pubDate": "Sat, 25 Oct 2025 16:40:51 GMT",
+        "summary": "Tidal Financial's Gavin Filmore finds many of his clients are no longer satisfied with buying popular ETFs tied to market indexes."
       },
       {
         "title": "Here's where the economy is starting to show 'K-shaped' bifurcation",
@@ -119,72 +101,90 @@
         "summary": "Americans are increasingly diverging in their spending, with wealthier shoppers flexing their purchasing power while lower-income customers start to pull back."
       },
       {
-        "title": "Trump White House ballroom financed by Big Tech and these other corporate donors",
-        "link": "https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html",
-        "pubDate": "Thu, 23 Oct 2025 20:34:57 GMT",
-        "summary": "Big Tech and other publicly traded companies are helping to finance the $300 million White House ballroom planned by President Donald Trump."
+        "title": "The 5 most common jobs in America's most populous cities—and how much they pay",
+        "link": "https://www.cnbc.com/2025/10/25/most-common-jobs-in-largest-us-cities.html",
+        "pubDate": "Sat, 25 Oct 2025 13:00:01 GMT",
+        "summary": "Common occupations held by Americans include health and personal aides, retail salespeople, registered nurses and customer service representatives."
+      },
+      {
+        "title": "Taco Bell tries to woo younger customers with Live Más Café's flashy beverages",
+        "link": "https://www.cnbc.com/2025/10/24/taco-bell-live-mas-cafe.html",
+        "pubDate": "Fri, 24 Oct 2025 20:40:41 GMT",
+        "summary": "Taco Bell projects it will have 30 Live Más Cafés in its portfolio by the end of the year, across Southern California, Dallas and Houston."
+      },
+      {
+        "title": "Inflation rate hit 3.0% in September, lower than expected, long-awaited CPI report shows",
+        "link": "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html",
+        "pubDate": "Fri, 24 Oct 2025 17:37:39 GMT",
+        "summary": "The annual inflation rate as measured by the CPI was expected to be 3.1% in September, according to the Dow Jones consensus estimate."
+      },
+      {
+        "title": "Cramer's week ahead: Fed meeting and earnings from Big Tech",
+        "link": "https://www.cnbc.com/2025/10/24/cramers-week-ahead-fed-meeting-and-earnings-from-big-tech.html",
+        "pubDate": "Fri, 24 Oct 2025 22:57:34 GMT",
+        "summary": "CNBC's Jim Cramer walked investors through a jam-packed week of earnings season."
       }
     ],
     "yahoo": [
       {
-        "title": "Is Ventas (VTR) The Best REIT Dividend Stock to Buy for Non-AI Trade?",
-        "link": "https://finance.yahoo.com/news/ventas-vtr-best-reit-dividend-154631176.html",
-        "pubDate": "2025-10-23T15:46:31Z",
-        "summary": "Is Ventas (VTR) The Best REIT Dividend Stock to Buy for Non-AI Trade?"
+        "title": "A Dave Ramsey Caller Asked If Buying A Classic Muscle Car Beats Buying A Home. Here's The Rare Case Where That Decision Might Pay Off",
+        "link": "https://finance.yahoo.com/news/dave-ramsey-caller-asked-buying-223114039.html",
+        "pubDate": "2025-10-25T22:31:14Z",
+        "summary": "A Dave Ramsey Caller Asked If Buying A Classic Muscle Car Beats Buying A Home. Here's The Rare Case Where That Decision Might Pay Off"
       },
       {
-        "title": "Southwest Airlines Stock Is Falling After Earnings Beat. The Changes Don’t Impress Wall Street.",
-        "link": "https://www.barrons.com/articles/southwest-airlines-earnings-stock-price-147d1b29?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-10-23T15:45:00Z",
-        "summary": "Southwest Airlines Stock Is Falling After Earnings Beat. The Changes Don’t Impress Wall Street."
+        "title": "Dow Jones Futures: Trump Ups Canada Tariff; Huge Earnings, Fed, China's Xi Ahead",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-10-25T22:25:51Z",
+        "summary": "Dow Jones Futures: Trump Ups Canada Tariff; Huge Earnings, Fed, China's Xi Ahead"
       },
       {
-        "title": "This VC Fund Is Backing the Next Generation of Autism Breakthroughs – and Investors Are Taking Notice",
-        "link": "https://finance.yahoo.com/news/vc-fund-backing-next-generation-154602607.html",
-        "pubDate": "2025-10-23T15:46:02Z",
-        "summary": "This VC Fund Is Backing the Next Generation of Autism Breakthroughs – and Investors Are Taking Notice"
+        "title": "Exxon sues California over climate disclosure laws",
+        "link": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-220521266.html",
+        "pubDate": "2025-10-25T22:05:21Z",
+        "summary": "Exxon sues California over climate disclosure laws"
       },
       {
-        "title": "FCX, Alcoa Rise As Copper, Aluminum Prices Heat Up",
-        "link": "https://www.investors.com/news/fcx-stock-alcoa-copper-aluminum-price-q3-earnings/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-10-23T15:47:09Z",
-        "summary": "FCX, Alcoa Rise As Copper, Aluminum Prices Heat Up"
+        "title": "ExxonMobil sues California over climate disclosure laws",
+        "link": "https://finance.yahoo.com/news/exxonmobil-sues-california-over-climate-214436516.html",
+        "pubDate": "2025-10-25T21:44:36Z",
+        "summary": "ExxonMobil sues California over climate disclosure laws"
       },
       {
-        "title": "What Makes Bio-Rad Laboratories (BIO) an Investment Bet?",
-        "link": "https://finance.yahoo.com/news/makes-bio-rad-laboratories-bio-154409682.html",
-        "pubDate": "2025-10-23T15:44:09Z",
-        "summary": "What Makes Bio-Rad Laboratories (BIO) an Investment Bet?"
+        "title": "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports",
+        "link": "https://finance.yahoo.com/news/softbank-approves-remaining-22-5-211139146.html",
+        "pubDate": "2025-10-25T21:11:39Z",
+        "summary": "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports"
       },
       {
-        "title": "Analyst Report: GE Vernova Inc.",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2025-10-24T17:06:50Z",
-        "summary": "Analyst Report: GE Vernova Inc."
+        "title": "1 Magnificent Oil Stock Down 18% to Buy and Hold Forever",
+        "link": "https://finance.yahoo.com/news/1-magnificent-oil-stock-down-222000590.html",
+        "pubDate": "2025-10-25T22:20:00Z",
+        "summary": "1 Magnificent Oil Stock Down 18% to Buy and Hold Forever"
       },
       {
-        "title": "Analyst Says Bristol-Myers Squibb (BMY) Among the Best ‘Deep Value’ Stocks to Buy",
-        "link": "https://finance.yahoo.com/news/analyst-says-bristol-myers-squibb-154719829.html",
-        "pubDate": "2025-10-23T15:47:19Z",
-        "summary": "Analyst Says Bristol-Myers Squibb (BMY) Among the Best ‘Deep Value’ Stocks to Buy"
+        "title": "Amazon (AMZN) Announces the Expansion of Amazon Now Across the United Arab Emirates",
+        "link": "https://finance.yahoo.com/news/amazon-amzn-announces-expansion-amazon-205719363.html",
+        "pubDate": "2025-10-25T20:57:19Z",
+        "summary": "Amazon (AMZN) Announces the Expansion of Amazon Now Across the United Arab Emirates"
       },
       {
-        "title": "Analyst Says There’s More Upside to Wells Fargo (WFC)",
-        "link": "https://finance.yahoo.com/news/analyst-says-more-upside-wells-154818320.html",
-        "pubDate": "2025-10-23T15:48:18Z",
-        "summary": "Analyst Says There’s More Upside to Wells Fargo (WFC)"
+        "title": "Jennifer Garner's baby food company is going public on the NYSE — should investors be putting their eggs in this basket?",
+        "link": "https://finance.yahoo.com/news/jennifer-garners-baby-food-company-200000842.html",
+        "pubDate": "2025-10-25T20:00:00Z",
+        "summary": "Jennifer Garner's baby food company is going public on the NYSE — should investors be putting their eggs in this basket?"
       },
       {
-        "title": "Top Stock Movers Now: IBM, Tesla, Molina Healthcare, and More",
-        "link": "https://finance.yahoo.com/news/top-stock-movers-now-ibm-154724714.html",
-        "pubDate": "2025-10-23T15:47:24Z",
-        "summary": "Top Stock Movers Now: IBM, Tesla, Molina Healthcare, and More"
+        "title": "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’",
+        "link": "https://finance.yahoo.com/news/georgia-woman-husband-keeps-her-190000980.html",
+        "pubDate": "2025-10-25T19:00:00Z",
+        "summary": "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’"
       },
       {
-        "title": "What Makes West Pharmaceutical Services (WST) a Prospective Investment?",
-        "link": "https://finance.yahoo.com/news/makes-west-pharmaceutical-services-wst-154835538.html",
-        "pubDate": "2025-10-23T15:48:35Z",
-        "summary": "What Makes West Pharmaceutical Services (WST) a Prospective Investment?"
+        "title": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
+        "link": "https://finance.yahoo.com/news/husband-wants-buy-60k-truck-170000787.html",
+        "pubDate": "2025-10-25T17:00:00Z",
+        "summary": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?"
       }
     ]
   }
