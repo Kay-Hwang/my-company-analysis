@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2025년 11월 01일 08:16 KST",
+  "lastUpdated": "2025년 11월 02일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "데이터 센터 1GW 용량 구축 비용은 얼마인가",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695307",
+        "pubDate": "2025-11-01 10:00:04",
+        "summary": "데이터 센터 1GW 용량 구축 비용은 얼마인가"
+      },
+      {
+        "title": "테크 기업의 청정 에너지 수요, 공급을 앞지르다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695295",
+        "pubDate": "2025-11-01 09:00:11",
+        "summary": "테크 기업의 청정 에너지 수요, 공급을 앞지르다"
+      },
+      {
+        "title": "분석가들, 미국 희토류 기업에 \"강세\" 전망 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695293",
+        "pubDate": "2025-11-01 09:00:08",
+        "summary": "분석가들, 미국 희토류 기업에 \"강세\" 전망 이유"
+      },
+      {
+        "title": "소라(Sora)가 메타, 유튜브, 틱톡에 좋은 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695294",
+        "pubDate": "2025-11-01 09:00:03",
+        "summary": "소라(Sora)가 메타, 유튜브, 틱톡에 좋은 이유"
+      },
+      {
+        "title": "이 분석가들, 데이터센터 냉각 기술 시장 400억 달러 규모로 성장 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695292",
+        "pubDate": "2025-11-01 08:30:04",
+        "summary": "이 분석가들, 데이터센터 냉각 기술 시장 400억 달러 규모로 성장 전망"
+      },
+      {
+        "title": "Investing.com의 주간 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695291",
+        "pubDate": "2025-11-01 08:00:16",
+        "summary": "Investing.com의 주간 주목할 주식들"
+      },
+      {
+        "title": "AI가 노동 시장 둔화의 원인일까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1695287",
+        "pubDate": "2025-11-01 08:00:08",
+        "summary": "AI가 노동 시장 둔화의 원인일까?"
+      },
       {
         "title": "다이나믹스 코퍼레이션 III, IPO 통해 2억 125만 달러 조달",
         "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1695137",
@@ -19,56 +61,32 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695135",
         "pubDate": "2025-10-31 21:13:40",
         "summary": "피치, Deluxe의 전망 ’긍정적’으로 상향 조정"
-      },
-      {
-        "title": "무디스, Westlake 전망 ’긍정적’에서 ’안정적’으로 변경",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695127",
-        "pubDate": "2025-10-31 21:09:14",
-        "summary": "무디스, Westlake 전망 ’긍정적’에서 ’안정적’으로 변경"
-      },
-      {
-        "title": "헤리티지 증류, 1대 20 역분할 발표 후 주가 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695098",
-        "pubDate": "2025-10-31 20:36:06",
-        "summary": "헤리티지 증류, 1대 20 역분할 발표 후 주가 급락"
-      },
-      {
-        "title": "S&P, Elastic 전망 ’긍정적’으로 상향... 견조한 실적 바탕",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695085",
-        "pubDate": "2025-10-31 20:29:54",
-        "summary": "S&P, Elastic 전망 ’긍정적’으로 상향... 견조한 실적 바탕"
-      },
-      {
-        "title": "페라리 주가, 빙X 암호화폐 파트너십 발표 후 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695068",
-        "pubDate": "2025-10-31 20:21:30",
-        "summary": "페라리 주가, 빙X 암호화폐 파트너십 발표 후 상승"
-      },
-      {
-        "title": "네이반, 나스닥에서 9억 2,300만 달러 규모 기업공개 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1695050",
-        "pubDate": "2025-10-31 20:16:24",
-        "summary": "네이반, 나스닥에서 9억 2,300만 달러 규모 기업공개 완료"
-      },
-      {
-        "title": "테이크투 락스타 게임즈, 해고 후 유니온 와해 혐의 직면",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695041",
-        "pubDate": "2025-10-31 20:12:34",
-        "summary": "테이크투 락스타 게임즈, 해고 후 유니온 와해 혐의 직면"
-      },
-      {
-        "title": "Bayer 협력 연장 후 Ginkgo Bioworks 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1695017",
-        "pubDate": "2025-10-31 20:00:27",
-        "summary": "Bayer 협력 연장 후 Ginkgo Bioworks 주가 급등"
       }
     ],
     "cnbc": [
+      {
+        "title": "While AI spending is top of mind, online ads are driving a lot of Big Tech's growth",
+        "link": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html",
+        "pubDate": "Sat, 01 Nov 2025 12:00:01 GMT",
+        "summary": "Meta, Amazon, Alphabet and Microsoft reported quarterly earnings that showed rising digital ad sales and increased AI infrastructure spending."
+      },
       {
         "title": "Trump administration must pay SNAP benefits despite government shutdown, judge rules",
         "link": "https://www.cnbc.com/2025/10/31/snap-trump-judge-food-stamps-shutdown.html",
         "pubDate": "Fri, 31 Oct 2025 22:49:01 GMT",
         "summary": "The Justice Department argued that the food stamp program, which feeds more than 40 million Americans, effectively did not exist anymore due to the shutdown."
+      },
+      {
+        "title": "Berkshire's operating earnings jump 34%, Buffett buys back no stock and raises cash hoard to $381 billion",
+        "link": "https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html",
+        "pubDate": "Sat, 01 Nov 2025 12:49:38 GMT",
+        "summary": "Berkshire's operating profit generated from the conglomerate's wholly owned businesses including insurance and railroads jumped 34% in the third quarter."
+      },
+      {
+        "title": "Microsoft plans to hire more but with 'a lot more leverage' thanks to AI, CEO Satya Nadella says",
+        "link": "https://www.cnbc.com/2025/11/01/microsoft-ceo-headcount-leverage-ai.html",
+        "pubDate": "Sat, 01 Nov 2025 22:08:30 GMT",
+        "summary": "The company wants to ensure that all of its employees can access its Microsoft 365 and GitHub Copilot artificial intelligence tools, CEO Satya Nadella said."
       },
       {
         "title": "Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1",
@@ -77,114 +95,96 @@
         "summary": "Millions of households logging on to enroll in a health plan via the Affordable Care Act marketplace will see much higher premiums."
       },
       {
-        "title": "Treasury Department announces new Series I bond rate of 4.03% for the next six months",
-        "link": "https://www.cnbc.com/2025/10/31/treasury-i-bond-rate-through-april-2026.html",
-        "pubDate": "Fri, 31 Oct 2025 17:03:45 GMT",
-        "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2026."
+        "title": "Evolve Bank CEO fired after propositioning FBI agent who pretended to be a teen boy",
+        "link": "https://www.cnbc.com/2025/11/01/evolve-bank-ceo-fired-propositioning-fbi-agent-posing-as-teen-boy.html",
+        "pubDate": "Sat, 01 Nov 2025 21:56:49 GMT",
+        "summary": "In August, Evolve hired Hartheimer, who brought experience in financial regulatory matters, to help the bank recover from the collapse of startup Synapse."
       },
       {
-        "title": "Tariffs are expected to start showing up more in consumer prices as holiday shopping season starts",
-        "link": "https://www.cnbc.com/2025/10/31/tariffs-are-expected-to-start-showing-up-more-in-consumer-prices-as-holiday-shopping-season-starts.html",
-        "pubDate": "Fri, 31 Oct 2025 18:29:52 GMT",
-        "summary": "Impacts have been muted so far as companies built up inventories ahead of the duties and have absorbed some of the impact."
+        "title": "'Trump effect' raises hopes for cannabis rally as investors bet on federal reforms, softer marijuana stance",
+        "link": "https://www.cnbc.com/2025/11/01/cannabis-stock-market-trump-marijuana.html",
+        "pubDate": "Sat, 01 Nov 2025 12:00:01 GMT",
+        "summary": "Cannabis stocks could rally on hopes for new hemp regulations and Trump's possible softer stance on marijuana, fueling investor optimism across the industry."
       },
       {
-        "title": "Amazon's stock soars 10% on third-quarter beat, increased spending guidance",
-        "link": "https://www.cnbc.com/2025/10/31/amazon-amzn-stock-earnings-revenue-ai-cloud.html",
-        "pubDate": "Fri, 31 Oct 2025 20:03:00 GMT",
-        "summary": "Amazon blew past analyst estimates in its third-quarter earnings report and raised its capital expenditures forecast for the year to $125 billion."
+        "title": "Where the Nexperia auto chip crisis stands now as the U.S., China and EU race to contain fallout",
+        "link": "https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html",
+        "pubDate": "Sat, 01 Nov 2025 17:58:54 GMT",
+        "summary": "The Nexperia crisis is still threatening vehicle production worldwide."
       },
       {
-        "title": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom",
-        "link": "https://www.cnbc.com/2025/10/31/tech-ai-google-meta-amazon-microsoft-spend.html",
-        "pubDate": "Fri, 31 Oct 2025 15:13:52 GMT",
-        "summary": "With the largest cloud and internet companies reporting results this week, it's clear that spending on artificial intelligence is only increasing."
-      },
-      {
-        "title": "Reddit stock jumps 7% after showing strong advertising and user growth",
-        "link": "https://www.cnbc.com/2025/10/31/reddit-rddt-stock-earnings-outlook.html",
-        "pubDate": "Fri, 31 Oct 2025 20:03:06 GMT",
-        "summary": "Reddit's stock popped after the company surpassed third-quarter estimates due to strong advertising growth."
-      },
-      {
-        "title": "Disney channels go dark on YouTube TV as carriage deal expires",
-        "link": "https://www.cnbc.com/2025/10/31/disney-content-to-go-dark-on-youtubetv-amid-contract-dispute-.html",
-        "pubDate": "Fri, 31 Oct 2025 18:39:38 GMT",
-        "summary": "Disney content, including channels like ABC and ESPN, was removed from YouTube TV overnight, after the two companies failed to renew a contract."
+        "title": "Musk teases Tesla Roadster demo by year-end. He's been hyping a new one since 2017",
+        "link": "https://www.cnbc.com/2025/10/31/musk-teases-tesla-roadster-demo-this-year-been-hyping-it-since-2017.html",
+        "pubDate": "Fri, 31 Oct 2025 23:53:25 GMT",
+        "summary": "Tesla's Elon Musk told Joe Rogan that his company is aiming to develop a redesigned version of the Roadster before the end of the year."
       },
       {
         "title": "Trump touts marble Lincoln Bathroom remodel amid government shutdown",
         "link": "https://www.cnbc.com/2025/10/31/trump-bathroom-white-house-remodel-shutdown.html",
         "pubDate": "Fri, 31 Oct 2025 20:50:08 GMT",
         "summary": "Trump's bathroom update follows his major makeover of the Oval Office, and the demolition of the White House East Wing, to be replaced by a large ballroom."
-      },
-      {
-        "title": "Cramer's week ahead: Earnings from Palantir, McDonald's, Robinhood, Warner Bros Discovery",
-        "link": "https://www.cnbc.com/2025/10/31/cramers-week-ahead-palantir-mcdonalds-robinhood-warner-bros-discovery.html",
-        "pubDate": "Fri, 31 Oct 2025 22:43:12 GMT",
-        "summary": "CNBC's Jim Cramer on Friday told investors what to pay attention to next week on Wall Street."
       }
     ],
     "yahoo": [
       {
-        "title": "Palantir sues engineers who left to form 'copycat' Percepta AI",
-        "link": "https://finance.yahoo.com/news/palantir-sues-engineers-left-form-155756889.html",
-        "pubDate": "2025-10-30T15:57:56Z",
-        "summary": "Palantir sues engineers who left to form 'copycat' Percepta AI"
+        "title": "Cooper-Standard (CPS) Q3 2025 Earnings Transcript",
+        "link": "https://finance.yahoo.com/news/cooper-standard-cps-q3-2025-224205514.html",
+        "pubDate": "2025-11-01T22:42:05Z",
+        "summary": "Cooper-Standard (CPS) Q3 2025 Earnings Transcript"
       },
       {
-        "title": "Treasuries Erase Nearly All October Gains. The Market Is Reacting to Powell.",
-        "link": "https://www.barrons.com/articles/treasuries-powell-rates-december-cut-74d7ce16?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-10-30T15:57:00Z",
-        "summary": "Treasuries Erase Nearly All October Gains. The Market Is Reacting to Powell."
+        "title": "Jim Cramer Says Meta (META) CEO Zuckerberg Wants To “Win No Matter What”",
+        "link": "https://finance.yahoo.com/news/jim-cramer-says-meta-meta-193158818.html",
+        "pubDate": "2025-11-01T19:31:58Z",
+        "summary": "Jim Cramer Says Meta (META) CEO Zuckerberg Wants To “Win No Matter What”"
       },
       {
-        "title": "EMCOR Group (EME) Q3 2025 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/news/emcor-group-eme-q3-2025-155538222.html",
-        "pubDate": "2025-10-30T15:55:38Z",
-        "summary": "EMCOR Group (EME) Q3 2025 Earnings Call Transcript"
+        "title": "Alphabet (GOOGL)’s Conference Call Was “A Tour De Force,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/alphabet-googl-conference-call-tour-193115499.html",
+        "pubDate": "2025-11-01T19:31:15Z",
+        "summary": "Alphabet (GOOGL)’s Conference Call Was “A Tour De Force,” Says Jim Cramer"
       },
       {
-        "title": "Amazon Earnings Due Soon. Can AWS Match Microsoft, Google Cloud Beats?",
-        "link": "https://www.investors.com/news/technology/amazon-stock-q3-2025-earnings-preview-amzn-news/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-10-30T16:00:17Z",
-        "summary": "Amazon Earnings Due Soon. Can AWS Match Microsoft, Google Cloud Beats?"
+        "title": "The “Shoes For Amazon.com (AMZN) Are Now Big,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/shoes-amazon-com-amzn-now-193103305.html",
+        "pubDate": "2025-11-01T19:31:03Z",
+        "summary": "The “Shoes For Amazon.com (AMZN) Are Now Big,” Says Jim Cramer"
       },
       {
-        "title": "Laid off? Slowing your 'burn rate' can help, but won't keep you afloat for long. Here's how to extend your survivability",
-        "link": "https://finance.yahoo.com/news/laid-off-slowing-burn-rate-160000966.html",
-        "pubDate": "2025-10-30T16:00:00Z",
-        "summary": "Laid off? Slowing your 'burn rate' can help, but won't keep you afloat for long. Here's how to extend your survivability"
+        "title": "Microsoft (MSFT)’s Traditional Software “Was Extraordinary,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/microsoft-msft-traditional-software-extraordinary-193055649.html",
+        "pubDate": "2025-11-01T19:30:55Z",
+        "summary": "Microsoft (MSFT)’s Traditional Software “Was Extraordinary,” Says Jim Cramer"
       },
       {
-        "title": "Zimbabwe Opens $9 Billion Power Sector To Private Investors",
-        "link": "https://finance.yahoo.com/news/zimbabwe-opens-9-billion-power-160000772.html",
-        "pubDate": "2025-10-30T16:00:00Z",
-        "summary": "Zimbabwe Opens $9 Billion Power Sector To Private Investors"
+        "title": "Don't Give Up on Dividends: This Rock-Solid Dividend Stock Will Reward You Through Thick and Thin",
+        "link": "https://finance.yahoo.com/news/dont-dividends-rock-solid-dividend-224100400.html",
+        "pubDate": "2025-11-01T22:41:00Z",
+        "summary": "Don't Give Up on Dividends: This Rock-Solid Dividend Stock Will Reward You Through Thick and Thin"
       },
       {
-        "title": "H.C. Wainwright Upgrades Core Scientific (CORZ) to Buy, Raises PT to $25",
-        "link": "https://finance.yahoo.com/news/h-c-wainwright-upgrades-core-160234292.html",
-        "pubDate": "2025-10-30T16:02:34Z",
-        "summary": "H.C. Wainwright Upgrades Core Scientific (CORZ) to Buy, Raises PT to $25"
+        "title": "Doubting Starbucks (SBUX) CEO “Was Like An Invitation To My Funeral, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/doubting-starbucks-sbux-ceo-invitation-193024952.html",
+        "pubDate": "2025-11-01T19:30:24Z",
+        "summary": "Doubting Starbucks (SBUX) CEO “Was Like An Invitation To My Funeral, Says Jim Cramer"
       },
       {
-        "title": "'Billionaires Will Exist As Long As The Stock Market Exists' — Mark Cuban Defends The Wealthy's Place In The Economy",
-        "link": "https://finance.yahoo.com/news/billionaires-exist-long-stock-market-160109340.html",
-        "pubDate": "2025-10-30T16:00:00Z",
-        "summary": "'Billionaires Will Exist As Long As The Stock Market Exists' — Mark Cuban Defends The Wealthy's Place In The Economy"
+        "title": "NVIDIA (NVDA) CEO Is Confident Chinese Military Won’t Use His GPUs, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/nvidia-nvda-ceo-confident-chinese-193012586.html",
+        "pubDate": "2025-11-01T19:30:12Z",
+        "summary": "NVIDIA (NVDA) CEO Is Confident Chinese Military Won’t Use His GPUs, Says Jim Cramer"
       },
       {
-        "title": "Eli Lilly says weight-loss pill a candidate for speedy approval under new US program",
-        "link": "https://finance.yahoo.com/news/eli-lilly-says-weight-loss-154612603.html",
-        "pubDate": "2025-10-30T15:46:12Z",
-        "summary": "Eli Lilly says weight-loss pill a candidate for speedy approval under new US program"
+        "title": "Cardinal Health (CAH) “Is Now Value-Added,” Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/cardinal-health-cah-now-value-193005862.html",
+        "pubDate": "2025-11-01T19:30:05Z",
+        "summary": "Cardinal Health (CAH) “Is Now Value-Added,” Says Jim Cramer"
       },
       {
-        "title": "Cardinal Health Stock Is on Pace for Its Highest Close on Record. Here’s Why.",
-        "link": "https://www.barrons.com/articles/cardinal-health-stock-price-earnings-173826d2?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-10-30T15:46:00Z",
-        "summary": "Cardinal Health Stock Is on Pace for Its Highest Close on Record. Here’s Why."
+        "title": "Chipotle’ (CMG)s A “Challenged Company,’ Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/chipotle-cmg-challenged-company-says-192940124.html",
+        "pubDate": "2025-11-01T19:29:40Z",
+        "summary": "Chipotle’ (CMG)s A “Challenged Company,’ Says Jim Cramer"
       }
     ]
   }
