@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2025년 11월 08일 08:16 KST",
+  "lastUpdated": "2025년 11월 09일 08:15 KST",
   "news": {
     "investing": [
+      {
+        "title": "페이팔, 비자, 마스터카드, AI가 대신 쇼핑하는 '에이전트 커머스' 구축 중",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1708324",
+        "pubDate": "2025-11-08 09:00:09",
+        "summary": "페이팔, 비자, 마스터카드, AI가 대신 쇼핑하는 '에이전트 커머스' 구축 중"
+      },
+      {
+        "title": "모건 스탠리, AI가 단기적 대량 실업 초래할 가능성 낮다고 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1708312",
+        "pubDate": "2025-11-08 08:31:56",
+        "summary": "모건 스탠리, AI가 단기적 대량 실업 초래할 가능성 낮다고 전망"
+      },
+      {
+        "title": "중국이 고성능 칩 분야에서 미국과의 격차를 좁히는 데 얼마나 걸릴까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1708310",
+        "pubDate": "2025-11-08 08:30:06",
+        "summary": "중국이 고성능 칩 분야에서 미국과의 격차를 좁히는 데 얼마나 걸릴까?"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1708308",
+        "pubDate": "2025-11-08 08:27:52",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "테슬라, 연말까지 1,500대의 로보택시 배치 가능할까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1708306",
+        "pubDate": "2025-11-08 08:00:07",
+        "summary": "테슬라, 연말까지 1,500대의 로보택시 배치 가능할까?"
+      },
       {
         "title": "미국 주식, 수년간의 강세장 끝나가나?",
         "link": "https://kr.investing.com/news/stock-market-news/article-1708159",
@@ -31,160 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1708067",
         "pubDate": "2025-11-07 21:18:12",
         "summary": "탄소 혁명 주식, 나스닥 상장 폐지 통보 후 급락"
-      },
-      {
-        "title": "레이지데이스 홀딩스, 나스닥 상장 폐지 계획 발표 후 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1708041",
-        "pubDate": "2025-11-07 21:10:15",
-        "summary": "레이지데이스 홀딩스, 나스닥 상장 폐지 계획 발표 후 급락"
-      },
-      {
-        "title": "STAAR Surgical, 주주 반발 속 Alcon 인수 거래에 대한 대안 탐색 기간 개시",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1708022",
-        "pubDate": "2025-11-07 20:52:14",
-        "summary": "STAAR Surgical, 주주 반발 속 Alcon 인수 거래에 대한 대안 탐색 기간 개시"
-      },
-      {
-        "title": "우버, 2025년 주목할 탑5 차량 공유 주식 선두",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1708009",
-        "pubDate": "2025-11-07 20:17:37",
-        "summary": "우버, 2025년 주목할 탑5 차량 공유 주식 선두"
-      },
-      {
-        "title": "ACCO Brands, S&P 신용 등급 전망 ’부정적’으로 하향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1707992",
-        "pubDate": "2025-11-07 19:58:29",
-        "summary": "ACCO Brands, S&P 신용 등급 전망 ’부정적’으로 하향 조정"
-      },
-      {
-        "title": "센터포인트 에너지, S&P 전망 ’부정적’에서 ’안정적’으로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1707987",
-        "pubDate": "2025-11-07 19:56:57",
-        "summary": "센터포인트 에너지, S&P 전망 ’부정적’에서 ’안정적’으로 상향"
       }
     ],
     "cnbc": [
       {
-        "title": "Senate Republicans reject Democrat deal to reopen government",
-        "link": "https://www.cnbc.com/2025/11/07/government-shutdown-democrats-schumer-trump-aca.html",
-        "pubDate": "Fri, 07 Nov 2025 23:04:37 GMT",
-        "summary": "The U.S. government shutdown has dragged on for 38 days because of a dispute over whether ACA tax credits should be included in a stop-gap funding bill."
+        "title": "FAA-mandated flight cancellations to worsen next week if shutdown continues",
+        "link": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
+        "pubDate": "Sat, 08 Nov 2025 22:41:54 GMT",
+        "summary": "Airlines will have to slash hundreds of more flights if shutdown continues into next week."
       },
       {
-        "title": "Shutdown means another missed jobs report Friday. Here's what it probably would have shown",
-        "link": "https://www.cnbc.com/2025/11/07/shutdown-means-missed-jobs-report-friday-what-it-probably-would-have-shown.html",
-        "pubDate": "Fri, 07 Nov 2025 16:42:55 GMT",
-        "summary": "Jobs Friday won't be happening again this week as the record-long government shutdown has resulted in a lack of official data."
+        "title": "Trump tells Senate Republicans to send federal health insurance money 'directly to the people'",
+        "link": "https://www.cnbc.com/2025/11/08/trump-republicans-health-insurance.html",
+        "pubDate": "Sat, 08 Nov 2025 20:08:22 GMT",
+        "summary": "President Trump proposed a new potential compromise on health insurance payments."
       },
       {
-        "title": "SNAP benefits: Trump admin tells states it will fully fund food stamps as appeal continues",
+        "title": "Supreme Court pauses order that Trump administration must pay full SNAP benefits",
         "link": "https://www.cnbc.com/2025/11/07/snap-trump-appeals-food-stamps.html",
-        "pubDate": "Fri, 07 Nov 2025 20:32:33 GMT",
+        "pubDate": "Sat, 08 Nov 2025 11:03:34 GMT",
         "summary": "The Trump administration tried not to pay for any food stamps in November because of the government shutdown. It now proposes partial SNAP benefits."
       },
       {
-        "title": "Palantir CEO Karp twice slams short sellers as stock suffers worst week since April",
-        "link": "https://www.cnbc.com/2025/11/07/palantir-ceo-alex-karp-ai-short-sellers.html",
-        "pubDate": "Fri, 07 Nov 2025 21:41:18 GMT",
-        "summary": "Palantir CEO Alex Karp twice confronted short sellers this week as the company's shares suffered a double-digit drop."
+        "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
+        "link": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
+        "pubDate": "Sat, 08 Nov 2025 13:33:38 GMT",
+        "summary": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend."
       },
       {
-        "title": "Millions more Americans could access obesity drugs after Trump's deals with Eli Lilly, Novo Nordisk",
-        "link": "https://www.cnbc.com/2025/11/07/trump-deals-with-lilly-novo-nordisk-could-broaden-obesity-drug-access.html",
-        "pubDate": "Fri, 07 Nov 2025 20:29:30 GMT",
-        "summary": "Medicare will start covering obesity drugs for the first time, which could open access to millions of seniors and spur more private insurers to follow suit."
+        "title": "Too early to bet against AI trade, State Street suggests",
+        "link": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
+        "pubDate": "Sat, 08 Nov 2025 17:02:25 GMT",
+        "summary": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq’s worst week since April."
       },
       {
-        "title": "Fed's Miran says stablecoin surge could help push interest rates lower",
-        "link": "https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html",
-        "pubDate": "Fri, 07 Nov 2025 20:46:48 GMT",
-        "summary": "The central banker said the Fed might need to lower its own policy rate to avoid unintentionally slowing the economy."
+        "title": "Trump's 'No tax on tips' could be end of large-group service fees on restaurant bills",
+        "link": "https://www.cnbc.com/2025/11/08/no-tax-on-tips-service-fees-restaurant-bill-gratuities.html",
+        "pubDate": "Sat, 08 Nov 2025 15:00:01 GMT",
+        "summary": "If you don't like service fees restaurants charge large groups, you may be in luck. President Trump's 'no tax on tips' may end it, but restaurants aren't happy."
       },
       {
-        "title": "Trump pardons New York baseball star Darryl Strawberry for tax evasion conviction",
-        "link": "https://www.cnbc.com/2025/11/07/trump-pardons-darryl-strawberry-tax-evasion.html",
-        "pubDate": "Fri, 07 Nov 2025 20:07:25 GMT",
-        "summary": "President Donald Trump has pardoned multiple high-profile figures since returning to the White House, including Binance founder Changpeng Zhao."
+        "title": "Top 10 trending destinations for U.S. travelers in 2026: 'Americans are discovering their own backyard,' expert says",
+        "link": "https://www.cnbc.com/2025/11/08/best-places-to-visit-in-2026-skyscanner.html",
+        "pubDate": "Sat, 08 Nov 2025 15:00:01 GMT",
+        "summary": "In October, Skyscanner released its best places to visit in 2026 report and ranked the top trending destinations for U.S. travelers."
       },
       {
-        "title": "Worried about layoffs? Economists say the job market is cooling but 'not falling off a cliff'",
-        "link": "https://www.cnbc.com/2025/11/07/-economists-say-job-market-is-cooling-but-not-falling-off-a-cliff.html",
-        "pubDate": "Fri, 07 Nov 2025 17:48:12 GMT",
-        "summary": "Job experts say they're not in panic mode just yet. Here are the numbers to focus on."
+        "title": "34-year-old was saving to buy a house, then decided to focus on early retirement instead: 'I value my time more than home ownership'",
+        "link": "https://www.cnbc.com/2025/11/08/millennial-saving-buy-a-house-decide-start-saving-early-retirement.html",
+        "pubDate": "Sat, 08 Nov 2025 15:00:01 GMT",
+        "summary": "In 2020, Anita Kinoshita started her journey to buy a home. After many failed attempts over two years, she decided to start saving to retire early instead."
       },
       {
-        "title": "Food banks are in 'disaster response mode' due to shutdown and SNAP cuts, leaders say: 'The damage gets worse and worse' every day",
-        "link": "https://www.cnbc.com/2025/11/07/food-banks-are-in-disaster-response-mode-due-to-shutdown-and-snap-cuts-leaders-say.html",
-        "pubDate": "Fri, 07 Nov 2025 16:55:28 GMT",
-        "summary": "Food bank leaders across the U.S. are responding to 'a great increase in need' due to SNAP disruption."
+        "title": "I finally have enough cash to pay off my student loan in full—here's why I'm not doing it",
+        "link": "https://www.cnbc.com/2025/11/08/i-have-enough-cash-to-pay-off-my-student-loan-why-im-not.html",
+        "pubDate": "Sat, 08 Nov 2025 14:00:01 GMT",
+        "summary": "Mathetmatically, paying off my debt now would cost me less money. But I don't want to put my wedding savings in jeopardy."
       },
       {
-        "title": "Affirm CEO says furloughed federal employees are starting to lose interest in shopping",
-        "link": "https://www.cnbc.com/2025/11/07/affirm-government-shutdown-shopping.html",
-        "pubDate": "Fri, 07 Nov 2025 21:06:33 GMT",
-        "summary": "Affirm CEO Max Levchin said as the government shutdown drags on, there are signs of shifting shopping habits from federal workers."
+        "title": "Carl Icahn returns to a familiar sector — auto repair — as he builds a 15% stake in Monro",
+        "link": "https://www.cnbc.com/2025/11/08/carl-icahn-returns-to-a-familiar-sector-auto-repair-as-he-builds-a-15percent-stake-in-monro.html",
+        "pubDate": "Sat, 08 Nov 2025 12:46:52 GMT",
+        "summary": "Icahn has a long history in the automotive parts and services industry, so this investment could play out in several different ways."
       }
     ],
     "yahoo": [
       {
-        "title": "Lucid Q3 losses widen as Gravity SUV production is 'ramping up,' midsize EV on track for 2026 release",
-        "link": "https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-is-ramping-up-midsize-ev-on-track-for-2026-release-160723902.html",
-        "pubDate": "2025-11-06T16:07:23Z",
-        "summary": "Lucid Q3 losses widen as Gravity SUV production is 'ramping up,' midsize EV on track for 2026 release"
+        "title": "The 1 Number That Shows Why Alphabet Is a Buy Today",
+        "link": "https://finance.yahoo.com/news/1-number-shows-why-alphabet-221640350.html",
+        "pubDate": "2025-11-08T22:16:40Z",
+        "summary": "The 1 Number That Shows Why Alphabet Is a Buy Today"
       },
       {
-        "title": "2 Chart Indicators to Confirm Stock Breakouts & Reversals with Heikin Ashi Candlesticks",
-        "link": "https://finance.yahoo.com/news/2-chart-indicators-confirm-stock-160719025.html",
-        "pubDate": "2025-11-06T16:07:19Z",
-        "summary": "2 Chart Indicators to Confirm Stock Breakouts & Reversals with Heikin Ashi Candlesticks"
+        "title": "Gen Z is under financial pressure. Fast-casual chains are bearing the brunt.",
+        "link": "https://finance.yahoo.com/news/gen-z-is-under-financial-pressure-fast-casual-chains-are-bearing-the-brunt-133113618.html",
+        "pubDate": "2025-11-08T13:31:13Z",
+        "summary": "Gen Z is under financial pressure. Fast-casual chains are bearing the brunt."
       },
       {
-        "title": "Olaplex (OLPX) Q3 2025 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/news/olaplex-olpx-q3-2025-earnings-160804200.html",
-        "pubDate": "2025-11-06T16:08:04Z",
-        "summary": "Olaplex (OLPX) Q3 2025 Earnings Call Transcript"
+        "title": "Slovakia’s Auto Empire Is Facing Its Biggest Test Yet",
+        "link": "https://finance.yahoo.com/news/slovakia-auto-empire-facing-biggest-200000797.html",
+        "pubDate": "2025-11-08T20:00:00Z",
+        "summary": "Slovakia’s Auto Empire Is Facing Its Biggest Test Yet"
       },
       {
-        "title": "Kratos and GE Aerospace (GE) Push Forward with GEK800 Engine Testing",
-        "link": "https://finance.yahoo.com/news/kratos-ge-aerospace-ge-push-160907182.html",
-        "pubDate": "2025-11-06T16:09:07Z",
-        "summary": "Kratos and GE Aerospace (GE) Push Forward with GEK800 Engine Testing"
+        "title": "A crisis at chipmaker Nexperia sent automakers scrambling. Here's what to know",
+        "link": "https://finance.yahoo.com/news/crisis-chipmaker-nexperia-sent-automakers-184824740.html",
+        "pubDate": "2025-11-08T18:48:24Z",
+        "summary": "A crisis at chipmaker Nexperia sent automakers scrambling. Here's what to know"
       },
       {
-        "title": "Arteris and Alibaba (BABA) XuanTie Expand RISC-V Collaboration",
-        "link": "https://finance.yahoo.com/news/arteris-alibaba-baba-xuantie-expand-160906540.html",
-        "pubDate": "2025-11-06T16:09:06Z",
-        "summary": "Arteris and Alibaba (BABA) XuanTie Expand RISC-V Collaboration"
+        "title": "What is a named insured driver?",
+        "link": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-a-named-insured-driver-202703518.html",
+        "pubDate": "2023-12-15T20:27:03Z",
+        "summary": "What is a named insured driver?"
       },
       {
-        "title": "Welltower Inc. (WELL) is a Buy on Senior Housing Focus and Strong Financial Performance: BMO Capital",
-        "link": "https://finance.yahoo.com/news/welltower-inc-well-buy-senior-160912623.html",
-        "pubDate": "2025-11-06T16:09:12Z",
-        "summary": "Welltower Inc. (WELL) is a Buy on Senior Housing Focus and Strong Financial Performance: BMO Capital"
+        "title": "How the Young Middle-Class Are Quietly Building Generational Wealth",
+        "link": "https://finance.yahoo.com/news/young-middle-class-quietly-building-215509368.html",
+        "pubDate": "2025-11-08T21:55:09Z",
+        "summary": "How the Young Middle-Class Are Quietly Building Generational Wealth"
       },
       {
-        "title": "Is Micron Technology Inc. (MU) One of the Must-Buy US Stocks to Invest In",
-        "link": "https://finance.yahoo.com/news/micron-technology-inc-mu-one-160909630.html",
-        "pubDate": "2025-11-06T16:09:09Z",
-        "summary": "Is Micron Technology Inc. (MU) One of the Must-Buy US Stocks to Invest In"
+        "title": "10 Defensive Stocks with Market-Beating Yields",
+        "link": "https://www.barrons.com/articles/buy-defensive-stocks-kroger-dollar-general-aes-d681e573?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-11-08T18:10:00Z",
+        "summary": "10 Defensive Stocks with Market-Beating Yields"
       },
       {
-        "title": "Uber (UBER) Posts Strong Q3 Results but Offers Cautious Outlook for Q4",
-        "link": "https://finance.yahoo.com/news/uber-uber-posts-strong-q3-160903208.html",
-        "pubDate": "2025-11-06T16:09:03Z",
-        "summary": "Uber (UBER) Posts Strong Q3 Results but Offers Cautious Outlook for Q4"
+        "title": "Dow Jones Futures: Bulls Fight Back At Key Level; Opportunity Or Head Fake?",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-bulls-fight-back-nvidia/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-11-08T18:03:57Z",
+        "summary": "Dow Jones Futures: Bulls Fight Back At Key Level; Opportunity Or Head Fake?"
       },
       {
-        "title": "Do Options Traders Know Something About CarGurus Stock We Don't?",
-        "link": "https://finance.yahoo.com/news/options-traders-know-something-cargurus-160900727.html",
-        "pubDate": "2025-11-06T16:09:00Z",
-        "summary": "Do Options Traders Know Something About CarGurus Stock We Don't?"
+        "title": "Want to retire worry-free? Here are some simple ways to do it.",
+        "link": "https://finance.yahoo.com/news/want-to-retire-worry-free-here-are-some-simple-ways-to-do-it-170011277.html",
+        "pubDate": "2025-11-08T17:00:11Z",
+        "summary": "Want to retire worry-free? Here are some simple ways to do it."
       },
       {
-        "title": "NVIDIA Corporation (NVDA) Partners with Deutsche Telekom on €1B Data Center Project in Europe",
-        "link": "https://finance.yahoo.com/news/nvidia-corporation-nvda-partners-deutsche-160859643.html",
-        "pubDate": "2025-11-06T16:08:59Z",
-        "summary": "NVIDIA Corporation (NVDA) Partners with Deutsche Telekom on €1B Data Center Project in Europe"
+        "title": "Why Is Everyone Watching Palantir Stock?",
+        "link": "https://finance.yahoo.com/news/why-everyone-watching-palantir-stock-170002423.html",
+        "pubDate": "2025-11-08T17:00:02Z",
+        "summary": "Why Is Everyone Watching Palantir Stock?"
       }
     ]
   }
