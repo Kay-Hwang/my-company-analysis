@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2025년 11월 15일 08:17 KST",
+  "lastUpdated": "2025년 11월 16일 08:16 KST",
   "news": {
     "investing": [
+      {
+        "title": "AI 붐이 통제를 벗어나고 있는지 알려주는 한 가지 차트",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718825",
+        "pubDate": "2025-11-15 09:35:49",
+        "summary": "AI 붐이 통제를 벗어나고 있는지 알려주는 한 가지 차트"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718821",
+        "pubDate": "2025-11-15 09:00:09",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "중국 AI 모델, 미국 대비 적은 투자로 90% 성능 달성",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718819",
+        "pubDate": "2025-11-15 09:00:06",
+        "summary": "중국 AI 모델, 미국 대비 적은 투자로 90% 성능 달성"
+      },
+      {
+        "title": "FAQ: 예측 시장에 대해 알아야 할 사항",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718818",
+        "pubDate": "2025-11-15 08:30:04",
+        "summary": "FAQ: 예측 시장에 대해 알아야 할 사항"
+      },
+      {
+        "title": "구글 주식 매집나선 ‘워런 버핏’의 버크셔···6조원대 샀다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718753",
+        "pubDate": "2025-11-15 01:11:43",
+        "summary": "구글 주식 매집나선 ‘워런 버핏’의 버크셔···6조원대 샀다"
+      },
       {
         "title": "세이블 오프쇼어, Hunterbrook 보고서 반박 후 손실 축소",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718660",
@@ -31,86 +61,56 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718617",
         "pubDate": "2025-11-14 22:00:59",
         "summary": "쿠시먼 앤 웨이크필드, S&P 전망 ’긍정적’ 상향 조정"
-      },
-      {
-        "title": "Berkshire Hathaway, Alphabet 지분 43억 달러 확보, 애플 축소",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1718616",
-        "pubDate": "2025-11-14 21:59:10",
-        "summary": "Berkshire Hathaway, Alphabet 지분 43억 달러 확보, 애플 축소"
-      },
-      {
-        "title": "구글, 2027년까지 텍사스 데이터 센터에 400억 달러 투자 계획, 블룸버그 보도",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1718611",
-        "pubDate": "2025-11-14 21:53:51",
-        "summary": "구글, 2027년까지 텍사스 데이터 센터에 400억 달러 투자 계획, 블룸버그 보도"
-      },
-      {
-        "title": "독일, RTX 미사일 최대 35억 달러 규모 구매 추진",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718588",
-        "pubDate": "2025-11-14 21:38:44",
-        "summary": "독일, RTX 미사일 최대 35억 달러 규모 구매 추진"
-      },
-      {
-        "title": "헌팅턴 잉걸스, S&P 전망 ’안정적’으로 상향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718554",
-        "pubDate": "2025-11-14 21:18:07",
-        "summary": "헌팅턴 잉걸스, S&P 전망 ’안정적’으로 상향 조정"
-      },
-      {
-        "title": "XYJ 테크놀로지, 주당 2달러에 100만 주 IPO 신청",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1718517",
-        "pubDate": "2025-11-14 20:53:04",
-        "summary": "XYJ 테크놀로지, 주당 2달러에 100만 주 IPO 신청"
       }
     ],
     "cnbc": [
       {
+        "title": "Former Fed Gov. Adriana Kugler violated trading rules while at central bank: ethics report",
+        "link": "https://www.cnbc.com/2025/11/15/fed-kugler-ethics-stock-trading.html",
+        "pubDate": "Sat, 15 Nov 2025 18:29:46 GMT",
+        "summary": "The Federal Reserve's internal watchdog was notified earlier this year about stock trades from 2024 disclosed by then-Gov Adriana Kugler."
+      },
+      {
+        "title": "AI anxiety on the rise: Startup founders react to bubble fears",
+        "link": "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html",
+        "pubDate": "Sat, 15 Nov 2025 13:00:01 GMT",
+        "summary": "Short sellers like Michael Burry and Jim Chanos are circling, warning that the AI buildout isn’t a one-time investment but a recurring cost wave."
+      },
+      {
+        "title": "Berkshire Hathaway's surprising new tech stake",
+        "link": "https://www.cnbc.com/2025/11/15/berkshire-hathaways-surprising-new-tech-stake.html",
+        "pubDate": "Sat, 15 Nov 2025 15:22:19 GMT",
+        "summary": "There was a notable surprise in Berkshire Hathaway's end-of-Q3 equity portfolio snapshot."
+      },
+      {
+        "title": "The government shutdown is over. The air traffic controller shortage is not",
+        "link": "https://www.cnbc.com/2025/11/15/government-shutdown-air-traffic-controllers.html",
+        "pubDate": "Sat, 15 Nov 2025 13:00:01 GMT",
+        "summary": "Staffing shortages of air traffic controllers forced airlines to chop flights and delay thousands of others that disrupted travel plans of 5 million people."
+      },
+      {
         "title": "Trump cuts tariffs on goods like coffee, bananas and beef in bid to slash consumer prices",
         "link": "https://www.cnbc.com/2025/11/14/trump-cuts-tariffs-goods-prices.html",
-        "pubDate": "Fri, 14 Nov 2025 22:59:30 GMT",
+        "pubDate": "Sat, 15 Nov 2025 11:57:39 GMT",
         "summary": "Trump's action also exempted black tea, green tea, tomatoes, avocados and cinnamon, among other products, from higher tariffs."
       },
       {
-        "title": "Warren Buffett's Berkshire Hathaway reveals new position in Alphabet",
-        "link": "https://www.cnbc.com/2025/11/14/warren-buffetts-berkshire-hathaway-reveals-new-position-in-alphabet.html",
-        "pubDate": "Fri, 14 Nov 2025 22:02:28 GMT",
-        "summary": "Berkshire disclosed a $4.3 billion stake in Alphabet at the end of the third quarter, making the Google parent the conglomerate's 10th largest equity holding."
+        "title": "These underperforming groups may deliver AI-electric appeal. Here's why.",
+        "link": "https://www.cnbc.com/2025/11/15/ai-electric-appeal-for-underperforming-infrastructure-etf-experts.html",
+        "pubDate": "Sat, 15 Nov 2025 16:00:01 GMT",
+        "summary": "Industrial and infrastructure stocks may soon share the spotlight with the artificial intelligence trade."
       },
       {
-        "title": "Data centers are concentrated in these states. Here's what's happening to electricity prices",
-        "link": "https://www.cnbc.com/2025/11/14/data-centers-are-concentrated-in-these-states-heres-whats-happening-to-electricity-prices-.html",
-        "pubDate": "Fri, 14 Nov 2025 21:50:05 GMT",
-        "summary": "Residential utility bills rose 6% on average nationwide in August compared with the same period last year, according to the Energy Information Administration."
+        "title": "AI puts the squeeze on new grads — and the colleges that promised to make them employable",
+        "link": "https://www.cnbc.com/2025/11/15/ai-puts-the-squeeze-on-new-grads-looking-for-work.html",
+        "pubDate": "Sat, 15 Nov 2025 12:30:01 GMT",
+        "summary": "As the AI boom redefines work, new grads face a shrinking share entry-level jobs. For colleges, this brings added attention to return-on-investment scrutiny."
       },
       {
-        "title": "Walmart shares are up 312% during outgoing CEO Doug McMillon's tenure. Here's how that compares to its rivals",
-        "link": "https://www.cnbc.com/2025/11/14/walmart-doug-mcmillon-stock-performance-target-amazon-costco.html",
-        "pubDate": "Fri, 14 Nov 2025 20:51:57 GMT",
-        "summary": "The outgoing Walmart CEO's tenure was marked by both sharp sales gains and stock growth."
-      },
-      {
-        "title": "September jobs report will be out Thursday as first data since shutdown starts to trickle out",
-        "link": "https://www.cnbc.com/2025/11/14/heres-where-things-stand-on-when-the-government-will-start-releasing-key-economic-reports.html",
-        "pubDate": "Fri, 14 Nov 2025 20:38:25 GMT",
-        "summary": "The departments of Labor and Commerce had not posted revised schedules as of Friday morning, but updates are expected soon."
-      },
-      {
-        "title": "Fewer burritos, more bargains: Consumers flash holiday warning signs",
-        "link": "https://www.cnbc.com/2025/11/14/fewer-burritos-more-bargains-consumers-flash-holiday-warning-signs.html",
-        "pubDate": "Fri, 14 Nov 2025 16:09:21 GMT",
-        "summary": "In the coming week, some of the biggest names in retail, including Walmart, Target, Gap and Home Depot will report their latest earnings."
-      },
-      {
-        "title": "Trump to ask DOJ to probe Jeffrey Epstein involvement with Clinton, JPMorgan, Summers",
-        "link": "https://www.cnbc.com/2025/11/14/trump-doj-jeffrey-epstein-clinton-jpmorgan-summers.html",
-        "pubDate": "Fri, 14 Nov 2025 20:07:38 GMT",
-        "summary": "President Trump himself is a former longtime friend of sex offender Jeffrey Epstein, who killed himself in a federal jail during Trump's first term."
-      },
-      {
-        "title": "No one leaving New York City because of Mamdani, say two top real estate CEOs",
-        "link": "https://www.cnbc.com/2025/11/14/new-york-city-mayor-zohran-mamdani-real-estate-ceos.html",
-        "pubDate": "Fri, 14 Nov 2025 23:11:46 GMT",
-        "summary": "New York City Mayor-elect Zohran Mamdani's democratic socialist views spark fears companies and capital will flee, but top real estate CEOs say it's not true."
+        "title": "Woman pleads guilty to lying about astronaut wife accessing bank account from Space Station",
+        "link": "https://www.cnbc.com/2025/11/14/space-station-nasa-guilty-wife-bank-account.html",
+        "pubDate": "Fri, 14 Nov 2025 21:37:33 GMT",
+        "summary": "Summer Worden faces a possible maximum sentence of five years in prison in the case, which involves false allegations she made against astronaut Anne McClain."
       },
       {
         "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
@@ -119,72 +119,72 @@
         "summary": "The useful lifespan of AI infrastructure is a key issue for investors, as tech giants plan $1 trillion in AI spending over the next five years."
       },
       {
-        "title": "JPMorgan Chase wins fight with fintech firms over fees to access customer data",
-        "link": "https://www.cnbc.com/2025/11/14/jpmorgan-chase-fintech-fees.html",
-        "pubDate": "Fri, 14 Nov 2025 19:15:38 GMT",
-        "summary": "The JPMorgan Chase deals mark a shift in the power dynamic between banks, middlemen and the fintech apps that are increasingly threatening incumbents."
+        "title": "Google and Disney reach deal to restore ESPN, ABC to YouTube TV",
+        "link": "https://www.cnbc.com/2025/11/14/google-disney-reach-deal-to-restore-espn-abc-others-to-youtube-tv.html",
+        "pubDate": "Sat, 15 Nov 2025 01:28:19 GMT",
+        "summary": "The deal comes after a two-week standoff that resulted in channels like ESPN, ABC and others going dark on the popular YouTube TV streaming service."
       }
     ],
     "yahoo": [
       {
-        "title": "Jim Ratcliffe to cut hundreds of jobs at 4x4 carmaker",
-        "link": "https://finance.yahoo.com/news/jim-ratcliffe-cut-hundreds-jobs-160218328.html",
-        "pubDate": "2025-11-13T16:02:18Z",
-        "summary": "Jim Ratcliffe to cut hundreds of jobs at 4x4 carmaker"
+        "title": "Ex-Fed official faced ethics probe on illegal stock trades",
+        "link": "https://finance.yahoo.com/news/ex-fed-official-faced-ethics-224700857.html",
+        "pubDate": "2025-11-15T22:47:00Z",
+        "summary": "Ex-Fed official faced ethics probe on illegal stock trades"
       },
       {
-        "title": "This Semiconductor Stock Has Gained More Than 425% in the Past Year",
-        "link": "https://finance.yahoo.com/news/semiconductor-stock-gained-more-425-160502885.html",
-        "pubDate": "2025-11-13T16:05:02Z",
-        "summary": "This Semiconductor Stock Has Gained More Than 425% in the Past Year"
+        "title": "Former Fed governor's stock trades violated the central bank's ethics rules",
+        "link": "https://finance.yahoo.com/news/former-fed-governors-stock-trades-220955299.html",
+        "pubDate": "2025-11-15T22:09:55Z",
+        "summary": "Former Fed governor's stock trades violated the central bank's ethics rules"
       },
       {
-        "title": "Euro Could Break Above $1.20 Next Year",
-        "link": "https://www.wsj.com/finance/currencies/yen-consolidates-on-cautious-sentiment-over-recent-weakness-1f7582e6?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-13T16:06:00Z",
-        "summary": "Euro Could Break Above $1.20 Next Year"
+        "title": "Dow Jones Futures: Will Nvidia Rescue Or Ruin Market? What To Do Now",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-11-15T22:04:51Z",
+        "summary": "Dow Jones Futures: Will Nvidia Rescue Or Ruin Market? What To Do Now"
       },
       {
-        "title": "Starbucks Baristas Launch Protests as ‘Red Cup Day’ Kicks Off",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2025/card/starbucks-baristas-launch-protests-as-company-kicks-off-red-cup-day--ozTt2jiEJVAlwvkpfvko?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-13T15:54:32Z",
-        "summary": "Starbucks Baristas Launch Protests as ‘Red Cup Day’ Kicks Off"
+        "title": "7 Stocks That Could Benefit From Trump’s Tariff Rollback",
+        "link": "https://www.barrons.com/articles/trump-tariffs-stocks-starbucks-chipotle-shake-shack-8086d8b2?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-11-15T21:26:00Z",
+        "summary": "7 Stocks That Could Benefit From Trump’s Tariff Rollback"
       },
       {
-        "title": "This Packaging Stock Is Up 17%. Why a Take-Private Deal Makes Sense.",
-        "link": "https://www.barrons.com/articles/sealed-air-stock-take-private-205850df?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-13T16:11:00Z",
-        "summary": "This Packaging Stock Is Up 17%. Why a Take-Private Deal Makes Sense."
+        "title": "AI's valuation problem reaches a 'mini panic moment'",
+        "link": "https://finance.yahoo.com/news/ais-valuation-problem-reaches-a-mini-panic-moment-110046323.html",
+        "pubDate": "2025-11-15T11:00:46Z",
+        "summary": "AI's valuation problem reaches a 'mini panic moment'"
       },
       {
-        "title": "Disney CFO Says Streaming Business Is Expected to Grow by Double Digits",
-        "link": "https://finance.yahoo.com/video/disney-cfo-says-streaming-business-160245028.html",
-        "pubDate": "2025-11-13T16:02:45Z",
-        "summary": "Disney CFO Says Streaming Business Is Expected to Grow by Double Digits"
+        "title": "Ex-Fed Governor Kugler quit after more trading violations",
+        "link": "https://finance.yahoo.com/news/ex-fed-governor-kugler-faced-143943538.html",
+        "pubDate": "2025-11-15T19:37:41Z",
+        "summary": "Ex-Fed Governor Kugler quit after more trading violations"
       },
       {
-        "title": "Dan Ives says retail investors are now 'at the adult table' in the stock market",
-        "link": "https://finance.yahoo.com/news/dan-ives-says-retail-investors-are-now-at-the-adult-table-in-the-stock-market-161247412.html",
-        "pubDate": "2025-11-13T16:12:47Z",
-        "summary": "Dan Ives says retail investors are now 'at the adult table' in the stock market"
+        "title": "NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/nvidia-nvda-ai-orders-says-180421149.html",
+        "pubDate": "2025-11-15T18:04:21Z",
+        "summary": "NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer"
       },
       {
-        "title": "Cisco Stock Nears a Dot-Com Era Record",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2025/card/cisco-stock-is-near-a-dot-com-era-record-high-sGdh1307g2xsMNB2EUNJ?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-13T16:13:49Z",
-        "summary": "Cisco Stock Nears a Dot-Com Era Record"
+        "title": "Jim Cramer Says Goldman Sachs (GS) Is One Of His Biggest Positions",
+        "link": "https://finance.yahoo.com/news/jim-cramer-says-goldman-sachs-180412155.html",
+        "pubDate": "2025-11-15T18:04:12Z",
+        "summary": "Jim Cramer Says Goldman Sachs (GS) Is One Of His Biggest Positions"
       },
       {
-        "title": "Oil Stabilizes After Selloff Amid OPEC Reassessment and U.S. Funding Deal",
-        "link": "https://finance.yahoo.com/news/oil-stabilizes-selloff-amid-opec-161500615.html",
-        "pubDate": "2025-11-13T16:15:00Z",
-        "summary": "Oil Stabilizes After Selloff Amid OPEC Reassessment and U.S. Funding Deal"
+        "title": "GE Vernova (GEV) Is A Big Stock Position In The Trust, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/news/ge-vernova-gev-big-stock-180344140.html",
+        "pubDate": "2025-11-15T18:03:44Z",
+        "summary": "GE Vernova (GEV) Is A Big Stock Position In The Trust, Says Jim Cramer"
       },
       {
-        "title": "Supermicro Stock Slips 33% in a Month: Should You Buy, Sell, or Hold SMCI?",
-        "link": "https://finance.yahoo.com/news/supermicro-stock-slips-33-month-154632259.html",
-        "pubDate": "2025-11-13T15:46:32Z",
-        "summary": "Supermicro Stock Slips 33% in a Month: Should You Buy, Sell, or Hold SMCI?"
+        "title": "Jim Cramer Discusses Key Metric for Oracle (ORCL)",
+        "link": "https://finance.yahoo.com/news/jim-cramer-discusses-key-metric-180336892.html",
+        "pubDate": "2025-11-15T18:03:36Z",
+        "summary": "Jim Cramer Discusses Key Metric for Oracle (ORCL)"
       }
     ]
   }
