@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2025년 11월 16일 08:16 KST",
+  "lastUpdated": "2025년 11월 17일 08:16 KST",
   "news": {
     "investing": [
+      {
+        "title": "이러한 기업들은 잠재적 노동력 변화로부터 \"유리한 위치\"에 있다 - 골드만삭스",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718889",
+        "pubDate": "2025-11-16 11:00:04",
+        "summary": "이러한 기업들은 잠재적 노동력 변화로부터 \"유리한 위치\"에 있다 - 골드만삭스"
+      },
+      {
+        "title": "5대 애널리스트 AI 동향: Nvidia의 '획기적 분기' 예상, 마이크론 테크놀로지 최고 추천주로 선정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718871",
+        "pubDate": "2025-11-16 09:00:08",
+        "summary": "5대 애널리스트 AI 동향: Nvidia의 '획기적 분기' 예상, 마이크론 테크놀로지 최고 추천주로 선정"
+      },
+      {
+        "title": "EU 기업의 AI 도입률, 미국의 절반 수준에 불과",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718869",
+        "pubDate": "2025-11-16 09:00:06",
+        "summary": "EU 기업의 AI 도입률, 미국의 절반 수준에 불과"
+      },
+      {
+        "title": "중국의 드론 생산 능력, 미국의 몇 배에 달해",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718867",
+        "pubDate": "2025-11-16 08:30:04",
+        "summary": "중국의 드론 생산 능력, 미국의 몇 배에 달해"
+      },
+      {
+        "title": "하이퍼스케일러들이 데이터 센터 쉘에 금융 리스를 점점 더 활용하는 이유는?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1718865",
+        "pubDate": "2025-11-16 08:00:06",
+        "summary": "하이퍼스케일러들이 데이터 센터 쉘에 금융 리스를 점점 더 활용하는 이유는?"
+      },
       {
         "title": "AI 붐이 통제를 벗어나고 있는지 알려주는 한 가지 차트",
         "link": "https://kr.investing.com/news/stock-market-news/article-1718825",
@@ -31,36 +61,6 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1718753",
         "pubDate": "2025-11-15 01:11:43",
         "summary": "구글 주식 매집나선 ‘워런 버핏’의 버크셔···6조원대 샀다"
-      },
-      {
-        "title": "세이블 오프쇼어, Hunterbrook 보고서 반박 후 손실 축소",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718660",
-        "pubDate": "2025-11-14 22:29:10",
-        "summary": "세이블 오프쇼어, Hunterbrook 보고서 반박 후 손실 축소"
-      },
-      {
-        "title": "BiomX, 주식 1:19 역분할 발표 후 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718654",
-        "pubDate": "2025-11-14 22:23:39",
-        "summary": "BiomX, 주식 1:19 역분할 발표 후 주가 하락"
-      },
-      {
-        "title": "Repare Therapeutics, XenoTherapeutics에 인수 후 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718646",
-        "pubDate": "2025-11-14 22:19:01",
-        "summary": "Repare Therapeutics, XenoTherapeutics에 인수 후 급등"
-      },
-      {
-        "title": "기술주 급락, AI 랠리 종료 아닌 매수 기회: 웨드부시",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1718628",
-        "pubDate": "2025-11-14 22:09:29",
-        "summary": "기술주 급락, AI 랠리 종료 아닌 매수 기회: 웨드부시"
-      },
-      {
-        "title": "쿠시먼 앤 웨이크필드, S&P 전망 ’긍정적’ 상향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1718617",
-        "pubDate": "2025-11-14 22:00:59",
-        "summary": "쿠시먼 앤 웨이크필드, S&P 전망 ’긍정적’ 상향 조정"
       }
     ],
     "cnbc": [
@@ -71,34 +71,40 @@
         "summary": "The Federal Reserve's internal watchdog was notified earlier this year about stock trades from 2024 disclosed by then-Gov Adriana Kugler."
       },
       {
-        "title": "AI anxiety on the rise: Startup founders react to bubble fears",
-        "link": "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html",
-        "pubDate": "Sat, 15 Nov 2025 13:00:01 GMT",
-        "summary": "Short sellers like Michael Burry and Jim Chanos are circling, warning that the AI buildout isn’t a one-time investment but a recurring cost wave."
+        "title": "New York Fed met with Wall Street firms about key lending facility: FT",
+        "link": "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html",
+        "pubDate": "Sun, 16 Nov 2025 20:25:27 GMT",
+        "summary": "The Fed sought feedback from dealers on the use of the central bank's standing repo facility, a permanent lending tool that acts as a backstop for markets."
       },
       {
-        "title": "Berkshire Hathaway's surprising new tech stake",
-        "link": "https://www.cnbc.com/2025/11/15/berkshire-hathaways-surprising-new-tech-stake.html",
-        "pubDate": "Sat, 15 Nov 2025 15:22:19 GMT",
-        "summary": "There was a notable surprise in Berkshire Hathaway's end-of-Q3 equity portfolio snapshot."
+        "title": "Americans are heating their homes with bitcoin this winter",
+        "link": "https://www.cnbc.com/2025/11/16/bitcoin-crypto-mining-home-heating-energy-bills.html",
+        "pubDate": "Sun, 16 Nov 2025 14:19:44 GMT",
+        "summary": "Winter across the U.S. means big bills for home heating oil, gas and electric furnaces, but in some cases, crypto like bitcoin is paying to keep Americans warm."
       },
       {
-        "title": "The government shutdown is over. The air traffic controller shortage is not",
-        "link": "https://www.cnbc.com/2025/11/15/government-shutdown-air-traffic-controllers.html",
-        "pubDate": "Sat, 15 Nov 2025 13:00:01 GMT",
-        "summary": "Staffing shortages of air traffic controllers forced airlines to chop flights and delay thousands of others that disrupted travel plans of 5 million people."
+        "title": "Inside Ford's new world headquarters: Scratch kitchens, rotisserie chickens and design secrets",
+        "link": "https://www.cnbc.com/2025/11/16/ford-headquarters-dearborn-michigan.html",
+        "pubDate": "Sun, 16 Nov 2025 11:00:01 GMT",
+        "summary": "Ford's new 2.1-million-square-foot headquarters in Dearborn, Michigan, is ceremoniously opening Sunday, although construction is expected to continue into 2027."
       },
       {
-        "title": "Trump cuts tariffs on goods like coffee, bananas and beef in bid to slash consumer prices",
-        "link": "https://www.cnbc.com/2025/11/14/trump-cuts-tariffs-goods-prices.html",
-        "pubDate": "Sat, 15 Nov 2025 11:57:39 GMT",
-        "summary": "Trump's action also exempted black tea, green tea, tomatoes, avocados and cinnamon, among other products, from higher tariffs."
+        "title": "Top Wall Street analysts are bullish on these 3 dividend stocks",
+        "link": "https://www.cnbc.com/2025/11/16/top-wall-street-analysts-are-bullish-on-these-3-dividend-stocks.html",
+        "pubDate": "Sun, 16 Nov 2025 12:25:57 GMT",
+        "summary": "TipRanks' ranking service highlights three dividend-paying stocks, including Diamondback Energy and Permian Resources"
       },
       {
-        "title": "These underperforming groups may deliver AI-electric appeal. Here's why.",
-        "link": "https://www.cnbc.com/2025/11/15/ai-electric-appeal-for-underperforming-infrastructure-etf-experts.html",
-        "pubDate": "Sat, 15 Nov 2025 16:00:01 GMT",
-        "summary": "Industrial and infrastructure stocks may soon share the spotlight with the artificial intelligence trade."
+        "title": "As health insurance costs climb, how to make the most of medical spending before year's end",
+        "link": "https://www.cnbc.com/2025/11/16/make-the-most-of-health-care-expenses-before-end-of-year.html",
+        "pubDate": "Sun, 16 Nov 2025 12:30:01 GMT",
+        "summary": "Medical expenses are often unpredictable and unwelcome, but there may be some strategies that help lessen the sting of them."
+      },
+      {
+        "title": "In defense of junior staff: Why replacing young people with AI could spark a 'talent doom cycle'",
+        "link": "https://www.cnbc.com/2025/11/16/why-replacing-junior-staff-with-ai-will-backfire-.html",
+        "pubDate": "Sun, 16 Nov 2025 07:00:50 GMT",
+        "summary": "\"You're missing a significant aspect of growth if you shut down the pipeline on bringing junior or entry-level talent into an organization,\" one CEO said."
       },
       {
         "title": "AI puts the squeeze on new grads — and the colleges that promised to make them employable",
@@ -107,84 +113,78 @@
         "summary": "As the AI boom redefines work, new grads face a shrinking share entry-level jobs. For colleges, this brings added attention to return-on-investment scrutiny."
       },
       {
-        "title": "Woman pleads guilty to lying about astronaut wife accessing bank account from Space Station",
-        "link": "https://www.cnbc.com/2025/11/14/space-station-nasa-guilty-wife-bank-account.html",
-        "pubDate": "Fri, 14 Nov 2025 21:37:33 GMT",
-        "summary": "Summer Worden faces a possible maximum sentence of five years in prison in the case, which involves false allegations she made against astronaut Anne McClain."
-      },
-      {
         "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
         "link": "https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html",
         "pubDate": "Fri, 14 Nov 2025 16:19:35 GMT",
         "summary": "The useful lifespan of AI infrastructure is a key issue for investors, as tech giants plan $1 trillion in AI spending over the next five years."
       },
       {
-        "title": "Google and Disney reach deal to restore ESPN, ABC to YouTube TV",
-        "link": "https://www.cnbc.com/2025/11/14/google-disney-reach-deal-to-restore-espn-abc-others-to-youtube-tv.html",
-        "pubDate": "Sat, 15 Nov 2025 01:28:19 GMT",
-        "summary": "The deal comes after a two-week standoff that resulted in channels like ESPN, ABC and others going dark on the popular YouTube TV streaming service."
+        "title": "AI anxiety on the rise: Startup founders react to bubble fears",
+        "link": "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html",
+        "pubDate": "Sat, 15 Nov 2025 13:00:01 GMT",
+        "summary": "Short sellers like Michael Burry and Jim Chanos are circling, warning that the AI buildout isn’t a one-time investment but a recurring cost wave."
       }
     ],
     "yahoo": [
       {
-        "title": "Ex-Fed official faced ethics probe on illegal stock trades",
-        "link": "https://finance.yahoo.com/news/ex-fed-official-faced-ethics-224700857.html",
-        "pubDate": "2025-11-15T22:47:00Z",
-        "summary": "Ex-Fed official faced ethics probe on illegal stock trades"
+        "title": "50 Cities With the Highest Mortgage Balances in 2025 — 23 Are in California",
+        "link": "https://finance.yahoo.com/news/50-cities-highest-mortgage-balances-224207120.html",
+        "pubDate": "2025-11-16T22:42:07Z",
+        "summary": "50 Cities With the Highest Mortgage Balances in 2025 — 23 Are in California"
       },
       {
-        "title": "Former Fed governor's stock trades violated the central bank's ethics rules",
-        "link": "https://finance.yahoo.com/news/former-fed-governors-stock-trades-220955299.html",
-        "pubDate": "2025-11-15T22:09:55Z",
-        "summary": "Former Fed governor's stock trades violated the central bank's ethics rules"
-      },
-      {
-        "title": "Dow Jones Futures: Will Nvidia Rescue Or Ruin Market? What To Do Now",
+        "title": "Dow Jones Futures Loom With Nvidia Earnings Key For Rocky Market; 5 Stocks Near Buy Points",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-11-15T22:04:51Z",
-        "summary": "Dow Jones Futures: Will Nvidia Rescue Or Ruin Market? What To Do Now"
+        "pubDate": "2025-11-16T22:16:11Z",
+        "summary": "Dow Jones Futures Loom With Nvidia Earnings Key For Rocky Market; 5 Stocks Near Buy Points"
       },
       {
-        "title": "7 Stocks That Could Benefit From Trump’s Tariff Rollback",
-        "link": "https://www.barrons.com/articles/trump-tariffs-stocks-starbucks-chipotle-shake-shack-8086d8b2?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-15T21:26:00Z",
-        "summary": "7 Stocks That Could Benefit From Trump’s Tariff Rollback"
+        "title": "Nvidia, Walmart earnings, and the return of jobs numbers: What to watch this week",
+        "link": "https://finance.yahoo.com/news/nvidia-walmart-earnings-and-the-return-of-jobs-numbers-what-to-watch-this-week-124502640.html",
+        "pubDate": "2025-11-16T12:45:02Z",
+        "summary": "Nvidia, Walmart earnings, and the return of jobs numbers: What to watch this week"
       },
       {
-        "title": "AI's valuation problem reaches a 'mini panic moment'",
-        "link": "https://finance.yahoo.com/news/ais-valuation-problem-reaches-a-mini-panic-moment-110046323.html",
-        "pubDate": "2025-11-15T11:00:46Z",
-        "summary": "AI's valuation problem reaches a 'mini panic moment'"
+        "title": "What keeps people working later in life? Reflections on Warren Buffett's long run.",
+        "link": "https://finance.yahoo.com/news/what-keeps-people-working-later-in-life-reflections-on-warren-buffetts-long-run-143052553.html",
+        "pubDate": "2025-11-16T14:30:52Z",
+        "summary": "What keeps people working later in life? Reflections on Warren Buffett's long run."
       },
       {
-        "title": "Ex-Fed Governor Kugler quit after more trading violations",
-        "link": "https://finance.yahoo.com/news/ex-fed-governor-kugler-faced-143943538.html",
-        "pubDate": "2025-11-15T19:37:41Z",
-        "summary": "Ex-Fed Governor Kugler quit after more trading violations"
+        "title": "‘Hold your ground’: Wall Street strategists say tech stock sell-off is a short-term blip as earnings bull case remains intact",
+        "link": "https://finance.yahoo.com/news/hold-your-ground-wall-street-strategists-say-tech-stock-sell-off-is-a-short-term-blip-as-earnings-bull-case-remains-intact-153023828.html",
+        "pubDate": "2025-11-16T16:06:02Z",
+        "summary": "‘Hold your ground’: Wall Street strategists say tech stock sell-off is a short-term blip as earnings bull case remains intact"
       },
       {
-        "title": "NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/nvidia-nvda-ai-orders-says-180421149.html",
-        "pubDate": "2025-11-15T18:04:21Z",
-        "summary": "NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer"
+        "title": "Better Stablecoin Buy: PayPal USD vs. Ripple USD",
+        "link": "https://finance.yahoo.com/news/better-stablecoin-buy-paypal-usd-220300806.html",
+        "pubDate": "2025-11-16T22:03:00Z",
+        "summary": "Better Stablecoin Buy: PayPal USD vs. Ripple USD"
       },
       {
-        "title": "Jim Cramer Says Goldman Sachs (GS) Is One Of His Biggest Positions",
-        "link": "https://finance.yahoo.com/news/jim-cramer-says-goldman-sachs-180412155.html",
-        "pubDate": "2025-11-15T18:04:12Z",
-        "summary": "Jim Cramer Says Goldman Sachs (GS) Is One Of His Biggest Positions"
+        "title": "eToro CEO Yoni Assia on how AI can level the trading playing field, create more Warren Buffetts",
+        "link": "https://finance.yahoo.com/news/etoro-ceo-yoni-assia-on-how-ai-can-level-the-trading-playing-field-create-more-warren-buffetts-163105052.html",
+        "pubDate": "2025-11-13T16:31:05Z",
+        "summary": "eToro CEO Yoni Assia on how AI can level the trading playing field, create more Warren Buffetts"
       },
       {
-        "title": "GE Vernova (GEV) Is A Big Stock Position In The Trust, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/ge-vernova-gev-big-stock-180344140.html",
-        "pubDate": "2025-11-15T18:03:44Z",
-        "summary": "GE Vernova (GEV) Is A Big Stock Position In The Trust, Says Jim Cramer"
+        "title": "The Market Just Pulled Back. Here Is How To Protect Gains And Reset Risk",
+        "link": "https://finance.yahoo.com/news/market-just-pulled-back-protect-184536121.html",
+        "pubDate": "2025-11-16T18:45:36Z",
+        "summary": "The Market Just Pulled Back. Here Is How To Protect Gains And Reset Risk"
       },
       {
-        "title": "Jim Cramer Discusses Key Metric for Oracle (ORCL)",
-        "link": "https://finance.yahoo.com/news/jim-cramer-discusses-key-metric-180336892.html",
-        "pubDate": "2025-11-15T18:03:36Z",
-        "summary": "Jim Cramer Discusses Key Metric for Oracle (ORCL)"
+        "title": "NVDA Earnings, FOMC and Other Key Things to Watch this Week",
+        "link": "https://finance.yahoo.com/news/nvda-earnings-fomc-other-key-180002440.html",
+        "pubDate": "2025-11-16T18:00:02Z",
+        "summary": "NVDA Earnings, FOMC and Other Key Things to Watch this Week"
+      },
+      {
+        "title": "Walmart’s E-Commerce Surge: Can Digital Growth Offset Rising Cost Pressures in Q3?",
+        "link": "https://finance.yahoo.com/news/walmart-e-commerce-surge-digital-174535573.html",
+        "pubDate": "2025-11-16T17:45:35Z",
+        "summary": "Walmart’s E-Commerce Surge: Can Digital Growth Offset Rising Cost Pressures in Q3?"
       }
     ]
   }
