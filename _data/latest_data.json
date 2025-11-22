@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2025년 11월 22일 08:16 KST",
+  "lastUpdated": "2025년 11월 23일 08:17 KST",
   "news": {
     "investing": [
+      {
+        "title": "주식이 너무 비싼가? 역사가 알려주는 것",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1729160",
+        "pubDate": "2025-11-22 09:01:43",
+        "summary": "주식이 너무 비싼가? 역사가 알려주는 것"
+      },
+      {
+        "title": "주주 결의안, 지난 5년간 급증했다고 번스타인 보고",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1729158",
+        "pubDate": "2025-11-22 09:00:06",
+        "summary": "주주 결의안, 지난 5년간 급증했다고 번스타인 보고"
+      },
+      {
+        "title": "골드만삭스, S&P 500 기업들의 최신 실적 발표에서 AI 언급 내용 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1729157",
+        "pubDate": "2025-11-22 09:00:03",
+        "summary": "골드만삭스, S&P 500 기업들의 최신 실적 발표에서 AI 언급 내용 분석"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1729156",
+        "pubDate": "2025-11-22 08:47:19",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "UBS, 2026년 영국 FTSE 전망 발표",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1729151",
+        "pubDate": "2025-11-22 08:00:10",
+        "summary": "UBS, 2026년 영국 FTSE 전망 발표"
+      },
+      {
+        "title": "중국의 투자 침체에 대한 심층 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1729152",
+        "pubDate": "2025-11-22 08:00:07",
+        "summary": "중국의 투자 침체에 대한 심층 분석"
+      },
       {
         "title": "피치, Hasbro 전망 ’긍정적’으로 상향... 수익 개선에 힘입어",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728975",
@@ -25,166 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728953",
         "pubDate": "2025-11-21 21:54:12",
         "summary": "뉴스 코프, S&P 전망 ‘긍정적’으로 상향...레버리지 감소"
-      },
-      {
-        "title": "Ryvyl 주가, 법원의 합의 잠정 승인 후 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728926",
-        "pubDate": "2025-11-21 21:36:14",
-        "summary": "Ryvyl 주가, 법원의 합의 잠정 승인 후 상승"
-      },
-      {
-        "title": "타이슨 푸드, 소 부족으로 네브래스카 소고기 공장 폐쇄 예정 - WSJ",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728871",
-        "pubDate": "2025-11-21 21:02:51",
-        "summary": "타이슨 푸드, 소 부족으로 네브래스카 소고기 공장 폐쇄 예정 - WSJ"
-      },
-      {
-        "title": "악조노벨-액살타 합병, 주요 주주들로부터 반발 증가",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1728875",
-        "pubDate": "2025-11-21 21:02:24",
-        "summary": "악조노벨-액살타 합병, 주요 주주들로부터 반발 증가"
-      },
-      {
-        "title": "바릭 광업, 말리와 금광 분쟁 해결 임박 - 블룸버그",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728863",
-        "pubDate": "2025-11-21 20:49:20",
-        "summary": "바릭 광업, 말리와 금광 분쟁 해결 임박 - 블룸버그"
-      },
-      {
-        "title": "백악관, FDA 고위 보좌관 사임 요구 - 폴리티코 보도",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728851",
-        "pubDate": "2025-11-21 20:31:14",
-        "summary": "백악관, FDA 고위 보좌관 사임 요구 - 폴리티코 보도"
-      },
-      {
-        "title": "연준, 스트레스 테스트 변경안 의견 수렴 기간 연장",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1728850",
-        "pubDate": "2025-11-21 20:18:15",
-        "summary": "연준, 스트레스 테스트 변경안 의견 수렴 기간 연장"
       }
     ],
     "cnbc": [
       {
-        "title": "Trump praises NYC Mayor-elect Mamdani after White House meeting, shrugs off being called 'fascist'",
-        "link": "https://www.cnbc.com/2025/11/21/trump-mamdani-meeting-white-house-nyc.html",
-        "pubDate": "Fri, 21 Nov 2025 22:18:45 GMT",
-        "summary": "The meeting with Trump was requested by Mamdani, whose victory over ex-New York Gov. Andrew Cuomo in NYC's mayoral race put him at the center of U.S. politics."
+        "title": "Texas data center expansion raises blackout risk during extreme winter weather",
+        "link": "https://www.cnbc.com/2025/11/22/texas-data-center-ai-ercot-blackout-power-outage.html",
+        "pubDate": "Sat, 22 Nov 2025 13:10:26 GMT",
+        "summary": "Texas' supply and demand balance can become tight during winter and potentially fall into deficit as data center demand grows."
       },
       {
-        "title": "Fed won't get key inflation data before next rate decision as BLS cancels October CPI release",
-        "link": "https://www.cnbc.com/2025/11/21/fed-wont-get-key-inflation-data-before-next-rate-decision-as-bls-cancels-october-cpi-release.html",
-        "pubDate": "Fri, 21 Nov 2025 17:59:54 GMT",
-        "summary": "The BLS said it was canceling the release of the October CPI, leaving the Fed without a key piece of inflation data before it next decides on interest rates."
+        "title": "Does Berkshire's big tech bet signal a new risk tolerance in Omaha?",
+        "link": "https://www.cnbc.com/2025/11/22/does-berkshires-big-tech-bet-signal-a-new-risk-tolerance-in-omaha.html",
+        "pubDate": "Sat, 22 Nov 2025 12:50:25 GMT",
+        "summary": "Berkshire Hathaway's purchase of Alphabet shares may signal a new acceptance of greater risk for greater reward."
       },
       {
-        "title": "Amazon cut more than 1,800 engineers in record layoffs, despite saying it needs to innovate faster",
-        "link": "https://www.cnbc.com/2025/11/21/amazon-cut-thousands-of-engineers-in-its-record-layoffs-filings-show.html",
-        "pubDate": "Fri, 21 Nov 2025 18:13:16 GMT",
-        "summary": "Nearly 40% of the roughly 4,700 positions Amazon eliminated across Washington, New York, New Jersey and California were engineering jobs."
+        "title": "Trump on Marjorie Taylor Greene's resignation: She 'went BAD'",
+        "link": "https://www.cnbc.com/2025/11/22/trump-marjorie-taylor-greene-mtg-resigns.html",
+        "pubDate": "Sat, 22 Nov 2025 15:50:23 GMT",
+        "summary": "Rep. Marjorie Taylor Greene on Friday said she would resign in early January, after saying President Donald Trump unfairly criticized her."
       },
       {
-        "title": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
-        "link": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
-        "pubDate": "Fri, 21 Nov 2025 23:11:05 GMT",
-        "summary": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
+        "title": "This week in AI: Brushing off new bubble warnings, Google’s AI comeback and Nvidia’s China threat",
+        "link": "https://www.cnbc.com/2025/11/22/new-ai-bubble-warnings-googles-comeback-and-nvidias-china-threat.html",
+        "pubDate": "Sat, 22 Nov 2025 13:00:01 GMT",
+        "summary": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia’s blowout earnings failed to steady the market. Deirdre Bosa has the story."
       },
       {
-        "title": "Why Trump's tariff rollback won't lower grocery prices right away",
-        "link": "https://www.cnbc.com/2025/11/21/food-inflation-price-trump-tariffs.html",
-        "pubDate": "Fri, 21 Nov 2025 19:35:01 GMT",
-        "summary": "President Donald Trump is rolling back tariffs on some imported food items, but that won't lower prices at the grocery store right away."
+        "title": "IRS crackdown on popular crypto 'tax cheat' begins with 2025 filing year",
+        "link": "https://www.cnbc.com/2025/11/22/new-irs-requirements-crypto-tax-cheat-risky-this-year-filing.html",
+        "pubDate": "Sat, 22 Nov 2025 17:45:21 GMT",
+        "summary": "A new IRS requirement covering crypto transactions starting with the 2025 tax year has big consequences for how investors report digital assets transactions."
       },
       {
-        "title": "Paramount, Comcast, Netflix submit bids for Warner Bros. Discovery",
-        "link": "https://www.cnbc.com/2025/11/21/warner-bros-discovery-wbd-bids-paramount-comcast-netflix.html",
-        "pubDate": "Fri, 21 Nov 2025 21:00:44 GMT",
-        "summary": "Warner Bros. Discovery recently expanded its strategic review of its business, saying it's open for a sale. First-round bids came in this week."
+        "title": "How much space $2,000 a month in rent gets you in the 25 biggest U.S. cities",
+        "link": "https://www.cnbc.com/2025/11/22/how-much-space-2000-a-month-in-rent-gets-in-25-biggest-us-cities.html",
+        "pubDate": "Sat, 22 Nov 2025 14:00:01 GMT",
+        "summary": "Take a look at where you can get the most and least space in major American cities if you're renting with a $2,000 budget."
       },
       {
-        "title": "Robinhood shares drop 12% this week amid losses in bitcoin, AI stocks",
-        "link": "https://www.cnbc.com/2025/11/21/robinhood-heads-for-brutal-weekly-loss-as-bitcoin-ai-stocks-are-hit-hard.html",
-        "pubDate": "Fri, 21 Nov 2025 21:22:52 GMT",
-        "summary": "The platform's core business relies on retail investors pouring into speculative corners of the market, particularly crypto and AI-linked stocks."
+        "title": "56-year-old man got over $170,000 in student loan forgiveness under Trump: 'I could not believe it'",
+        "link": "https://www.cnbc.com/2025/11/22/this-56-year-old-man-just-got-170000-in-student-loan-forgiveness-.html",
+        "pubDate": "Sat, 22 Nov 2025 13:44:07 GMT",
+        "summary": "Daniel Gray worried about his student debt for more than two decades. The day after he turned 56, he learned that his over $170,000 balance would be forgiven."
       },
       {
-        "title": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
-        "link": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
-        "pubDate": "Fri, 21 Nov 2025 17:55:06 GMT",
-        "summary": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
+        "title": "Trump claims California's $20 fast-food minimum wage hurts businesses. The truth is a lot more complicated",
+        "link": "https://www.cnbc.com/2025/11/22/trump-california-20-fast-food-minimum-wage.html",
+        "pubDate": "Sat, 22 Nov 2025 13:00:01 GMT",
+        "summary": "The restaurant industry predicted disaster after California instituted a $20 minimum wage for fast-food workers, but data shows that hasn't happened."
       },
       {
-        "title": "Air traffic controllers, technicians with perfect attendance in shutdown to get $10,000 bonuses, FAA says",
-        "link": "https://www.cnbc.com/2025/11/21/air-traffic-controllers-government-shutdown-bonus.html",
-        "pubDate": "Fri, 21 Nov 2025 19:54:20 GMT",
-        "summary": "Close to 800 air traffic controllers and technicians with perfect attendance will get $10,000 bonuses, the FAA said."
+        "title": "The fast-casual bowl boom is over. Wall Street isn't sold on Cava, Chipotle deals to lure back spenders",
+        "link": "https://www.cnbc.com/2025/11/22/chipotle-cava-sweetgreen-sales-bowls-consumers-deals-promotions.html",
+        "pubDate": "Sat, 22 Nov 2025 15:01:19 GMT",
+        "summary": "As sales at Chipotle, Cava and Sweetgreen fall, fast-casual chains are turning more to promotions and loyalty programs to get Gen Z spending on bowls again."
       },
       {
-        "title": "Air cargo impact from post-crash MD-11 grounding seen as 'minimal,' analysts say",
-        "link": "https://www.cnbc.com/2025/11/21/holiday-shipping-air-cargo-ups-crash.html",
-        "pubDate": "Fri, 21 Nov 2025 20:01:21 GMT",
-        "summary": "Air cargo could be impacted by the UPS and FedEx fleet groundings ahead of the busy holiday season."
+        "title": "Nvidia sales are 'off the charts,' but Google, Amazon and others now make their own custom AI chips",
+        "link": "https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html",
+        "pubDate": "Fri, 21 Nov 2025 21:42:26 GMT",
+        "summary": "Nvidia is king in AI chips, but custom ASICs are gaining ground with Google, Amazon, Meta, Microsoft and OpenAI now making their own."
       }
     ],
     "yahoo": [
       {
-        "title": "SYON Capital Loads Up 132,000 Shares of iShares MSCI China ETF Worth $11.7 Million",
-        "link": "https://finance.yahoo.com/news/syon-capital-loads-132-000-160245182.html",
-        "pubDate": "2025-11-20T16:02:45Z",
-        "summary": "SYON Capital Loads Up 132,000 Shares of iShares MSCI China ETF Worth $11.7 Million"
+        "title": "Dow Jones Futures: Stocks Bounce, Nvidia, Apple, Eli Lilly In Focus; Bitcoin The Weak Link?",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-cut-nvidia-apple-eli-lilly/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-11-22T23:01:02Z",
+        "summary": "Dow Jones Futures: Stocks Bounce, Nvidia, Apple, Eli Lilly In Focus; Bitcoin The Weak Link?"
       },
       {
-        "title": "Why Palo Alto Networks Latest Acquisition Surprised Wall Street",
-        "link": "https://www.investors.com/news/technology/palo-alto-palo-alto-earnings-news-q32025/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-11-20T16:03:14Z",
-        "summary": "Why Palo Alto Networks Latest Acquisition Surprised Wall Street"
+        "title": "Toyota has recalled more than 1 million cars over faulty backup cameras. What to know if your vehicle is affected",
+        "link": "https://finance.yahoo.com/news/toyota-recalled-more-1-million-223000282.html",
+        "pubDate": "2025-11-22T22:30:00Z",
+        "summary": "Toyota has recalled more than 1 million cars over faulty backup cameras. What to know if your vehicle is affected"
       },
       {
-        "title": "Nvidia isn't the only stock to watch. Why experts say you should consider buying others just like it.",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/nvidia-isnt-the-only-stock-to-watch-why-experts-say-you-should-consider-buying-others-just-like-it-173538962.html",
-        "pubDate": "2025-11-19T17:35:38Z",
-        "summary": "Nvidia isn't the only stock to watch. Why experts say you should consider buying others just like it."
+        "title": "HBAR Price Falls 18% A Week After Losing Its Month-Long Support",
+        "link": "https://finance.yahoo.com/news/hbar-price-falls-18-week-220409103.html",
+        "pubDate": "2025-11-22T22:04:09Z",
+        "summary": "HBAR Price Falls 18% A Week After Losing Its Month-Long Support"
       },
       {
-        "title": "Here’s the net worth you need to be in the top 10% of Americans — why it’s a lot higher than you might think",
-        "link": "https://finance.yahoo.com/news/net-worth-top-10-americans-160700516.html",
-        "pubDate": "2025-11-20T16:07:00Z",
-        "summary": "Here’s the net worth you need to be in the top 10% of Americans — why it’s a lot higher than you might think"
+        "title": "Campbell's employee claims he was fired for calling out VP's 'disgusting' rant about co-workers, food. Now he's fighting",
+        "link": "https://finance.yahoo.com/news/campbells-employee-claims-fired-calling-203500304.html",
+        "pubDate": "2025-11-22T20:35:00Z",
+        "summary": "Campbell's employee claims he was fired for calling out VP's 'disgusting' rant about co-workers, food. Now he's fighting"
       },
       {
-        "title": "This Drugmaker Is Too Cheap to Ignore. Why Bristol Is a Buy.",
-        "link": "https://www.barrons.com/articles/wp-bar-0001507322?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-20T15:58:00Z",
-        "summary": "This Drugmaker Is Too Cheap to Ignore. Why Bristol Is a Buy."
+        "title": "HELOC rates today, November 22, 2025: Lowest of the year, but your intro rate will be even lower",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-november-22-2025-110034633.html",
+        "pubDate": "2025-11-22T11:00:34Z",
+        "summary": "HELOC rates today, November 22, 2025: Lowest of the year, but your intro rate will be even lower"
       },
       {
-        "title": "Analyst Report: Sempra Energy",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_3409_AnalystReport_1763748235000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2025-11-21T18:03:55Z",
-        "summary": "Analyst Report: Sempra Energy"
+        "title": "America’s labor market is cooling, and workers are quietly turning to Uber and DoorDash to fill the income gap",
+        "link": "https://finance.yahoo.com/news/americas-labor-market-is-cooling-and-workers-are-quietly-turning-to-uber-and-doordash-to-fill-the-income-gap-100056832.html",
+        "pubDate": "2025-11-18T10:00:56Z",
+        "summary": "America’s labor market is cooling, and workers are quietly turning to Uber and DoorDash to fill the income gap"
       },
       {
-        "title": "Nvidia Might Be the Story of the Moment—But Walmart Stock Is Rising Even More Today",
-        "link": "https://finance.yahoo.com/news/nvidia-might-story-moment-walmart-160204422.html",
-        "pubDate": "2025-11-20T16:02:04Z",
-        "summary": "Nvidia Might Be the Story of the Moment—But Walmart Stock Is Rising Even More Today"
+        "title": "Citi Slashes Venture Global’s Price Target by 40%. Weak LNG Prices Could Lead to a ‘Prolonged Overhang.’",
+        "link": "https://www.barrons.com/articles/venture-global-stock-price-lng-citi-f3f889df?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-11-22T17:02:00Z",
+        "summary": "Citi Slashes Venture Global’s Price Target by 40%. Weak LNG Prices Could Lead to a ‘Prolonged Overhang.’"
       },
       {
-        "title": "China's Wingtech says its control over Nexperia must be restored",
-        "link": "https://finance.yahoo.com/news/chinas-wingtech-says-control-over-160805213.html",
-        "pubDate": "2025-11-20T16:08:05Z",
-        "summary": "China's Wingtech says its control over Nexperia must be restored"
+        "title": "Bitcoin ATM Firm Weighing $100 Million Sale Following Money Laundering Charges",
+        "link": "https://finance.yahoo.com/news/bitcoin-atm-firm-weighing-100-220102338.html",
+        "pubDate": "2025-11-22T22:01:02Z",
+        "summary": "Bitcoin ATM Firm Weighing $100 Million Sale Following Money Laundering Charges"
       },
       {
-        "title": "Broadcom Just Unveiled a New Key Product for AI Workflows. Does That Make AVGO Stock a Buy Today?",
-        "link": "https://finance.yahoo.com/news/broadcom-just-unveiled-key-product-160746160.html",
-        "pubDate": "2025-11-20T16:07:46Z",
-        "summary": "Broadcom Just Unveiled a New Key Product for AI Workflows. Does That Make AVGO Stock a Buy Today?"
+        "title": "Wall Street Is Betting on a Nuclear Renaissance. Here Are the 3 Top-Rated Nuclear Energy Stocks to Buy Now.",
+        "link": "https://finance.yahoo.com/news/wall-street-betting-nuclear-renaissance-170003505.html",
+        "pubDate": "2025-11-22T17:00:03Z",
+        "summary": "Wall Street Is Betting on a Nuclear Renaissance. Here Are the 3 Top-Rated Nuclear Energy Stocks to Buy Now."
       },
       {
-        "title": "India Is in an IPO Frenzy Again. Wait Until It Cools.",
-        "link": "https://www.barrons.com/articles/india-ipo-frenzy-021b3c2e?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-20T16:11:00Z",
-        "summary": "India Is in an IPO Frenzy Again. Wait Until It Cools."
+        "title": "How the Internet Rewired Work—and What That Tells Us About AI’s Likely Impact",
+        "link": "https://www.wsj.com/tech/ai/internet-work-ai-9c42127d?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-11-22T17:00:00Z",
+        "summary": "How the Internet Rewired Work—and What That Tells Us About AI’s Likely Impact"
       }
     ]
   }
