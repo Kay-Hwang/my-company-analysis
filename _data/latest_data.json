@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2025년 11월 29일 08:16 KST",
+  "lastUpdated": "2025년 11월 30일 08:17 KST",
   "news": {
     "investing": [
+      {
+        "title": "에이전틱 커머스, 과대 평가되고 있는가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736369",
+        "pubDate": "2025-11-29 09:30:04",
+        "summary": "에이전틱 커머스, 과대 평가되고 있는가?"
+      },
+      {
+        "title": "2025년 60%+ 수익: AI 기반 주식 투자가 게임의 판도를 바꾼 방법",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736368",
+        "pubDate": "2025-11-29 09:23:40",
+        "summary": "2025년 60%+ 수익: AI 기반 주식 투자가 게임의 판도를 바꾼 방법"
+      },
+      {
+        "title": "팀 쿡 애플 CEO 후임으로 누가 유력한가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736364",
+        "pubDate": "2025-11-29 09:05:05",
+        "summary": "팀 쿡 애플 CEO 후임으로 누가 유력한가?"
+      },
+      {
+        "title": "모건 스탠리, 에이전트 커머스 시장 약 4000억 달러 규모로 성장 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736363",
+        "pubDate": "2025-11-29 09:05:03",
+        "summary": "모건 스탠리, 에이전트 커머스 시장 약 4000억 달러 규모로 성장 전망"
+      },
+      {
+        "title": "AI, OTA의 범위를 축소하지 않고 확장할 수 있다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736361",
+        "pubDate": "2025-11-29 09:00:05",
+        "summary": "AI, OTA의 범위를 축소하지 않고 확장할 수 있다"
+      },
+      {
+        "title": "슈퍼컴퓨팅 쇼에서 얻은 주요 시사점",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736360",
+        "pubDate": "2025-11-29 08:35:04",
+        "summary": "슈퍼컴퓨팅 쇼에서 얻은 주요 시사점"
+      },
       {
         "title": "Investing.com의 이번 주 주목할 주식들",
         "link": "https://kr.investing.com/news/stock-market-news/article-1736209",
@@ -25,45 +61,33 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736178",
         "pubDate": "2025-11-28 18:33:20",
         "summary": "Nukkleus, 자회사 SPAC 상장 후 주가 상승"
-      },
-      {
-        "title": "INVO Fertility, 인디애나 클리닉 인수 계획 발표 후 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736177",
-        "pubDate": "2025-11-28 18:33:16",
-        "summary": "INVO Fertility, 인디애나 클리닉 인수 계획 발표 후 급등"
-      },
-      {
-        "title": "AI 데이터센터 인프라 수요 급증, 주목할 5대 주식",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736135",
-        "pubDate": "2025-11-28 17:14:25",
-        "summary": "AI 데이터센터 인프라 수요 급증, 주목할 5대 주식"
-      },
-      {
-        "title": "AI 자본 지출에 대한 회의론 고조, BCA는 \"메타버스 순간\" 가능성 경고",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1736130",
-        "pubDate": "2025-11-28 16:49:39",
-        "summary": "AI 자본 지출에 대한 회의론 고조, BCA는 \"메타버스 순간\" 가능성 경고"
-      },
-      {
-        "title": "애플 칩 파트너십 가능성에 관한 분석가 쿠오의 보고 후 인텔 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1736124",
-        "pubDate": "2025-11-28 16:41:22",
-        "summary": "애플 칩 파트너십 가능성에 관한 분석가 쿠오의 보고 후 인텔 주가 급등"
-      },
-      {
-        "title": "컴퍼스 다이버시파이드, 실적 재작성 관련 컨퍼런스콜 앞두고 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736115",
-        "pubDate": "2025-11-28 16:33:36",
-        "summary": "컴퍼스 다이버시파이드, 실적 재작성 관련 컨퍼런스콜 앞두고 주가 상승"
-      },
-      {
-        "title": "S&P, 툴로우 오일 신용등급 ’CCC-’로 강등… 채무 재조정 우려",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736109",
-        "pubDate": "2025-11-28 16:15:20",
-        "summary": "S&P, 툴로우 오일 신용등급 ’CCC-’로 강등… 채무 재조정 우려"
       }
     ],
     "cnbc": [
+      {
+        "title": "Silver hit record highs in 2025 – here's why the 'Devil’s metal' has further to run",
+        "link": "https://www.cnbc.com/2025/11/29/silver-hit-record-highs-in-2025-and-still-has-further-to-run.html",
+        "pubDate": "Sat, 29 Nov 2025 21:24:59 GMT",
+        "summary": "While industrial demand for silver is expected to decline slightly in 2025, the metal is increasingly used in electric vehicles, for AI components and in photovoltaics."
+      },
+      {
+        "title": "American Airlines says all planes impacted by Airbus glitch have been fixed",
+        "link": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
+        "pubDate": "Sat, 29 Nov 2025 19:19:25 GMT",
+        "summary": "American Airlines said Saturday that aircrafts impacted by an Airbus recall have received the software fixes necessary to resume flying."
+      },
+      {
+        "title": "Student loans and year-end tax planning — 4 steps for borrowers to take",
+        "link": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
+        "pubDate": "Sat, 29 Nov 2025 12:30:01 GMT",
+        "summary": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now, experts say."
+      },
+      {
+        "title": "How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break",
+        "link": "https://www.cnbc.com/2025/11/29/trump-big-beautiful-bill-giving-tuesday-tax-break.html",
+        "pubDate": "Sat, 29 Nov 2025 15:15:01 GMT",
+        "summary": "If you plan to donate money on Giving Tuesday, here's how President Donald Trump's \"big beautiful bill\" could affect your tax deduction."
+      },
       {
         "title": "How Black Friday became a retail letdown: 'To sustain the ride, they started to dilute it'",
         "link": "https://www.cnbc.com/2025/11/28/black-friday-shopping-retail-letdown.html",
@@ -71,120 +95,96 @@
         "summary": "Black Friday used to be the biggest in-person shopping event of the year, but for six straight years, online sales have outpaced stores."
       },
       {
-        "title": "Trump says U.S. to 'permanently pause migration from all Third World Countries’ after DC shooting",
-        "link": "https://www.cnbc.com/2025/11/28/trump-us-to-permanently-pause-migration-from-all-third-world-countries.html",
-        "pubDate": "Fri, 28 Nov 2025 06:34:10 GMT",
-        "summary": "The president said he would also terminate \"millions\" of admissions under his predecessor Joe Biden and remove \"anyone who is not a net asset\" to the U.S."
+        "title": "'Untold story' of Charlie Munger's last years",
+        "link": "https://www.cnbc.com/2025/11/29/untold-story-of-charlie-mungers-last-years.html",
+        "pubDate": "Sat, 29 Nov 2025 11:56:04 GMT",
+        "summary": "The Wall Street Journal reports Berkshire's late vice chair was \"making gutsy investments, forging unlikely friendships and facing new challenges to the end.\""
       },
       {
-        "title": "SEC investigates Jefferies over First Brands collapse, report says",
-        "link": "https://www.cnbc.com/2025/11/27/sec-investigates-jefferies-over-first-brands-collapse-report-says.html",
-        "pubDate": "Thu, 27 Nov 2025 18:02:34 GMT",
-        "summary": "The FT said the SEC is looking into whether Jefferies gave investors enough information on their exposure to the failed auto business."
+        "title": "White House blasts Boston Globe, CBS News and The Independent for coverage of 'illegal orders' video",
+        "link": "https://www.cnbc.com/2025/11/29/white-house-blasts-news-outlets-for-coverage-of-illegal-orders-video.html",
+        "pubDate": "Sat, 29 Nov 2025 15:32:44 GMT",
+        "summary": "Last week, six Democrats with military or national security experience, released a video reminding service members they have the right to refuse illegal orders."
       },
       {
-        "title": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
-        "link": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
-        "pubDate": "Thu, 27 Nov 2025 21:00:01 GMT",
-        "summary": "Markets may have entered a new cycle. Here's why."
+        "title": "AI is taking jobs — here’s Coursera CEO's No. 1 tip for grads to stay competitive",
+        "link": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
+        "pubDate": "Sat, 29 Nov 2025 06:03:21 GMT",
+        "summary": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
       },
       {
-        "title": "The warehouse real estate sector is seeing a rebalance. Here's what to watch for",
-        "link": "https://www.cnbc.com/2025/11/28/warehouse-real-estate-rebalance.html",
-        "pubDate": "Fri, 28 Nov 2025 15:31:28 GMT",
-        "summary": "After a pandemic-driven surge and subsequent pullback, warehouse real estate supply and demand is finally starting to come into balance."
+        "title": "Why rural Wisconsin is blocking the AI data center boom: 'Horses are skittish'",
+        "link": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
+        "pubDate": "Tue, 25 Nov 2025 18:33:31 GMT",
+        "summary": "Tech giants are increasingly facing community backlash as they select places to build mammoth AI data centers."
       },
       {
-        "title": "Switzerland has long welcomed the ultra wealthy. A referendum on a new tax has riled them up",
-        "link": "https://www.cnbc.com/2025/11/28/swiss-voters-to-decide-on-inheritance-tax-rise-for-ultra-wealthy.html",
-        "pubDate": "Fri, 28 Nov 2025 14:18:15 GMT",
-        "summary": "Switzerland looks set to reject a proposal for a 50% tax on inheritances and gifts of more than 50 million Swiss Francs."
-      },
-      {
-        "title": "Coffee hasn't been this expensive in decades—see how much prices have risen since 1985 in one chart",
-        "link": "https://www.cnbc.com/2025/11/28/chart-how-much-coffee-prices-have-risen-since-1985.html",
-        "pubDate": "Fri, 28 Nov 2025 14:30:01 GMT",
-        "summary": "Grocery-store coffee prices rose 41% in a year, a surge the U.S. hasn’t seen in decades."
-      },
-      {
-        "title": "Stock futures resume trading after a halt caused by 'cooling issue' at data center",
-        "link": "https://www.cnbc.com/2025/11/28/cme-halts-fx-commodities-futures-trading-after-data-center-issue.html",
-        "pubDate": "Fri, 28 Nov 2025 14:00:37 GMT",
-        "summary": "A technical problem obstructed futures trading at the Chicago Mercantile Exchange in the early hours of Friday morning."
-      },
-      {
-        "title": "That 'free' money in your 401(k) may not belong to you just yet",
-        "link": "https://www.cnbc.com/2025/11/28/401k-match-vesting-schedules.html",
-        "pubDate": "Fri, 28 Nov 2025 16:17:50 GMT",
-        "summary": "Workers who receive a 401(k) matching contribution from their employer may be surprised to learn that there's often a tenure requirement attached to the money."
-      },
-      {
-        "title": "With Trump's tax bill set to dent giving by the wealthy, can middle-class donors make up the difference?",
-        "link": "https://www.cnbc.com/2025/11/27/trump-tax-changes-middle-class-donors-giving-gap.html",
-        "pubDate": "Thu, 27 Nov 2025 14:00:01 GMT",
-        "summary": "Next year, some 140 million Americans will get a new tax break on donations. Experts warn it's unclear whether they will use it."
+        "title": "Ina Garten had to 'learn very quickly how to be a boss,' she says—here's the best leadership advice she ever received",
+        "link": "https://www.cnbc.com/2025/11/29/ina-garten-had-to-learn-very-quickly-how-to-be-a-boss-she-saysthe-best-leadership-advice-she-ever-received.html",
+        "pubDate": "Sat, 29 Nov 2025 14:27:01 GMT",
+        "summary": "When she opened her store Barefoot Contessa in 1978, Ina Garten had a lot to learn about being a boss."
       }
     ],
     "yahoo": [
       {
-        "title": "Has Crypto Fear Peaked? KAS, FLR, SKY Rise While Caution Lingers In Altcoin Season",
-        "link": "https://finance.yahoo.com/news/crypto-fear-peaked-kas-flr-160805242.html",
-        "pubDate": "2025-11-27T16:08:05Z",
-        "summary": "Has Crypto Fear Peaked? KAS, FLR, SKY Rise While Caution Lingers In Altcoin Season"
+        "title": "Should You Buy Cameco While It's Below $90?",
+        "link": "https://finance.yahoo.com/news/buy-cameco-while-below-90-223200067.html",
+        "pubDate": "2025-11-29T22:32:00Z",
+        "summary": "Should You Buy Cameco While It's Below $90?"
       },
       {
-        "title": "Tax-free student loan forgiveness ends in 2025. Will you owe more?",
-        "link": "https://finance.yahoo.com/personal-finance/student-loans/article/tax-free-student-loan-forgiveness-ends-153255482.html",
-        "pubDate": "2025-11-24T15:32:55Z",
-        "summary": "Tax-free student loan forgiveness ends in 2025. Will you owe more?"
+        "title": "Republicans are hating on Trump's 50-year mortgage idea. Here's why some think it will 'ultimately reward the banks'",
+        "link": "https://finance.yahoo.com/news/republicans-hating-trumps-50-mortgage-220000505.html",
+        "pubDate": "2025-11-29T22:00:00Z",
+        "summary": "Republicans are hating on Trump's 50-year mortgage idea. Here's why some think it will 'ultimately reward the banks'"
       },
       {
-        "title": "How you could use $500K in savings to pay for kids’ college, help family and still have enough to retire",
-        "link": "https://finance.yahoo.com/news/could-500k-savings-pay-kids-160000007.html",
-        "pubDate": "2025-11-27T16:00:00Z",
-        "summary": "How you could use $500K in savings to pay for kids’ college, help family and still have enough to retire"
+        "title": "'We needed to go to work': Hilton CEO details how a winning offering evolved",
+        "link": "https://finance.yahoo.com/news/we-needed-to-go-to-work-hilton-ceo-details-how-a-winning-offering-evolved-164813595.html",
+        "pubDate": "2025-11-29T16:48:34Z",
+        "summary": "'We needed to go to work': Hilton CEO details how a winning offering evolved"
       },
       {
-        "title": "How Is United Parcel Service's Stock Performance Compared to Other Transportation Stocks?",
-        "link": "https://finance.yahoo.com/news/united-parcel-services-stock-performance-155137642.html",
-        "pubDate": "2025-11-27T15:51:37Z",
-        "summary": "How Is United Parcel Service's Stock Performance Compared to Other Transportation Stocks?"
+        "title": "Taking Social Security at 62 is a hot topic. Experts weigh in.",
+        "link": "https://finance.yahoo.com/news/taking-social-security-at-62-is-a-hot-topic-experts-weigh-in-184651246.html",
+        "pubDate": "2025-11-29T18:47:07Z",
+        "summary": "Taking Social Security at 62 is a hot topic. Experts weigh in."
       },
       {
-        "title": "Technical Assessment: Bullish in the Intermediate-Term",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_45446_TechnicalAnalysis_1764331679000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2025-11-28T12:07:59Z",
-        "summary": "Technical Assessment: Bullish in the Intermediate-Term"
+        "title": "Retail Stocks Usually Rise the Week After Black Friday. This BNPL Play Stands Out.",
+        "link": "https://www.barrons.com/articles/black-friday-stocks-affirm-amazon-walmart-e4de27d6?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-11-29T18:31:00Z",
+        "summary": "Retail Stocks Usually Rise the Week After Black Friday. This BNPL Play Stands Out."
       },
       {
-        "title": "Hash Ribbon Flashes Signal That Often Marks Cyclical Bottoms for Bitcoin Price",
-        "link": "https://finance.yahoo.com/news/hash-ribbon-flashes-signal-often-161208842.html",
-        "pubDate": "2025-11-27T16:12:08Z",
-        "summary": "Hash Ribbon Flashes Signal That Often Marks Cyclical Bottoms for Bitcoin Price"
+        "title": "No 401(k)? Here Are 3 Other Ways to Save for Retirement.",
+        "link": "https://finance.yahoo.com/news/no-401-k-3-other-221600184.html",
+        "pubDate": "2025-11-29T22:16:00Z",
+        "summary": "No 401(k)? Here Are 3 Other Ways to Save for Retirement."
       },
       {
-        "title": "Crypto Firm Tied to Trump Family Dismisses Top Executives",
-        "link": "https://www.barrons.com/articles/alt5-world-liberty-ceo-cfo-trump-0e16372a?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-27T15:51:00Z",
-        "summary": "Crypto Firm Tied to Trump Family Dismisses Top Executives"
+        "title": "Jim Cramer on Rocket Lab: “As Specs Go, I Like it at These Prices”",
+        "link": "https://finance.yahoo.com/news/jim-cramer-rocket-lab-specs-182921896.html",
+        "pubDate": "2025-11-29T18:29:21Z",
+        "summary": "Jim Cramer on Rocket Lab: “As Specs Go, I Like it at These Prices”"
       },
       {
-        "title": "Intuit Stock: Is INTU Underperforming the Technology Sector?",
-        "link": "https://finance.yahoo.com/news/intuit-stock-intu-underperforming-technology-154611392.html",
-        "pubDate": "2025-11-27T15:46:11Z",
-        "summary": "Intuit Stock: Is INTU Underperforming the Technology Sector?"
+        "title": "Jim Cramer on Iron Mountain: “I Just Don’t See the Upside”",
+        "link": "https://finance.yahoo.com/news/jim-cramer-iron-mountain-just-182919544.html",
+        "pubDate": "2025-11-29T18:29:19Z",
+        "summary": "Jim Cramer on Iron Mountain: “I Just Don’t See the Upside”"
       },
       {
-        "title": "Trump Organization to crowdfund Maldives resort built with Saudi partner using digital tokens. What investors must know",
-        "link": "https://finance.yahoo.com/news/trump-organization-crowdfund-maldives-resort-163000108.html",
-        "pubDate": "2025-11-27T16:30:00Z",
-        "summary": "Trump Organization to crowdfund Maldives resort built with Saudi partner using digital tokens. What investors must know"
+        "title": "Jim Cramer on Jacobs Solutions: “I Would Buy This Thing at $132”",
+        "link": "https://finance.yahoo.com/news/jim-cramer-jacobs-solutions-buy-182918863.html",
+        "pubDate": "2025-11-29T18:29:18Z",
+        "summary": "Jim Cramer on Jacobs Solutions: “I Would Buy This Thing at $132”"
       },
       {
-        "title": "Here are the 5 most mind-blowing money stats of the average American. Learn to build riches in 2026",
-        "link": "https://finance.yahoo.com/news/5-most-mind-blowing-money-154400334.html",
-        "pubDate": "2025-11-27T15:44:00Z",
-        "summary": "Here are the 5 most mind-blowing money stats of the average American. Learn to build riches in 2026"
+        "title": "Jim Cramer on Astera Labs: “I Cannot Get Behind It at These Prices”",
+        "link": "https://finance.yahoo.com/news/jim-cramer-astera-labs-cannot-182916203.html",
+        "pubDate": "2025-11-29T18:29:16Z",
+        "summary": "Jim Cramer on Astera Labs: “I Cannot Get Behind It at These Prices”"
       }
     ]
   }
