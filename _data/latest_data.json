@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2025년 11월 30일 08:17 KST",
+  "lastUpdated": "2025년 12월 01일 08:17 KST",
   "news": {
     "investing": [
+      {
+        "title": "도이체방크, \"2026년은 결코 지루하지 않을 것\"이라고 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736441",
+        "pubDate": "2025-11-30 10:00:12",
+        "summary": "도이체방크, \"2026년은 결코 지루하지 않을 것\"이라고 전망"
+      },
+      {
+        "title": "분석: 미국 기업들은 현금을 어떻게 활용하고 있나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736442",
+        "pubDate": "2025-11-30 10:00:08",
+        "summary": "분석: 미국 기업들은 현금을 어떻게 활용하고 있나?"
+      },
+      {
+        "title": "연말에 메모리 가격이 급등한 이유는?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736421",
+        "pubDate": "2025-11-30 08:37:15",
+        "summary": "연말에 메모리 가격이 급등한 이유는?"
+      },
+      {
+        "title": "AI 노출을 다양화하고 포트폴리오를 위험 허용도에 맞게 조정하는 방법",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1736419",
+        "pubDate": "2025-11-30 08:35:03",
+        "summary": "AI 노출을 다양화하고 포트폴리오를 위험 허용도에 맞게 조정하는 방법"
+      },
       {
         "title": "에이전틱 커머스, 과대 평가되고 있는가?",
         "link": "https://kr.investing.com/news/stock-market-news/article-1736369",
@@ -37,30 +61,6 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1736360",
         "pubDate": "2025-11-29 08:35:04",
         "summary": "슈퍼컴퓨팅 쇼에서 얻은 주요 시사점"
-      },
-      {
-        "title": "Investing.com의 이번 주 주목할 주식들",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1736209",
-        "pubDate": "2025-11-28 20:26:30",
-        "summary": "Investing.com의 이번 주 주목할 주식들"
-      },
-      {
-        "title": "인도 IT 주식, 밸류에이션 재조정 주목",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736191",
-        "pubDate": "2025-11-28 19:10:14",
-        "summary": "인도 IT 주식, 밸류에이션 재조정 주목"
-      },
-      {
-        "title": "중국 부동산 혼란이 주식 시장에 영향을 미칠까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1736185",
-        "pubDate": "2025-11-28 18:51:28",
-        "summary": "중국 부동산 혼란이 주식 시장에 영향을 미칠까?"
-      },
-      {
-        "title": "Nukkleus, 자회사 SPAC 상장 후 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1736178",
-        "pubDate": "2025-11-28 18:33:20",
-        "summary": "Nukkleus, 자회사 SPAC 상장 후 주가 상승"
       }
     ],
     "cnbc": [
@@ -71,40 +71,22 @@
         "summary": "While industrial demand for silver is expected to decline slightly in 2025, the metal is increasingly used in electric vehicles, for AI components and in photovoltaics."
       },
       {
-        "title": "American Airlines says all planes impacted by Airbus glitch have been fixed",
-        "link": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
-        "pubDate": "Sat, 29 Nov 2025 19:19:25 GMT",
-        "summary": "American Airlines said Saturday that aircrafts impacted by an Airbus recall have received the software fixes necessary to resume flying."
+        "title": "An industry focused on death faces an existential crisis",
+        "link": "https://www.cnbc.com/2025/11/30/monument-gravestone-makers-tariffs-cremations.html",
+        "pubDate": "Sun, 30 Nov 2025 14:05:39 GMT",
+        "summary": "The small, family run companies that make traditional memorialization products like gravestones are facing the dual challenges of tariffs and cremation."
       },
       {
-        "title": "Student loans and year-end tax planning — 4 steps for borrowers to take",
-        "link": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
-        "pubDate": "Sat, 29 Nov 2025 12:30:01 GMT",
-        "summary": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now, experts say."
+        "title": "'Zootopia 2' fuels top 5 Thanksgiving box office haul",
+        "link": "https://www.cnbc.com/2025/11/30/zootopia-2-fuels-top-5-thanksgiving-box-office-haul.html",
+        "pubDate": "Sun, 30 Nov 2025 17:22:21 GMT",
+        "summary": "Disney's \"Zootopia 2\" tallied an estimated $156 million during the five-day Thanksgiving holiday, leading the box office to a top five performance."
       },
       {
-        "title": "How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break",
-        "link": "https://www.cnbc.com/2025/11/29/trump-big-beautiful-bill-giving-tuesday-tax-break.html",
-        "pubDate": "Sat, 29 Nov 2025 15:15:01 GMT",
-        "summary": "If you plan to donate money on Giving Tuesday, here's how President Donald Trump's \"big beautiful bill\" could affect your tax deduction."
-      },
-      {
-        "title": "How Black Friday became a retail letdown: 'To sustain the ride, they started to dilute it'",
-        "link": "https://www.cnbc.com/2025/11/28/black-friday-shopping-retail-letdown.html",
-        "pubDate": "Fri, 28 Nov 2025 17:29:33 GMT",
-        "summary": "Black Friday used to be the biggest in-person shopping event of the year, but for six straight years, online sales have outpaced stores."
-      },
-      {
-        "title": "'Untold story' of Charlie Munger's last years",
-        "link": "https://www.cnbc.com/2025/11/29/untold-story-of-charlie-mungers-last-years.html",
-        "pubDate": "Sat, 29 Nov 2025 11:56:04 GMT",
-        "summary": "The Wall Street Journal reports Berkshire's late vice chair was \"making gutsy investments, forging unlikely friendships and facing new challenges to the end.\""
-      },
-      {
-        "title": "White House blasts Boston Globe, CBS News and The Independent for coverage of 'illegal orders' video",
-        "link": "https://www.cnbc.com/2025/11/29/white-house-blasts-news-outlets-for-coverage-of-illegal-orders-video.html",
-        "pubDate": "Sat, 29 Nov 2025 15:32:44 GMT",
-        "summary": "Last week, six Democrats with military or national security experience, released a video reminding service members they have the right to refuse illegal orders."
+        "title": "Top Wall Street analysts recommend these dividend stocks for stable income",
+        "link": "https://www.cnbc.com/2025/11/30/top-wall-street-analysts-recommend-these-dividend-stocks-for-stable-income.html",
+        "pubDate": "Sun, 30 Nov 2025 14:01:19 GMT",
+        "summary": "TipRanks' ranking service discusses three dividend-paying stocks, including ConocoPhillips and International Business Machines."
       },
       {
         "title": "AI is taking jobs — here’s Coursera CEO's No. 1 tip for grads to stay competitive",
@@ -113,78 +95,96 @@
         "summary": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
       },
       {
-        "title": "Why rural Wisconsin is blocking the AI data center boom: 'Horses are skittish'",
-        "link": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
-        "pubDate": "Tue, 25 Nov 2025 18:33:31 GMT",
-        "summary": "Tech giants are increasingly facing community backlash as they select places to build mammoth AI data centers."
+        "title": "Fewer international students are enrolling at U.S. colleges, which could cost the country $1 billion, reports find",
+        "link": "https://www.cnbc.com/2025/11/30/international-student-enrollment-decline.html",
+        "pubDate": "Sun, 30 Nov 2025 12:35:01 GMT",
+        "summary": "In the fall 2025 semester, new international student enrollment at U.S. institutions fell 17%, according to a recent report."
       },
       {
-        "title": "Ina Garten had to 'learn very quickly how to be a boss,' she says—here's the best leadership advice she ever received",
-        "link": "https://www.cnbc.com/2025/11/29/ina-garten-had-to-learn-very-quickly-how-to-be-a-boss-she-saysthe-best-leadership-advice-she-ever-received.html",
-        "pubDate": "Sat, 29 Nov 2025 14:27:01 GMT",
-        "summary": "When she opened her store Barefoot Contessa in 1978, Ina Garten had a lot to learn about being a boss."
+        "title": "Student loans and year-end tax planning — 4 steps for borrowers to take",
+        "link": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
+        "pubDate": "Sat, 29 Nov 2025 12:30:01 GMT",
+        "summary": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now, experts say."
+      },
+      {
+        "title": "Forget AI spending — the biggest risk to this stock market is speculative junk",
+        "link": "https://www.cnbc.com/2025/11/30/cramer-forget-ai-spending-the-biggest-risk-to-this-market-is-speculation.html",
+        "pubDate": "Sun, 30 Nov 2025 21:49:53 GMT",
+        "summary": "The idea that these alternative investments somehow create anything en masse is almost ludicrous."
+      },
+      {
+        "title": "How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break",
+        "link": "https://www.cnbc.com/2025/11/29/trump-big-beautiful-bill-giving-tuesday-tax-break.html",
+        "pubDate": "Sat, 29 Nov 2025 15:15:01 GMT",
+        "summary": "If you plan to donate money on Giving Tuesday, here's how President Donald Trump's \"big beautiful bill\" could affect your tax deduction."
+      },
+      {
+        "title": "How much money you need to be in the wealthiest 10% of Americans",
+        "link": "https://www.cnbc.com/2025/11/30/how-much-money-you-need-to-be-in-the-wealthiest-10-percent-of-americans.html",
+        "pubDate": "Sun, 30 Nov 2025 14:00:01 GMT",
+        "summary": "You need nearly $2 million in net worth to be considered part of the wealthiest 10% of Americans."
       }
     ],
     "yahoo": [
       {
-        "title": "Should You Buy Cameco While It's Below $90?",
-        "link": "https://finance.yahoo.com/news/buy-cameco-while-below-90-223200067.html",
-        "pubDate": "2025-11-29T22:32:00Z",
-        "summary": "Should You Buy Cameco While It's Below $90?"
+        "title": "Dow Jones Futures: Trump Says He's Made Fed Chief Decision",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-president-trump-fed-chief-decision/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-11-30T23:03:47Z",
+        "summary": "Dow Jones Futures: Trump Says He's Made Fed Chief Decision"
       },
       {
-        "title": "Republicans are hating on Trump's 50-year mortgage idea. Here's why some think it will 'ultimately reward the banks'",
-        "link": "https://finance.yahoo.com/news/republicans-hating-trumps-50-mortgage-220000505.html",
-        "pubDate": "2025-11-29T22:00:00Z",
-        "summary": "Republicans are hating on Trump's 50-year mortgage idea. Here's why some think it will 'ultimately reward the banks'"
+        "title": "Better Artificial Intelligence Stock: SoundHound AI vs. Astera Labs",
+        "link": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-soundhound-222000649.html",
+        "pubDate": "2025-11-30T22:20:00Z",
+        "summary": "Better Artificial Intelligence Stock: SoundHound AI vs. Astera Labs"
       },
       {
-        "title": "'We needed to go to work': Hilton CEO details how a winning offering evolved",
-        "link": "https://finance.yahoo.com/news/we-needed-to-go-to-work-hilton-ceo-details-how-a-winning-offering-evolved-164813595.html",
-        "pubDate": "2025-11-29T16:48:34Z",
-        "summary": "'We needed to go to work': Hilton CEO details how a winning offering evolved"
+        "title": "Texas Producer Battles California to Restart Offshore Oil Platforms",
+        "link": "https://finance.yahoo.com/news/texas-producer-battles-california-restart-220000756.html",
+        "pubDate": "2025-11-30T22:00:00Z",
+        "summary": "Texas Producer Battles California to Restart Offshore Oil Platforms"
       },
       {
-        "title": "Taking Social Security at 62 is a hot topic. Experts weigh in.",
-        "link": "https://finance.yahoo.com/news/taking-social-security-at-62-is-a-hot-topic-experts-weigh-in-184651246.html",
-        "pubDate": "2025-11-29T18:47:07Z",
-        "summary": "Taking Social Security at 62 is a hot topic. Experts weigh in."
+        "title": "Deutsche Telekom and Schwarz Group to build AI data centre, German newspaper reports",
+        "link": "https://finance.yahoo.com/news/deutsche-telekom-schwarz-group-build-205613095.html",
+        "pubDate": "2025-11-30T20:56:13Z",
+        "summary": "Deutsche Telekom and Schwarz Group to build AI data centre, German newspaper reports"
       },
       {
-        "title": "Retail Stocks Usually Rise the Week After Black Friday. This BNPL Play Stands Out.",
-        "link": "https://www.barrons.com/articles/black-friday-stocks-affirm-amazon-walmart-e4de27d6?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-11-29T18:31:00Z",
-        "summary": "Retail Stocks Usually Rise the Week After Black Friday. This BNPL Play Stands Out."
+        "title": "Is Motorola Solutions Stock Underperforming the S&P 500?",
+        "link": "https://finance.yahoo.com/news/motorola-solutions-stock-underperforming-p-200744023.html",
+        "pubDate": "2025-11-30T20:07:44Z",
+        "summary": "Is Motorola Solutions Stock Underperforming the S&P 500?"
       },
       {
-        "title": "No 401(k)? Here Are 3 Other Ways to Save for Retirement.",
-        "link": "https://finance.yahoo.com/news/no-401-k-3-other-221600184.html",
-        "pubDate": "2025-11-29T22:16:00Z",
-        "summary": "No 401(k)? Here Are 3 Other Ways to Save for Retirement."
+        "title": "Welltower Stock: Is WELL Outperforming the Real Estate Sector?",
+        "link": "https://finance.yahoo.com/news/welltower-stock-well-outperforming-real-200743124.html",
+        "pubDate": "2025-11-30T20:07:43Z",
+        "summary": "Welltower Stock: Is WELL Outperforming the Real Estate Sector?"
       },
       {
-        "title": "Jim Cramer on Rocket Lab: “As Specs Go, I Like it at These Prices”",
-        "link": "https://finance.yahoo.com/news/jim-cramer-rocket-lab-specs-182921896.html",
-        "pubDate": "2025-11-29T18:29:21Z",
-        "summary": "Jim Cramer on Rocket Lab: “As Specs Go, I Like it at These Prices”"
+        "title": "Investor Dumps $10.9 Million in Grocery Outlet Stock as Shares Continue Multi-Year Downtrend",
+        "link": "https://finance.yahoo.com/news/investor-dumps-10-9-million-221153363.html",
+        "pubDate": "2025-11-30T22:11:53Z",
+        "summary": "Investor Dumps $10.9 Million in Grocery Outlet Stock as Shares Continue Multi-Year Downtrend"
       },
       {
-        "title": "Jim Cramer on Iron Mountain: “I Just Don’t See the Upside”",
-        "link": "https://finance.yahoo.com/news/jim-cramer-iron-mountain-just-182919544.html",
-        "pubDate": "2025-11-29T18:29:19Z",
-        "summary": "Jim Cramer on Iron Mountain: “I Just Don’t See the Upside”"
+        "title": "Is Phillips 66 Stock Underperforming the Nasdaq?",
+        "link": "https://finance.yahoo.com/news/phillips-66-stock-underperforming-nasdaq-200742312.html",
+        "pubDate": "2025-11-30T20:07:42Z",
+        "summary": "Is Phillips 66 Stock Underperforming the Nasdaq?"
       },
       {
-        "title": "Jim Cramer on Jacobs Solutions: “I Would Buy This Thing at $132”",
-        "link": "https://finance.yahoo.com/news/jim-cramer-jacobs-solutions-buy-182918863.html",
-        "pubDate": "2025-11-29T18:29:18Z",
-        "summary": "Jim Cramer on Jacobs Solutions: “I Would Buy This Thing at $132”"
+        "title": "Is Marathon Petroleum Stock Outperforming the Dow?",
+        "link": "https://finance.yahoo.com/news/marathon-petroleum-stock-outperforming-dow-195143572.html",
+        "pubDate": "2025-11-30T19:51:43Z",
+        "summary": "Is Marathon Petroleum Stock Outperforming the Dow?"
       },
       {
-        "title": "Jim Cramer on Astera Labs: “I Cannot Get Behind It at These Prices”",
-        "link": "https://finance.yahoo.com/news/jim-cramer-astera-labs-cannot-182916203.html",
-        "pubDate": "2025-11-29T18:29:16Z",
-        "summary": "Jim Cramer on Astera Labs: “I Cannot Get Behind It at These Prices”"
+        "title": "Investors Head Into December After a Volatile Month for Stocks",
+        "link": "https://www.barrons.com/livecoverage/sundayshows1130/card/investors-head-into-december-after-a-volatile-month-for-stocks-eRiA50juXT1aYyg0bXt2?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-11-30T19:38:44Z",
+        "summary": "Investors Head Into December After a Volatile Month for Stocks"
       }
     ]
   }
