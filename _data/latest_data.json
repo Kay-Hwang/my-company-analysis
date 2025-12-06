@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2025년 12월 06일 08:17 KST",
+  "lastUpdated": "2025년 12월 07일 08:17 KST",
   "news": {
     "investing": [
+      {
+        "title": "Investing.com의 주간 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745586",
+        "pubDate": "2025-12-06 09:00:12",
+        "summary": "Investing.com의 주간 주목할 주식들"
+      },
+      {
+        "title": "매크로 불확실성 속에서 고급 주택 구매자들은 어떻게 버티고 있나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745585",
+        "pubDate": "2025-12-06 09:00:03",
+        "summary": "매크로 불확실성 속에서 고급 주택 구매자들은 어떻게 버티고 있나?"
+      },
+      {
+        "title": "2026년 중국 투자를 위한 5가지 핵심 테마",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745584",
+        "pubDate": "2025-12-06 08:30:04",
+        "summary": "2026년 중국 투자를 위한 5가지 핵심 테마"
+      },
+      {
+        "title": "OpenAI, 분석가들이 말하는 세 가지 \"코드 레드\" 위협에 직면",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745581",
+        "pubDate": "2025-12-06 08:00:09",
+        "summary": "OpenAI, 분석가들이 말하는 세 가지 \"코드 레드\" 위협에 직면"
+      },
+      {
+        "title": "모건 스탠리, 휴머노이드 로봇 기술은 과대평가되면서도 저평가되고 있다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745582",
+        "pubDate": "2025-12-06 08:00:06",
+        "summary": "모건 스탠리, 휴머노이드 로봇 기술은 과대평가되면서도 저평가되고 있다"
+      },
+      {
+        "title": "중국이 자국 버전의 AI 경쟁에서 승리하기 위해 총력을 기울이는 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745583",
+        "pubDate": "2025-12-06 08:00:03",
+        "summary": "중국이 자국 버전의 AI 경쟁에서 승리하기 위해 총력을 기울이는 이유"
+      },
+      {
+        "title": "[현장] 쿠팡·KT가 쏘아 올린 ‘도덕적 해이’ 경고등... 차기 KT CEO, ‘윤리 검증’이 먼저다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745494",
+        "pubDate": "2025-12-06 00:40:45",
+        "summary": "[현장] 쿠팡·KT가 쏘아 올린 ‘도덕적 해이’ 경고등... 차기 KT CEO, ‘윤리 검증’이 먼저다"
+      },
+      {
+        "title": "’오락가락’ 비트코인, 다시 9만달러 붕괴… 왜 자꾸 흔들리나",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745493",
+        "pubDate": "2025-12-06 00:40:37",
+        "summary": "’오락가락’ 비트코인, 다시 9만달러 붕괴… 왜 자꾸 흔들리나"
+      },
       {
         "title": "카바나 주가, S&P 500 편입 발표 후 급등",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745440",
@@ -13,54 +61,6 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745432",
         "pubDate": "2025-12-05 22:36:47",
         "summary": "BAE Systems, 2억 1,500만 달러 규모 방산 계약 체결"
-      },
-      {
-        "title": "록히드 마틴, F-35 전투기 11억 4천만 달러 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745431",
-        "pubDate": "2025-12-05 22:36:29",
-        "summary": "록히드 마틴, F-35 전투기 11억 4천만 달러 계약 체결"
-      },
-      {
-        "title": "클리어마인드 메디슨, 나스닥 규정 미준수로 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745402",
-        "pubDate": "2025-12-05 22:06:26",
-        "summary": "클리어마인드 메디슨, 나스닥 규정 미준수로 주가 하락"
-      },
-      {
-        "title": "글로벌 Mofy, 480만 달러 규모 사모 발행 발표 후 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745379",
-        "pubDate": "2025-12-05 21:49:03",
-        "summary": "글로벌 Mofy, 480만 달러 규모 사모 발행 발표 후 주가 하락"
-      },
-      {
-        "title": "피톤, iTonic Corporation 인수 완료 후 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745369",
-        "pubDate": "2025-12-05 21:44:38",
-        "summary": "피톤, iTonic Corporation 인수 완료 후 주가 급등"
-      },
-      {
-        "title": "ServiceNow, 주주 승인에 힘입어 주가 소폭 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745368",
-        "pubDate": "2025-12-05 21:44:32",
-        "summary": "ServiceNow, 주주 승인에 힘입어 주가 소폭 상승"
-      },
-      {
-        "title": "키메라 테라퓨틱스, 아토피 피부염 임상 데이터 발표 기대감에 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745367",
-        "pubDate": "2025-12-05 21:44:10",
-        "summary": "키메라 테라퓨틱스, 아토피 피부염 임상 데이터 발표 기대감에 상승"
-      },
-      {
-        "title": "몬테 데이 파스키 이사회, 메디오방카 인수 조사 속 CEO 지지",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745365",
-        "pubDate": "2025-12-05 21:43:56",
-        "summary": "몬테 데이 파스키 이사회, 메디오방카 인수 조사 속 CEO 지지"
-      },
-      {
-        "title": "카나콜 에너지, 채무 재조정 노력 중 긴급 대출 모색 - Bloomberg",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745364",
-        "pubDate": "2025-12-05 21:43:00",
-        "summary": "카나콜 에너지, 채무 재조정 노력 중 긴급 대출 모색 - Bloomberg"
       }
     ],
     "cnbc": [
@@ -85,8 +85,32 @@
       {
         "title": "Judge finalizes remedies in Google antitrust case",
         "link": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html",
-        "pubDate": "Fri, 05 Dec 2025 23:15:14 GMT",
+        "pubDate": "Sat, 06 Dec 2025 00:53:56 GMT",
         "summary": "A U.S. judge on Friday finalized his decision for the consequences Google will face for its search monopoly ruling, adding new details to the decided remedies."
+      },
+      {
+        "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
+        "link": "https://www.cnbc.com/2025/12/06/berkshire-hathaway-is-on-track-to-lag-behind-the-sp-500-in-buffetts-last-year-as-ceo.html",
+        "pubDate": "Sat, 06 Dec 2025 13:33:45 GMT",
+        "summary": "With less than a month to go, Berkshire Hathaway's B shares are behind the S&amp;P in their 2025 race. With dividends included, the S&amp;P's lead is even bigger."
+      },
+      {
+        "title": "Trump administration waives $11 million fine for Southwest Airlines' 2022 holiday meltdown",
+        "link": "https://www.cnbc.com/2025/12/06/trump-administration-waives-11-million-southwest-fine.html",
+        "pubDate": "Sat, 06 Dec 2025 21:10:59 GMT",
+        "summary": "The Trump administration said it will forgive the last $11 million of a fine against Southwest Airlines that stems from the carrier's 2022 holiday meltdown."
+      },
+      {
+        "title": "From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion",
+        "link": "https://www.cnbc.com/2025/12/06/the-history-of-denim-and-how-jeans-were-created.html",
+        "pubDate": "Sat, 06 Dec 2025 13:00:01 GMT",
+        "summary": "The American blue jean was created in 1873 by tailor Jacob Davis, who patented the design with Levi Strauss, founder of the eponymous denim retailer"
+      },
+      {
+        "title": "At 22, she discovered there was $200,000 in debt in her name. It took a decade to get it removed",
+        "link": "https://www.cnbc.com/2025/12/06/loan-fraud-author-tells-of-discovering-200000-in-debt-in-her-name.html",
+        "pubDate": "Sat, 06 Dec 2025 13:30:01 GMT",
+        "summary": "In her new book, Kristin Collier tells the story of how she ended up with over $200,000 in debt that she knew nothing about. Her mother had answers."
       },
       {
         "title": "RFK Jr.’s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance",
@@ -95,96 +119,72 @@
         "summary": "Some public health experts expressed concerns the recommendation could lead to an increase in hepatitis B infections in babies."
       },
       {
-        "title": "Jan. 6 pipe bomb suspect Brian Cole confessed, said he supports Trump and has anarchist views: MS NOW",
-        "link": "https://www.cnbc.com/2025/12/05/brian-cole-trump-jan-6-pipe-bomb-case.html",
-        "pubDate": "Fri, 05 Dec 2025 19:15:55 GMT",
-        "summary": "Cole spoke to the authorities for \"more than four hours\" after his arrest, the government told a judge during the suspect's initial court appearance."
-      },
-      {
-        "title": "Meta acquiring AI wearable company Limitless",
-        "link": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html",
-        "pubDate": "Fri, 05 Dec 2025 20:33:21 GMT",
-        "summary": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant."
-      },
-      {
-        "title": "$208 million wiped out: Yieldstreet investors rack up more losses as firm rebrands to Willow Wealth",
-        "link": "https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html",
-        "pubDate": "Fri, 05 Dec 2025 13:15:57 GMT",
-        "summary": "Yieldstreet is attempting to move past a troubled track record by rebranding to Willow Wealth while customers reel from a still-unfolding collapse of its funds."
-      },
-      {
-        "title": "Core inflation rate watched by Fed hit 2.8%, delayed September data shows, lower than expected",
-        "link": "https://www.cnbc.com/2025/12/05/pce-inflation-report-september-2025.html",
-        "pubDate": "Fri, 05 Dec 2025 17:55:37 GMT",
-        "summary": "The delayed core personal consumption expenditures price index for September was expected to show a 2.9% annual increase."
-      },
-      {
-        "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
-        "link": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
-        "pubDate": "Fri, 05 Dec 2025 17:42:15 GMT",
-        "summary": "Netflix announced it's reached a deal to buy WBD, bringing a swift end to a dramatic bidding process that also involved Paramount Skydance and Comcast."
+        "title": "'Terrifying': Why U.S. senator in top intel post wants more spying on Chinese companies",
+        "link": "https://www.cnbc.com/2025/12/06/china-us-technology-spying-senate-concerns.html",
+        "pubDate": "Sat, 06 Dec 2025 16:25:58 GMT",
+        "summary": "Chinese biotech BGI will pass Huawei in scale and threat, says Sen. Mark Warner. 'It's terrifying,' he said at CNBC event, pushing for more corporate spying."
       }
     ],
     "yahoo": [
       {
-        "title": "Can Oracle Stock Reverse Its Skid? Two Factors To Watch With Earnings Due Soon.",
-        "link": "https://www.investors.com/news/technology/oracle-stock-earnings-preview-cowen-analyst-note/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-12-04T16:02:19Z",
-        "summary": "Can Oracle Stock Reverse Its Skid? Two Factors To Watch With Earnings Due Soon."
+        "title": "The Smartest Dividend Stock to Buy With $100 Right Now",
+        "link": "https://finance.yahoo.com/news/smartest-dividend-stock-buy-100-230000807.html",
+        "pubDate": "2025-12-06T23:00:00Z",
+        "summary": "The Smartest Dividend Stock to Buy With $100 Right Now"
       },
       {
-        "title": "CZ and Peter Schiff Face Off at Binance Blockchain Week 2025: Bitcoin or Tokenized Gold?",
-        "link": "https://finance.yahoo.com/news/cz-peter-schiff-face-off-160147958.html",
-        "pubDate": "2025-12-04T16:01:47Z",
-        "summary": "CZ and Peter Schiff Face Off at Binance Blockchain Week 2025: Bitcoin or Tokenized Gold?"
+        "title": "Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock (And Biggest Mistake)",
+        "link": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-12-06T22:29:31Z",
+        "summary": "Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock (And Biggest Mistake)"
       },
       {
-        "title": "Chicagoans erupt in ‘bill-burning’ protest after taxes soar 98%. How to invest in real estate without getting scorched",
-        "link": "https://finance.yahoo.com/news/chicagoans-erupt-bill-burning-protest-160100742.html",
-        "pubDate": "2025-12-04T16:01:00Z",
-        "summary": "Chicagoans erupt in ‘bill-burning’ protest after taxes soar 98%. How to invest in real estate without getting scorched"
+        "title": "Survey: Women are guessing when it comes to retirement planning",
+        "link": "https://finance.yahoo.com/news/survey-women-are-guessing-when-it-comes-to-retirement-planning-100049124.html",
+        "pubDate": "2025-12-03T10:00:49Z",
+        "summary": "Survey: Women are guessing when it comes to retirement planning"
       },
       {
-        "title": "This Oncology Stock Just Hit New All-Time Highs",
-        "link": "https://finance.yahoo.com/news/oncology-stock-just-hit-time-160003188.html",
-        "pubDate": "2025-12-04T16:00:03Z",
-        "summary": "This Oncology Stock Just Hit New All-Time Highs"
+        "title": "China’s Growth Is Coming at the Rest of the World’s Expense",
+        "link": "https://www.wsj.com/economy/trade/chinas-growth-is-coming-at-the-rest-of-the-worlds-expense-99420396?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-12-06T20:47:00Z",
+        "summary": "China’s Growth Is Coming at the Rest of the World’s Expense"
       },
       {
-        "title": "Stride, Inc. (LRN): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/stride-inc-lrn-bull-case-160530446.html",
-        "pubDate": "2025-12-04T16:05:30Z",
-        "summary": "Stride, Inc. (LRN): A Bull Case Theory"
+        "title": "Working while collecting Social Security: The 'slow fade' to retirement more people are choosing",
+        "link": "https://finance.yahoo.com/news/working-while-collecting-social-security-the-slow-fade-to-retirement-more-people-are-choosing-143051347.html",
+        "pubDate": "2025-12-06T14:30:51Z",
+        "summary": "Working while collecting Social Security: The 'slow fade' to retirement more people are choosing"
       },
       {
-        "title": "Say Goodbye to the Billable Hour, Thanks to AI",
-        "link": "https://www.wsj.com/tech/ai/ai-goodbye-to-billable-hours-cba198fe?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-12-04T16:00:00Z",
-        "summary": "Say Goodbye to the Billable Hour, Thanks to AI"
+        "title": "What You Should Watch With RH Stock in 2026",
+        "link": "https://finance.yahoo.com/news/watch-rh-stock-2026-224500036.html",
+        "pubDate": "2025-12-06T22:45:00Z",
+        "summary": "What You Should Watch With RH Stock in 2026"
       },
       {
-        "title": "Bitcoin Treasury Twenty One Set to Begin Trading on NYSE With $4 Billion BTC Stash",
-        "link": "https://finance.yahoo.com/news/bitcoin-treasury-twenty-one-set-160158799.html",
-        "pubDate": "2025-12-04T16:01:58Z",
-        "summary": "Bitcoin Treasury Twenty One Set to Begin Trading on NYSE With $4 Billion BTC Stash"
+        "title": "Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves",
+        "link": "https://finance.yahoo.com/news/dollar-stores-continue-to-see-higher-income-shoppers-even-as-consumer-sentiment-improves-154708435.html",
+        "pubDate": "2025-12-06T15:47:08Z",
+        "summary": "Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves"
       },
       {
-        "title": "Entegris, Inc. (ENTG): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/entegris-inc-entg-bull-case-160631853.html",
-        "pubDate": "2025-12-04T16:06:31Z",
-        "summary": "Entegris, Inc. (ENTG): A Bull Case Theory"
+        "title": "S&P Global Partners With AWS to Deliver AI-Driven Market Insights",
+        "link": "https://finance.yahoo.com/news/p-global-partners-aws-deliver-194209286.html",
+        "pubDate": "2025-12-06T19:42:09Z",
+        "summary": "S&P Global Partners With AWS to Deliver AI-Driven Market Insights"
       },
       {
-        "title": "NextEra Energy, Inc. (NEE): A Bull Case Theory",
-        "link": "https://finance.yahoo.com/news/nextera-energy-inc-nee-bull-160607449.html",
-        "pubDate": "2025-12-04T16:06:07Z",
-        "summary": "NextEra Energy, Inc. (NEE): A Bull Case Theory"
+        "title": "Comcast (CMCSA) Moves to Merge NBCUniversal With Warner Bros. Discovery",
+        "link": "https://finance.yahoo.com/news/comcast-cmcsa-moves-merge-nbcuniversal-193944281.html",
+        "pubDate": "2025-12-06T19:39:44Z",
+        "summary": "Comcast (CMCSA) Moves to Merge NBCUniversal With Warner Bros. Discovery"
       },
       {
-        "title": "Hims & Hers Stock Gains on Move Into Canada",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-04-2025/card/hims-hers-stock-gains-on-move-into-canada-HHzbsbaZXjYkJAJA48Sy?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-12-04T16:06:24Z",
-        "summary": "Hims & Hers Stock Gains on Move Into Canada"
+        "title": "Why more retirees may be warming up to crypto",
+        "link": "https://finance.yahoo.com/news/why-more-retirees-may-be-warming-up-to-crypto-170017655.html",
+        "pubDate": "2025-12-04T17:00:17Z",
+        "summary": "Why more retirees may be warming up to crypto"
       }
     ]
   }
