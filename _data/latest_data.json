@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2025년 12월 07일 08:17 KST",
+  "lastUpdated": "2025년 12월 08일 08:16 KST",
   "news": {
     "investing": [
+      {
+        "title": "이번 주 월가 분석가들의 주요 의견",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745673",
+        "pubDate": "2025-12-07 12:56:23",
+        "summary": "이번 주 월가 분석가들의 주요 의견"
+      },
+      {
+        "title": "'아마존 Now', 인스타카트에 실질적인 위협이 될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745662",
+        "pubDate": "2025-12-07 11:00:03",
+        "summary": "'아마존 Now', 인스타카트에 실질적인 위협이 될까?"
+      },
+      {
+        "title": "2026년 투자자들에게 가장 관련성 높은 ESG 주제는 무엇일까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745661",
+        "pubDate": "2025-12-07 10:00:04",
+        "summary": "2026년 투자자들에게 가장 관련성 높은 ESG 주제는 무엇일까?"
+      },
+      {
+        "title": "칼시와 폴리마켓 같은 예측 플랫폼에게 중요한 향후 6-12개월",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745657",
+        "pubDate": "2025-12-07 09:00:11",
+        "summary": "칼시와 폴리마켓 같은 예측 플랫폼에게 중요한 향후 6-12개월"
+      },
+      {
+        "title": "GPU vs. TPU: 주요 차이점은 무엇인가",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745655",
+        "pubDate": "2025-12-07 09:00:03",
+        "summary": "GPU vs. TPU: 주요 차이점은 무엇인가"
+      },
+      {
+        "title": "5대 애널리스트 AI 움직임: AI 겨울 위험 증가 속 2026년 최고 종목 공개",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745654",
+        "pubDate": "2025-12-07 08:30:28",
+        "summary": "5대 애널리스트 AI 움직임: AI 겨울 위험 증가 속 2026년 최고 종목 공개"
+      },
+      {
+        "title": "사모 대출 임원, 2026년 전망 공유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1745653",
+        "pubDate": "2025-12-07 08:29:35",
+        "summary": "사모 대출 임원, 2026년 전망 공유"
+      },
       {
         "title": "Investing.com의 주간 주목할 주식들",
         "link": "https://kr.investing.com/news/stock-market-news/article-1745586",
@@ -19,74 +61,26 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1745584",
         "pubDate": "2025-12-06 08:30:04",
         "summary": "2026년 중국 투자를 위한 5가지 핵심 테마"
-      },
-      {
-        "title": "OpenAI, 분석가들이 말하는 세 가지 \"코드 레드\" 위협에 직면",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1745581",
-        "pubDate": "2025-12-06 08:00:09",
-        "summary": "OpenAI, 분석가들이 말하는 세 가지 \"코드 레드\" 위협에 직면"
-      },
-      {
-        "title": "모건 스탠리, 휴머노이드 로봇 기술은 과대평가되면서도 저평가되고 있다",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1745582",
-        "pubDate": "2025-12-06 08:00:06",
-        "summary": "모건 스탠리, 휴머노이드 로봇 기술은 과대평가되면서도 저평가되고 있다"
-      },
-      {
-        "title": "중국이 자국 버전의 AI 경쟁에서 승리하기 위해 총력을 기울이는 이유",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1745583",
-        "pubDate": "2025-12-06 08:00:03",
-        "summary": "중국이 자국 버전의 AI 경쟁에서 승리하기 위해 총력을 기울이는 이유"
-      },
-      {
-        "title": "[현장] 쿠팡·KT가 쏘아 올린 ‘도덕적 해이’ 경고등... 차기 KT CEO, ‘윤리 검증’이 먼저다",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1745494",
-        "pubDate": "2025-12-06 00:40:45",
-        "summary": "[현장] 쿠팡·KT가 쏘아 올린 ‘도덕적 해이’ 경고등... 차기 KT CEO, ‘윤리 검증’이 먼저다"
-      },
-      {
-        "title": "’오락가락’ 비트코인, 다시 9만달러 붕괴… 왜 자꾸 흔들리나",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1745493",
-        "pubDate": "2025-12-06 00:40:37",
-        "summary": "’오락가락’ 비트코인, 다시 9만달러 붕괴… 왜 자꾸 흔들리나"
-      },
-      {
-        "title": "카바나 주가, S&P 500 편입 발표 후 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745440",
-        "pubDate": "2025-12-05 22:42:18",
-        "summary": "카바나 주가, S&P 500 편입 발표 후 급등"
-      },
-      {
-        "title": "BAE Systems, 2억 1,500만 달러 규모 방산 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1745432",
-        "pubDate": "2025-12-05 22:36:47",
-        "summary": "BAE Systems, 2억 1,500만 달러 규모 방산 계약 체결"
       }
     ],
     "cnbc": [
       {
-        "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
-        "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
-        "pubDate": "Fri, 05 Dec 2025 20:41:56 GMT",
-        "summary": "Regulatory questions are already rising about Netflix's deal to combine its business with WBD's streaming service HBO Max and film studio Warner Bros."
+        "title": "Trump's trade war shift away from Chinese manufacturing has reached tipping point",
+        "link": "https://www.cnbc.com/2025/12/07/trump-tariffs-trade-war-china-manufacturing-supply-chain.html",
+        "pubDate": "Sun, 07 Dec 2025 16:20:50 GMT",
+        "summary": "A long-term supply chain shift is pulling the rest of Asia even with manufacturing giant China. For importers, a short-term cash crunch from tariffs is looming."
       },
       {
-        "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
-        "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
-        "pubDate": "Fri, 05 Dec 2025 19:30:24 GMT",
-        "summary": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said."
+        "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season",
+        "link": "https://www.cnbc.com/2025/12/07/bessent-gdp-growth.html",
+        "pubDate": "Sun, 07 Dec 2025 20:22:42 GMT",
+        "summary": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media."
       },
       {
-        "title": "Supreme Court to hear case on Trump birthright citizenship order",
-        "link": "https://www.cnbc.com/2025/12/05/trump-birthright-citizenship-supreme-court.html",
-        "pubDate": "Fri, 05 Dec 2025 20:28:26 GMT",
-        "summary": "The U.S. Constitution's 14th Amendment had been understood to grant citizenship to children born in the country, even if their parents are not citizens."
-      },
-      {
-        "title": "Judge finalizes remedies in Google antitrust case",
-        "link": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html",
-        "pubDate": "Sat, 06 Dec 2025 00:53:56 GMT",
-        "summary": "A U.S. judge on Friday finalized his decision for the consequences Google will face for its search monopoly ruling, adding new details to the decided remedies."
+        "title": "Beef prices are soaring. Here's why America is facing record-low cattle numbers",
+        "link": "https://www.cnbc.com/2025/12/07/beef-prices-are-soaring-heres-why-thats-hard-to-fix.html",
+        "pubDate": "Sun, 07 Dec 2025 13:00:01 GMT",
+        "summary": "Beef prices are up about 15% over the past year as ranchers face record low cattle herds amidst years of drought throughout U.S. farmlands."
       },
       {
         "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
@@ -101,90 +95,96 @@
         "summary": "The Trump administration said it will forgive the last $11 million of a fine against Southwest Airlines that stems from the carrier's 2022 holiday meltdown."
       },
       {
+        "title": "I’ve helped hundreds of Americans move abroad—here are 4 of the easiest countries to move to in Europe",
+        "link": "https://www.cnbc.com/2025/12/07/i-help-americans-move-abroad-easiest-countries-to-move-to-in-europe.html",
+        "pubDate": "Sun, 07 Dec 2025 13:30:01 GMT",
+        "summary": "\"A few European countries now allow in-country applications,\" says She Hit Refresh founder Cepee Tabibian. These 4 let you move first and handle visa paperwork later."
+      },
+      {
         "title": "From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion",
         "link": "https://www.cnbc.com/2025/12/06/the-history-of-denim-and-how-jeans-were-created.html",
         "pubDate": "Sat, 06 Dec 2025 13:00:01 GMT",
         "summary": "The American blue jean was created in 1873 by tailor Jacob Davis, who patented the design with Levi Strauss, founder of the eponymous denim retailer"
       },
       {
-        "title": "At 22, she discovered there was $200,000 in debt in her name. It took a decade to get it removed",
-        "link": "https://www.cnbc.com/2025/12/06/loan-fraud-author-tells-of-discovering-200000-in-debt-in-her-name.html",
-        "pubDate": "Sat, 06 Dec 2025 13:30:01 GMT",
-        "summary": "In her new book, Kristin Collier tells the story of how she ended up with over $200,000 in debt that she knew nothing about. Her mother had answers."
+        "title": "Judge finalizes remedies in Google antitrust case",
+        "link": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html",
+        "pubDate": "Sat, 06 Dec 2025 00:53:56 GMT",
+        "summary": "A U.S. judge on Friday finalized his decision for the consequences Google will face for its search monopoly ruling, adding new details to the decided remedies."
       },
       {
-        "title": "RFK Jr.’s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance",
-        "link": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html",
-        "pubDate": "Fri, 05 Dec 2025 18:04:31 GMT",
-        "summary": "Some public health experts expressed concerns the recommendation could lead to an increase in hepatitis B infections in babies."
+        "title": "These 401(k) changes are coming in 2026 — one is 'impactful' for higher earners, CFP says",
+        "link": "https://www.cnbc.com/2025/12/07/these-big-401k-changes-are-coming-in-2026-what-it-means-for-you.html",
+        "pubDate": "Sun, 07 Dec 2025 15:15:01 GMT",
+        "summary": "There are key changes for 401(k) plans coming in 2026. Here's how those updates could impact higher earners."
       },
       {
-        "title": "'Terrifying': Why U.S. senator in top intel post wants more spying on Chinese companies",
-        "link": "https://www.cnbc.com/2025/12/06/china-us-technology-spying-senate-concerns.html",
-        "pubDate": "Sat, 06 Dec 2025 16:25:58 GMT",
-        "summary": "Chinese biotech BGI will pass Huawei in scale and threat, says Sen. Mark Warner. 'It's terrifying,' he said at CNBC event, pushing for more corporate spying."
+        "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
+        "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
+        "pubDate": "Sun, 07 Dec 2025 03:49:11 GMT",
+        "summary": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said."
       }
     ],
     "yahoo": [
       {
-        "title": "The Smartest Dividend Stock to Buy With $100 Right Now",
-        "link": "https://finance.yahoo.com/news/smartest-dividend-stock-buy-100-230000807.html",
-        "pubDate": "2025-12-06T23:00:00Z",
-        "summary": "The Smartest Dividend Stock to Buy With $100 Right Now"
+        "title": "Dow Jones Futures: Market Rally Nears Highs As AI Giants, Fed Loom; Tesla In Buy Area",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-trend-ai-giants-broadcom-fed-meeting-tesla-stock/?src=A00220&yptr=yahoo",
+        "pubDate": "2025-12-07T23:04:32Z",
+        "summary": "Dow Jones Futures: Market Rally Nears Highs As AI Giants, Fed Loom; Tesla In Buy Area"
       },
       {
-        "title": "Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock (And Biggest Mistake)",
-        "link": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/?src=A00220&yptr=yahoo",
-        "pubDate": "2025-12-06T22:29:31Z",
-        "summary": "Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock (And Biggest Mistake)"
+        "title": "Exclusive-Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit",
+        "link": "https://finance.yahoo.com/news/exclusive-ben-jerrys-board-chair-225146972.html",
+        "pubDate": "2025-12-07T22:51:46Z",
+        "summary": "Exclusive-Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit"
       },
       {
-        "title": "Survey: Women are guessing when it comes to retirement planning",
-        "link": "https://finance.yahoo.com/news/survey-women-are-guessing-when-it-comes-to-retirement-planning-100049124.html",
-        "pubDate": "2025-12-03T10:00:49Z",
-        "summary": "Survey: Women are guessing when it comes to retirement planning"
+        "title": "1 Nvidia-Backed Artificial Intelligence Stock to Buy Hand Over Fist in 2026",
+        "link": "https://finance.yahoo.com/news/1-nvidia-backed-artificial-intelligence-224300049.html",
+        "pubDate": "2025-12-07T22:43:00Z",
+        "summary": "1 Nvidia-Backed Artificial Intelligence Stock to Buy Hand Over Fist in 2026"
       },
       {
-        "title": "China’s Growth Is Coming at the Rest of the World’s Expense",
-        "link": "https://www.wsj.com/economy/trade/chinas-growth-is-coming-at-the-rest-of-the-worlds-expense-99420396?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2025-12-06T20:47:00Z",
-        "summary": "China’s Growth Is Coming at the Rest of the World’s Expense"
+        "title": "TX man tells The Ramsey Show he lied to his girlfriend about his debt. Here’s why the hosts say he’s got another problem",
+        "link": "https://finance.yahoo.com/news/tx-man-tells-ramsey-show-220000235.html",
+        "pubDate": "2025-12-07T22:00:00Z",
+        "summary": "TX man tells The Ramsey Show he lied to his girlfriend about his debt. Here’s why the hosts say he’s got another problem"
       },
       {
-        "title": "Working while collecting Social Security: The 'slow fade' to retirement more people are choosing",
-        "link": "https://finance.yahoo.com/news/working-while-collecting-social-security-the-slow-fade-to-retirement-more-people-are-choosing-143051347.html",
-        "pubDate": "2025-12-06T14:30:51Z",
-        "summary": "Working while collecting Social Security: The 'slow fade' to retirement more people are choosing"
+        "title": "Treasury Secretary Bessent says he has divested his soybean farm",
+        "link": "https://finance.yahoo.com/news/treasury-secretary-bessent-says-divested-202053875.html",
+        "pubDate": "2025-12-07T20:20:53Z",
+        "summary": "Treasury Secretary Bessent says he has divested his soybean farm"
       },
       {
-        "title": "What You Should Watch With RH Stock in 2026",
-        "link": "https://finance.yahoo.com/news/watch-rh-stock-2026-224500036.html",
-        "pubDate": "2025-12-06T22:45:00Z",
-        "summary": "What You Should Watch With RH Stock in 2026"
+        "title": "A Global Copper Crunch Is Looming",
+        "link": "https://finance.yahoo.com/news/global-copper-crunch-looming-200000631.html",
+        "pubDate": "2025-12-07T20:00:00Z",
+        "summary": "A Global Copper Crunch Is Looming"
       },
       {
-        "title": "Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves",
-        "link": "https://finance.yahoo.com/news/dollar-stores-continue-to-see-higher-income-shoppers-even-as-consumer-sentiment-improves-154708435.html",
-        "pubDate": "2025-12-06T15:47:08Z",
-        "summary": "Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves"
+        "title": "Fed Rate Decision, Adobe, Oracle, Costco, Broadcom, and More Stocks to Watch This Week",
+        "link": "https://www.barrons.com/articles/fed-rate-decision-adobe-oracle-costco-broadcom-c2d28c54?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2025-12-07T19:00:00Z",
+        "summary": "Fed Rate Decision, Adobe, Oracle, Costco, Broadcom, and More Stocks to Watch This Week"
       },
       {
-        "title": "S&P Global Partners With AWS to Deliver AI-Driven Market Insights",
-        "link": "https://finance.yahoo.com/news/p-global-partners-aws-deliver-194209286.html",
-        "pubDate": "2025-12-06T19:42:09Z",
-        "summary": "S&P Global Partners With AWS to Deliver AI-Driven Market Insights"
+        "title": "Texas Bank Under $6 Billion Ties Itself to Trump’s Pro-Bitcoin Power Bloc",
+        "link": "https://finance.yahoo.com/news/texas-bank-under-6-billion-223546325.html",
+        "pubDate": "2025-12-07T22:35:46Z",
+        "summary": "Texas Bank Under $6 Billion Ties Itself to Trump’s Pro-Bitcoin Power Bloc"
       },
       {
-        "title": "Comcast (CMCSA) Moves to Merge NBCUniversal With Warner Bros. Discovery",
-        "link": "https://finance.yahoo.com/news/comcast-cmcsa-moves-merge-nbcuniversal-193944281.html",
-        "pubDate": "2025-12-06T19:39:44Z",
-        "summary": "Comcast (CMCSA) Moves to Merge NBCUniversal With Warner Bros. Discovery"
+        "title": "Rate Decision, Tech Earnings and Other Key Things to Watch this Week",
+        "link": "https://finance.yahoo.com/news/rate-decision-tech-earnings-other-180002494.html",
+        "pubDate": "2025-12-07T18:00:02Z",
+        "summary": "Rate Decision, Tech Earnings and Other Key Things to Watch this Week"
       },
       {
-        "title": "Why more retirees may be warming up to crypto",
-        "link": "https://finance.yahoo.com/news/why-more-retirees-may-be-warming-up-to-crypto-170017655.html",
-        "pubDate": "2025-12-04T17:00:17Z",
-        "summary": "Why more retirees may be warming up to crypto"
+        "title": "Costco’s Trump Lawsuit and Q1 2026 Earnings: What Investors Need to Watch",
+        "link": "https://finance.yahoo.com/news/costco-trump-lawsuit-q1-2026-174903127.html",
+        "pubDate": "2025-12-07T17:49:03Z",
+        "summary": "Costco’s Trump Lawsuit and Q1 2026 Earnings: What Investors Need to Watch"
       }
     ]
   }
