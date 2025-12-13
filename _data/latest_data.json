@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2025년 12월 13일 08:18 KST",
+  "lastUpdated": "2025년 12월 14일 08:17 KST",
   "news": {
     "investing": [
+      {
+        "title": "AI가 애플리케이션을 대체하지 않고 변화시킬 것인 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1754496",
+        "pubDate": "2025-12-13 10:00:00",
+        "summary": "AI가 애플리케이션을 대체하지 않고 변화시킬 것인 이유"
+      },
+      {
+        "title": "사이버 보안 리스크, \"간과된\" 투자 기회일 수 있다 - 모건 스탠리",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1754493",
+        "pubDate": "2025-12-13 09:30:00",
+        "summary": "사이버 보안 리스크, \"간과된\" 투자 기회일 수 있다 - 모건 스탠리"
+      },
+      {
+        "title": "2026년 미국 셰일의 전망은 얼마나 강력한가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1754489",
+        "pubDate": "2025-12-13 09:00:00",
+        "summary": "2026년 미국 셰일의 전망은 얼마나 강력한가?"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1754487",
+        "pubDate": "2025-12-13 09:00:00",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "AI 에이전트가 상거래와 결제 방식을 어떻게 변화시키고 있나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1754485",
+        "pubDate": "2025-12-13 09:00:00",
+        "summary": "AI 에이전트가 상거래와 결제 방식을 어떻게 변화시키고 있나?"
+      },
       {
         "title": "STAAR Surgical 인수전 격화, Glass Lewis 권고 재확인",
         "link": "https://kr.investing.com/news/stock-market-news/article-1754338",
@@ -31,39 +61,15 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1754225",
         "pubDate": "2025-12-12 19:34:35",
         "summary": "Wealthfront, 나스닥에서 IPO 가격과 같은 1만 8천원으로 거래 시작"
-      },
-      {
-        "title": "지uzi홀딩스, 유상증자 발표 후 주가 50% 폭락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1754224",
-        "pubDate": "2025-12-12 19:34:08",
-        "summary": "지uzi홀딩스, 유상증자 발표 후 주가 50% 폭락"
-      },
-      {
-        "title": "Clear Secure, JP모건 ’역발상’ 상향에 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1754222",
-        "pubDate": "2025-12-12 19:23:55",
-        "summary": "Clear Secure, JP모건 ’역발상’ 상향에 급등"
-      },
-      {
-        "title": "LENZ, FDA 데이터베이스에 망막 열공 사례 보고 후 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1754221",
-        "pubDate": "2025-12-12 19:18:38",
-        "summary": "LENZ, FDA 데이터베이스에 망막 열공 사례 보고 후 급락"
-      },
-      {
-        "title": "2026년 RBC 선정 최고 유통주",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1754220",
-        "pubDate": "2025-12-12 19:16:48",
-        "summary": "2026년 RBC 선정 최고 유통주"
-      },
-      {
-        "title": "인도 기업 실적 개선으로 주식 상승 전망; 제프리스, 2026년 니프티 28300 예상",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1754213",
-        "pubDate": "2025-12-12 19:03:04",
-        "summary": "인도 기업 실적 개선으로 주식 상승 전망; 제프리스, 2026년 니프티 28300 예상"
       }
     ],
     "cnbc": [
+      {
+        "title": "End of 'The Berkshire Way'? Combs' departure isn't only big change as Buffett transition nears",
+        "link": "https://www.cnbc.com/2025/12/13/end-of-the-berkshire-way-combs-departure-isnt-only-big-change-as-buffett-transition-nears-.html",
+        "pubDate": "Sat, 13 Dec 2025 18:24:36 GMT",
+        "summary": "There were several additional personnel changes in Monday's three-page news release that signal the company is moving toward a more conventional structure."
+      },
       {
         "title": "Trump says Kevin Warsh is at top of Fed chair candidate list, president should be consulted on rates",
         "link": "https://www.cnbc.com/2025/12/12/trump-kevin-warsh-fed-chair-rates.html",
@@ -71,120 +77,114 @@
         "summary": "Trump said Friday that Kevin Warsh has moved to the top of his list as the next Federal Reserve chair, though others remain in contention."
       },
       {
-        "title": "Trump expected to sign executive order to reclassify marijuana as soon as Monday, source tells CNBC; pot stocks surge",
-        "link": "https://www.cnbc.com/2025/12/12/cannabis-stocks-trump-regulations.html",
-        "pubDate": "Fri, 12 Dec 2025 21:22:02 GMT",
-        "summary": "Trump expected to sign executive order to reclassify marijuana as soon as Monday."
+        "title": "Financial fraud cost older adults up to $81.5 billion in 2024, FTC estimates — more are losing at least $100,000",
+        "link": "https://www.cnbc.com/2025/12/13/financial-fraud-seniors-ftc.html",
+        "pubDate": "Sat, 13 Dec 2025 12:30:01 GMT",
+        "summary": "From 2020 to 2024, the 60-plus age group's reported losses have jumped 300% to $2.4 billion from $600 million, according to the Federal Trade Commission."
       },
       {
-        "title": "Oracle says there have been 'no delays' in OpenAI arrangement after stock slide",
-        "link": "https://www.cnbc.com/2025/12/12/oracle-says-there-have-been-no-delays-in-openai-arrangement.html",
-        "pubDate": "Fri, 12 Dec 2025 21:08:23 GMT",
-        "summary": "Oracle pushed back against a report that said the company will complete data centers for OpenAI, one of its major customers, in 2028, rather than 2027."
-      },
-      {
-        "title": "Trump says 'no big deal' after Jeffrey Epstein estate photos showing him released",
+        "title": "Trump says 'no big deal' after Jeffrey Epstein photos showing him released",
         "link": "https://www.cnbc.com/2025/12/12/epstein-files-trump-clinton-gates-photos.html",
-        "pubDate": "Fri, 12 Dec 2025 23:16:16 GMT",
+        "pubDate": "Fri, 12 Dec 2025 23:18:45 GMT",
         "summary": "Democrats on the House Oversight Committee released the photos to pressure the Trump administration to release files about Jeffrey Epstein."
       },
       {
-        "title": "Red-hot Texas is getting so many data center requests that experts see a bubble",
-        "link": "https://www.cnbc.com/2025/12/12/ai-data-center-flood-texas-on-massive-scale.html",
-        "pubDate": "Fri, 12 Dec 2025 18:06:02 GMT",
-        "summary": "Cheap land and and cheap energy are helping to fuel a boom in proposals to build data centers in Texas."
+        "title": "'Stranger Things' ushered in a new era for Netflix",
+        "link": "https://www.cnbc.com/2025/12/13/stranger-things-netflix.html",
+        "pubDate": "Sat, 13 Dec 2025 13:00:01 GMT",
+        "summary": "A lot has changed since its first season in 2016, as Netflix has announced dozens of \"Stranger Things\" partnerships and collaborations with brands."
       },
       {
-        "title": "AI order from Trump might be ‘illegal,’ Democrats and consumer advocacy groups claim",
-        "link": "https://www.cnbc.com/2025/12/12/trumps-ai-order-democrats-consumers.html",
-        "pubDate": "Fri, 12 Dec 2025 21:44:19 GMT",
-        "summary": "President Donald Trump's executive order on a national artificial intelligence framework threatens funding for states that pursue AI laws deemed \"onerous.\""
+        "title": "Goldman Sachs makes big bet on ETFs specializing in downside protection",
+        "link": "https://www.cnbc.com/2025/12/13/goldman-sachs-makes-big-bet-on-etfs-focusing-on-downside-protection-.html",
+        "pubDate": "Sat, 13 Dec 2025 16:43:08 GMT",
+        "summary": "Goldman Sachs Asset Management is making a big bet on defined outcome exchange-traded funds — which use options to help protect against market losses."
       },
       {
-        "title": "TSA is giving airline passenger data to ICE for deportation push: NYT",
-        "link": "https://www.cnbc.com/2025/12/12/ice-deportation-airline-passengers-tsa.html",
-        "pubDate": "Fri, 12 Dec 2025 22:08:22 GMT",
-        "summary": "The program led to the arrest in Boston of Any Lucía López Belloza, a college student who was deported to Honduras, the report said."
+        "title": "Today is Dick Van Dyke’s 100th birthday: His tips for a long, healthy life—'sometimes I feel like I'm 15 again'",
+        "link": "https://www.cnbc.com/2025/12/13/dick-van-dykes-100th-birthday-his-tips-for-a-long-healthy-life.html",
+        "pubDate": "Sat, 13 Dec 2025 13:00:01 GMT",
+        "summary": "Dick Van Dyke is officially a centenarian! Here are three research-backed staples in his routine that he credits for his 100 years of life."
       },
       {
-        "title": "Powerball jackpot hits $1 billion—experts say to avoid these 5 mistakes if you win: 'You will be in an emotional state for a while'",
-        "link": "https://www.cnbc.com/2025/12/12/powerball-hits-1-billion-mistakes-to-avoid-if-you-win.html",
-        "pubDate": "Fri, 12 Dec 2025 17:35:48 GMT",
-        "summary": "Hitting a massive jackpot is thrilling, but the choices you make right after the win can put your wealth at risk."
+        "title": "MacKenzie Scott announced another $7.1 billion in 2025 charitable donations—she's now given away $26.3 billion since 2019",
+        "link": "https://www.cnbc.com/2025/12/13/mackenzie-scott-revealed-her-total-charitable-donations-for-2025.html",
+        "pubDate": "Sat, 13 Dec 2025 14:15:01 GMT",
+        "summary": "Billionaire philanthropist MacKenzie Scott's 2025 donations went to a wide range of nonprofits, including several historically Black colleges and universities."
       },
       {
-        "title": "Homeowners are losing thousands in equity thanks to weakening prices",
-        "link": "https://www.cnbc.com/2025/12/12/homeowners-losing-equity-weakening-prices.html",
-        "pubDate": "Fri, 12 Dec 2025 16:46:19 GMT",
-        "summary": "Weaker prices mean homeowners are starting to lose equity after several years of huge gains."
+        "title": "Activist Starboard reveals 5% stake in Clearwater as tech company reviews its options",
+        "link": "https://www.cnbc.com/2025/12/13/activist-starboard-reveals-5percent-stake-in-clearwater-as-tech-company-reviews-its-options.html",
+        "pubDate": "Sat, 13 Dec 2025 14:21:36 GMT",
+        "summary": "Starboard is urging Clearwater Analytics to run a robust sales process if it has received in-bound interest from potential buyers."
       },
       {
-        "title": "Disney's 'Zootopia 2' to hit $1 billion box office, only the second Hollywood film to do so this year",
-        "link": "https://www.cnbc.com/2025/12/12/disney-zootopia-2-1-billion-global-box-office.html",
-        "pubDate": "Fri, 12 Dec 2025 19:34:17 GMT",
-        "summary": "Disney Animation's \"Zootopia 2\" is set to cross the billion-dollar box-office mark on Friday, becoming the second Hollywood film to reach the benchmark in 2025."
+        "title": "Altman and Musk launched OpenAI as a nonprofit 10 years ago. Now they’re rivals in a trillion-dollar market",
+        "link": "https://www.cnbc.com/2025/12/11/openai-began-decade-ago-as-nonprofit-lab-musk-and-altman-now-rivals.html",
+        "pubDate": "Fri, 12 Dec 2025 02:31:35 GMT",
+        "summary": "As OpenAI turns 10, the former nonprofit AI lab is at the center of a roughly $1.4 trillion bet on AI infrastructure."
       }
     ],
     "yahoo": [
       {
-        "title": "2 Defined-Risk Options Strategies to Trade Quarterly Earnings Without Gambling",
-        "link": "https://finance.yahoo.com/news/2-defined-risk-options-strategies-161345310.html",
-        "pubDate": "2025-12-11T16:13:45Z",
-        "summary": "2 Defined-Risk Options Strategies to Trade Quarterly Earnings Without Gambling"
+        "title": "Best Stock to Buy Right Now: Sirius XM vs. GoPro",
+        "link": "https://finance.yahoo.com/news/best-stock-buy-now-sirius-230600828.html",
+        "pubDate": "2025-12-13T23:06:00Z",
+        "summary": "Best Stock to Buy Right Now: Sirius XM vs. GoPro"
       },
       {
-        "title": "As Democrats Sound the Alarm on Palantir, How Should You Play PLTR Stock?",
-        "link": "https://finance.yahoo.com/news/democrats-sound-alarm-palantir-play-161154064.html",
-        "pubDate": "2025-12-11T16:11:54Z",
-        "summary": "As Democrats Sound the Alarm on Palantir, How Should You Play PLTR Stock?"
+        "title": "The median home in the US costs $415,000. Here’s what that will buy around the country.",
+        "link": "https://finance.yahoo.com/news/the-median-home-in-the-us-costs-415000-heres-what-that-will-buy-around-the-country-110043525.html",
+        "pubDate": "2025-12-09T11:00:43Z",
+        "summary": "The median home in the US costs $415,000. Here’s what that will buy around the country."
       },
       {
-        "title": "Ford and SK On are ending their US battery joint venture",
-        "link": "https://finance.yahoo.com/news/ford-sk-ending-u-battery-161107193.html",
-        "pubDate": "2025-12-11T16:11:07Z",
-        "summary": "Ford and SK On are ending their US battery joint venture"
+        "title": "Carvana, Robinhood, Coinbase: How 3 of the market's biggest 2022 losers ended up in the S&P 500 this year",
+        "link": "https://finance.yahoo.com/news/carvana-robinhood-coinbase-how-3-of-the-markets-biggest-2022-losers-ended-up-in-the-sp-500-this-year-140654224.html",
+        "pubDate": "2025-12-12T14:06:54Z",
+        "summary": "Carvana, Robinhood, Coinbase: How 3 of the market's biggest 2022 losers ended up in the S&P 500 this year"
       },
       {
-        "title": "Major automakers say China poses 'clear and present threat' to US auto industry",
-        "link": "https://finance.yahoo.com/news/major-automakers-china-poses-clear-161448665.html",
-        "pubDate": "2025-12-11T16:14:48Z",
-        "summary": "Major automakers say China poses 'clear and present threat' to US auto industry"
+        "title": "I inherited my mom’s IRA and must take $10K in 2025 RMDs, but there’s no cash. What should I liquidate?",
+        "link": "https://finance.yahoo.com/news/inherited-mom-ira-must-10k-191500368.html",
+        "pubDate": "2025-12-13T19:15:00Z",
+        "summary": "I inherited my mom’s IRA and must take $10K in 2025 RMDs, but there’s no cash. What should I liquidate?"
       },
       {
-        "title": "Chase Freedom Unlimited welcome offer: Earn $300 with a new card over the holidays",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/chase-freedom-unlimited-welcome-offer-holidays-160900475.html",
-        "pubDate": "2025-12-11T16:09:00Z",
-        "summary": "Chase Freedom Unlimited welcome offer: Earn $300 with a new card over the holidays"
+        "title": "Mortgage and refinance interest rates today, December 13, 2025: Rates barely react to the Fed's rate cut",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-saturday-december-13-2025-110037075.html",
+        "pubDate": "2025-12-13T11:00:37Z",
+        "summary": "Mortgage and refinance interest rates today, December 13, 2025: Rates barely react to the Fed's rate cut"
       },
       {
-        "title": "Needham Boosts Ciena (CIEN) Price Target to $240 Ahead of Earnings",
-        "link": "https://finance.yahoo.com/news/needham-boosts-ciena-cien-price-161656770.html",
-        "pubDate": "2025-12-11T16:16:56Z",
-        "summary": "Needham Boosts Ciena (CIEN) Price Target to $240 Ahead of Earnings"
+        "title": "Is D-Wave Quantum One of the Most Overlooked Tech Stories of the Decade?",
+        "link": "https://finance.yahoo.com/news/d-wave-quantum-one-most-223000212.html",
+        "pubDate": "2025-12-13T22:30:00Z",
+        "summary": "Is D-Wave Quantum One of the Most Overlooked Tech Stories of the Decade?"
       },
       {
-        "title": "Dow Jumps to New Highs as Fed Cut, Oracle Miss Fuel Shift from Tech to Value Stocks",
-        "link": "https://finance.yahoo.com/news/dow-jumps-highs-fed-cut-161711075.html",
-        "pubDate": "2025-12-11T16:17:11Z",
-        "summary": "Dow Jumps to New Highs as Fed Cut, Oracle Miss Fuel Shift from Tech to Value Stocks"
+        "title": "The New Power Rules Driving Europe's Battery Storage Boom",
+        "link": "https://finance.yahoo.com/news/power-rules-driving-europes-battery-180000544.html",
+        "pubDate": "2025-12-13T18:00:00Z",
+        "summary": "The New Power Rules Driving Europe's Battery Storage Boom"
       },
       {
-        "title": "Bitcoin Stumbles Back Below $90K as Dollar Sinks to 7-Week Low After Fed Rate Cut",
-        "link": "https://finance.yahoo.com/news/bitcoin-stumbles-back-below-90k-161608181.html",
-        "pubDate": "2025-12-11T16:16:08Z",
-        "summary": "Bitcoin Stumbles Back Below $90K as Dollar Sinks to 7-Week Low After Fed Rate Cut"
+        "title": "Morgan Stanley Maintains An Equal Weight Rating On The Travelers Companies, Inc. (TRV)",
+        "link": "https://finance.yahoo.com/news/morgan-stanley-maintains-equal-weight-174218711.html",
+        "pubDate": "2025-12-13T17:42:18Z",
+        "summary": "Morgan Stanley Maintains An Equal Weight Rating On The Travelers Companies, Inc. (TRV)"
       },
       {
-        "title": "Crinetics Pharmaceuticals (CRNX) Poised for Transformational Growth in 2026: Piper Sandler",
-        "link": "https://finance.yahoo.com/news/crinetics-pharmaceuticals-crnx-poised-transformational-161718433.html",
-        "pubDate": "2025-12-11T16:17:18Z",
-        "summary": "Crinetics Pharmaceuticals (CRNX) Poised for Transformational Growth in 2026: Piper Sandler"
+        "title": "Goldman Sachs Is Bullish On The Boeing Company (BA)",
+        "link": "https://finance.yahoo.com/news/goldman-sachs-bullish-boeing-company-174159465.html",
+        "pubDate": "2025-12-13T17:41:59Z",
+        "summary": "Goldman Sachs Is Bullish On The Boeing Company (BA)"
       },
       {
-        "title": "Wall Street Firms Tout Corcept Therapeutics Incorporated (CORT) Prospects on Korlym Medication Prospects",
-        "link": "https://finance.yahoo.com/news/wall-street-firms-tout-corcept-161719374.html",
-        "pubDate": "2025-12-11T16:17:19Z",
-        "summary": "Wall Street Firms Tout Corcept Therapeutics Incorporated (CORT) Prospects on Korlym Medication Prospects"
+        "title": "Walmart Inc. Common Stock (WMT) Formally Relocates On NASDAQ",
+        "link": "https://finance.yahoo.com/news/walmart-inc-common-stock-wmt-174137958.html",
+        "pubDate": "2025-12-13T17:41:37Z",
+        "summary": "Walmart Inc. Common Stock (WMT) Formally Relocates On NASDAQ"
       }
     ]
   }
