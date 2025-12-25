@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025년 12월 25일 08:18 KST",
+  "lastUpdated": "2025년 12월 26일 08:18 KST",
   "news": {
     "investing": [
       {
@@ -65,16 +65,40 @@
     ],
     "cnbc": [
       {
-        "title": "Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record",
+        "title": "Wall Street wrote off Palantir as too expensive. Retail investors can't get enough",
+        "link": "https://www.cnbc.com/2025/12/25/palantir-retail-investors-valuation-karp.html",
+        "pubDate": "Thu, 25 Dec 2025 13:00:01 GMT",
+        "summary": "The stock, which made its market debut in 2020, is an indisputable star of the retail investing world."
+      },
+      {
+        "title": "Why buying Berkshire was Warren Buffett's biggest mistake",
+        "link": "https://www.cnbc.com/2025/12/25/why-buying-berkshire-was-warren-buffetts-biggest-mistake.html",
+        "pubDate": "Thu, 25 Dec 2025 13:12:55 GMT",
+        "summary": "As Warren Buffett goes into his last week as Berkshire Hathaway's CEO, a 2010 CNBC video clip has him explaining why buying the company was his biggest mistake."
+      },
+      {
+        "title": "Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
         "link": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
-        "pubDate": "Wed, 24 Dec 2025 22:36:51 GMT",
+        "pubDate": "Thu, 25 Dec 2025 11:31:17 GMT",
         "summary": "Nvidia is making its largest purchase ever, acquiring assets from nine-year-old chip startup Groq for about $20 billion."
       },
       {
-        "title": "Amazon faces 'leader's dilemma' — fight AI shopping bots or join them",
-        "link": "https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html",
-        "pubDate": "Wed, 24 Dec 2025 15:30:34 GMT",
-        "summary": "Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape."
+        "title": "Waymo pauses robotaxis in SF again due to flash flood warnings on Christmas Day",
+        "link": "https://www.cnbc.com/2025/12/25/waymo-pauses-robotaxis-in-sf-again-due-to-flash-flood-warnings-on-christmas-day.html",
+        "pubDate": "Thu, 25 Dec 2025 21:34:07 GMT",
+        "summary": "Waymo again paused it robotaxi service, citing a flash flood warning on Christmas Day."
+      },
+      {
+        "title": "Tariffs hit boots, bags and more as leather prices jump — and relief could be years away",
+        "link": "https://www.cnbc.com/2025/12/25/leather-prices-tariffs-trump-boots-handbags-furniture-twisted-x.html",
+        "pubDate": "Thu, 25 Dec 2025 13:00:01 GMT",
+        "summary": "Leather prices are expected to continue rising in 2026 as Trump's tariffs crimple a global supply-chain while domestic manufacturing and cattle herds are down."
+      },
+      {
+        "title": "Monetizers vs manufactures: How the AI market could splinter in 2026",
+        "link": "https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html",
+        "pubDate": "Thu, 25 Dec 2025 05:06:31 GMT",
+        "summary": "AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms."
       },
       {
         "title": "DOJ says more than 1 million potential Epstein files newly uncovered",
@@ -83,108 +107,84 @@
         "summary": "A bipartisan group of Senators on Wednesday said the Trump administration violated the law by failing to release the records in full last week."
       },
       {
-        "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
-        "link": "https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html",
-        "pubDate": "Wed, 24 Dec 2025 16:53:21 GMT",
-        "summary": "Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report."
+        "title": "5 major trends set to shape travel in 2026",
+        "link": "https://www.cnbc.com/2025/12/25/5-major-trends-set-to-shape-travel-in-2026.html",
+        "pubDate": "Thu, 25 Dec 2025 06:36:23 GMT",
+        "summary": "Travel in 2026 is expected to emphasize less-traveled destinations, decision-free planning, wellness retreats, nostalgia trips & AI‑powered hotel stays."
       },
       {
-        "title": "'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'",
-        "link": "https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html",
-        "pubDate": "Wed, 24 Dec 2025 13:45:42 GMT",
-        "summary": "The former EU commissioner and four anti-disinformation campaigners were the subject of U.S. travel sanctions."
-      },
-      {
-        "title": "It's too late for some last-minute tax moves — but these can be tackled with days to go in 2025",
-        "link": "https://www.cnbc.com/2025/12/24/last-minute-tax-moves-2025.html",
-        "pubDate": "Wed, 24 Dec 2025 13:15:02 GMT",
-        "summary": "There's still time to boost your refund or reduce your tax bill for 2025. But your last chance is Dec. 31."
-      },
-      {
-        "title": "Oil giant BP to sell 65% stake in $10 billion Castrol unit",
-        "link": "https://www.cnbc.com/2025/12/24/bp-to-sell-65percent-stake-in-10-billion-castrol-lubricants-to-stonepeak.html",
-        "pubDate": "Wed, 24 Dec 2025 08:38:34 GMT",
-        "summary": "The oil giant is looking to divest $20 billion of its assets by the end of 2027."
+        "title": "Amazon faces 'leader's dilemma' — fight AI shopping bots or join them",
+        "link": "https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html",
+        "pubDate": "Wed, 24 Dec 2025 15:30:34 GMT",
+        "summary": "Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape."
       },
       {
         "title": "We're buying the post-earnings slump in a stock alongside Tim Cook. It's not Apple",
         "link": "https://www.cnbc.com/2025/12/24/were-buying-the-post-earnings-slump-in-a-stock-alongside-tim-cook-its-not-apple.html",
         "pubDate": "Wed, 24 Dec 2025 14:35:21 GMT",
         "summary": "We're scooping up shares of struggling company on a confidence-inducing signal from the board of directors that a bottom could be forming."
-      },
-      {
-        "title": "Trump's 'no tax on tips' deduction won't benefit some tipped workers. Here's why",
-        "link": "https://www.cnbc.com/2025/12/23/no-tax-on-tips-who-benefits.html",
-        "pubDate": "Wed, 24 Dec 2025 14:32:41 GMT",
-        "summary": "Millions could be eligible for Trump's \"no tax on tips\" deduction for the upcoming tax season. But some workers won't benefit from the tax break, experts say."
-      },
-      {
-        "title": "Supreme Court rejects Trump's bid to send National Guard to Chicago",
-        "link": "https://www.cnbc.com/2025/12/23/supreme-court-trump-national-guard-chicago.html",
-        "pubDate": "Tue, 23 Dec 2025 21:57:17 GMT",
-        "summary": "In an unsigned decision released on Tuesday, the court said Trump lacked the authority to federalize troops in Chicago."
       }
     ],
     "yahoo": [
       {
-        "title": "Stock Market Today: S&P 500 Closes At Record  After GDP Surprise",
-        "link": "https://finance.yahoo.com/news/stock-market-today-p-500-152831702.html",
-        "pubDate": "2025-12-23T15:28:31Z",
-        "summary": "Stock Market Today: S&P 500 Closes At Record  After GDP Surprise"
+        "title": "3 Things to Watch With SIRI Stock in 2026",
+        "link": "https://finance.yahoo.com/news/3-things-watch-siri-stock-155200066.html",
+        "pubDate": "2025-12-24T15:52:00Z",
+        "summary": "3 Things to Watch With SIRI Stock in 2026"
       },
       {
-        "title": "8 strategies for getting the lowest mortgage rates",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/8-strategies-for-getting-the-lowest-mortgage-rates-224601064.html",
-        "pubDate": "2024-01-26T22:46:01Z",
-        "summary": "8 strategies for getting the lowest mortgage rates"
+        "title": "Wheat Prices Are Headed for Their Longest Rally Since April. How You Should Play Futures Here.",
+        "link": "https://finance.yahoo.com/news/wheat-prices-headed-longest-rally-155037133.html",
+        "pubDate": "2025-12-24T15:50:37Z",
+        "summary": "Wheat Prices Are Headed for Their Longest Rally Since April. How You Should Play Futures Here."
       },
       {
-        "title": "This Little-Known Stock Just Landed a Big Disney Win. Should You Buy Shares Here?",
-        "link": "https://finance.yahoo.com/news/little-known-stock-just-landed-153403383.html",
-        "pubDate": "2025-12-23T15:34:03Z",
-        "summary": "This Little-Known Stock Just Landed a Big Disney Win. Should You Buy Shares Here?"
+        "title": "Earnings Preview: What To Expect From Northern Trust’s Report",
+        "link": "https://finance.yahoo.com/news/earnings-preview-expect-northern-trust-154759235.html",
+        "pubDate": "2025-12-24T15:47:59Z",
+        "summary": "Earnings Preview: What To Expect From Northern Trust’s Report"
       },
       {
-        "title": "Stocks Little Changed as Fed Rate-Cut Odds Drop after Strong US GDP Report",
-        "link": "https://finance.yahoo.com/news/stocks-little-changed-fed-rate-151444636.html",
-        "pubDate": "2025-12-23T15:14:44Z",
-        "summary": "Stocks Little Changed as Fed Rate-Cut Odds Drop after Strong US GDP Report"
+        "title": "Why is silver outperforming gold? What to know before you invest.",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/why-is-silver-outperforming-gold-what-to-know-before-you-invest-231615030.html",
+        "pubDate": "2025-12-22T23:16:15Z",
+        "summary": "Why is silver outperforming gold? What to know before you invest."
       },
       {
-        "title": "Want to buy a house in early 2026? Here's how to prepare.",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/want-to-buy-a-house-in-the-first-half-of-2026-162052519.html",
-        "pubDate": "2025-11-04T16:20:52Z",
-        "summary": "Want to buy a house in early 2026? Here's how to prepare."
+        "title": "Nvidia Could Start Shipping H200 Chips to China Again in Just a Few Weeks. Should You Buy NVDA Stock First?",
+        "link": "https://finance.yahoo.com/news/nvidia-could-start-shipping-h200-155610642.html",
+        "pubDate": "2025-12-24T15:56:10Z",
+        "summary": "Nvidia Could Start Shipping H200 Chips to China Again in Just a Few Weeks. Should You Buy NVDA Stock First?"
       },
       {
-        "title": "Daily Spotlight: Three Signals from Dividend Growth",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_45685_MarketOutlook_1766578302000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2025-12-24T12:11:42Z",
-        "summary": "Daily Spotlight: Three Signals from Dividend Growth"
+        "title": "These 3 Cryptocurrencies Are Pushing the Limits of Traditional Finance, And That’s a Good Thing",
+        "link": "https://finance.yahoo.com/news/3-cryptocurrencies-pushing-limits-traditional-155321199.html",
+        "pubDate": "2025-12-24T15:53:21Z",
+        "summary": "These 3 Cryptocurrencies Are Pushing the Limits of Traditional Finance, And That’s a Good Thing"
       },
       {
-        "title": "Private Equity must Invest 'Dry Powder' or Risk an Investor Exodus",
-        "link": "https://finance.yahoo.com/news/private-equity-must-invest-dry-153000397.html",
-        "pubDate": "2025-12-23T15:30:00Z",
-        "summary": "Private Equity must Invest 'Dry Powder' or Risk an Investor Exodus"
+        "title": "What to Expect From W. R. Berkley’s Next Quarterly Earnings Report",
+        "link": "https://finance.yahoo.com/news/expect-w-r-berkley-next-154359688.html",
+        "pubDate": "2025-12-24T15:43:59Z",
+        "summary": "What to Expect From W. R. Berkley’s Next Quarterly Earnings Report"
       },
       {
-        "title": "NextEra Energy's Q4 2025 Earnings: What to Expect",
-        "link": "https://finance.yahoo.com/news/nextera-energys-q4-2025-earnings-150416635.html",
-        "pubDate": "2025-12-23T15:04:16Z",
-        "summary": "NextEra Energy's Q4 2025 Earnings: What to Expect"
+        "title": "Is Tesla Stock a Buy Under $500?",
+        "link": "https://finance.yahoo.com/news/tesla-stock-buy-under-500-154233923.html",
+        "pubDate": "2025-12-24T15:42:33Z",
+        "summary": "Is Tesla Stock a Buy Under $500?"
       },
       {
-        "title": "What is the average interest rate for savings accounts?",
-        "link": "https://finance.yahoo.com/news/average-interest-rate-savings-accounts-203543195.html",
-        "pubDate": "2025-12-23T15:43:37Z",
-        "summary": "What is the average interest rate for savings accounts?"
+        "title": "Sanofi to acquire hepatitis B vaccine maker Dynavax for $2.2 billion",
+        "link": "https://finance.yahoo.com/news/sanofi-acquire-hepatitis-b-vaccine-114414352.html",
+        "pubDate": "2025-12-24T11:48:23Z",
+        "summary": "Sanofi to acquire hepatitis B vaccine maker Dynavax for $2.2 billion"
       },
       {
-        "title": "Qualivian Investment Partners’ Updates on Moody’s (MCO)",
-        "link": "https://finance.yahoo.com/news/qualivian-investment-partners-updates-moody-145550068.html",
-        "pubDate": "2025-12-23T14:55:50Z",
-        "summary": "Qualivian Investment Partners’ Updates on Moody’s (MCO)"
+        "title": "The Bull vs. Bear Case for Silver and Gold",
+        "link": "https://finance.yahoo.com/news/bull-vs-bear-case-silver-155944474.html",
+        "pubDate": "2025-12-24T15:59:44Z",
+        "summary": "The Bull vs. Bear Case for Silver and Gold"
       }
     ]
   }
