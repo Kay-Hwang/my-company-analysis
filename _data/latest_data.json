@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026년 01월 03일 08:18 KST",
+  "lastUpdated": "2026년 01월 04일 08:18 KST",
   "news": {
     "investing": [
+      {
+        "title": "Reddit가 오픈 웹의 새로운 홈페이지가 될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1771767",
+        "pubDate": "2026-01-03 09:05:02",
+        "summary": "Reddit가 오픈 웹의 새로운 홈페이지가 될까?"
+      },
+      {
+        "title": "캐나코드, \"2026년은 테슬라에게 풍요로운 해가 될 것\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1771765",
+        "pubDate": "2026-01-03 09:00:02",
+        "summary": "캐나코드, \"2026년은 테슬라에게 풍요로운 해가 될 것\""
+      },
       {
         "title": "트럼프, HieFo의 엠코어 반도체 자산 인수 차단",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771655",
@@ -49,62 +61,50 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771523",
         "pubDate": "2026-01-02 18:22:44",
         "summary": "MicroCloud Hologram, 양자 컴퓨팅 도구 출시 후 주가 상승"
-      },
-      {
-        "title": "핀터레스트 주가, OpenAI 인수설에 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771506",
-        "pubDate": "2026-01-02 17:25:22",
-        "summary": "핀터레스트 주가, OpenAI 인수설에 상승"
-      },
-      {
-        "title": "알델릭스(ARDX), Raymond James의 가격 인상 언급에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771504",
-        "pubDate": "2026-01-02 17:18:33",
-        "summary": "알델릭스(ARDX), Raymond James의 가격 인상 언급에 주가 급등"
       }
     ],
     "cnbc": [
       {
-        "title": "Berkshire Hathaway shares dip as Warren Buffett exits and Greg Abel era begins",
-        "link": "https://www.cnbc.com/2026/01/02/berkshire-hathaway-shares-dip-as-warren-buffett-exits-and-greg-abel-era-begins.html",
-        "pubDate": "Fri, 02 Jan 2026 21:02:09 GMT",
-        "summary": "Investors digested the formal end of Warren Buffett's six-decade tenure as chief executive and the start of a new era under successor Greg Abel."
+        "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term",
+        "link": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html",
+        "pubDate": "Sat, 03 Jan 2026 21:36:46 GMT",
+        "summary": "While Venezuela has the world's largest oil reserves, its oil production is relatively small."
       },
       {
-        "title": "Tesla reports 418,227 deliveries for the fourth quarter, down 16%",
-        "link": "https://www.cnbc.com/2026/01/02/tesla-tsla-q4-2025-vehicle-deliveries.html",
-        "pubDate": "Fri, 02 Jan 2026 21:01:33 GMT",
-        "summary": "Tesla's fourth-quarter deliveries report follows a steep rally in the company's stock in the last few months of 2025."
+        "title": "Trump's removal of Maduro prompts questions from Congress",
+        "link": "https://www.cnbc.com/2026/01/03/trumps-maduro-venezuela-congress.html",
+        "pubDate": "Sat, 03 Jan 2026 19:02:56 GMT",
+        "summary": "Congressional lawmakers say they were not briefed before President Donald Trump launched a land attack on Venezuela and deposed President Nicolas Maduro."
       },
       {
-        "title": "Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release",
-        "link": "https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html",
-        "pubDate": "Fri, 02 Jan 2026 19:11:41 GMT",
-        "summary": "Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars."
+        "title": "Airlines cancel hundreds of Caribbean flights after U.S. attacks on Venezuela",
+        "link": "https://www.cnbc.com/2026/01/03/venezuela-airspace-flight-disruptions.html",
+        "pubDate": "Sat, 03 Jan 2026 22:55:24 GMT",
+        "summary": "U.S. airlines cancel hundreds of Caribbean flights after U.S. strikes on Venezuela."
       },
       {
-        "title": "Chip stocks rally to start 2026 after third-straight winning year",
-        "link": "https://www.cnbc.com/2026/01/02/chipmakers-2026-ai-trade.html",
-        "pubDate": "Fri, 02 Jan 2026 21:04:52 GMT",
-        "summary": "Investors piled into the winning artificial intelligence-adjacent sector following another big year of gains."
+        "title": "U.S. indictment against Venezuela President Maduro, wife is unsealed",
+        "link": "https://www.cnbc.com/2026/01/03/maduro-indictment-drugs-venezuela.html",
+        "pubDate": "Sat, 03 Jan 2026 17:40:49 GMT",
+        "summary": "The indictment was unsealed hours after U.S. forces launched an attack on Venezuela and captured its president Nicolas Maduro and his wife, Cilia Flores."
       },
       {
-        "title": "Ken Griffin’s flagship hedge fund at Citadel rises 10.2% in volatile 2025",
-        "link": "https://www.cnbc.com/2026/01/02/ken-griffins-flagship-hedge-fund-at-citadel-rises-10point2percent-in-volatile-2025.html",
-        "pubDate": "Fri, 02 Jan 2026 17:45:39 GMT",
-        "summary": "Citadel's flagship multistrategy Wellington fund, its largest, gained 10.2% in 2025, according to a person familiar with the firm's returns."
+        "title": "Watch Trump's full comments following the U.S. strike against Venezuela",
+        "link": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack.html",
+        "pubDate": "Sat, 03 Jan 2026 18:45:29 GMT",
+        "summary": "President Donald Trump is scheduled to speak Saturday morning following a stunning, large-scale attack on Venezuela overnight."
       },
       {
-        "title": "China’s BYD overtakes Tesla as world’s top EV seller for the first time",
-        "link": "https://www.cnbc.com/2026/01/02/chinas-byd-to-overtake-tesla-as-worlds-top-ev-seller-for-first-time.html",
-        "pubDate": "Fri, 02 Jan 2026 16:31:45 GMT",
-        "summary": "The milestone caps an extraordinary rise for BYD, a company Tesla's Elon Musk once dismissed by laughing at their products."
+        "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead",
+        "link": "https://www.cnbc.com/2026/01/03/federal-reserve-powell-face-challenges-in-2026.html",
+        "pubDate": "Sat, 03 Jan 2026 14:37:41 GMT",
+        "summary": "The central bank heads into 2026 facing a slew of political and policy challenges."
       },
       {
-        "title": "The 2026 stock market is looking a lot like the bifurcated market of 2025",
-        "link": "https://www.cnbc.com/2026/01/02/meet-the-2026-stock-market-its-the-same-ai-reliant-market-of-2025.html",
-        "pubDate": "Fri, 02 Jan 2026 18:13:44 GMT",
-        "summary": "A look inside the S&amp;P 500 shows a major division, with five sectors higher, led by industrials, and six sectors lower, led by consumer discretionary."
+        "title": "U.S. attacks Venezuela, captures Maduro and his wife; AG Bondi says charges include 'Narco-Terrorism'",
+        "link": "https://www.cnbc.com/2026/01/03/trump-us-operation-captured-venezuela-president-nicolas-maduro.html",
+        "pubDate": "Sat, 03 Jan 2026 19:17:00 GMT",
+        "summary": "Maduro and his wife were captured and removed from the country following the operation, Trump said in a statement on Truth Social."
       },
       {
         "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
@@ -119,72 +119,72 @@
         "summary": "Lithium and steel outshined A.I. in 2025, at least when it comes to CNBC's exclusive Power City Indexes."
       },
       {
-        "title": "Some ETFs compete on price — but fees shouldn't always 'drive the investment decision,' analyst says",
-        "link": "https://www.cnbc.com/2026/01/02/etf-fees.html",
-        "pubDate": "Fri, 02 Jan 2026 21:07:13 GMT",
-        "summary": "While exchange-traded funds with lower fees let you keep more investment gains, cost may not always be the most important factor to consider, experts say."
+        "title": "Buffett backs new CEO Greg Abel with 'huge endorsement' in CNBC interview",
+        "link": "https://www.cnbc.com/2026/01/03/buffett-backs-new-ceo-abel-with-huge-endorsement-in-cnbc-interview.html",
+        "pubDate": "Sat, 03 Jan 2026 14:32:12 GMT",
+        "summary": "Warren Buffett told CNBC he'd rather have new Berkshire CEO Greg Abel handle his money \"than any of the top investment advisers or any of the top CEOs\" in the U.S."
       }
     ],
     "yahoo": [
       {
-        "title": "After The Crash, CNRG Starts 2026 With A 40% Rally",
-        "link": "https://finance.yahoo.com/news/crash-cnrg-starts-2026-40-160537097.html",
-        "pubDate": "2026-01-01T16:05:37Z",
-        "summary": "After The Crash, CNRG Starts 2026 With A 40% Rally"
+        "title": "3 Bold Oil Market Predictions for 2026",
+        "link": "https://finance.yahoo.com/news/3-bold-oil-market-predictions-225000578.html",
+        "pubDate": "2026-01-03T22:50:00Z",
+        "summary": "3 Bold Oil Market Predictions for 2026"
       },
       {
-        "title": "Consumer spending powers the US economy. A K-shaped economy will further test this dynamic in 2026.",
-        "link": "https://finance.yahoo.com/news/consumer-spending-powers-the-us-economy-a-k-shaped-economy-will-further-test-this-dynamic-in-2026-110830708.html",
-        "pubDate": "2025-12-24T11:08:30Z",
-        "summary": "Consumer spending powers the US economy. A K-shaped economy will further test this dynamic in 2026."
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-us-run-venezuela-maduro-nvidia-amd-taiwan-semi/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-03T20:08:43Z",
+        "summary": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due"
       },
       {
-        "title": "Divisions at the Fed that defined 2025 are expected to carry into 2026",
-        "link": "https://finance.yahoo.com/news/divisions-at-the-fed-that-defined-2025-are-expected-to-carry-into-2026-182017036.html",
-        "pubDate": "2025-12-23T18:20:17Z",
-        "summary": "Divisions at the Fed that defined 2025 are expected to carry into 2026"
+        "title": "Fed's Paulson signals another rate cut could take a while",
+        "link": "https://finance.yahoo.com/news/feds-paulson-signals-another-rate-193145229.html",
+        "pubDate": "2026-01-03T19:31:45Z",
+        "summary": "Fed's Paulson signals another rate cut could take a while"
       },
       {
-        "title": "How the 52-week savings challenge can help you save $1,300 in one year",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/52-week-savings-challenge-195251397.html",
-        "pubDate": "2024-04-05T19:52:51Z",
-        "summary": "How the 52-week savings challenge can help you save $1,300 in one year"
+        "title": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi",
+        "link": "https://www.investors.com/news/tesla-stock-q4-vehicle-deliveries/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-03T19:19:04Z",
+        "summary": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi"
       },
       {
-        "title": "At 66, I’ve just been diagnosed with cancer. I spent decades preparing for retirement — can my plans survive this?",
-        "link": "https://finance.yahoo.com/news/66-ve-just-diagnosed-cancer-140000051.html",
-        "pubDate": "2026-01-01T14:00:00Z",
-        "summary": "At 66, I’ve just been diagnosed with cancer. I spent decades preparing for retirement — can my plans survive this?"
+        "title": "Here are the worst ages to claim Social Security. Is your timing all wrong?",
+        "link": "https://finance.yahoo.com/news/worst-ages-claim-social-security-191500248.html",
+        "pubDate": "2026-01-03T19:15:00Z",
+        "summary": "Here are the worst ages to claim Social Security. Is your timing all wrong?"
       },
       {
-        "title": "Daily Spotlight: Stocks Typically Start Strong",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_45741_MarketOutlook_1767356953000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2026-01-02T12:29:13Z",
-        "summary": "Daily Spotlight: Stocks Typically Start Strong"
+        "title": "The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process",
+        "link": "https://finance.yahoo.com/news/best-time-buy-bitcoin-2026-223442863.html",
+        "pubDate": "2026-01-03T22:35:05Z",
+        "summary": "The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process"
       },
       {
-        "title": "Is Bitcoin Disqualifying Strategy From S&P 500? Peter Schiff Thinks So",
-        "link": "https://finance.yahoo.com/news/bitcoin-disqualifying-strategy-p-500-160544906.html",
-        "pubDate": "2026-01-01T16:05:44Z",
-        "summary": "Is Bitcoin Disqualifying Strategy From S&P 500? Peter Schiff Thinks So"
+        "title": "Parents invest $2K in a side hustle now earning $295K/year, with potential to build generational wealth. Here’s how",
+        "link": "https://finance.yahoo.com/news/parents-invest-2k-side-hustle-183000702.html",
+        "pubDate": "2026-01-03T18:30:00Z",
+        "summary": "Parents invest $2K in a side hustle now earning $295K/year, with potential to build generational wealth. Here’s how"
       },
       {
-        "title": "Italy says US has sharply cut proposed pasta tariffs after a review",
-        "link": "https://finance.yahoo.com/news/italy-says-us-sharply-cut-135550982.html",
-        "pubDate": "2026-01-01T13:55:50Z",
-        "summary": "Italy says US has sharply cut proposed pasta tariffs after a review"
+        "title": "Parents are shelling out $1,474 monthly for adult kids — but when does helping turn into holding back?",
+        "link": "https://finance.yahoo.com/news/parents-shelling-1-474-monthly-180000956.html",
+        "pubDate": "2026-01-03T18:00:00Z",
+        "summary": "Parents are shelling out $1,474 monthly for adult kids — but when does helping turn into holding back?"
       },
       {
-        "title": "Strategy (MSTR) Was One of the Worst Stocks of 2025, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/strategy-mstr-one-worst-stocks-134458441.html",
-        "pubDate": "2026-01-01T13:44:58Z",
-        "summary": "Strategy (MSTR) Was One of the Worst Stocks of 2025, Says Jim Cramer"
+        "title": "GOOGL Stock Rocked in 2025, But Is Google’s 2026 Forecast as Bright?",
+        "link": "https://finance.yahoo.com/news/googl-stock-rocked-2025-google-170002750.html",
+        "pubDate": "2026-01-03T17:00:02Z",
+        "summary": "GOOGL Stock Rocked in 2025, But Is Google’s 2026 Forecast as Bright?"
       },
       {
-        "title": "Paramount Skydance (PSKY) Should Bid $34 For Warner Bros, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/paramount-skydance-psky-bid-34-134528302.html",
-        "pubDate": "2026-01-01T13:45:28Z",
-        "summary": "Paramount Skydance (PSKY) Should Bid $34 For Warner Bros, Says Jim Cramer"
+        "title": "The Saturday Spread: How Basketball Analytics May Help Extract Alpha (CPNG, DBX, BBY)",
+        "link": "https://finance.yahoo.com/news/saturday-spread-basketball-analytics-may-151501832.html",
+        "pubDate": "2026-01-03T15:15:01Z",
+        "summary": "The Saturday Spread: How Basketball Analytics May Help Extract Alpha (CPNG, DBX, BBY)"
       }
     ]
   }
