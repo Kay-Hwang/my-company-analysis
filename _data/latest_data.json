@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026년 01월 04일 08:18 KST",
+  "lastUpdated": "2026년 01월 05일 08:18 KST",
   "news": {
     "investing": [
+      {
+        "title": "하나증권 \"미국 베네수엘라 공습, 글로벌 금융 시장 영향 제한적\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1771888",
+        "pubDate": "2026-01-04 21:10:39",
+        "summary": "하나증권 \"미국 베네수엘라 공습, 글로벌 금융 시장 영향 제한적\""
+      },
+      {
+        "title": "[주간경제전망] CES 2026 개막…미국 12월 고용지표 주목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1771884",
+        "pubDate": "2026-01-04 20:10:39",
+        "summary": "[주간경제전망] CES 2026 개막…미국 12월 고용지표 주목"
+      },
+      {
+        "title": "제프리스, 인도 시장에서 ’합리적 가격의 성장주’가 계속 우위를 점할 것으로 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1771837",
+        "pubDate": "2026-01-04 10:00:02",
+        "summary": "제프리스, 인도 시장에서 ’합리적 가격의 성장주’가 계속 우위를 점할 것으로 전망"
+      },
+      {
+        "title": "2026년까지 소유하고 싶은 S&P 500 섹터는? 뱅크오브아메리카의 답변",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1771830",
+        "pubDate": "2026-01-04 08:10:02",
+        "summary": "2026년까지 소유하고 싶은 S&P 500 섹터는? 뱅크오브아메리카의 답변"
+      },
       {
         "title": "Reddit가 오픈 웹의 새로운 홈페이지가 될까?",
         "link": "https://kr.investing.com/news/stock-market-news/article-1771767",
@@ -37,38 +61,32 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771598",
         "pubDate": "2026-01-02 21:19:44",
         "summary": "GH Research, IND 업데이트 발표 후 주가 급등"
-      },
-      {
-        "title": "다이이치산쿄, 글로벌 암 치료제 시설에 19억 달러 투자 - 니케이",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771550",
-        "pubDate": "2026-01-02 20:22:07",
-        "summary": "다이이치산쿄, 글로벌 암 치료제 시설에 19억 달러 투자 - 니케이"
-      },
-      {
-        "title": "에퀴노르, 엠파이어 윈드 사업 중단에 美 내무부 제소",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771535",
-        "pubDate": "2026-01-02 19:27:36",
-        "summary": "에퀴노르, 엠파이어 윈드 사업 중단에 美 내무부 제소"
-      },
-      {
-        "title": "BTIG, 2026년 상반기 최고 추천 주식 공개",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771531",
-        "pubDate": "2026-01-02 18:57:39",
-        "summary": "BTIG, 2026년 상반기 최고 추천 주식 공개"
-      },
-      {
-        "title": "MicroCloud Hologram, 양자 컴퓨팅 도구 출시 후 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1771523",
-        "pubDate": "2026-01-02 18:22:44",
-        "summary": "MicroCloud Hologram, 양자 컴퓨팅 도구 출시 후 주가 상승"
       }
     ],
     "cnbc": [
+      {
+        "title": "Rubio explains how U.S. might 'run' Venezuela after Maduros' ouster",
+        "link": "https://www.cnbc.com/2026/01/04/rubio-explains-how-us-might-run-venezuela-after-maduros-ouster-.html",
+        "pubDate": "Sun, 04 Jan 2026 21:03:59 GMT",
+        "summary": "President Donald Trump on Saturday said the U.S. will \"run\" Venezuela until a new leader is determined."
+      },
+      {
+        "title": "Denmark tells Trump to stop threatening to seize Greenland",
+        "link": "https://www.cnbc.com/2026/01/04/trump-denmark-greenland-frederiksen-venezuela.html",
+        "pubDate": "Sun, 04 Jan 2026 22:33:37 GMT",
+        "summary": "President Donald Trump has sought to acquire Greenland since his first term."
+      },
       {
         "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term",
         "link": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html",
         "pubDate": "Sat, 03 Jan 2026 21:36:46 GMT",
         "summary": "While Venezuela has the world's largest oil reserves, its oil production is relatively small."
+      },
+      {
+        "title": "Trump admin pressed on pardon for ex-Honduras president after Venezuela’s Maduro snatched",
+        "link": "https://www.cnbc.com/2026/01/04/trump-venezuela-maduro-pardon-honduras.html",
+        "pubDate": "Sun, 04 Jan 2026 19:51:26 GMT",
+        "summary": "The U.S. captured Venezuelan President Nicolas Maduro on Saturday and charged him with drug-related crimes."
       },
       {
         "title": "Trump's removal of Maduro prompts questions from Congress",
@@ -77,10 +95,22 @@
         "summary": "Congressional lawmakers say they were not briefed before President Donald Trump launched a land attack on Venezuela and deposed President Nicolas Maduro."
       },
       {
-        "title": "Airlines cancel hundreds of Caribbean flights after U.S. attacks on Venezuela",
-        "link": "https://www.cnbc.com/2026/01/03/venezuela-airspace-flight-disruptions.html",
-        "pubDate": "Sat, 03 Jan 2026 22:55:24 GMT",
-        "summary": "U.S. airlines cancel hundreds of Caribbean flights after U.S. strikes on Venezuela."
+        "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
+        "link": "https://www.cnbc.com/2026/01/02/airline-industry-2026.html",
+        "pubDate": "Fri, 02 Jan 2026 12:30:01 GMT",
+        "summary": "Airlines are continuing their focus on premium travelers, adding lounges, new first-class cabins and other perks for customers willing to spend more to fly."
+      },
+      {
+        "title": "Airlines scramble to add Caribbean flights after airspace restrictions strand tens of thousands of travelers",
+        "link": "https://www.cnbc.com/2026/01/04/us-airlines-resume-caribbean-flights-after-venezuela-strikes.html",
+        "pubDate": "Sun, 04 Jan 2026 16:17:43 GMT",
+        "summary": "U.S. airlines resumed flights to Puerto Rico and other Caribbean destinations early Sunday after aviation authorities lifted temporary airspace restrictions."
+      },
+      {
+        "title": "Anthropic's 'do more with less' bet has kept it at the AI frontier, co-founder Amodei tells CNBC",
+        "link": "https://www.cnbc.com/2026/01/03/anthropic-daniela-amodei-do-more-with-less-bet.html",
+        "pubDate": "Sat, 03 Jan 2026 13:53:16 GMT",
+        "summary": "Daniela Amodei and her brother, Dario Amodei, who is Anthropic's CEO, helped build the very worldview they're now betting against."
       },
       {
         "title": "U.S. indictment against Venezuela President Maduro, wife is unsealed",
@@ -89,102 +119,72 @@
         "summary": "The indictment was unsealed hours after U.S. forces launched an attack on Venezuela and captured its president Nicolas Maduro and his wife, Cilia Flores."
       },
       {
-        "title": "Watch Trump's full comments following the U.S. strike against Venezuela",
-        "link": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack.html",
-        "pubDate": "Sat, 03 Jan 2026 18:45:29 GMT",
-        "summary": "President Donald Trump is scheduled to speak Saturday morning following a stunning, large-scale attack on Venezuela overnight."
-      },
-      {
-        "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead",
-        "link": "https://www.cnbc.com/2026/01/03/federal-reserve-powell-face-challenges-in-2026.html",
-        "pubDate": "Sat, 03 Jan 2026 14:37:41 GMT",
-        "summary": "The central bank heads into 2026 facing a slew of political and policy challenges."
-      },
-      {
-        "title": "U.S. attacks Venezuela, captures Maduro and his wife; AG Bondi says charges include 'Narco-Terrorism'",
-        "link": "https://www.cnbc.com/2026/01/03/trump-us-operation-captured-venezuela-president-nicolas-maduro.html",
-        "pubDate": "Sat, 03 Jan 2026 19:17:00 GMT",
-        "summary": "Maduro and his wife were captured and removed from the country following the operation, Trump said in a statement on Truth Social."
-      },
-      {
-        "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
-        "link": "https://www.cnbc.com/2026/01/02/airline-industry-2026.html",
-        "pubDate": "Fri, 02 Jan 2026 12:30:01 GMT",
-        "summary": "Airlines are continuing their focus on premium travelers, adding lounges, new first-class cabins and other perks for customers willing to spend more to fly."
-      },
-      {
-        "title": "'Queen City' Charlotte was the king of the stock market in 2025",
-        "link": "https://www.cnbc.com/2026/01/02/queen-city-charlotte-was-the-king-of-the-stock-market-in-2025.html",
-        "pubDate": "Fri, 02 Jan 2026 20:49:38 GMT",
-        "summary": "Lithium and steel outshined A.I. in 2025, at least when it comes to CNBC's exclusive Power City Indexes."
-      },
-      {
-        "title": "Buffett backs new CEO Greg Abel with 'huge endorsement' in CNBC interview",
-        "link": "https://www.cnbc.com/2026/01/03/buffett-backs-new-ceo-abel-with-huge-endorsement-in-cnbc-interview.html",
-        "pubDate": "Sat, 03 Jan 2026 14:32:12 GMT",
-        "summary": "Warren Buffett told CNBC he'd rather have new Berkshire CEO Greg Abel handle his money \"than any of the top investment advisers or any of the top CEOs\" in the U.S."
+        "title": "To influence people, do 5 simple things, says expert: These 'powerful behaviors' make a big difference",
+        "link": "https://www.cnbc.com/2026/01/04/to-influence-people-do-these-simple-things-says-expert-these-powerful-behaviors-make-a-big-difference.html",
+        "pubDate": "Sun, 04 Jan 2026 12:15:01 GMT",
+        "summary": "Influence isn't some \"magical quality\" you're born with, it's a set of learnable actions, says executive coach and human behavior expert Melody Wilding."
       }
     ],
     "yahoo": [
       {
-        "title": "3 Bold Oil Market Predictions for 2026",
-        "link": "https://finance.yahoo.com/news/3-bold-oil-market-predictions-225000578.html",
-        "pubDate": "2026-01-03T22:50:00Z",
-        "summary": "3 Bold Oil Market Predictions for 2026"
-      },
-      {
-        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "title": "Dow Jones Futures Rise After Trump's Venezuela Action; Nvidia, AMD, Taiwan Semi Due",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-us-run-venezuela-maduro-nvidia-amd-taiwan-semi/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-01-03T20:08:43Z",
-        "summary": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due"
+        "pubDate": "2026-01-04T23:02:55Z",
+        "summary": "Dow Jones Futures Rise After Trump's Venezuela Action; Nvidia, AMD, Taiwan Semi Due"
       },
       {
-        "title": "Fed's Paulson signals another rate cut could take a while",
-        "link": "https://finance.yahoo.com/news/feds-paulson-signals-another-rate-193145229.html",
-        "pubDate": "2026-01-03T19:31:45Z",
-        "summary": "Fed's Paulson signals another rate cut could take a while"
+        "title": "This $74 Million Fixed-Income Bet Shows How Advisors Are Building Portfolios",
+        "link": "https://finance.yahoo.com/news/74-million-fixed-income-bet-225431128.html",
+        "pubDate": "2026-01-04T22:54:31Z",
+        "summary": "This $74 Million Fixed-Income Bet Shows How Advisors Are Building Portfolios"
       },
       {
-        "title": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi",
-        "link": "https://www.investors.com/news/tesla-stock-q4-vehicle-deliveries/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-01-03T19:19:04Z",
-        "summary": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi"
+        "title": "UBS Keeps Buy Rating on Ameren Corporation (AEE)",
+        "link": "https://finance.yahoo.com/news/ubs-keeps-buy-rating-ameren-223041723.html",
+        "pubDate": "2026-01-04T22:30:41Z",
+        "summary": "UBS Keeps Buy Rating on Ameren Corporation (AEE)"
       },
       {
-        "title": "Here are the worst ages to claim Social Security. Is your timing all wrong?",
-        "link": "https://finance.yahoo.com/news/worst-ages-claim-social-security-191500248.html",
-        "pubDate": "2026-01-03T19:15:00Z",
-        "summary": "Here are the worst ages to claim Social Security. Is your timing all wrong?"
+        "title": "Dominion Energy, Inc. (D) Claims that Stopping the CVOW Project Poses a Threat to Grid Reliability",
+        "link": "https://finance.yahoo.com/news/dominion-energy-inc-d-claims-223024567.html",
+        "pubDate": "2026-01-04T22:30:24Z",
+        "summary": "Dominion Energy, Inc. (D) Claims that Stopping the CVOW Project Poses a Threat to Grid Reliability"
       },
       {
-        "title": "The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process",
-        "link": "https://finance.yahoo.com/news/best-time-buy-bitcoin-2026-223442863.html",
-        "pubDate": "2026-01-03T22:35:05Z",
-        "summary": "The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process"
+        "title": "American Water Works Company, Inc. (AWK) Subsidiart to Acquire Water System In Hopewell Borough For $6.4 Million.",
+        "link": "https://finance.yahoo.com/news/american-water-works-company-inc-222926432.html",
+        "pubDate": "2026-01-04T22:29:26Z",
+        "summary": "American Water Works Company, Inc. (AWK) Subsidiart to Acquire Water System In Hopewell Borough For $6.4 Million."
       },
       {
-        "title": "Parents invest $2K in a side hustle now earning $295K/year, with potential to build generational wealth. Here’s how",
-        "link": "https://finance.yahoo.com/news/parents-invest-2k-side-hustle-183000702.html",
-        "pubDate": "2026-01-03T18:30:00Z",
-        "summary": "Parents invest $2K in a side hustle now earning $295K/year, with potential to build generational wealth. Here’s how"
+        "title": "Jefferies Maintains A Hold Rating On NextEra Energy, Inc. (NEE)",
+        "link": "https://finance.yahoo.com/news/jefferies-maintains-hold-rating-nextera-222739814.html",
+        "pubDate": "2026-01-04T22:27:39Z",
+        "summary": "Jefferies Maintains A Hold Rating On NextEra Energy, Inc. (NEE)"
       },
       {
-        "title": "Parents are shelling out $1,474 monthly for adult kids — but when does helping turn into holding back?",
-        "link": "https://finance.yahoo.com/news/parents-shelling-1-474-monthly-180000956.html",
-        "pubDate": "2026-01-03T18:00:00Z",
-        "summary": "Parents are shelling out $1,474 monthly for adult kids — but when does helping turn into holding back?"
+        "title": "This Is Exactly How Much You Have to Earn to Qualify for Social Security Eligibility in 2026",
+        "link": "https://finance.yahoo.com/news/exactly-much-earn-qualify-social-225000590.html",
+        "pubDate": "2026-01-04T22:50:00Z",
+        "summary": "This Is Exactly How Much You Have to Earn to Qualify for Social Security Eligibility in 2026"
       },
       {
-        "title": "GOOGL Stock Rocked in 2025, But Is Google’s 2026 Forecast as Bright?",
-        "link": "https://finance.yahoo.com/news/googl-stock-rocked-2025-google-170002750.html",
-        "pubDate": "2026-01-03T17:00:02Z",
-        "summary": "GOOGL Stock Rocked in 2025, But Is Google’s 2026 Forecast as Bright?"
+        "title": "UBS Reduces Its Price Objective For Duke Energy Corporation (DUK)",
+        "link": "https://finance.yahoo.com/news/ubs-reduces-price-objective-duke-222719213.html",
+        "pubDate": "2026-01-04T22:27:19Z",
+        "summary": "UBS Reduces Its Price Objective For Duke Energy Corporation (DUK)"
       },
       {
-        "title": "The Saturday Spread: How Basketball Analytics May Help Extract Alpha (CPNG, DBX, BBY)",
-        "link": "https://finance.yahoo.com/news/saturday-spread-basketball-analytics-may-151501832.html",
-        "pubDate": "2026-01-03T15:15:01Z",
-        "summary": "The Saturday Spread: How Basketball Analytics May Help Extract Alpha (CPNG, DBX, BBY)"
+        "title": "Morgan Stanley Downgrades The Southern Company (SO) From Equal Weight To Underweight",
+        "link": "https://finance.yahoo.com/news/morgan-stanley-downgrades-southern-company-222700299.html",
+        "pubDate": "2026-01-04T22:27:00Z",
+        "summary": "Morgan Stanley Downgrades The Southern Company (SO) From Equal Weight To Underweight"
+      },
+      {
+        "title": "Sempra (SRE) Estimates A $471 million After-Tax Impact To Earnings From Track 2 Proposed Decision",
+        "link": "https://finance.yahoo.com/news/sempra-sre-estimates-471-million-222640495.html",
+        "pubDate": "2026-01-04T22:26:40Z",
+        "summary": "Sempra (SRE) Estimates A $471 million After-Tax Impact To Earnings From Track 2 Proposed Decision"
       }
     ]
   }
