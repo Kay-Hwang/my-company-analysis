@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026년 01월 10일 08:19 KST",
+  "lastUpdated": "2026년 01월 11일 08:18 KST",
   "news": {
     "investing": [
+      {
+        "title": "일본, ICT 경제 선두주자로 부상했나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1780680",
+        "pubDate": "2026-01-10 10:00:03",
+        "summary": "일본, ICT 경제 선두주자로 부상했나?"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1780677",
+        "pubDate": "2026-01-10 09:00:05",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "울프 애널리스트들, 2026년 주요 투자 테마 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1780674",
+        "pubDate": "2026-01-10 09:00:03",
+        "summary": "울프 애널리스트들, 2026년 주요 투자 테마 전망"
+      },
+      {
+        "title": "2026년 중소형주, 대형주 대비 우수한 성과 보일까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1780672",
+        "pubDate": "2026-01-10 08:30:03",
+        "summary": "2026년 중소형주, 대형주 대비 우수한 성과 보일까?"
+      },
+      {
+        "title": "뱅크오브아메리카, 2026년 시장에 영향을 미칠 AI 발표 가능성 제시",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1780673",
+        "pubDate": "2026-01-10 08:30:02",
+        "summary": "뱅크오브아메리카, 2026년 시장에 영향을 미칠 AI 발표 가능성 제시"
+      },
       {
         "title": "KKR & Co. COO 라이언 스토크, 즉시 사임",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780546",
@@ -31,160 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780512",
         "pubDate": "2026-01-09 21:28:58",
         "summary": "3E 네트워크, 추가 전환사채 자금 확보 후 주가 상승"
-      },
-      {
-        "title": "High Roller 주식, Saratoga 카지노의 1백만 달러 투자에 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780508",
-        "pubDate": "2026-01-09 21:24:17",
-        "summary": "High Roller 주식, Saratoga 카지노의 1백만 달러 투자에 급등"
-      },
-      {
-        "title": "바스타 플랫폼, 나스닥 자진 상장 폐지 후 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780497",
-        "pubDate": "2026-01-09 21:20:43",
-        "summary": "바스타 플랫폼, 나스닥 자진 상장 폐지 후 주가 하락"
-      },
-      {
-        "title": "First Student, IPO 주관사로 골드만삭스, 모건 스탠리, RBC 선정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780484",
-        "pubDate": "2026-01-09 21:07:06",
-        "summary": "First Student, IPO 주관사로 골드만삭스, 모건 스탠리, RBC 선정"
-      },
-      {
-        "title": "VCI Global, AI GPU 라운지 가동 소식에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780476",
-        "pubDate": "2026-01-09 21:00:12",
-        "summary": "VCI Global, AI GPU 라운지 가동 소식에 주가 급등"
-      },
-      {
-        "title": "아마존, 시카고 근교에 월마트 스타일 대형 매장 계획",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1780475",
-        "pubDate": "2026-01-09 20:59:39",
-        "summary": "아마존, 시카고 근교에 월마트 스타일 대형 매장 계획"
       }
     ],
     "cnbc": [
       {
-        "title": "Mortgage rates drop to lowest level in nearly 3 years as Trump orders buying of $200 billion in mortgage bonds",
-        "link": "https://www.cnbc.com/2026/01/09/heres-whats-happening-now-with-mortgage-rates-.html",
-        "pubDate": "Fri, 09 Jan 2026 23:14:27 GMT",
-        "summary": "President Donald Trump posted on social media Thursday that he is instructing mortgage giants Fannie Mae and Freddie Mac to buy $200 billion in mortgage bonds."
+        "title": "What the Big Oil executives told Trump about investing in Venezuela",
+        "link": "https://www.cnbc.com/2026/01/10/what-the-big-oil-executives-told-trump-about-investing-in-venezuela.html",
+        "pubDate": "Sat, 10 Jan 2026 12:59:40 GMT",
+        "summary": "The CEOs of Exxon and Conoco are wary of returning to Venezuela. Chevron is ready to quickly ramp up production."
       },
       {
-        "title": "Trump: ‘We are going to do something on Greenland whether they like it or not’",
-        "link": "https://www.cnbc.com/2026/01/09/trump-greenland-military-denmark-nato.html",
-        "pubDate": "Fri, 09 Jan 2026 22:03:34 GMT",
-        "summary": "Trump said that if the U.S. doesn't take action on Greenland, \"Russia or China will take over\" the Danish island territory."
+        "title": "AI memory is sold out, causing an unprecedented surge in prices",
+        "link": "https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html",
+        "pubDate": "Sat, 10 Jan 2026 15:55:33 GMT",
+        "summary": "Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage."
       },
       {
-        "title": "Trump says oil companies will spend $100 billion in Venezuela with U.S. protection",
-        "link": "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html",
-        "pubDate": "Fri, 09 Jan 2026 23:19:02 GMT",
-        "summary": "The oil industry has been mostly silent on Venezuela as the security situation and stability of the government in Caracas is far from clear."
+        "title": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
+        "link": "https://www.cnbc.com/2026/01/10/anthropic-amodei-siblings-generative-ai.html",
+        "pubDate": "Sat, 10 Jan 2026 15:12:01 GMT",
+        "summary": "Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption."
       },
       {
-        "title": "OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout",
-        "link": "https://www.cnbc.com/2026/01/09/openai-and-softbank-group-announce-1-billion-investment-in-sb-energy-.html",
-        "pubDate": "Fri, 09 Jan 2026 19:57:05 GMT",
-        "summary": "OpenAI and SoftBank agreed to invest $1 billion into a SoftBank-backed energy provider as the companies prepare for a massive buildout of AI data centers."
+        "title": "Abel's $25 million Berkshire paycheck is in the same league as other S&P 500 CEOs",
+        "link": "https://www.cnbc.com/2026/01/10/abels-25-million-berkshire-paycheck-is-in-the-same-league-as-other-sp-500-ceos.html",
+        "pubDate": "Sat, 10 Jan 2026 12:50:43 GMT",
+        "summary": "Greg Abel's $25M salary as Berkshire Hathaway's CEO is an enormous jump from Warren Buffett's famously small paycheck, but Abel still lags the nation's best paid corporate leaders."
       },
       {
-        "title": "New cellphone video of Minneapolis ICE shooting incident revealed",
-        "link": "https://www.cnbc.com/2026/01/09/ice-shooting-minneapolis-good-vance.html",
-        "pubDate": "Fri, 09 Jan 2026 21:45:21 GMT",
-        "summary": "The Trump administration has accused Renee Nicole Good of engaging in domestic terrorism. Others have said she was the victim in the incident."
+        "title": "Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart",
+        "link": "https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html",
+        "pubDate": "Sat, 10 Jan 2026 13:00:01 GMT",
+        "summary": "OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex."
       },
       {
-        "title": "Amazon plans first big-box retail store in Chicago suburb",
-        "link": "https://www.cnbc.com/2026/01/09/amazon-plans-first-big-box-retail-store-in-chicago-suburb.html",
-        "pubDate": "Fri, 09 Jan 2026 23:06:18 GMT",
-        "summary": "Amazon has submitted plans for a large-format store near Chicago that would be larger than a Walmart Supercenter."
+        "title": "Trump faces headwinds on Venezuela, health care as some Republicans break rank",
+        "link": "https://www.cnbc.com/2026/01/10/trump-venezuela-congress-republicans.html",
+        "pubDate": "Sat, 10 Jan 2026 15:25:52 GMT",
+        "summary": "A White House official said Republicans breaking with the president represent a \"tiny fraction\" of the congressional GOP."
       },
       {
-        "title": "Grok and X should be suspended from Apple, Google app stores, Democratic senators say",
-        "link": "https://www.cnbc.com/2026/01/09/grok-app-should-be-suspended-from-apple-google-democratic-senators.html",
-        "pubDate": "Fri, 09 Jan 2026 21:22:16 GMT",
-        "summary": "Senators from Oregon, Massachusetts and New Mexico urged Apple and Google to suspend X and Grok until Elon Musk curbs AI-generated sexualized images of kids."
+        "title": "We're in a 'hiring recession,' economist says — how job seekers can stand out",
+        "link": "https://www.cnbc.com/2026/01/10/hiring-recession.html",
+        "pubDate": "Sat, 10 Jan 2026 14:40:01 GMT",
+        "summary": "The job market flatlined in 2025. The first half of this year is expected to bring more of the same, economists said."
       },
       {
-        "title": "Supreme Court holds off on Trump tariff ruling for now — what's at stake for economy",
-        "link": "https://www.cnbc.com/2026/01/08/the-supreme-court-may-rule-friday-on-trumps-tariffs-heres-whats-at-stake-for-the-economy.html",
-        "pubDate": "Fri, 09 Jan 2026 16:59:14 GMT",
-        "summary": "The decision is poised to have far-reaching impacts on not only trade policy but also the U.S. fiscal situation."
+        "title": "Gen Z just isn’t seen as ‘work-ready’ – here’s why a million young brits are unemployed",
+        "link": "https://www.cnbc.com/2026/01/10/gen-z-isnt-work-ready-million-young-brits-out-of-work.html",
+        "pubDate": "Sat, 10 Jan 2026 07:35:40 GMT",
+        "summary": "\"You've got a lot of young people who missed out on years of in person education, work experience, work readiness,\" a charity impact chief told CNBC Make It."
       },
       {
-        "title": "Oracle announces departure of two oldest directors, narrowing board to 12",
-        "link": "https://www.cnbc.com/2026/01/09/oracle-announces-board-departures-george-conrades-and-naomi-seligman-.html",
-        "pubDate": "Fri, 09 Jan 2026 22:41:18 GMT",
-        "summary": "George Conrades and Naomi Seligman, who are both in their 80s, have been on Oracle's board for over 15 years."
+        "title": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
+        "link": "https://www.cnbc.com/2026/01/10/blackrock-investing-bull-market-portfolio-stocks.html",
+        "pubDate": "Sat, 10 Jan 2026 15:07:23 GMT",
+        "summary": "Investing giant BlackRock expects bull market in AI stocks to extend in 2026, but says investors should focus on targeted bets and turning cash into income."
       },
       {
-        "title": "U.S. payrolls rose 50,000 in December, less than expected; unemployment rate falls to 4.4%",
-        "link": "https://www.cnbc.com/2026/01/09/jobs-report-december-2025.html",
-        "pubDate": "Fri, 09 Jan 2026 14:36:13 GMT",
-        "summary": "The report presented a muddy view of the labor market, with companies reporting a low level of hiring but households showing employment gains."
+        "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
+        "link": "https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
+        "pubDate": "Sat, 10 Jan 2026 13:00:01 GMT",
+        "summary": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk, and a rival oral drug from Eli Lilly is slated for U.S. approval later this year."
       }
     ],
     "yahoo": [
       {
-        "title": "Cathie Wood Just Had a Comeback Year. This Controversial Stock Is Still Her Top Holding.",
-        "link": "https://finance.yahoo.com/news/cathie-wood-just-had-comeback-160649893.html",
-        "pubDate": "2026-01-08T16:06:49Z",
-        "summary": "Cathie Wood Just Had a Comeback Year. This Controversial Stock Is Still Her Top Holding."
+        "title": "Want to Buy Artificial Intelligence (AI) Stocks in 2026? These 2 Companies Could Net You Millions in Retirement.",
+        "link": "https://finance.yahoo.com/news/want-buy-artificial-intelligence-ai-230400527.html",
+        "pubDate": "2026-01-10T23:04:00Z",
+        "summary": "Want to Buy Artificial Intelligence (AI) Stocks in 2026? These 2 Companies Could Net You Millions in Retirement."
       },
       {
-        "title": "Nvidia CEO Jensen Huang settles the Tesla autonomy debate",
-        "link": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-settles-160700058.html",
-        "pubDate": "2026-01-08T16:07:00Z",
-        "summary": "Nvidia CEO Jensen Huang settles the Tesla autonomy debate"
+        "title": "Dow Jones Futures: Do Your Stocks Reflect The Broad, Strong Rally? JPMorgan, Goldman, Delta, Taiwan Semi Loom",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jpmorgan-goldman-delta-taiwan-semi-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-10T21:51:17Z",
+        "summary": "Dow Jones Futures: Do Your Stocks Reflect The Broad, Strong Rally? JPMorgan, Goldman, Delta, Taiwan Semi Loom"
       },
       {
-        "title": "US consumers more worried about job market in December, New York Fed report says",
-        "link": "https://finance.yahoo.com/news/us-consumers-more-worried-job-160353960.html",
-        "pubDate": "2026-01-08T16:03:53Z",
-        "summary": "US consumers more worried about job market in December, New York Fed report says"
+        "title": "I'm thinking of forgoing health insurance in 2026 because I can barely afford it. What are my options?",
+        "link": "https://finance.yahoo.com/news/im-thinking-forgoing-health-insurance-200000074.html",
+        "pubDate": "2026-01-10T20:00:00Z",
+        "summary": "I'm thinking of forgoing health insurance in 2026 because I can barely afford it. What are my options?"
       },
       {
-        "title": "Caterpillar Bringing AI Smarts, Autonomy To Construction Sites",
-        "link": "https://www.investors.com/news/technology/ces-2026-caterpillar-autonomy-construction/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-01-08T15:58:51Z",
-        "summary": "Caterpillar Bringing AI Smarts, Autonomy To Construction Sites"
+        "title": "Here’s What Analysts Think About Biogen Inc. (BIIB)",
+        "link": "https://finance.yahoo.com/news/analysts-think-biogen-inc-biib-195718194.html",
+        "pubDate": "2026-01-10T19:57:18Z",
+        "summary": "Here’s What Analysts Think About Biogen Inc. (BIIB)"
       },
       {
-        "title": "Trailer Manufacturer to Idle Two Plants, Cut 270 Jobs",
-        "link": "https://finance.yahoo.com/news/trailer-manufacturer-idle-two-plants-155349403.html",
-        "pubDate": "2026-01-08T15:53:49Z",
-        "summary": "Trailer Manufacturer to Idle Two Plants, Cut 270 Jobs"
+        "title": "AbbVie Inc. (ABBV) Gets Downgraded to Peer Perform From Outperform by Wolfe Research",
+        "link": "https://finance.yahoo.com/news/abbvie-inc-abbv-gets-downgraded-195717225.html",
+        "pubDate": "2026-01-10T19:57:17Z",
+        "summary": "AbbVie Inc. (ABBV) Gets Downgraded to Peer Perform From Outperform by Wolfe Research"
       },
       {
-        "title": "Stock Indexes Mixed on Big Tech Weakness and Higher Bond Yields",
-        "link": "https://finance.yahoo.com/news/stock-indexes-mixed-big-tech-162301875.html",
-        "pubDate": "2026-01-08T16:23:01Z",
-        "summary": "Stock Indexes Mixed on Big Tech Weakness and Higher Bond Yields"
+        "title": "Jim Mellon Says Venezuela's Oil Recovery Is 5+ Years Away, But US Refiners Could Benefit: 'I'd Suggest Loading Up On Oil And Gas'",
+        "link": "https://finance.yahoo.com/news/jim-mellon-says-venezuelas-oil-230212952.html",
+        "pubDate": "2026-01-10T23:02:12Z",
+        "summary": "Jim Mellon Says Venezuela's Oil Recovery Is 5+ Years Away, But US Refiners Could Benefit: 'I'd Suggest Loading Up On Oil And Gas'"
       },
       {
-        "title": "Why Northrop Grumman Stock Soared Today",
-        "link": "https://finance.yahoo.com/news/why-northrop-grumman-stock-soared-160732809.html",
-        "pubDate": "2026-01-08T16:07:32Z",
-        "summary": "Why Northrop Grumman Stock Soared Today"
+        "title": "Berenberg Bank Remains Bullish on AstraZeneca PLC (AZN) – Here’s Why",
+        "link": "https://finance.yahoo.com/news/berenberg-bank-remains-bullish-astrazeneca-195715465.html",
+        "pubDate": "2026-01-10T19:57:15Z",
+        "summary": "Berenberg Bank Remains Bullish on AstraZeneca PLC (AZN) – Here’s Why"
       },
       {
-        "title": "Betting That Netflix Stock Won't Keep Tumbling In Coming Months",
-        "link": "https://www.investors.com/research/options/netflix-nflx-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-01-08T15:46:46Z",
-        "summary": "Betting That Netflix Stock Won't Keep Tumbling In Coming Months"
+        "title": "Eli Lilly and Company (LLY) to Acquire Ventyx Biosciences",
+        "link": "https://finance.yahoo.com/news/eli-lilly-company-lly-acquire-195713266.html",
+        "pubDate": "2026-01-10T19:57:13Z",
+        "summary": "Eli Lilly and Company (LLY) to Acquire Ventyx Biosciences"
       },
       {
-        "title": "Early birds can begin filing their taxes on Jan. 26 this year",
-        "link": "https://finance.yahoo.com/news/early-birds-begin-filing-taxes-162609272.html",
-        "pubDate": "2026-01-08T16:26:09Z",
-        "summary": "Early birds can begin filing their taxes on Jan. 26 this year"
+        "title": "Jefferies Reaffirms a Buy Rating on GSK plc (GSK) – Here’s Why",
+        "link": "https://finance.yahoo.com/news/jefferies-reaffirms-buy-rating-gsk-195712128.html",
+        "pubDate": "2026-01-10T19:57:12Z",
+        "summary": "Jefferies Reaffirms a Buy Rating on GSK plc (GSK) – Here’s Why"
       },
       {
-        "title": "Should You Buy the Dip in First Solar Stock?",
-        "link": "https://finance.yahoo.com/news/buy-dip-first-solar-stock-154543156.html",
-        "pubDate": "2026-01-08T15:45:43Z",
-        "summary": "Should You Buy the Dip in First Solar Stock?"
+        "title": "Amarin Corporation (AMRN) Announces Select Unaudited Financial Highlights",
+        "link": "https://finance.yahoo.com/news/amarin-corporation-amrn-announces-select-195710250.html",
+        "pubDate": "2026-01-10T19:57:10Z",
+        "summary": "Amarin Corporation (AMRN) Announces Select Unaudited Financial Highlights"
       }
     ]
   }
