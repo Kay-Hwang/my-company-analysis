@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026년 01월 17일 08:19 KST",
+  "lastUpdated": "2026년 01월 18일 08:18 KST",
   "news": {
     "investing": [
+      {
+        "title": "FIFA 2026 월드컵, 미국 라이브 이벤트에 ’전례 없는’ 관심 불러일으킬 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1789386",
+        "pubDate": "2026-01-17 09:05:04",
+        "summary": "FIFA 2026 월드컵, 미국 라이브 이벤트에 ’전례 없는’ 관심 불러일으킬 전망"
+      },
+      {
+        "title": "제프리스, 테슬라의 로보택시 확장 지연에 \"이해하기 어렵다\"고 언급",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1789384",
+        "pubDate": "2026-01-17 09:05:03",
+        "summary": "제프리스, 테슬라의 로보택시 확장 지연에 \"이해하기 어렵다\"고 언급"
+      },
+      {
+        "title": "Investing.com의 이번 주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1789381",
+        "pubDate": "2026-01-17 09:00:03",
+        "summary": "Investing.com의 이번 주 주목할 주식들"
+      },
+      {
+        "title": "TotalEnergies vs. BP: 정제 마진 감소 속 어느 주식이 더 나을까",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1789378",
+        "pubDate": "2026-01-17 08:00:04",
+        "summary": "TotalEnergies vs. BP: 정제 마진 감소 속 어느 주식이 더 나을까"
+      },
+      {
+        "title": "중국 개혁이 부동산에서 주식으로 부를 이동시키는 가운데, UBS는 ’슬로우 불’ 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1789377",
+        "pubDate": "2026-01-17 08:00:03",
+        "summary": "중국 개혁이 부동산에서 주식으로 부를 이동시키는 가운데, UBS는 ’슬로우 불’ 전망"
+      },
+      {
+        "title": "전문가, 양자 컴퓨팅에서 기술 기업들의 분열된 접근 방식 지적",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1789376",
+        "pubDate": "2026-01-17 08:00:02",
+        "summary": "전문가, 양자 컴퓨팅에서 기술 기업들의 분열된 접근 방식 지적"
+      },
       {
         "title": "지스케일러 투자자들, 이사회 구조 변경 투표로 경영진에 경고 메시지 보내",
         "link": "https://kr.investing.com/news/stock-market-news/article-1789252",
@@ -25,45 +61,57 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1789147",
         "pubDate": "2026-01-16 20:21:33",
         "summary": "RBC, 신용평가사 주식, 2026년 강세 전망"
-      },
-      {
-        "title": "스파이글래스 파마, 기업공개(IPO) 신청서 제출",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1789156",
-        "pubDate": "2026-01-16 20:13:04",
-        "summary": "스파이글래스 파마, 기업공개(IPO) 신청서 제출"
-      },
-      {
-        "title": "SOLV 에너지, IPO 신청서 제출",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1789139",
-        "pubDate": "2026-01-16 19:53:04",
-        "summary": "SOLV 에너지, IPO 신청서 제출"
-      },
-      {
-        "title": "Bayer, Roundup 소송 상고 허가에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1789124",
-        "pubDate": "2026-01-16 19:37:50",
-        "summary": "Bayer, Roundup 소송 상고 허가에 주가 급등"
-      },
-      {
-        "title": "도이치뱅크, Shift4 투자의견 ’보유’로 하향...성장세 둔화 우려",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1789122",
-        "pubDate": "2026-01-16 19:32:30",
-        "summary": "도이치뱅크, Shift4 투자의견 ’보유’로 하향...성장세 둔화 우려"
-      },
-      {
-        "title": "YCS 그룹 홀딩스, 주당 4-5달러에 500만 주 IPO 신청",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1789118",
-        "pubDate": "2026-01-16 19:25:04",
-        "summary": "YCS 그룹 홀딩스, 주당 4-5달러에 500만 주 IPO 신청"
-      },
-      {
-        "title": "OpenAI, ChatGPT 무료/Go 버전 광고 테스트, Go 글로벌 확장",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1789107",
-        "pubDate": "2026-01-16 19:06:23",
-        "summary": "OpenAI, ChatGPT 무료/Go 버전 광고 테스트, Go 글로벌 확장"
       }
     ],
     "cnbc": [
+      {
+        "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn't sold to the U.S.",
+        "link": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html",
+        "pubDate": "Sat, 17 Jan 2026 23:07:59 GMT",
+        "summary": "Trump recently hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices."
+      },
+      {
+        "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
+        "link": "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
+        "pubDate": "Sat, 17 Jan 2026 22:07:48 GMT",
+        "summary": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021."
+      },
+      {
+        "title": "Warren Buffett on parenting, horse betting and why he stopped talking politics",
+        "link": "https://www.cnbc.com/2026/01/17/warren-buffett-on-parenting-horse-betting-and-why-he-stopped-talking-politics.html",
+        "pubDate": "Sat, 17 Jan 2026 13:50:34 GMT",
+        "summary": "Warren Buffett and Becky Quick covered a wide variety of topics in the interviews that aired in a two-hour special on CNBC."
+      },
+      {
+        "title": "Smaller companies are rising quickly to challenge Big Tech as AI's best trade",
+        "link": "https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html",
+        "pubDate": "Sat, 17 Jan 2026 21:43:09 GMT",
+        "summary": "Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps."
+      },
+      {
+        "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
+        "link": "https://www.cnbc.com/2026/01/17/disney-dominated-2025-box-office.html",
+        "pubDate": "Sat, 17 Jan 2026 13:00:01 GMT",
+        "summary": "Disney accounted for 27.5% of the domestic box office's overall annual haul. It looks to be a dominant force in 2026, too."
+      },
+      {
+        "title": "Warren Buffett used to ask college students this question—it can help you become richer and more successful",
+        "link": "https://www.cnbc.com/2026/01/17/warren-buffett-to-maximize-your-potential-ask-yourself-this-question.html",
+        "pubDate": "Sat, 17 Jan 2026 14:00:02 GMT",
+        "summary": "The Berkshire Hathaway chairman asked students which of their peers they'd bet on. The lesson was to bet on yourself."
+      },
+      {
+        "title": "Unexpected expenses take 10% of retirees' income, on average, research shows — many don't have enough cash on hand",
+        "link": "https://www.cnbc.com/2026/01/17/retirees-emergency-savings.html",
+        "pubDate": "Sat, 17 Jan 2026 13:30:01 GMT",
+        "summary": "The typical retiree household will spend an amount equivalent to 10% of annual income on unexpected expenses, and about 40% lack the cash to cover those costs."
+      },
+      {
+        "title": "Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet",
+        "link": "https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html",
+        "pubDate": "Sat, 17 Jan 2026 15:35:04 GMT",
+        "summary": "Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend."
+      },
       {
         "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
         "link": "https://www.cnbc.com/2026/01/16/white-house-hassett-trump-cards-credit-card-battle.html",
@@ -71,120 +119,72 @@
         "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that has been roundly rejected by industry executives and their lobbyists this week."
       },
       {
-        "title": "Trump floats new tariffs in push to acquire Greenland",
-        "link": "https://www.cnbc.com/2026/01/16/trump-greenland-tariffs.html",
-        "pubDate": "Fri, 16 Jan 2026 19:32:38 GMT",
-        "summary": "The comments show Trump considering applying his aggressive tariff strategies to his efforts to acquire Greenland."
-      },
-      {
-        "title": "Labor Dept. accused of echoing Nazi slogan in social media post",
-        "link": "https://www.cnbc.com/2026/01/16/trump-labor-nazi-slogan-social-media.html",
-        "pubDate": "Fri, 16 Jan 2026 21:27:29 GMT",
-        "summary": "Labor Dept. accused of echoing Nazi slogan in social media post"
-      },
-      {
-        "title": "Google files to appeal search monopoly case",
-        "link": "https://www.cnbc.com/2026/01/16/google-files-to-appeal-search-monopoly-case.html",
-        "pubDate": "Fri, 16 Jan 2026 23:11:57 GMT",
-        "summary": "The appeal could delay any implementation of the finalized remedies."
-      },
-      {
-        "title": "OpenAI has committed billions to recent chip deals. Some big names have been left out",
-        "link": "https://www.cnbc.com/2026/01/16/openai-chip-deal-with-cerebras-adds-to-roster-of-nvidia-amd-broadcom.html",
-        "pubDate": "Fri, 16 Jan 2026 20:00:01 GMT",
-        "summary": "OpenAI has inked multibillion-dollar deals with AI chipmakers including Nvidia, AMD, Broadcom and Cerebras."
-      },
-      {
-        "title": "Education Department to delay collections on defaulted student loans",
-        "link": "https://www.cnbc.com/2026/01/16/student-loan-collections-paused.html",
-        "pubDate": "Fri, 16 Jan 2026 22:27:20 GMT",
-        "summary": "The Education Department has announced it will delay the implementation of wage garnishment and other collections efforts for defaulted student loans."
-      },
-      {
-        "title": "Biggest offshore wind project in U.S. to resume construction after judge lifts Trump suspension",
-        "link": "https://www.cnbc.com/2026/01/16/biggest-offshore-wind-project-in-us-to-resume-construction-after-judge-lifts-trump-suspension.html",
-        "pubDate": "Fri, 16 Jan 2026 20:05:58 GMT",
-        "summary": "Coastal Virginia Offshore Wind will resume construction after a federal judge on Friday temporarily lifted the Trump administration's suspension."
-      },
-      {
-        "title": "Trump pitches direct payments to consumers for health care. What policy experts say about the plan",
-        "link": "https://www.cnbc.com/2026/01/15/trump-direct-payments-health-care.html",
-        "pubDate": "Thu, 15 Jan 2026 22:17:57 GMT",
-        "summary": "President Donald Trump wants to send payments directly to households for health costs. Experts think the plan may raise costs and the number of uninsured."
-      },
-      {
-        "title": "Republicans want to end the ‘marriage penalty’ for this childcare tax credit",
-        "link": "https://www.cnbc.com/2026/01/16/child-and-dependent-care-tax-credit.html",
-        "pubDate": "Fri, 16 Jan 2026 21:23:53 GMT",
-        "summary": "The Republican framework for \"Reconciliation 2.0\" includes an expansion for the child and dependent care tax credit. Here's what families need to know."
-      },
-      {
-        "title": "Cramer's week ahead: Earnings from Netflix, Intel, Capital One, McCormick",
-        "link": "https://www.cnbc.com/2026/01/16/cramers-week-ahead-earnings-from-netflix-intel-capital-one-mccormick.html",
-        "pubDate": "Fri, 16 Jan 2026 23:12:34 GMT",
-        "summary": "CNBC's Jim Cramer walked investors through next week on Wall Street."
+        "title": "Activist Irenic takes a stake in Integer. Here’s what could be next for the company",
+        "link": "https://www.cnbc.com/2026/01/17/activist-irenic-takes-a-stake-in-integer-heres-what-could-be-next-for-the-company.html",
+        "pubDate": "Sat, 17 Jan 2026 14:18:27 GMT",
+        "summary": "Activist Irenic Capital took a position in Integer. The firm seeks a refresh of the board and calls for the exploration of a potential sale of the company."
       }
     ],
     "yahoo": [
       {
-        "title": "Why Taiwan Semiconductor Stock Surged Today",
-        "link": "https://finance.yahoo.com/news/why-taiwan-semiconductor-stock-surged-160510486.html",
-        "pubDate": "2026-01-15T16:05:10Z",
-        "summary": "Why Taiwan Semiconductor Stock Surged Today"
+        "title": "Why Ford Investors Might Have to Say Goodbye to Its Special Dividend",
+        "link": "https://finance.yahoo.com/news/why-ford-investors-might-goodbye-230500281.html",
+        "pubDate": "2026-01-17T23:05:00Z",
+        "summary": "Why Ford Investors Might Have to Say Goodbye to Its Special Dividend"
       },
       {
-        "title": "Is ‘Sell Canada’ the New Trade of the Day?",
-        "link": "https://finance.yahoo.com/news/sell-canada-trade-day-161320397.html",
-        "pubDate": "2026-01-15T16:13:20Z",
-        "summary": "Is ‘Sell Canada’ the New Trade of the Day?"
+        "title": "How Will Dow Jones Futures React To Trump's Greenland Tariffs On NATO Nations?",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-tariffs-nato-nations-greenland-google/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-17T23:03:13Z",
+        "summary": "How Will Dow Jones Futures React To Trump's Greenland Tariffs On NATO Nations?"
       },
       {
-        "title": "3 of the Best Stocks to Buy for 2026 If You Believe That AI Will Keep Revolutionizing the World",
-        "link": "https://finance.yahoo.com/news/3-best-stocks-buy-2026-155519171.html",
-        "pubDate": "2026-01-15T15:55:19Z",
-        "summary": "3 of the Best Stocks to Buy for 2026 If You Believe That AI Will Keep Revolutionizing the World"
+        "title": "The solar panel contracts that can kill home sales",
+        "link": "https://finance.yahoo.com/news/the-solar-panel-contracts-that-can-kill-home-sales-133039793.html",
+        "pubDate": "2026-01-17T13:30:39Z",
+        "summary": "The solar panel contracts that can kill home sales"
       },
       {
-        "title": "Legendary Investor Michael Burry Is Betting Against Oracle Stock. What You Need to Know About the Bear Case for ORCL.",
-        "link": "https://finance.yahoo.com/news/legendary-investor-michael-burry-betting-161458562.html",
-        "pubDate": "2026-01-15T16:14:58Z",
-        "summary": "Legendary Investor Michael Burry Is Betting Against Oracle Stock. What You Need to Know About the Bear Case for ORCL."
+        "title": "Spot rates 25% behind inflation: A capacity crunch could change that",
+        "link": "https://finance.yahoo.com/news/spot-rates-25-behind-inflation-195806552.html",
+        "pubDate": "2026-01-17T19:58:06Z",
+        "summary": "Spot rates 25% behind inflation: A capacity crunch could change that"
       },
       {
-        "title": "Stocks Supported by Strength in Chip Makers and US Economic News",
-        "link": "https://finance.yahoo.com/news/stocks-supported-strength-chip-makers-161633186.html",
-        "pubDate": "2026-01-15T16:16:33Z",
-        "summary": "Stocks Supported by Strength in Chip Makers and US Economic News"
+        "title": "‘Ridiculously careless’: Pregnant mom needs bigger car, renos for growing family. Ramsey Show hosts say to start saving",
+        "link": "https://finance.yahoo.com/news/ridiculously-careless-pregnant-mom-needs-190000077.html",
+        "pubDate": "2026-01-17T19:00:00Z",
+        "summary": "‘Ridiculously careless’: Pregnant mom needs bigger car, renos for growing family. Ramsey Show hosts say to start saving"
       },
       {
-        "title": "Bank of America resets IBM price target before earnings",
-        "link": "https://finance.yahoo.com/news/bank-america-resets-ibm-price-160700407.html",
-        "pubDate": "2026-01-15T16:07:00Z",
-        "summary": "Bank of America resets IBM price target before earnings"
+        "title": "Trump Slams Jamie Dimon, JPMorgan. Why He Plans to Sue the Bank.",
+        "link": "https://www.barrons.com/articles/trump-jpmorgan-jamie-dimon-fed-chair-02f6a03c?siteid=yhoof2&yptr=yahoo",
+        "pubDate": "2026-01-17T22:56:00Z",
+        "summary": "Trump Slams Jamie Dimon, JPMorgan. Why He Plans to Sue the Bank."
       },
       {
-        "title": "European corporates expected to deliver worst earnings growth in past seven quarters",
-        "link": "https://finance.yahoo.com/news/european-corporates-expected-deliver-worst-162211464.html",
-        "pubDate": "2026-01-15T16:22:11Z",
-        "summary": "European corporates expected to deliver worst earnings growth in past seven quarters"
+        "title": "KLA (KLAC) Gets Upgrade as Foundry-Led WFE Demand Accelerates",
+        "link": "https://finance.yahoo.com/news/kla-klac-gets-upgrade-foundry-175739387.html",
+        "pubDate": "2026-01-17T17:57:39Z",
+        "summary": "KLA (KLAC) Gets Upgrade as Foundry-Led WFE Demand Accelerates"
       },
       {
-        "title": "Dollar Rallies on Solid US Economic News",
-        "link": "https://finance.yahoo.com/news/dollar-rallies-solid-us-economic-153701054.html",
-        "pubDate": "2026-01-15T15:37:01Z",
-        "summary": "Dollar Rallies on Solid US Economic News"
+        "title": "Arm (ARM) Downgraded by BofA on Smartphone and Royalty Headwinds",
+        "link": "https://finance.yahoo.com/news/arm-arm-downgraded-bofa-smartphone-175635979.html",
+        "pubDate": "2026-01-17T17:56:35Z",
+        "summary": "Arm (ARM) Downgraded by BofA on Smartphone and Royalty Headwinds"
       },
       {
-        "title": "Silver Prices Keep Confounding Experts. I Won’t Be Surprised If They Hit $100 Soon.",
-        "link": "https://finance.yahoo.com/news/silver-prices-keep-confounding-experts-163414235.html",
-        "pubDate": "2026-01-15T16:34:14Z",
-        "summary": "Silver Prices Keep Confounding Experts. I Won’t Be Surprised If They Hit $100 Soon."
+        "title": "Goldman Sachs Starts Coverage on Super Micro (SMCI) With Sell, $26 Target",
+        "link": "https://finance.yahoo.com/news/goldman-sachs-starts-coverage-super-175540712.html",
+        "pubDate": "2026-01-17T17:55:40Z",
+        "summary": "Goldman Sachs Starts Coverage on Super Micro (SMCI) With Sell, $26 Target"
       },
       {
-        "title": "Vera Therapeutics, Inc. (VERA) Granted FDA Priority Review For Atacicept",
-        "link": "https://finance.yahoo.com/news/vera-therapeutics-inc-vera-granted-163539531.html",
-        "pubDate": "2026-01-15T16:35:39Z",
-        "summary": "Vera Therapeutics, Inc. (VERA) Granted FDA Priority Review For Atacicept"
+        "title": "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates",
+        "link": "https://finance.yahoo.com/news/amd-gets-keybanc-upgrade-hyperscaler-175513511.html",
+        "pubDate": "2026-01-17T17:55:13Z",
+        "summary": "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates"
       }
     ]
   }
