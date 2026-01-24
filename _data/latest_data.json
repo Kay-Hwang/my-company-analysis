@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026년 01월 24일 08:20 KST",
+  "lastUpdated": "2026년 01월 25일 08:18 KST",
   "news": {
     "investing": [
+      {
+        "title": "지정학적 불확실성이 여행 관련 주식에 영향을 미칠까? 번스타인의 답변",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1797092",
+        "pubDate": "2026-01-24 10:05:02",
+        "summary": "지정학적 불확실성이 여행 관련 주식에 영향을 미칠까? 번스타인의 답변"
+      },
+      {
+        "title": "Investing.com의 금주 주목할 주식들",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1797090",
+        "pubDate": "2026-01-24 09:00:05",
+        "summary": "Investing.com의 금주 주목할 주식들"
+      },
+      {
+        "title": "소프트뱅크의 OpenAI 지분 심층 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1797087",
+        "pubDate": "2026-01-24 08:30:02",
+        "summary": "소프트뱅크의 OpenAI 지분 심층 분석"
+      },
+      {
+        "title": "UBS, \"향수는 투자 전략이 아니다\"라고 설명",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1797077",
+        "pubDate": "2026-01-24 08:05:02",
+        "summary": "UBS, \"향수는 투자 전략이 아니다\"라고 설명"
+      },
+      {
+        "title": "Aldabra 4, 나스닥에서 3억 150만 달러 규모 IPO 완료",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1797000",
+        "pubDate": "2026-01-23 23:45:08",
+        "summary": "Aldabra 4, 나스닥에서 3억 150만 달러 규모 IPO 완료"
+      },
       {
         "title": "Fitch, 보스턴 사이언티픽 등급 확인, 긍정적 전망 유지",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1796960",
@@ -31,160 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1796906",
         "pubDate": "2026-01-23 21:28:16",
         "summary": "S&P, Karman Space and Defense의 채무 등급 강등"
-      },
-      {
-        "title": "사렙타 테라퓨틱스, ELEVIDYS 3년 데이터 발표에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1796880",
-        "pubDate": "2026-01-23 21:14:35",
-        "summary": "사렙타 테라퓨틱스, ELEVIDYS 3년 데이터 발표에 주가 급등"
-      },
-      {
-        "title": "미니메드 그룹, 나스닥 IPO 신청 제출",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1796875",
-        "pubDate": "2026-01-23 21:12:04",
-        "summary": "미니메드 그룹, 나스닥 IPO 신청 제출"
-      },
-      {
-        "title": "디지털 화폐 X 기술, 나스닥 상장 폐지 통보에 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1796862",
-        "pubDate": "2026-01-23 21:06:43",
-        "summary": "디지털 화폐 X 기술, 나스닥 상장 폐지 통보에 급락"
-      },
-      {
-        "title": "키아젠, 전략적 검토 보도 속 잠재적 매각 가능성 부각",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1796853",
-        "pubDate": "2026-01-23 20:50:01",
-        "summary": "키아젠, 전략적 검토 보도 속 잠재적 매각 가능성 부각"
-      },
-      {
-        "title": "골드만삭스 CEO 솔로몬, 연봉 4700만 달러로 인상",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1796848",
-        "pubDate": "2026-01-23 20:13:27",
-        "summary": "골드만삭스 CEO 솔로몬, 연봉 4700만 달러로 인상"
       }
     ],
     "cnbc": [
       {
-        "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
-        "link": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html",
-        "pubDate": "Fri, 23 Jan 2026 21:26:18 GMT",
-        "summary": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated $4.9 trillion by 2029. Wall Street is starting to raise alarms about the risks."
-      },
-      {
-        "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
-        "link": "https://www.cnbc.com/2026/01/23/warren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
-        "pubDate": "Fri, 23 Jan 2026 20:32:31 GMT",
-        "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration when it comes to his push to make credit cards more affordable for Americans."
-      },
-      {
-        "title": "Trump's push for Greenland mineral rights could block China's access to rare earths",
-        "link": "https://www.cnbc.com/2026/01/23/trump-greenland-china-rare-earth-mineral.html",
-        "pubDate": "Fri, 23 Jan 2026 15:35:21 GMT",
-        "summary": "Greenland has the eighth-largest rare earth reserves in the world at 1.5 million metric tons, according to 2024 data from the U.S. Geological Survey."
-      },
-      {
-        "title": "Databricks obtains $1.8 billion in additional debt ahead of IPO",
-        "link": "https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html",
-        "pubDate": "Fri, 23 Jan 2026 21:15:36 GMT",
-        "summary": "Databricks is among the highly valued technology companies that are primed to go public in 2026."
-      },
-      {
-        "title": "Intel stock drops 17%, its worst day since 2024, as manufacturing troubles overshadow earnings beat",
-        "link": "https://www.cnbc.com/2026/01/23/intel-stock-earnings-q4-2025-supply.html",
-        "pubDate": "Fri, 23 Jan 2026 21:01:06 GMT",
-        "summary": "Over the last year, Intel shares have rallied more than double on hopes of a turnaround for the embattled American chipmaker."
-      },
-      {
-        "title": "Nvidia director Persis Drell resigns with $26 million worth of stock after decade on board",
-        "link": "https://www.cnbc.com/2026/01/23/nvidia-director-persis-drell-resigns-decade-on-board-26-million-stock.html",
-        "pubDate": "Fri, 23 Jan 2026 23:02:41 GMT",
-        "summary": "Nvidia's board now has 10 directors, including CEO Jensen Huang,"
-      },
-      {
-        "title": "Iran is not a major oil producer, but it still moves prices. Here's why",
-        "link": "https://www.cnbc.com/2026/01/23/iran-protests-why-oil-markets-care-so-much-about-the-country.html",
-        "pubDate": "Fri, 23 Jan 2026 18:55:50 GMT",
-        "summary": "Iran is not a major producer of oil, but the recent civil unrest there still moved markets. Here's why."
-      },
-      {
-        "title": "Pardoned Binance founder Zhao says his business relationship with the Trumps was 'misconstrued'",
-        "link": "https://www.cnbc.com/2026/01/23/pardon-binance-founder-cz-trump.html",
-        "pubDate": "Fri, 23 Jan 2026 18:14:38 GMT",
-        "summary": "Binance founder and former CEO Changpeng \"CZ\" Zhao said he has \"no business relationships whatsoever\" with the Trump family."
-      },
-      {
-        "title": "What obesity drugmakers see next in the market: More pills, easier access and drug combinations",
-        "link": "https://www.cnbc.com/2026/01/23/weight-loss-glp-1-drugs-next-steps-for-eli-lilly-novo-nordisk-pfizer.html",
-        "pubDate": "Fri, 23 Jan 2026 12:50:24 GMT",
-        "summary": "CNBC spoke to executives from Eli Lilly, Novo Nordisk, Pfizer and other drugmakers at the annual JPMorgan Healthcare Conference in San Francisco."
-      },
-      {
-        "title": "Airlines cancel nearly 4,000 weekend flights as massive winter storm sweeps across U.S.",
+        "title": "Airlines cancel nearly 13,000 weekend flights as massive winter storm sweeps across U.S.",
         "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
-        "pubDate": "Fri, 23 Jan 2026 21:41:00 GMT",
-        "summary": "U.S. airlines canceled flights and waived change fees for travelers as a cold snap and massive winter storm were forecast to sweep across the country."
+        "pubDate": "Sat, 24 Jan 2026 21:50:06 GMT",
+        "summary": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country."
+      },
+      {
+        "title": "Trump threatens to impose 100% tariff if Canada makes deal with China",
+        "link": "https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html",
+        "pubDate": "Sat, 24 Jan 2026 19:39:02 GMT",
+        "summary": "In his Truth Social post, Trump suggested that China would try to use Canada to try to avoid paying U.S. tariffs."
+      },
+      {
+        "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another fatal shooting",
+        "link": "https://www.cnbc.com/2026/01/24/walz-trump-ice-shooting.html",
+        "pubDate": "Sat, 24 Jan 2026 22:53:06 GMT",
+        "summary": "\"Minnesota has had it. This is sickening. The President must end this operation. Pull the thousands of violent, untrained officers out of Minnesota,\" Walz said."
+      },
+      {
+        "title": "New Berkshire CEO Abel quickly signals troubled Kraft Heinz stake could be toast",
+        "link": "https://www.cnbc.com/2026/01/24/new-berkshire-ceo-abel-quickly-signals-troubled-kraft-heinz-stake-could-be-toast.html",
+        "pubDate": "Sat, 24 Jan 2026 13:59:22 GMT",
+        "summary": "With Greg Abel as Berkshire Hathaway's new CEO of Berkshire Hathaway, the company is apparently preparing to sell some or all of its Kraft Heinz shares."
+      },
+      {
+        "title": "Meta's Reality Labs cuts sparked fears of a 'VR winter'",
+        "link": "https://www.cnbc.com/2026/01/24/metas-reality-labs-cuts-sparked-fears-of-a-vr-winter.html",
+        "pubDate": "Sat, 24 Jan 2026 12:00:02 GMT",
+        "summary": "Meta's deprioritizing virtual reality in favor of artificial intelligence and Internet-connected smart glasses raised concerns about the future of the industry."
+      },
+      {
+        "title": "I spent the week with tech CEOs. Here's what they're talking about",
+        "link": "https://www.cnbc.com/2026/01/24/tech-davos-ai-agentic-robotics.html",
+        "pubDate": "Sat, 24 Jan 2026 06:27:01 GMT",
+        "summary": "Four themes were top of mind for tech executives at Davos, and they were all about AI."
+      },
+      {
+        "title": "Musk’s $1 trillion pay package renews focus on soaring CEO compensation",
+        "link": "https://www.cnbc.com/2026/01/24/musks-1-trillion-pay-package-renews-focus-on-rising-ceo-compensation.html",
+        "pubDate": "Sat, 24 Jan 2026 12:00:02 GMT",
+        "summary": "Elon Musk's stock-fueled gains highlight the booming compensation and wealth gains of CEOs in recent decades."
+      },
+      {
+        "title": "The 10 best markets for first-time homebuyers in 2026, according to Realtor.com",
+        "link": "https://www.cnbc.com/2026/01/24/best-markets-first-time-homebuyers-realtor.html",
+        "pubDate": "Sat, 24 Jan 2026 14:00:02 GMT",
+        "summary": "In January, Realtor.com released its annual ranking of the best housing markets for first-time homebuyers."
+      },
+      {
+        "title": "Pursuing early retirement led this financial coach to marriage counseling—here's how he changed his strategy",
+        "link": "https://www.cnbc.com/2026/01/24/pursuing-early-retirement-led-financial-coach-to-marriage-counseling.html",
+        "pubDate": "Sat, 24 Jan 2026 15:00:01 GMT",
+        "summary": "Andy Hill encourages couples to define a shared set of dreams and work backward rather than charging toward a savings goal."
+      },
+      {
+        "title": "Investors went to Davos for AI. They left talking about Greenland",
+        "link": "https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html",
+        "pubDate": "Sat, 24 Jan 2026 12:47:36 GMT",
+        "summary": "Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks."
       }
     ],
     "yahoo": [
       {
-        "title": "2 High-Yielding Dividend Stocks That Retirees Can Rely on for Recurring Income",
-        "link": "https://finance.yahoo.com/news/2-high-yielding-dividend-stocks-160500181.html",
-        "pubDate": "2026-01-22T16:05:00Z",
-        "summary": "2 High-Yielding Dividend Stocks That Retirees Can Rely on for Recurring Income"
+        "title": "My Top 3 Chip Stocks for 2025 Crushed the Market. Here's Why They Can Repeat Again in 2026.",
+        "link": "https://finance.yahoo.com/news/top-3-chip-stocks-2025-230500832.html",
+        "pubDate": "2026-01-24T23:05:00Z",
+        "summary": "My Top 3 Chip Stocks for 2025 Crushed the Market. Here's Why They Can Repeat Again in 2026."
       },
       {
-        "title": "Shift4 Payments CEO Taylor Lauber on Powering Merchants: ICR Conference 2026",
-        "link": "https://finance.yahoo.com/news/shift4-payments-ceo-taylor-lauber-160920793.html",
-        "pubDate": "2026-01-22T16:09:20Z",
-        "summary": "Shift4 Payments CEO Taylor Lauber on Powering Merchants: ICR Conference 2026"
+        "title": "Dow Jones Futures: Trump Threatens 100% Canada Tariff; Tesla, Microsoft, Meta, Apple Lead Earnings Wave",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-100-canada-tariff-tesla-microsoft-meta-apple-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-24T22:48:02Z",
+        "summary": "Dow Jones Futures: Trump Threatens 100% Canada Tariff; Tesla, Microsoft, Meta, Apple Lead Earnings Wave"
       },
       {
-        "title": "What to Expect From Host Hotels & Resorts’ Q4 2025 Earnings Report",
-        "link": "https://finance.yahoo.com/news/expect-host-hotels-resorts-q4-161004951.html",
-        "pubDate": "2026-01-22T16:10:04Z",
-        "summary": "What to Expect From Host Hotels & Resorts’ Q4 2025 Earnings Report"
+        "title": "Intel Stock Drops After Q4 Earnings: Is INTC a Buy Now?",
+        "link": "https://finance.yahoo.com/news/intel-stock-drops-q4-earnings-200338690.html",
+        "pubDate": "2026-01-24T20:03:38Z",
+        "summary": "Intel Stock Drops After Q4 Earnings: Is INTC a Buy Now?"
       },
       {
-        "title": "SanDisk Stock Keeps Surging. Did You Miss Your Chance to Buy?",
-        "link": "https://finance.yahoo.com/news/sandisk-stock-keeps-surging-did-155945600.html",
-        "pubDate": "2026-01-22T15:59:45Z",
-        "summary": "SanDisk Stock Keeps Surging. Did You Miss Your Chance to Buy?"
+        "title": "Could a Wearable AI Pin Be the Next Big Thing for Apple Stock?",
+        "link": "https://finance.yahoo.com/news/could-wearable-ai-pin-next-191210876.html",
+        "pubDate": "2026-01-24T19:12:10Z",
+        "summary": "Could a Wearable AI Pin Be the Next Big Thing for Apple Stock?"
       },
       {
-        "title": "Stocks Supported by Easing Geopolitical Tensions and Solid US Economic News",
-        "link": "https://finance.yahoo.com/news/stocks-supported-easing-geopolitical-tensions-161022868.html",
-        "pubDate": "2026-01-22T16:10:22Z",
-        "summary": "Stocks Supported by Easing Geopolitical Tensions and Solid US Economic News"
+        "title": "Wedbush Is Betting That Netflix Can Double Ad Revenue in 2026. Does That Make NFLX Stock a Buy Here?",
+        "link": "https://finance.yahoo.com/news/wedbush-betting-netflix-double-ad-173926223.html",
+        "pubDate": "2026-01-24T17:39:26Z",
+        "summary": "Wedbush Is Betting That Netflix Can Double Ad Revenue in 2026. Does That Make NFLX Stock a Buy Here?"
       },
       {
-        "title": "Billionaire Michael Saylor Hints at More Bitcoin Buying in Mid-Week Post",
-        "link": "https://finance.yahoo.com/news/billionaire-michael-saylor-hints-more-160852497.html",
-        "pubDate": "2026-01-22T16:08:52Z",
-        "summary": "Billionaire Michael Saylor Hints at More Bitcoin Buying in Mid-Week Post"
+        "title": "Ericsson Proposes Bigger Dividends After Strong Quarter",
+        "link": "https://finance.yahoo.com/news/ericsson-proposes-bigger-dividends-strong-230152531.html",
+        "pubDate": "2026-01-24T23:01:52Z",
+        "summary": "Ericsson Proposes Bigger Dividends After Strong Quarter"
       },
       {
-        "title": "What A Cuba Takeover Could Mean For U.S. Stocks: Trump Regime Change Report",
-        "link": "https://www.investors.com/news/cuba-trump-regime-change-could-mean-for-stock-market/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-01-22T16:12:13Z",
-        "summary": "What A Cuba Takeover Could Mean For U.S. Stocks: Trump Regime Change Report"
+        "title": "Google, Nvidia, Lilly Lead 5 Stocks Near Buy Points",
+        "link": "https://www.investors.com/news/google-nvidia-lilly-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-24T17:13:27Z",
+        "summary": "Google, Nvidia, Lilly Lead 5 Stocks Near Buy Points"
       },
       {
-        "title": "Profit from the Incoming Major Winter Storm with This 1 Trade",
-        "link": "https://finance.yahoo.com/news/profit-incoming-major-winter-storm-155547614.html",
-        "pubDate": "2026-01-22T15:55:47Z",
-        "summary": "Profit from the Incoming Major Winter Storm with This 1 Trade"
+        "title": "The Most Expensive Question Investors Ask",
+        "link": "https://finance.yahoo.com/news/most-expensive-investors-ask-170121824.html",
+        "pubDate": "2026-01-24T17:01:21Z",
+        "summary": "The Most Expensive Question Investors Ask"
       },
       {
-        "title": "Dear Boeing Stock Fans, Mark Your Calendars for January 27",
-        "link": "https://finance.yahoo.com/news/dear-boeing-stock-fans-mark-161733842.html",
-        "pubDate": "2026-01-22T16:17:33Z",
-        "summary": "Dear Boeing Stock Fans, Mark Your Calendars for January 27"
+        "title": "As Meta Rolls Out Threads Ads Around the World, Should You Buy, Sell, or Hold META Stock?",
+        "link": "https://finance.yahoo.com/news/meta-rolls-threads-ads-around-164641372.html",
+        "pubDate": "2026-01-24T16:46:41Z",
+        "summary": "As Meta Rolls Out Threads Ads Around the World, Should You Buy, Sell, or Hold META Stock?"
       },
       {
-        "title": "Arista Stock Moves Into Positive Territory Ahead Of Q4 Earnings",
-        "link": "https://www.investors.com/news/technology/arista-stock-anet-earnings-2026-outlook/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-01-22T16:18:09Z",
-        "summary": "Arista Stock Moves Into Positive Territory Ahead Of Q4 Earnings"
+        "title": "Which One of These Precious Metal ETFs Shine the Most?",
+        "link": "https://finance.yahoo.com/news/one-precious-metal-etfs-shine-225656619.html",
+        "pubDate": "2026-01-24T22:56:56Z",
+        "summary": "Which One of These Precious Metal ETFs Shine the Most?"
       }
     ]
   }
