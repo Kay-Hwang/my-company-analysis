@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026년 01월 31일 08:24 KST",
+  "lastUpdated": "2026년 02월 01일 08:21 KST",
   "news": {
     "investing": [
+      {
+        "title": "Valo 미국 투어: CEO, Investing.com에 전략 및 수익성 확보 경로 밝혀",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806734",
+        "pubDate": "2026-01-31 17:32:38",
+        "summary": "Valo 미국 투어: CEO, Investing.com에 전략 및 수익성 확보 경로 밝혀"
+      },
+      {
+        "title": "2026년 온라인 여행 산업의 5가지 핵심 테마",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806721",
+        "pubDate": "2026-01-31 10:00:03",
+        "summary": "2026년 온라인 여행 산업의 5가지 핵심 테마"
+      },
+      {
+        "title": "경영진 변화가 영국 리츠의 주가 실적에 영향을 미칠까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806720",
+        "pubDate": "2026-01-31 09:30:02",
+        "summary": "경영진 변화가 영국 리츠의 주가 실적에 영향을 미칠까?"
+      },
+      {
+        "title": "BofA, 강력한 미국 겨울 폭풍으로 이 항공사가 큰 타격을 입었을 수 있다고 밝혀",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806718",
+        "pubDate": "2026-01-31 09:00:04",
+        "summary": "BofA, 강력한 미국 겨울 폭풍으로 이 항공사가 큰 타격을 입었을 수 있다고 밝혀"
+      },
+      {
+        "title": "LDP 과반 확보 시 일본 주식 시장 랠리 가속화될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806717",
+        "pubDate": "2026-01-31 09:00:02",
+        "summary": "LDP 과반 확보 시 일본 주식 시장 랠리 가속화될까?"
+      },
+      {
+        "title": "OpenAI 광고가 Google과 Meta와 같은 경쟁사에 미치는 영향은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806714",
+        "pubDate": "2026-01-31 09:00:00",
+        "summary": "OpenAI 광고가 Google과 Meta와 같은 경쟁사에 미치는 영향은?"
+      },
+      {
+        "title": "유럽 은행들, 미국 경쟁사와 자본시장에서 맞설 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806716",
+        "pubDate": "2026-01-31 08:30:03",
+        "summary": "유럽 은행들, 미국 경쟁사와 자본시장에서 맞설 수 있을까?"
+      },
+      {
+        "title": "미국 달러는 글로벌 금융 시스템의 중추로 남을 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1806715",
+        "pubDate": "2026-01-31 08:30:02",
+        "summary": "미국 달러는 글로벌 금융 시스템의 중추로 남을 수 있을까?"
+      },
       {
         "title": "록히드 마틴, 3790만 달러 규모의 방위 계약 체결",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806583",
@@ -13,98 +61,56 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806581",
         "pubDate": "2026-01-30 22:28:46",
         "summary": "제너럴 다이내믹스, 해군과 2억 5,510만 달러 규모 잠수함 시스템 계약 체결"
-      },
-      {
-        "title": "노스럽 그루먼, 5천만 달러 규모 국방 소프트웨어 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806580",
-        "pubDate": "2026-01-30 22:28:13",
-        "summary": "노스럽 그루먼, 5천만 달러 규모 국방 소프트웨어 계약 체결"
-      },
-      {
-        "title": "오라클, 미 공군 Cloud One 프로그램에 8800만 달러 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806579",
-        "pubDate": "2026-01-30 22:25:44",
-        "summary": "오라클, 미 공군 Cloud One 프로그램에 8800만 달러 계약 체결"
-      },
-      {
-        "title": "L3 Technologies & L3해리스, 3억 6,300만 달러 규모 방위 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806578",
-        "pubDate": "2026-01-30 22:24:54",
-        "summary": "L3 Technologies & L3해리스, 3억 6,300만 달러 규모 방위 계약 체결"
-      },
-      {
-        "title": "보잉, 한국 F-15 전투기 업그레이드에 28억 달러 계약 체결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806577",
-        "pubDate": "2026-01-30 22:22:03",
-        "summary": "보잉, 한국 F-15 전투기 업그레이드에 28억 달러 계약 체결"
-      },
-      {
-        "title": "월트 디즈니, 아이거 CEO 퇴임 앞두고 다음 주 이사회 투표 예정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1806574",
-        "pubDate": "2026-01-30 22:03:27",
-        "summary": "월트 디즈니, 아이거 CEO 퇴임 앞두고 다음 주 이사회 투표 예정"
-      },
-      {
-        "title": "몰로코, IPO 고려 중 - 블룸버그",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806559",
-        "pubDate": "2026-01-30 21:54:55",
-        "summary": "몰로코, IPO 고려 중 - 블룸버그"
-      },
-      {
-        "title": "S&P, Huntsman Corp. 신용등급 ’BB’로 하향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806554",
-        "pubDate": "2026-01-30 21:48:04",
-        "summary": "S&P, Huntsman Corp. 신용등급 ’BB’로 하향 조정"
-      },
-      {
-        "title": "올레마 파마슈티컬스, CFO 사임 발표 후 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1806545",
-        "pubDate": "2026-01-30 21:40:49",
-        "summary": "올레마 파마슈티컬스, CFO 사임 발표 후 주가 하락"
       }
     ],
     "cnbc": [
       {
-        "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
-        "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
-        "pubDate": "Fri, 30 Jan 2026 18:28:58 GMT",
-        "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump’s pick to lead the Federal Reserve. Here’s his background, views and why it matters."
+        "title": "Bitcoin dips below $78,000 as market digests silver sell-off, Trump's Fed chair pick",
+        "link": "https://www.cnbc.com/2026/01/31/bitcoin-dips-below-78000-after-silver-selloff.html",
+        "pubDate": "Sat, 31 Jan 2026 19:59:22 GMT",
+        "summary": "Bitcoin and Ethereum plunged following wide swings in the commodities market."
       },
       {
-        "title": "Silver plunges 30% in worst day since 1980, gold tumbles as Warsh pick eases Fed independence fear",
-        "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
-        "pubDate": "Fri, 30 Jan 2026 20:45:33 GMT",
-        "summary": "Gold and silver prices plunged on Friday, following weeks of gains as investors poured money into safe havens."
-      },
-      {
-        "title": "Partial government shutdown on track; Senate to vote on deal after Graham drops hold",
+        "title": "U.S. government partially shuts down; House vote could reopen it by Monday",
         "link": "https://www.cnbc.com/2026/01/30/government-shutdown-senate-vote-dhs.html",
-        "pubDate": "Fri, 30 Jan 2026 21:11:15 GMT",
-        "summary": "The deal would address concerns Democrats have about funding the Department of Homeland Security because of enforcement actions in Minnesota."
+        "pubDate": "Sat, 31 Jan 2026 05:01:44 GMT",
+        "summary": "The funding deal addresses concerns Democrats have about funding the Department of Homeland Security because of enforcement actions in Minnesota."
       },
       {
-        "title": "GameStop's Ryan Cohen eyes 'very big' consumer megadeal that could increase company's value tenfold",
-        "link": "https://www.cnbc.com/2026/01/30/gamestop-ceo-ryan-cohen-targets-consumer-mega-deal.html",
-        "pubDate": "Fri, 30 Jan 2026 19:36:21 GMT",
-        "summary": "Ryan Cohen wouldn't say whether he would sell GameStop's bitcoin to try to pull off a major acquisition."
+        "title": "Federal judge denies bid to end ICE Operation Metro Surge in Minnesota",
+        "link": "https://www.cnbc.com/2026/01/31/federal-judge-denies-bid-to-end-ice-operation-metro-surge-in-minnesota.html",
+        "pubDate": "Sat, 31 Jan 2026 19:12:14 GMT",
+        "summary": "The crackdown \"has had, and will likely continue to have, profound and even heartbreaking, consequences,\" U.S. District Judge Menendez said in the ruling."
       },
       {
-        "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch",
-        "link": "https://www.cnbc.com/2026/01/30/eli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
-        "pubDate": "Fri, 30 Jan 2026 21:39:04 GMT",
-        "summary": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to compete and is preparing for a \"full launch\" in the second quarter."
+        "title": "American Express challenges Apple for No. 1 slot in Berkshire's portfolio",
+        "link": "https://www.cnbc.com/2026/01/31/american-express-challenges-apple-for-no-1-slot-in-berkshires-portfolio.html",
+        "pubDate": "Sat, 31 Jan 2026 16:58:50 GMT",
+        "summary": "Big Apple sales and gains for American Express have put Amex within a few billion dollars of becoming the most valuable holding in Berkshire's portfolio."
       },
       {
-        "title": "Fireblocks CEO says North Korea-linked job recruitment scam targeted LinkedIn profiles",
-        "link": "https://www.cnbc.com/2026/01/30/fireblocks-north-korea-hackers-crypto-job-scam.html",
-        "pubDate": "Fri, 30 Jan 2026 22:14:06 GMT",
-        "summary": "CEO Michael Shaulov said hackers, especially those with ties to North Korea, have been evolving at \"lightspeed\" because of AI."
+        "title": "Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks",
+        "link": "https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html",
+        "pubDate": "Sat, 31 Jan 2026 13:00:01 GMT",
+        "summary": "Big Food has been selling off underperforming brands or even splitting up, as the industry faces weaker demand."
       },
       {
-        "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
-        "link": "https://www.cnbc.com/2026/01/30/american-express-credit-card-high-spenders.html",
-        "pubDate": "Fri, 30 Jan 2026 19:09:39 GMT",
-        "summary": "AmEx's strategy shift is the latest example of the K-shaped economy, in which wealthy consumers continue to spend freely while others rein in their expenses"
+        "title": "Activist Dan Loeb dusts off his poison pen as he seeks a board refresh at CoStar Group",
+        "link": "https://www.cnbc.com/2026/01/31/activist-dan-loeb-dusts-off-his-poison-pen-as-he-seeks-a-board-refresh-at-costar-group.html",
+        "pubDate": "Sat, 31 Jan 2026 14:09:38 GMT",
+        "summary": "Investors are seeing shades of yesteryear's Dan Loeb in a letter he recently wrote to the CoStar board."
+      },
+      {
+        "title": "NYC's iconic Flatiron Building officially has apartments for sale, starting at nearly $11 million—take a look inside",
+        "link": "https://www.cnbc.com/2026/01/31/flatiron-building-apartments-for-sale.html",
+        "pubDate": "Sat, 31 Jan 2026 15:00:01 GMT",
+        "summary": "The Flatiron Building has gone from a commercial building to a residential one with 38 luxury condos."
+      },
+      {
+        "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
+        "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-ends-open-seating.html",
+        "pubDate": "Fri, 30 Jan 2026 17:49:53 GMT",
+        "summary": "Southwest Airlines replaced open seating with assigned seats after more than 50 years."
       },
       {
         "title": "Wealth inequality and the 'K-shaped' economy are more striking than ever, data shows",
@@ -113,78 +119,72 @@
         "summary": "The K-shaped economy is as apparent as ever and isn't going away anytime soon, economists say."
       },
       {
-        "title": "Former Google engineer found guilty of espionage and theft of AI tech",
-        "link": "https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html",
-        "pubDate": "Fri, 30 Jan 2026 19:53:09 GMT",
-        "summary": "The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice."
-      },
-      {
-        "title": "Jeffrey Epstein victims blast DOJ for 'incomplete' release of files",
-        "link": "https://www.cnbc.com/2026/01/30/jeffrey-epstein-files-doj.html",
-        "pubDate": "Fri, 30 Jan 2026 22:49:06 GMT",
-        "summary": "\"We did not protect President Trump ... or anybody,\" Deputy Attorney General Todd Blanche said as he revealed there would be no more release of Epstein files."
+        "title": "Epstein files show Elon Musk apparently discussed plans to visit sex offender's island, host him at SpaceX",
+        "link": "https://www.cnbc.com/2026/01/30/epstein-files-show-elon-musk-planned-visit-to-island-host-at-spacex.html",
+        "pubDate": "Sat, 31 Jan 2026 05:56:33 GMT",
+        "summary": "Elon Musk corresponded with Jeffrey Epstein in 2012 and 2013, according to newly released files, and sought to visit Epstein's island and host him at SpaceX."
       }
     ],
     "yahoo": [
       {
-        "title": "Cimpress (CMPR) Q2 2026 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/news/cimpress-cmpr-q2-2026-earnings-161610486.html",
-        "pubDate": "2026-01-29T16:16:10Z",
-        "summary": "Cimpress (CMPR) Q2 2026 Earnings Call Transcript"
+        "title": "Cathie Wood sends blunt message after Bitcoin crashes",
+        "link": "https://finance.yahoo.com/news/cathie-wood-sends-blunt-message-231032593.html",
+        "pubDate": "2026-01-31T23:10:32Z",
+        "summary": "Cathie Wood sends blunt message after Bitcoin crashes"
       },
       {
-        "title": "Brazil's BRB may book nearly $1 billion loss from Banco Master deals, central banker says",
-        "link": "https://finance.yahoo.com/news/brazils-brb-may-book-nearly-161654931.html",
-        "pubDate": "2026-01-29T16:16:54Z",
-        "summary": "Brazil's BRB may book nearly $1 billion loss from Banco Master deals, central banker says"
+        "title": "Bitcoin falls below $80,000, continuing decline as liquidity worries mount",
+        "link": "https://finance.yahoo.com/news/bitcoin-falls-below-80-000-180248860.html",
+        "pubDate": "2026-01-31T18:02:48Z",
+        "summary": "Bitcoin falls below $80,000, continuing decline as liquidity worries mount"
       },
       {
-        "title": "CFO David Zinsner Is Buying Intel Stock. Should You?",
-        "link": "https://finance.yahoo.com/news/cfo-david-zinsner-buying-intel-162245212.html",
-        "pubDate": "2026-01-29T16:22:45Z",
-        "summary": "CFO David Zinsner Is Buying Intel Stock. Should You?"
+        "title": "Dow Jones Futures: Risk-Off Market Shift, What To Do Now; Google, AMD, Amazon, Palantir Due",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-risk-off-shift-google-amd-amazon-palantir-lilly/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-01-31T21:46:10Z",
+        "summary": "Dow Jones Futures: Risk-Off Market Shift, What To Do Now; Google, AMD, Amazon, Palantir Due"
       },
       {
-        "title": "Analysts Love These 2 Picks-and-Shovels Gold Stocks. Should You Buy Them as Gold Prices Hit New Record Highs?",
-        "link": "https://finance.yahoo.com/news/analysts-love-2-picks-shovels-162349234.html",
-        "pubDate": "2026-01-29T16:23:49Z",
-        "summary": "Analysts Love These 2 Picks-and-Shovels Gold Stocks. Should You Buy Them as Gold Prices Hit New Record Highs?"
+        "title": "Regeneron (REGN) Draws Higher Target From TD Cowen",
+        "link": "https://finance.yahoo.com/news/regeneron-regn-draws-higher-target-213713030.html",
+        "pubDate": "2026-01-31T21:37:13Z",
+        "summary": "Regeneron (REGN) Draws Higher Target From TD Cowen"
       },
       {
-        "title": "Dollar Recovers on Hopes a Government Shutdown Can be Avoided",
-        "link": "https://finance.yahoo.com/news/dollar-recovers-hopes-government-shutdown-160408953.html",
-        "pubDate": "2026-01-29T16:04:08Z",
-        "summary": "Dollar Recovers on Hopes a Government Shutdown Can be Avoided"
+        "title": "Baird Downgrades WillScot (WSC) as Growth Trends Remain Soft",
+        "link": "https://finance.yahoo.com/news/baird-downgrades-willscot-wsc-growth-213436038.html",
+        "pubDate": "2026-01-31T21:34:36Z",
+        "summary": "Baird Downgrades WillScot (WSC) as Growth Trends Remain Soft"
       },
       {
-        "title": "Gold prices hit record high as 2026 starts with a rally",
-        "link": "https://finance.yahoo.com/news/gold-tear-far-2026-hitting-161715965.html",
-        "pubDate": "2026-01-29T16:17:15Z",
-        "summary": "Gold prices hit record high as 2026 starts with a rally"
+        "title": "Gene Munster Says Apple Stock's Tepid Reaction To Strong Earnings Beat Comes Down To One Thing: Investors Want More AI Substance",
+        "link": "https://finance.yahoo.com/news/gene-munster-says-apple-stocks-230116444.html",
+        "pubDate": "2026-01-31T23:01:16Z",
+        "summary": "Gene Munster Says Apple Stock's Tepid Reaction To Strong Earnings Beat Comes Down To One Thing: Investors Want More AI Substance"
       },
       {
-        "title": "Altria earnings fall short amid lower cigarette sales and competition for nicotine products",
-        "link": "https://finance.yahoo.com/news/altria-earnings-fall-short-amid-160403158.html",
-        "pubDate": "2026-01-29T16:04:03Z",
-        "summary": "Altria earnings fall short amid lower cigarette sales and competition for nicotine products"
+        "title": "Viavi Solutions (VIAV) Skyrockets 30% on Restructuring Plans",
+        "link": "https://finance.yahoo.com/news/viavi-solutions-viav-skyrockets-30-213113857.html",
+        "pubDate": "2026-01-31T21:31:13Z",
+        "summary": "Viavi Solutions (VIAV) Skyrockets 30% on Restructuring Plans"
       },
       {
-        "title": "Geopolitics loom large over Big Oil earnings as investors seek Venezuela details",
-        "link": "https://finance.yahoo.com/news/geopolitics-loom-large-over-big-160209831.html",
-        "pubDate": "2026-01-29T16:02:09Z",
-        "summary": "Geopolitics loom large over Big Oil earnings as investors seek Venezuela details"
+        "title": "JPMorgan Raises VeriSign (VRSN) Target as Domain Trends Improve",
+        "link": "https://finance.yahoo.com/news/jpmorgan-raises-verisign-vrsn-target-213048738.html",
+        "pubDate": "2026-01-31T21:30:48Z",
+        "summary": "JPMorgan Raises VeriSign (VRSN) Target as Domain Trends Improve"
       },
       {
-        "title": "Kraft Heinz Stock Outlook: Is Wall Street Bullish or Bearish?",
-        "link": "https://finance.yahoo.com/news/kraft-heinz-stock-outlook-wall-160111889.html",
-        "pubDate": "2026-01-29T16:01:11Z",
-        "summary": "Kraft Heinz Stock Outlook: Is Wall Street Bullish or Bearish?"
+        "title": "Strong Results Drive Capital Return Shift at Tutor Perini (TPC)",
+        "link": "https://finance.yahoo.com/news/strong-results-drive-capital-return-212818391.html",
+        "pubDate": "2026-01-31T21:28:18Z",
+        "summary": "Strong Results Drive Capital Return Shift at Tutor Perini (TPC)"
       },
       {
-        "title": "Can a felon buy a house?",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/can-a-felon-buy-a-house-214336902.html",
-        "pubDate": "2025-01-06T21:43:36Z",
-        "summary": "Can a felon buy a house?"
+        "title": "Applied Optoelectronics (AAOI) Soars 22% as Earnings Loom",
+        "link": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-soars-22-212702198.html",
+        "pubDate": "2026-01-31T21:27:02Z",
+        "summary": "Applied Optoelectronics (AAOI) Soars 22% as Earnings Loom"
       }
     ]
   }
