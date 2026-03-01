@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026년 03월 01일 08:20 KST",
+  "lastUpdated": "2026년 03월 02일 08:22 KST",
   "news": {
     "investing": [
+      {
+        "title": "S&P 500 10% 하락 후 매수하라, Barclays 조언",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1845481",
+        "pubDate": "2026-03-01 10:08:08",
+        "summary": "S&P 500 10% 하락 후 매수하라, Barclays 조언"
+      },
+      {
+        "title": "애널리스트 AI 주요 동향 5가지: Google 등급 상향, AI 리스크로 소프트웨어 4종목 하향",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1845474",
+        "pubDate": "2026-03-01 09:00:03",
+        "summary": "애널리스트 AI 주요 동향 5가지: Google 등급 상향, AI 리스크로 소프트웨어 4종목 하향"
+      },
+      {
+        "title": "주간 애널리스트 주요 코멘트",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1845470",
+        "pubDate": "2026-03-01 08:25:01",
+        "summary": "주간 애널리스트 주요 코멘트"
+      },
+      {
+        "title": "BofA, EU 주식 랠리를 위협할 수 있는 여러 AI 관련 리스크 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1845421",
+        "pubDate": "2026-03-01 00:25:10",
+        "summary": "BofA, EU 주식 랠리를 위협할 수 있는 여러 AI 관련 리스크 전망"
+      },
+      {
+        "title": "APEX Tech Acquisition, NYSE에서 1억 1,200만 달러 규모 IPO 완료",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1845396",
+        "pubDate": "2026-02-28 21:24:05",
+        "summary": "APEX Tech Acquisition, NYSE에서 1억 1,200만 달러 규모 IPO 완료"
+      },
       {
         "title": "Novo Nordis, 소그로야, FDA 승인 획득",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845391",
@@ -31,86 +61,56 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845125",
         "pubDate": "2026-02-27 22:21:51",
         "summary": "L3 테크놀로지, 4억 6,600만 달러 규모 야간 투시 장치 계약 체결"
-      },
-      {
-        "title": "보잉, 해군 P-8A 소프트웨어 지원 계약 1억 6,680만 달러 확보",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845123",
-        "pubDate": "2026-02-27 22:19:57",
-        "summary": "보잉, 해군 P-8A 소프트웨어 지원 계약 1억 6,680만 달러 확보"
-      },
-      {
-        "title": "모건 스탠리, 암호화폐 수탁 위해 은행 설립 추진",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845117",
-        "pubDate": "2026-02-27 22:07:48",
-        "summary": "모건 스탠리, 암호화폐 수탁 위해 은행 설립 추진"
-      },
-      {
-        "title": "솔 스트래티지스, 이사회 개편 합의 후 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845112",
-        "pubDate": "2026-02-27 21:58:07",
-        "summary": "솔 스트래티지스, 이사회 개편 합의 후 주가 상승"
-      },
-      {
-        "title": "SOLAI, NYSE 상장 폐지 통보 후 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845103",
-        "pubDate": "2026-02-27 21:44:54",
-        "summary": "SOLAI, NYSE 상장 폐지 통보 후 주가 상승"
-      },
-      {
-        "title": "XTL 바이오파마슈티컬 주가, 나스닥 상장 폐지 통보에 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1845093",
-        "pubDate": "2026-02-27 21:41:14",
-        "summary": "XTL 바이오파마슈티컬 주가, 나스닥 상장 폐지 통보에 하락"
       }
     ],
     "cnbc": [
       {
-        "title": "How the attack on Iran could impact the global oil market and economy",
-        "link": "https://www.cnbc.com/2026/02/28/iran-us-attack-oil-market-economy.html",
-        "pubDate": "Sat, 28 Feb 2026 19:53:52 GMT",
-        "summary": "The U.S.-Israeli attack raises the risk of major oil supply disruption. Iran is the fourth-largest OPEC producer and sits on the critical Strait of Hormuz."
+        "title": "U.S. crude oil jumps more than 7%, topping $72 a barrel on fears of Iran supply disruption",
+        "link": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+        "pubDate": "Sun, 01 Mar 2026 23:20:21 GMT",
+        "summary": "It is unclear who will ultimately govern Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei."
       },
       {
-        "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
-        "link": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html",
-        "pubDate": "Sat, 28 Feb 2026 15:04:18 GMT",
-        "summary": "Berkshire Hathaway reported fourth-quarter and full-year 2025 earnings on Saturday."
+        "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
+        "link": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
+        "pubDate": "Sun, 01 Mar 2026 16:20:57 GMT",
+        "summary": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support."
+      },
+      {
+        "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
+        "link": "https://www.cnbc.com/2026/03/01/travel-iran-attack-middle-east-flights.html",
+        "pubDate": "Sun, 01 Mar 2026 17:28:35 GMT",
+        "summary": "What travelers need to know after the strikes in the Middle East."
+      },
+      {
+        "title": "Iran after Khamenei: What's next and what it means for the country?",
+        "link": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
+        "pubDate": "Sun, 01 Mar 2026 17:41:31 GMT",
+        "summary": "Khamenei assumed power following the death of Ayatollah Ruhollah Khomeini in 1989, inheriting a revolutionary state still consolidating itself."
+      },
+      {
+        "title": "$100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock",
+        "link": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
+        "pubDate": "Sun, 01 Mar 2026 16:55:54 GMT",
+        "summary": "Energy analysts are bracing for a possible oil supply shock after U.S. strikes on Iran reignited fears of disruptions in the Strait of Hormuz."
+      },
+      {
+        "title": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
+        "link": "https://www.cnbc.com/2026/03/01/top-wall-street-analysts-recommend-these-dividend-stocks-for-enhanced-returns.html",
+        "pubDate": "Sun, 01 Mar 2026 12:38:29 GMT",
+        "summary": "TipRanks names three stocks with dividends that analysts believe can bolster investors' portfolios."
       },
       {
         "title": "'Bigger ramifications than Venezuela': Markets brace for impact after U.S. strikes Iran",
         "link": "https://www.cnbc.com/2026/02/28/markets-brace-for-impact-following-us-military-strikes-against-iran.html",
-        "pubDate": "Sat, 28 Feb 2026 14:47:07 GMT",
+        "pubDate": "Sat, 28 Feb 2026 23:47:25 GMT",
         "summary": "Investors are bracing for impact after the U.S.'s attacks on Iran, a move they see as carrying far larger market consequences than the Venezuela campaign."
       },
       {
-        "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
-        "link": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html",
-        "pubDate": "Sat, 28 Feb 2026 14:44:01 GMT",
-        "summary": "Berkshire Hathaway's Greg Abel released his first annual shareholder letter as chief executive."
-      },
-      {
-        "title": "Anthropic's Claude hits No. 2 on Apple's top free apps list after Pentagon rejection",
-        "link": "https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html",
-        "pubDate": "Sat, 28 Feb 2026 18:28:44 GMT",
-        "summary": "OpenAI's ChatGPT remains the top free app in the U.S. on Apple's rankings, but Claude has steadily gained traction."
-      },
-      {
-        "title": "Xiaomi launches flagship smartphone as memory price surge threatens sales",
-        "link": "https://www.cnbc.com/2026/02/28/xiaomi-17-and-17-ultra-launch-price-specs.html",
-        "pubDate": "Sat, 28 Feb 2026 14:32:04 GMT",
-        "summary": "The Xiaomi 17 starts at 999 euros ($1,179) while the Xiaomi 17 Ultra starts at 1,499 euros, with the device priced the same as its predecessor."
-      },
-      {
-        "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
-        "link": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
-        "pubDate": "Sat, 28 Feb 2026 04:25:34 GMT",
-        "summary": "OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models."
-      },
-      {
-        "title": "NASA is sending its first Black and first female astronauts to the moon",
-        "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
-        "pubDate": "Sat, 28 Feb 2026 13:00:01 GMT",
-        "summary": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch, marking the first journey to the moon in over 50 years."
+        "title": "All the highlights from Berkshire CEO Abel's first shareholder letter",
+        "link": "https://www.cnbc.com/2026/03/01/all-the-highlights-from-berkshire-ceo-abels-first-shareholder-letter.html",
+        "pubDate": "Sun, 01 Mar 2026 12:20:34 GMT",
+        "summary": "After two months on the job, new Berkshire Hathaway CEO Greg Abel emphasizes he won't be making major changes to the way the company has operated for decades under Warren Buffett's leadership."
       },
       {
         "title": "How the 'K-shaped' economy is showing up at two big U.S. gyms",
@@ -119,72 +119,72 @@
         "summary": "The outlooks of Life Time and Planet Fitness show the divergence in spending between higher- and lower-income consumers."
       },
       {
-        "title": "Trump said tariffs could someday 'substantially replace' income taxes. What policy experts say",
-        "link": "https://www.cnbc.com/2026/02/27/trump-tariffs-income-taxes.html",
-        "pubDate": "Fri, 27 Feb 2026 13:14:41 GMT",
-        "summary": "During his State of the Union address, President Donald Trump said tariffs could someday \"substantially replace\" the federal income tax system."
+        "title": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot",
+        "link": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html",
+        "pubDate": "Sun, 01 Mar 2026 14:15:41 GMT",
+        "summary": "Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market."
       }
     ],
     "yahoo": [
       {
-        "title": "Trump Says Khamenei Killed In U.S.-Israeli Attacks. How Will Dow Jones Futures React?",
+        "title": "Dow Jones Futures Tumble, Oil Prices Spike Amid U.S.-Iran Attacks",
         "link": "https://www.investors.com/market-trend/stock-market-today/trump-us-israel-massive-attacks-iran-dow-jones-futures-oil-prices/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-02-28T22:52:00Z",
-        "summary": "Trump Says Khamenei Killed In U.S.-Israeli Attacks. How Will Dow Jones Futures React?"
+        "pubDate": "2026-03-01T23:09:18Z",
+        "summary": "Dow Jones Futures Tumble, Oil Prices Spike Amid U.S.-Iran Attacks"
       },
       {
-        "title": "The US attacked Iran. Here's what that means for you at the gas pump.",
-        "link": "https://finance.yahoo.com/news/us-attacked-iran-heres-means-225121752.html",
-        "pubDate": "2026-02-28T22:51:21Z",
-        "summary": "The US attacked Iran. Here's what that means for you at the gas pump."
+        "title": "Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place",
+        "link": "https://finance.yahoo.com/news/tesla-seeing-strong-demand-cheaper-230101303.html",
+        "pubDate": "2026-03-01T23:01:01Z",
+        "summary": "Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place"
       },
       {
-        "title": "How to apply for a personal loan in 7 steps",
-        "link": "https://finance.yahoo.com/news/personal-loan-8-steps-214509983.html",
-        "pubDate": "2026-02-28T21:54:25Z",
-        "summary": "How to apply for a personal loan in 7 steps"
+        "title": "February jobs data, Broadcom earnings, and AI fears abound: What to watch this week",
+        "link": "https://finance.yahoo.com/news/february-jobs-data-broadcom-earnings-and-ai-fears-abound-what-to-watch-this-week-124739613.html",
+        "pubDate": "2026-03-01T12:47:39Z",
+        "summary": "February jobs data, Broadcom earnings, and AI fears abound: What to watch this week"
       },
       {
-        "title": "Guide to first-time homebuyer grants",
-        "link": "https://finance.yahoo.com/news/first-time-homebuyer-grants-203214412.html",
-        "pubDate": "2026-02-28T21:36:40Z",
-        "summary": "Guide to first-time homebuyer grants"
+        "title": "\"A stark contrast\": Wall Street weighs winners and losers amid AI-driven tech sell-off",
+        "link": "https://finance.yahoo.com/news/a-stark-contrast-wall-street-weighs-winners-and-losers-amid-ai-driven-tech-sell-off-160017420.html",
+        "pubDate": "2026-03-01T16:00:17Z",
+        "summary": "\"A stark contrast\": Wall Street weighs winners and losers amid AI-driven tech sell-off"
       },
       {
-        "title": "Medicare 101: New book explains what most of us don't know about healthcare in retirement",
-        "link": "https://finance.yahoo.com/news/medicare-101-new-book-explains-what-most-of-us-dont-know-about-healthcare-in-retirement-153033448.html",
-        "pubDate": "2026-02-28T15:30:33Z",
-        "summary": "Medicare 101: New book explains what most of us don't know about healthcare in retirement"
+        "title": "Jamie Dimon warns markets resemble pre-financial crisis era: 'I see a couple of people doing some dumb things'",
+        "link": "https://finance.yahoo.com/news/jamie-dimon-warns-markets-resemble-pre-financial-crisis-era-i-see-a-couple-of-people-doing-some-dumb-things-133719344.html",
+        "pubDate": "2026-02-24T13:37:19Z",
+        "summary": "Jamie Dimon warns markets resemble pre-financial crisis era: 'I see a couple of people doing some dumb things'"
       },
       {
-        "title": "Mining stocks are the new market darlings, fueled by geopolitical risks and AI demand",
-        "link": "https://finance.yahoo.com/news/mining-stocks-are-the-new-market-darlings-fueled-by-geopolitical-risks-and-ai-demand-173005780.html",
-        "pubDate": "2026-02-28T17:30:05Z",
-        "summary": "Mining stocks are the new market darlings, fueled by geopolitical risks and AI demand"
+        "title": "Amazon India slashes seller referral fees in retail growth push",
+        "link": "https://finance.yahoo.com/news/amazon-india-slashes-seller-referral-203149282.html",
+        "pubDate": "2026-03-01T20:31:49Z",
+        "summary": "Amazon India slashes seller referral fees in retail growth push"
       },
       {
-        "title": "The Biggest Bottleneck in AI Isn't Chips Anymore; It's Power. These 2 Stocks Could Soar in 2026.",
-        "link": "https://finance.yahoo.com/news/biggest-bottleneck-ai-isnt-chips-223500476.html",
-        "pubDate": "2026-02-28T22:35:00Z",
-        "summary": "The Biggest Bottleneck in AI Isn't Chips Anymore; It's Power. These 2 Stocks Could Soar in 2026."
+        "title": "Why D-Wave Quantum Stock Gained This Week",
+        "link": "https://finance.yahoo.com/news/why-d-wave-quantum-stock-224834408.html",
+        "pubDate": "2026-03-01T22:48:34Z",
+        "summary": "Why D-Wave Quantum Stock Gained This Week"
       },
       {
-        "title": "Lionsgate (LION) Soars 9% Ahead of Business Updates",
-        "link": "https://finance.yahoo.com/news/lionsgate-lion-soars-9-ahead-210227966.html",
-        "pubDate": "2026-02-28T21:02:27Z",
-        "summary": "Lionsgate (LION) Soars 9% Ahead of Business Updates"
+        "title": "OPEC+ boosts oil production after attacks on Iran and throughout region",
+        "link": "https://finance.yahoo.com/news/opec-boosts-oil-production-attacks-195550407.html",
+        "pubDate": "2026-03-01T19:55:50Z",
+        "summary": "OPEC+ boosts oil production after attacks on Iran and throughout region"
       },
       {
-        "title": "Crescent Energy (CRGY) Jumps 7.76% on Swing to Profits",
-        "link": "https://finance.yahoo.com/news/crescent-energy-crgy-jumps-7-210220864.html",
-        "pubDate": "2026-02-28T21:02:20Z",
-        "summary": "Crescent Energy (CRGY) Jumps 7.76% on Swing to Profits"
+        "title": "Trump proposes new retirement accounts for workers without 401(k)s",
+        "link": "https://finance.yahoo.com/news/trump-proposes-new-retirement-accounts-for-workers-without-401ks-173706394.html",
+        "pubDate": "2026-02-25T17:37:06Z",
+        "summary": "Trump proposes new retirement accounts for workers without 401(k)s"
       },
       {
-        "title": "SM Energy (SM) Jumps 9.5% on Double-Digit Dividend Hike",
-        "link": "https://finance.yahoo.com/news/sm-energy-sm-jumps-9-210035461.html",
-        "pubDate": "2026-02-28T21:00:35Z",
-        "summary": "SM Energy (SM) Jumps 9.5% on Double-Digit Dividend Hike"
+        "title": "Jobs, Geopolitics and Other Key Things to Watch this Week",
+        "link": "https://finance.yahoo.com/news/jobs-geopolitics-other-key-things-180002397.html",
+        "pubDate": "2026-03-01T18:00:02Z",
+        "summary": "Jobs, Geopolitics and Other Key Things to Watch this Week"
       }
     ]
   }
