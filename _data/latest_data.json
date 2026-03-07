@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026년 03월 07일 08:26 KST",
+  "lastUpdated": "2026년 03월 08일 08:20 KST",
   "news": {
     "investing": [
+      {
+        "title": "MSC, 지중해 노선에 긴급 유류 할증료 부과",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1855090",
+        "pubDate": "2026-03-07 12:53:38",
+        "summary": "MSC, 지중해 노선에 긴급 유류 할증료 부과"
+      },
+      {
+        "title": "인도 정부, 휘발유 소매 가격 인상 계획 없어",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1855089",
+        "pubDate": "2026-03-07 12:47:38",
+        "summary": "인도 정부, 휘발유 소매 가격 인상 계획 없어"
+      },
+      {
+        "title": "트럼프 \"오늘 이란에 엄청난 타격 가할 것!\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1855088",
+        "pubDate": "2026-03-07 12:41:50",
+        "summary": "트럼프 \"오늘 이란에 엄청난 타격 가할 것!\""
+      },
+      {
+        "title": "미국, 합법적 사용 위한 AI 모델 초안 규정 마련",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1855087",
+        "pubDate": "2026-03-07 12:35:35",
+        "summary": "미국, 합법적 사용 위한 AI 모델 초안 규정 마련"
+      },
+      {
+        "title": "Novo Nordis, Hims & Hers 비만 치료제 협력 발표 예정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1855086",
+        "pubDate": "2026-03-07 12:33:21",
+        "summary": "Novo Nordis, Hims & Hers 비만 치료제 협력 발표 예정"
+      },
+      {
+        "title": "Investing.com 이번 주의 주요 종목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1855048",
+        "pubDate": "2026-03-07 09:00:02",
+        "summary": "Investing.com 이번 주의 주요 종목"
+      },
       {
         "title": "Vertiv와 EchoStar, S&P 500 리밸런싱에서 기술주 급등 주도",
         "link": "https://kr.investing.com/news/stock-market-news/article-1854866",
@@ -25,166 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1854752",
         "pubDate": "2026-03-06 20:21:13",
         "summary": "텍사스 데이터센터 계획 무산 보도에 오라클 주가 하락"
-      },
-      {
-        "title": "BofA, 성장 전망 약화와 현금 창출 감소로 Nexi 등급 하향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854740",
-        "pubDate": "2026-03-06 19:47:18",
-        "summary": "BofA, 성장 전망 약화와 현금 창출 감소로 Nexi 등급 하향"
-      },
-      {
-        "title": "베어드, 노퍽 서던과의 합병 시너지 전망으로 유니온 퍼시픽 등급 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854726",
-        "pubDate": "2026-03-06 19:18:30",
-        "summary": "베어드, 노퍽 서던과의 합병 시너지 전망으로 유니온 퍼시픽 등급 상향"
-      },
-      {
-        "title": "보잉, 트럼프 중국 방문 앞두고 500대 규모 항공기 계약 임박",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854718",
-        "pubDate": "2026-03-06 18:50:40",
-        "summary": "보잉, 트럼프 중국 방문 앞두고 500대 규모 항공기 계약 임박"
-      },
-      {
-        "title": "에게안 항공, 이스라엘행 항공편 취소 3월 20일까지 연장",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1854621",
-        "pubDate": "2026-03-06 17:03:48",
-        "summary": "에게안 항공, 이스라엘행 항공편 취소 3월 20일까지 연장"
-      },
-      {
-        "title": "시장 변동성 속 거래소 선호, Deutsche Bank가 Intercontinental 등급 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854609",
-        "pubDate": "2026-03-06 16:57:38",
-        "summary": "시장 변동성 속 거래소 선호, Deutsche Bank가 Intercontinental 등급 상향"
-      },
-      {
-        "title": "Wedbush, The Trade Desk 등급 하향...OpenAI 계약 영향 과대평가",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854597",
-        "pubDate": "2026-03-06 16:52:16",
-        "summary": "Wedbush, The Trade Desk 등급 하향...OpenAI 계약 영향 과대평가"
       }
     ],
     "cnbc": [
       {
-        "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
-        "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
-        "pubDate": "Fri, 06 Mar 2026 20:23:08 GMT",
-        "summary": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
+        "title": "Iran vows it won't surrender as war with the U.S. and Israel enters second week",
+        "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
+        "pubDate": "Sat, 07 Mar 2026 23:17:31 GMT",
+        "summary": "The U.S. and Israel continued their campaign to rid Tehran of its nuclear and ballistic missile capabilities and push for regime change."
+      },
+      {
+        "title": "Iran war could make affordability bigger issue in 2026 elections",
+        "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+        "pubDate": "Sat, 07 Mar 2026 17:27:55 GMT",
+        "summary": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies."
       },
       {
         "title": "FDA vaccine head will step down in April after string of controversial decisions",
         "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
-        "pubDate": "Fri, 06 Mar 2026 23:23:33 GMT",
+        "pubDate": "Sat, 07 Mar 2026 18:04:07 GMT",
         "summary": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research."
       },
       {
-        "title": "Trump tariffs: Customs and Border Protection tells judge it can't comply with refund order",
-        "link": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
-        "pubDate": "Fri, 06 Mar 2026 21:16:15 GMT",
-        "summary": "CBP told Judge Richard Eaton that the technology upgrades it plans would save more than 4 million man-hours in processing refunds for Trump's tariffs."
+        "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+        "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+        "pubDate": "Sat, 07 Mar 2026 20:09:03 GMT",
+        "summary": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order."
       },
       {
-        "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-        "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-        "pubDate": "Fri, 06 Mar 2026 22:26:20 GMT",
-        "summary": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran."
+        "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
+        "link": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
+        "pubDate": "Sat, 07 Mar 2026 04:34:33 GMT",
+        "summary": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
       },
       {
-        "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
-        "link": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
-        "pubDate": "Fri, 06 Mar 2026 19:23:17 GMT",
-        "summary": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war."
+        "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
+        "link": "https://www.cnbc.com/2026/03/06/gop-big-beautiful-bill-to-deal-shock-to-the-aca-marketplace.html",
+        "pubDate": "Fri, 06 Mar 2026 18:24:01 GMT",
+        "summary": "The GOP's \"big beautiful bill\" made administrative tweaks expected to reduce enrollment in the Affordable Care Act marketplace by millions of people."
       },
       {
-        "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
-        "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
-        "pubDate": "Fri, 06 Mar 2026 20:44:31 GMT",
-        "summary": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment."
+        "title": "Middle-income homebuyers have $30,000 more buying power than a year ago, research finds. It's still not enough",
+        "link": "https://www.cnbc.com/2026/03/07/median-income-households-buying-power.html",
+        "pubDate": "Sat, 07 Mar 2026 14:30:02 GMT",
+        "summary": "While the amount that a median-income household can afford is higher than it was a year ago, it is still below the median price for a single-family home."
       },
       {
-        "title": "Trump vows executive order to 'fix' college sports NIL payments 'mess'",
-        "link": "https://www.cnbc.com/2026/03/06/trump-college-football-sports-congress.html",
-        "pubDate": "Fri, 06 Mar 2026 23:21:41 GMT",
-        "summary": "Critics of the NIL compensation system in college sports say it undercuts the finances of schools and their educational mandate."
+        "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+        "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
+        "pubDate": "Sat, 07 Mar 2026 15:56:05 GMT",
+        "summary": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
       },
       {
-        "title": "Trump says defense CEOs agree to quadruple production of 'Exquisite Class' weaponry",
-        "link": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
-        "pubDate": "Fri, 06 Mar 2026 23:08:08 GMT",
-        "summary": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions."
+        "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
+        "link": "https://www.cnbc.com/2026/03/07/berkshire-ceo-greg-abel-on-working-with-buffett-kraft-heinz-and-using-all-his-salary-to-buy-the-stock.html",
+        "pubDate": "Sat, 07 Mar 2026 13:31:42 GMT",
+        "summary": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\""
       },
       {
-        "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-        "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
-        "pubDate": "Fri, 06 Mar 2026 18:14:50 GMT",
-        "summary": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation."
-      },
-      {
-        "title": "Average IRS tax refund is up 10.6%, early filing data shows",
-        "link": "https://www.cnbc.com/2026/03/06/average-irs-tax-refund.html",
-        "pubDate": "Fri, 06 Mar 2026 22:04:12 GMT",
-        "summary": "The average IRS tax refund is up 10.6%, based on early filing data. Here's what you can expect."
+        "title": "How China is challenging the U.S. to become the next great space power",
+        "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
+        "pubDate": "Sat, 07 Mar 2026 13:00:01 GMT",
+        "summary": "A new report warns that the U.S. could lose its dominance in space to China in the next few years."
       }
     ],
     "yahoo": [
       {
-        "title": "Kevin O'Leary's 'Basepaws' Bet Proves Small, Weird Investments Can Drive Big Returns",
-        "link": "https://finance.yahoo.com/news/kevin-olearys-basepaws-bet-proves-160116478.html",
-        "pubDate": "2026-03-05T16:01:16Z",
-        "summary": "Kevin O'Leary's 'Basepaws' Bet Proves Small, Weird Investments Can Drive Big Returns"
+        "title": "Wall Street Is Wrong About HP Stock. Here's Why.",
+        "link": "https://finance.yahoo.com/news/wall-street-wrong-hp-stock-231200041.html",
+        "pubDate": "2026-03-07T23:12:00Z",
+        "summary": "Wall Street Is Wrong About HP Stock. Here's Why."
       },
       {
-        "title": "China to Further Boost Crude Oil Reserves under Five-Year Plan",
-        "link": "https://finance.yahoo.com/news/china-further-boost-crude-oil-160000531.html",
-        "pubDate": "2026-03-05T16:00:00Z",
-        "summary": "China to Further Boost Crude Oil Reserves under Five-Year Plan"
+        "title": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move",
+        "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-03-07T22:02:59Z",
+        "summary": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move"
       },
       {
-        "title": "Should You Chase the Trump-Driven Rally in Galaxy Digital Stock?",
-        "link": "https://finance.yahoo.com/news/chase-trump-driven-rally-galaxy-160233784.html",
-        "pubDate": "2026-03-05T16:02:33Z",
-        "summary": "Should You Chase the Trump-Driven Rally in Galaxy Digital Stock?"
+        "title": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
+        "link": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
+        "pubDate": "2026-03-07T12:32:11Z",
+        "summary": "The US is the world’s biggest oil producer — so why are gas prices rising here?"
       },
       {
-        "title": "Greg Abel Bought $15 Million in Berkshire Stock, Is Totally in Charge Now",
-        "link": "https://finance.yahoo.com/news/greg-abel-bought-15-million-155201485.html",
-        "pubDate": "2026-03-05T15:52:01Z",
-        "summary": "Greg Abel Bought $15 Million in Berkshire Stock, Is Totally in Charge Now"
+        "title": "Why more Americans are taking 401(k) withdrawals",
+        "link": "https://finance.yahoo.com/news/why-more-americans-are-taking-401k-withdrawals-143050614.html",
+        "pubDate": "2026-03-07T14:30:50Z",
+        "summary": "Why more Americans are taking 401(k) withdrawals"
       },
       {
-        "title": "Morgan Stanley Says You Should Buy the Dip in These 3 Software Stocks",
-        "link": "https://finance.yahoo.com/news/morgan-stanley-says-buy-dip-154757201.html",
-        "pubDate": "2026-03-05T15:47:57Z",
-        "summary": "Morgan Stanley Says You Should Buy the Dip in These 3 Software Stocks"
+        "title": "What Carter and Reagan Got Right About Oil Shocks",
+        "link": "https://finance.yahoo.com/news/carter-reagan-got-oil-shocks-200000715.html",
+        "pubDate": "2026-03-07T20:00:00Z",
+        "summary": "What Carter and Reagan Got Right About Oil Shocks"
       },
       {
-        "title": "Dana Gas suspends Khor Mor operations amid Iraq security concerns",
-        "link": "https://finance.yahoo.com/news/dana-gas-suspends-khor-mor-155957385.html",
-        "pubDate": "2026-03-05T15:59:57Z",
-        "summary": "Dana Gas suspends Khor Mor operations amid Iraq security concerns"
+        "title": "The New Paycheck Risk Workers Are Overlooking",
+        "link": "https://finance.yahoo.com/news/paycheck-risk-workers-overlooking-230006860.html",
+        "pubDate": "2026-03-07T23:00:06Z",
+        "summary": "The New Paycheck Risk Workers Are Overlooking"
       },
       {
-        "title": "Gold Stock Newmont: Set Up For A Potential 35% Return In Weeks With This Strategy",
-        "link": "https://www.investors.com/research/options/gold-stock-newmont-nem-options-trade-iron-condor-investing-markets/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-03-05T16:12:58Z",
-        "summary": "Gold Stock Newmont: Set Up For A Potential 35% Return In Weeks With This Strategy"
+        "title": "It's not just gasoline. Diesel reacting 'more aggressively' to oil price jump amid Iran war.",
+        "link": "https://finance.yahoo.com/news/its-not-just-gasoline-diesel-reacting-more-aggressively-to-oil-price-jump-amid-iran-war-180810064.html",
+        "pubDate": "2026-03-05T18:08:10Z",
+        "summary": "It's not just gasoline. Diesel reacting 'more aggressively' to oil price jump amid Iran war."
       },
       {
-        "title": "What Does the Middle East Conflict Mean for Valero Energy Stock?",
-        "link": "https://finance.yahoo.com/news/does-middle-east-conflict-mean-161502385.html",
-        "pubDate": "2026-03-05T16:15:02Z",
-        "summary": "What Does the Middle East Conflict Mean for Valero Energy Stock?"
+        "title": "Congress just killed a sexual misconduct transparency push — and it further fuels DC's much bigger secrecy problem",
+        "link": "https://finance.yahoo.com/news/congress-just-killed-sexual-misconduct-171500570.html",
+        "pubDate": "2026-03-07T17:15:00Z",
+        "summary": "Congress just killed a sexual misconduct transparency push — and it further fuels DC's much bigger secrecy problem"
       },
       {
-        "title": "Coherent Corp. (COHR) Gains on AI Data Center Networking Demand and Margin Expansion",
-        "link": "https://finance.yahoo.com/news/coherent-corp-cohr-gains-ai-154118262.html",
-        "pubDate": "2026-03-05T15:41:18Z",
-        "summary": "Coherent Corp. (COHR) Gains on AI Data Center Networking Demand and Margin Expansion"
+        "title": "Retirement savers shook off 2025 volatility — and many became millionaires",
+        "link": "https://finance.yahoo.com/news/retirement-savers-shook-off-2025-volatility--and-many-became-millionaires-100028784.html",
+        "pubDate": "2026-03-05T10:00:28Z",
+        "summary": "Retirement savers shook off 2025 volatility — and many became millionaires"
       },
       {
-        "title": "Solventum (SOLV) Q4 2025 Adjusted Diluted EPS Reaches $1.57 on 3.5% Organic Sales Growth",
-        "link": "https://finance.yahoo.com/news/solventum-solv-q4-2025-adjusted-162256620.html",
-        "pubDate": "2026-03-05T16:22:56Z",
-        "summary": "Solventum (SOLV) Q4 2025 Adjusted Diluted EPS Reaches $1.57 on 3.5% Organic Sales Growth"
+        "title": "1 Little-Known Tech Stock That Wedbush Calls a Must-Own Amid Middle East Conflict",
+        "link": "https://finance.yahoo.com/news/1-little-known-tech-stock-163002320.html",
+        "pubDate": "2026-03-07T16:30:02Z",
+        "summary": "1 Little-Known Tech Stock That Wedbush Calls a Must-Own Amid Middle East Conflict"
       }
     ]
   }
