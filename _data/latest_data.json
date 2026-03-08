@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026년 03월 08일 08:20 KST",
+  "lastUpdated": "2026년 03월 09일 08:23 KST",
   "news": {
     "investing": [
+      {
+        "title": "[주간경제전망] TSMC 2월 매출 발표, 삼전·하이닉스도 주목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1855221",
+        "pubDate": "2026-03-08 20:10:39",
+        "summary": "[주간경제전망] TSMC 2월 매출 발표, 삼전·하이닉스도 주목"
+      },
+      {
+        "title": "2026 FIFA 월드컵에서 가장 큰 수혜를 입을 종목은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1855190",
+        "pubDate": "2026-03-08 13:30:01",
+        "summary": "2026 FIFA 월드컵에서 가장 큰 수혜를 입을 종목은?"
+      },
+      {
+        "title": "번스타인: 미국 인터넷 주식, AI ’환멸’ 정점 속 바닥 찾기",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1855168",
+        "pubDate": "2026-03-08 10:42:52",
+        "summary": "번스타인: 미국 인터넷 주식, AI ’환멸’ 정점 속 바닥 찾기"
+      },
+      {
+        "title": "5가지 주요 애널리스트 AI 전망: 삼성 주가 하락 시 매수, 엔비디아 최고 칩 종목 복귀",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1855166",
+        "pubDate": "2026-03-08 09:00:02",
+        "summary": "5가지 주요 애널리스트 AI 전망: 삼성 주가 하락 시 매수, 엔비디아 최고 칩 종목 복귀"
+      },
       {
         "title": "MSC, 지중해 노선에 긴급 유류 할증료 부과",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1855090",
@@ -37,56 +61,44 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1855048",
         "pubDate": "2026-03-07 09:00:02",
         "summary": "Investing.com 이번 주의 주요 종목"
-      },
-      {
-        "title": "Vertiv와 EchoStar, S&P 500 리밸런싱에서 기술주 급등 주도",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854866",
-        "pubDate": "2026-03-06 22:36:34",
-        "summary": "Vertiv와 EchoStar, S&P 500 리밸런싱에서 기술주 급등 주도"
-      },
-      {
-        "title": "Cerebras Systems, 모건 스탠리 주관 IPO 추진…20억 달러 목표",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1854760",
-        "pubDate": "2026-03-06 20:37:06",
-        "summary": "Cerebras Systems, 모건 스탠리 주관 IPO 추진…20억 달러 목표"
-      },
-      {
-        "title": "AI 칩 제조업체 Cerebras, 20억 달러 IPO 위해 모건 스탠리 선정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1854754",
-        "pubDate": "2026-03-06 20:30:11",
-        "summary": "AI 칩 제조업체 Cerebras, 20억 달러 IPO 위해 모건 스탠리 선정"
-      },
-      {
-        "title": "텍사스 데이터센터 계획 무산 보도에 오라클 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1854752",
-        "pubDate": "2026-03-06 20:21:13",
-        "summary": "텍사스 데이터센터 계획 무산 보도에 오라클 주가 하락"
       }
     ],
     "cnbc": [
       {
-        "title": "Iran vows it won't surrender as war with the U.S. and Israel enters second week",
-        "link": "https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html",
-        "pubDate": "Sat, 07 Mar 2026 23:17:31 GMT",
-        "summary": "The U.S. and Israel continued their campaign to rid Tehran of its nuclear and ballistic missile capabilities and push for regime change."
+        "title": "Oil surges above $100 a barrel; Trump says 'small price to pay' for defeating Iran",
+        "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+        "pubDate": "Sun, 08 Mar 2026 23:17:27 GMT",
+        "summary": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
       },
       {
-        "title": "Iran war could make affordability bigger issue in 2026 elections",
-        "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
-        "pubDate": "Sat, 07 Mar 2026 17:27:55 GMT",
-        "summary": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies."
+        "title": "Iran names Ayatollah Khamenei's son, Mojtaba, as new supreme leader: Media reports",
+        "link": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
+        "pubDate": "Sun, 08 Mar 2026 23:03:08 GMT",
+        "summary": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue."
       },
       {
-        "title": "FDA vaccine head will step down in April after string of controversial decisions",
-        "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
-        "pubDate": "Sat, 07 Mar 2026 18:04:07 GMT",
-        "summary": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research."
+        "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed",
+        "link": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
+        "pubDate": "Sun, 08 Mar 2026 19:42:47 GMT",
+        "summary": "The SAVE America Act is all but certain to fail in the Senate, where Democrats will use the filibuster to sink it."
       },
       {
-        "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-        "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
-        "pubDate": "Sat, 07 Mar 2026 20:09:03 GMT",
-        "summary": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order."
+        "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+        "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+        "pubDate": "Sun, 08 Mar 2026 07:17:53 GMT",
+        "summary": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China."
+      },
+      {
+        "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
+        "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+        "pubDate": "Sun, 08 Mar 2026 14:45:10 GMT",
+        "summary": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts."
+      },
+      {
+        "title": "In a jobs apocalypse, look to ‘AI-proof’ skilled trades, career experts say",
+        "link": "https://www.cnbc.com/2026/03/08/jobs-apocalypse-ai-proof-skilled-trades.html",
+        "pubDate": "Sun, 08 Mar 2026 13:30:01 GMT",
+        "summary": "The skilled trades are considered more insulated from AI-driven job cuts, experts say."
       },
       {
         "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
@@ -95,54 +107,66 @@
         "summary": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis."
       },
       {
-        "title": "GOP 'big beautiful bill' poised to deliver 'shock' to ACA marketplace, health policy experts say",
-        "link": "https://www.cnbc.com/2026/03/06/gop-big-beautiful-bill-to-deal-shock-to-the-aca-marketplace.html",
-        "pubDate": "Fri, 06 Mar 2026 18:24:01 GMT",
-        "summary": "The GOP's \"big beautiful bill\" made administrative tweaks expected to reduce enrollment in the Affordable Care Act marketplace by millions of people."
+        "title": "Global week ahead: Diplomacy in ruins as G7 meets on Iran",
+        "link": "https://www.cnbc.com/2026/03/08/global-week-ahead-diplomacy-in-ruins-as-g7-meets-on-iran.html",
+        "pubDate": "Sun, 08 Mar 2026 11:12:45 GMT",
+        "summary": "G7 finance ministers and central bank governors are set to convene for a key meeting as diplomatic tensions escalate over the Iran conflict."
       },
       {
-        "title": "Middle-income homebuyers have $30,000 more buying power than a year ago, research finds. It's still not enough",
-        "link": "https://www.cnbc.com/2026/03/07/median-income-households-buying-power.html",
-        "pubDate": "Sat, 07 Mar 2026 14:30:02 GMT",
-        "summary": "While the amount that a median-income household can afford is higher than it was a year ago, it is still below the median price for a single-family home."
+        "title": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
+        "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
+        "pubDate": "Sun, 08 Mar 2026 12:56:07 GMT",
+        "summary": "TipRanks compiles some of the best stocks to own amid the current volatility, according to the Street's top analysts."
       },
       {
-        "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
-        "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
-        "pubDate": "Sat, 07 Mar 2026 15:56:05 GMT",
-        "summary": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
-      },
-      {
-        "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
-        "link": "https://www.cnbc.com/2026/03/07/berkshire-ceo-greg-abel-on-working-with-buffett-kraft-heinz-and-using-all-his-salary-to-buy-the-stock.html",
-        "pubDate": "Sat, 07 Mar 2026 13:31:42 GMT",
-        "summary": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\""
-      },
-      {
-        "title": "How China is challenging the U.S. to become the next great space power",
-        "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
-        "pubDate": "Sat, 07 Mar 2026 13:00:01 GMT",
-        "summary": "A new report warns that the U.S. could lose its dominance in space to China in the next few years."
+        "title": "Iran war could make affordability bigger issue in 2026 elections",
+        "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+        "pubDate": "Sat, 07 Mar 2026 17:27:55 GMT",
+        "summary": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies."
       }
     ],
     "yahoo": [
       {
-        "title": "Wall Street Is Wrong About HP Stock. Here's Why.",
-        "link": "https://finance.yahoo.com/news/wall-street-wrong-hp-stock-231200041.html",
-        "pubDate": "2026-03-07T23:12:00Z",
-        "summary": "Wall Street Is Wrong About HP Stock. Here's Why."
+        "title": "Dow Jones Futures Dive As Oil Surges To $110. Iran Names Khamenei's Son As Supreme Leader.",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-iran-war-supreme-leader/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-03-08T23:05:08Z",
+        "summary": "Dow Jones Futures Dive As Oil Surges To $110. Iran Names Khamenei's Son As Supreme Leader."
       },
       {
-        "title": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move",
-        "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-03-07T22:02:59Z",
-        "summary": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move"
+        "title": "147-year-energy behemoth expected to raise dividends as oil surges past $90",
+        "link": "https://finance.yahoo.com/news/147-energy-behemoth-expected-raise-230337463.html",
+        "pubDate": "2026-03-08T23:03:37Z",
+        "summary": "147-year-energy behemoth expected to raise dividends as oil surges past $90"
       },
       {
-        "title": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
-        "link": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
-        "pubDate": "2026-03-07T12:32:11Z",
-        "summary": "The US is the world’s biggest oil producer — so why are gas prices rising here?"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slammed as oil prices surge to over $100 a barrel",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slammed-as-oil-prices-surge-to-over-100-a-barrel-224103058.html",
+        "pubDate": "2026-03-08T22:41:03Z",
+        "summary": "Stock market today: Dow, S&P 500, Nasdaq futures slammed as oil prices surge to over $100 a barrel"
+      },
+      {
+        "title": "Oil crosses $100 for the first time since 2022 as Iran war keeps Strait or Hormuz closed, forces shut-ins",
+        "link": "https://finance.yahoo.com/news/oil-crosses-100-for-the-first-time-since-2022-as-iran-war-keeps-strait-or-hormuz-closed-forces-shut-ins-224917801.html",
+        "pubDate": "2026-03-08T22:49:17Z",
+        "summary": "Oil crosses $100 for the first time since 2022 as Iran war keeps Strait or Hormuz closed, forces shut-ins"
+      },
+      {
+        "title": "Axia Energia (AXIA) Q4 Adjusted Net Income Surges 141% to BRL 1.2B",
+        "link": "https://finance.yahoo.com/news/axia-energia-axia-q4-adjusted-224838128.html",
+        "pubDate": "2026-03-08T22:48:38Z",
+        "summary": "Axia Energia (AXIA) Q4 Adjusted Net Income Surges 141% to BRL 1.2B"
+      },
+      {
+        "title": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping",
+        "link": "https://finance.yahoo.com/news/crude-oil-prices-surpass-100-221922295.html",
+        "pubDate": "2026-03-08T22:19:22Z",
+        "summary": "Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping"
+      },
+      {
+        "title": "Could Oracle Be a Millionaire-Maker Stock?",
+        "link": "https://finance.yahoo.com/news/could-oracle-millionaire-maker-stock-230300334.html",
+        "pubDate": "2026-03-08T23:03:00Z",
+        "summary": "Could Oracle Be a Millionaire-Maker Stock?"
       },
       {
         "title": "Why more Americans are taking 401(k) withdrawals",
@@ -151,40 +175,16 @@
         "summary": "Why more Americans are taking 401(k) withdrawals"
       },
       {
-        "title": "What Carter and Reagan Got Right About Oil Shocks",
-        "link": "https://finance.yahoo.com/news/carter-reagan-got-oil-shocks-200000715.html",
-        "pubDate": "2026-03-07T20:00:00Z",
-        "summary": "What Carter and Reagan Got Right About Oil Shocks"
+        "title": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
+        "link": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
+        "pubDate": "2026-03-07T12:32:11Z",
+        "summary": "The US is the world’s biggest oil producer — so why are gas prices rising here?"
       },
       {
-        "title": "The New Paycheck Risk Workers Are Overlooking",
-        "link": "https://finance.yahoo.com/news/paycheck-risk-workers-overlooking-230006860.html",
-        "pubDate": "2026-03-07T23:00:06Z",
-        "summary": "The New Paycheck Risk Workers Are Overlooking"
-      },
-      {
-        "title": "It's not just gasoline. Diesel reacting 'more aggressively' to oil price jump amid Iran war.",
-        "link": "https://finance.yahoo.com/news/its-not-just-gasoline-diesel-reacting-more-aggressively-to-oil-price-jump-amid-iran-war-180810064.html",
-        "pubDate": "2026-03-05T18:08:10Z",
-        "summary": "It's not just gasoline. Diesel reacting 'more aggressively' to oil price jump amid Iran war."
-      },
-      {
-        "title": "Congress just killed a sexual misconduct transparency push — and it further fuels DC's much bigger secrecy problem",
-        "link": "https://finance.yahoo.com/news/congress-just-killed-sexual-misconduct-171500570.html",
-        "pubDate": "2026-03-07T17:15:00Z",
-        "summary": "Congress just killed a sexual misconduct transparency push — and it further fuels DC's much bigger secrecy problem"
-      },
-      {
-        "title": "Retirement savers shook off 2025 volatility — and many became millionaires",
-        "link": "https://finance.yahoo.com/news/retirement-savers-shook-off-2025-volatility--and-many-became-millionaires-100028784.html",
-        "pubDate": "2026-03-05T10:00:28Z",
-        "summary": "Retirement savers shook off 2025 volatility — and many became millionaires"
-      },
-      {
-        "title": "1 Little-Known Tech Stock That Wedbush Calls a Must-Own Amid Middle East Conflict",
-        "link": "https://finance.yahoo.com/news/1-little-known-tech-stock-163002320.html",
-        "pubDate": "2026-03-07T16:30:02Z",
-        "summary": "1 Little-Known Tech Stock That Wedbush Calls a Must-Own Amid Middle East Conflict"
+        "title": "War escalation, jobs report fallout, and Oracle earnings: What to watch this week",
+        "link": "https://finance.yahoo.com/news/war-escalation-jobs-report-fallout-and-oracle-earnings-what-to-watch-this-week-114534070.html",
+        "pubDate": "2026-03-08T11:45:34Z",
+        "summary": "War escalation, jobs report fallout, and Oracle earnings: What to watch this week"
       }
     ]
   }
