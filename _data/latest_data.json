@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026년 03월 14일 08:27 KST",
+  "lastUpdated": "2026년 03월 15일 08:26 KST",
   "news": {
     "investing": [
+      {
+        "title": "골드만삭스: 에이전틱 AI 부상으로 소프트웨어 대기업들 ’급진적 변화’ 직면",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1864122",
+        "pubDate": "2026-03-14 09:43:54",
+        "summary": "골드만삭스: 에이전틱 AI 부상으로 소프트웨어 대기업들 ’급진적 변화’ 직면"
+      },
+      {
+        "title": "Investing.com 이번 주의 주요 종목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1864121",
+        "pubDate": "2026-03-14 09:00:02",
+        "summary": "Investing.com 이번 주의 주요 종목"
+      },
+      {
+        "title": "AI 에이전트로 인해 부킹과 익스피디아 마진 압박 직면, 번스타인 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1864115",
+        "pubDate": "2026-03-14 06:54:22",
+        "summary": "AI 에이전트로 인해 부킹과 익스피디아 마진 압박 직면, 번스타인 분석"
+      },
       {
         "title": "레이시온, 20억 달러 규모 위성 터미널 계약 변경 확보",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863939",
@@ -43,74 +61,56 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863867",
         "pubDate": "2026-03-13 19:59:57",
         "summary": "S&P, 울버린 월드 와이드 신용등급 ’B+’로 상향 조정"
-      },
-      {
-        "title": "인모드, 자사주 매입 발표 후 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863854",
-        "pubDate": "2026-03-13 19:24:31",
-        "summary": "인모드, 자사주 매입 발표 후 주가 급등"
-      },
-      {
-        "title": "파이어플라이 뉴로사이언스, ADHD 아형 연구에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863852",
-        "pubDate": "2026-03-13 19:23:22",
-        "summary": "파이어플라이 뉴로사이언스, ADHD 아형 연구에 주가 급등"
-      },
-      {
-        "title": "PAR Technology, 전환사채 발행에 10% 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863849",
-        "pubDate": "2026-03-13 19:19:47",
-        "summary": "PAR Technology, 전환사채 발행에 10% 급락"
       }
     ],
     "cnbc": [
       {
-        "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure",
+        "title": "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings",
+        "link": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
+        "pubDate": "Sat, 14 Mar 2026 21:29:38 GMT",
+        "summary": "The deal, if it gets done, would not be finalized until early April and is not expected to close until 2027."
+      },
+      {
+        "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
         "link": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
-        "pubDate": "Fri, 13 Mar 2026 23:21:33 GMT",
+        "pubDate": "Sat, 14 Mar 2026 22:38:48 GMT",
         "summary": "President Trump said in a Truth Social post that he directed U.S. Central Command to execute a bombing raid that \"obliterated\" military targets on Kharg Island."
       },
       {
-        "title": "Mortgage rates surge to highest since September, hitting spring housing market",
-        "link": "https://www.cnbc.com/2026/03/13/mortgage-rates-7-month-high.html",
-        "pubDate": "Fri, 13 Mar 2026 22:35:59 GMT",
-        "summary": "Mortgage rates jumped to a seven-month high Friday as war in Iran pushed bond yields higher."
+        "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
+        "link": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
+        "pubDate": "Sat, 14 Mar 2026 13:07:11 GMT",
+        "summary": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history."
       },
       {
-        "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
-        "link": "https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html",
-        "pubDate": "Fri, 13 Mar 2026 21:56:37 GMT",
-        "summary": "Federal Reserve Chair Jerome Powell is purportedly being investigated for comments he made about the pricey renovations of the Fed's headquarters."
+        "title": "FCC chair slams broadcasters after Trump disputes reports on Iran-damaged U.S. tankers",
+        "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
+        "pubDate": "Sat, 14 Mar 2026 22:30:28 GMT",
+        "summary": "FCC Chair Brendan Carr blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes \"fake news.\""
       },
       {
-        "title": "Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.",
-        "link": "https://www.cnbc.com/2026/03/13/trump-iran-oil-prices-military-strait-of-hormuz.html",
-        "pubDate": "Fri, 13 Mar 2026 17:01:07 GMT",
-        "summary": "Iran's threat to the Strait of Hormuz can't be fixed by releasing oil from strategic petroleum reserves."
+        "title": "Trump fundraising pitch features U.S. soldiers killed in Iran war",
+        "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fundraising-us-soldiers.html",
+        "pubDate": "Sat, 14 Mar 2026 22:53:36 GMT",
+        "summary": "The email solicitation to benefit Trump’s PAC also offers donors “private national security briefings.”"
       },
       {
-        "title": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
-        "link": "https://www.cnbc.com/2026/03/13/iran-war-strait-of-hormuz-hegseth.html",
-        "pubDate": "Fri, 13 Mar 2026 14:52:31 GMT",
-        "summary": "The Strait of Hormuz, the world's most critical chokepoint for oil shipments, has been effectively closed since the U.S. and Israel began the war on Iran."
+        "title": "As New York Mayor Zohran Mamdani faces $7 billion budget hole, free parking may be history",
+        "link": "https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html",
+        "pubDate": "Sat, 14 Mar 2026 14:27:41 GMT",
+        "summary": "New York City Mayor Zohran Mamdani is facing a $7 billion budget hole, and the free parking NYC residents have taken for granted may be a revenue opportunity."
       },
       {
-        "title": "Trump says he thinks Putin is helping Iran",
-        "link": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
-        "pubDate": "Fri, 13 Mar 2026 16:24:50 GMT",
-        "summary": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week."
+        "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
+        "link": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html",
+        "pubDate": "Sat, 14 Mar 2026 15:00:01 GMT",
+        "summary": "ProShares' Simeon Hyman is highlighting a bullish bitcoin trend."
       },
       {
-        "title": "Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport",
-        "link": "https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html",
-        "pubDate": "Fri, 13 Mar 2026 22:58:40 GMT",
-        "summary": "Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation."
-      },
-      {
-        "title": "Trump can't 'drill, baby, drill' his way out of this Iran-inspired oil crisis: Experts",
-        "link": "https://www.cnbc.com/2026/03/13/iran-war-oil-trump-drilling.html",
-        "pubDate": "Fri, 13 Mar 2026 17:44:54 GMT",
-        "summary": "Oil prices have skyrocketed in the days since President Donald Trump's war on Iran began."
+        "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
+        "link": "https://www.cnbc.com/2026/03/14/paramount-wbd-2027-movie-slate.html",
+        "pubDate": "Sat, 14 Mar 2026 11:00:01 GMT",
+        "summary": "Paramount CEO David Ellison has said he wants to make 30 movies a year and has franchises like Godzilla-Kong, Superman and Sonic the Hedgehog to lean on."
       },
       {
         "title": "IRS paper check changes trigger tax refund delays for more than 830,000 filers",
@@ -119,72 +119,72 @@
         "summary": "Many filers could see tax refund delays amid the IRS shift away from paper checks. Here's what to know if you receive a CP53E notice."
       },
       {
-        "title": "Did tariff dividend checks just become more likely? Economists weigh in",
-        "link": "https://www.cnbc.com/2026/03/13/tariff-dividend-checks-a-new-bill-could-create-a-tax-rebate-program.html",
-        "pubDate": "Fri, 13 Mar 2026 18:31:24 GMT",
-        "summary": "Months after President Donald Trump suggested sending Americans a $2,000 tariff dividend check, there's a chance households could see that stimulus in 2026."
+        "title": "Older women set to inherit most of $54 trillion in ‘great wealth transfer’ to widowed spouses",
+        "link": "https://www.cnbc.com/2026/03/14/great-wealth-transfer-widowed-spouses.html",
+        "pubDate": "Sat, 14 Mar 2026 13:30:01 GMT",
+        "summary": "Because females have longer life expectancies, most of the spousal transfer of assets due to death is expected to go to women. Advisors say they should prepare."
       }
     ],
     "yahoo": [
       {
-        "title": "Mixed options sentiment in Nuscale Power Corp with shares up 0.54%",
-        "link": "https://finance.yahoo.com/news/mixed-options-sentiment-nuscale-power-161040027.html",
-        "pubDate": "2026-03-12T16:10:40Z",
-        "summary": "Mixed options sentiment in Nuscale Power Corp with shares up 0.54%"
+        "title": "This Is the Most Expensive Stock Market in Over 25 Years. Should Investors Be Worried?",
+        "link": "https://finance.yahoo.com/news/most-expensive-stock-market-over-230500591.html",
+        "pubDate": "2026-03-14T23:05:00Z",
+        "summary": "This Is the Most Expensive Stock Market in Over 25 Years. Should Investors Be Worried?"
       },
       {
-        "title": "Why BWS Financial Sees A10 Networks (ATEN) Benefiting From Rising AI Network Traffic",
-        "link": "https://finance.yahoo.com/news/why-bws-financial-sees-a10-161356311.html",
-        "pubDate": "2026-03-12T16:13:56Z",
-        "summary": "Why BWS Financial Sees A10 Networks (ATEN) Benefiting From Rising AI Network Traffic"
+        "title": "William Blair Remains a Buy on AppLovin (APP), Here’s Why",
+        "link": "https://finance.yahoo.com/news/william-blair-remains-buy-applovin-203620606.html",
+        "pubDate": "2026-03-14T20:36:20Z",
+        "summary": "William Blair Remains a Buy on AppLovin (APP), Here’s Why"
       },
       {
-        "title": "Why D.A. Davidson Raised Its Target on PDF Solutions (PDFS) After Management Talks",
-        "link": "https://finance.yahoo.com/news/why-d-davidson-raised-target-161347064.html",
-        "pubDate": "2026-03-12T16:13:47Z",
-        "summary": "Why D.A. Davidson Raised Its Target on PDF Solutions (PDFS) After Management Talks"
+        "title": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government",
+        "link": "https://finance.yahoo.com/news/malaysia-anti-graft-agency-investigating-203619987.html",
+        "pubDate": "2026-03-14T20:36:19Z",
+        "summary": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government"
       },
       {
-        "title": "Why EverCommerce’s (EVCM) Latest Update Was an Insider Sale, Not an Operating Shift",
-        "link": "https://finance.yahoo.com/news/why-evercommerce-evcm-latest-insider-161428112.html",
-        "pubDate": "2026-03-12T16:14:28Z",
-        "summary": "Why EverCommerce’s (EVCM) Latest Update Was an Insider Sale, Not an Operating Shift"
+        "title": "Sandisk Corporation (SNDK) Pursuing Long-Term Supply Agreements With Customers, Says CEO Goeckeler",
+        "link": "https://finance.yahoo.com/news/sandisk-corporation-sndk-pursuing-long-203617782.html",
+        "pubDate": "2026-03-14T20:36:17Z",
+        "summary": "Sandisk Corporation (SNDK) Pursuing Long-Term Supply Agreements With Customers, Says CEO Goeckeler"
       },
       {
-        "title": "Why Raymond James Left More Confident in WEX’s (WEX) 2026 Growth Path",
-        "link": "https://finance.yahoo.com/news/why-raymond-james-left-more-161418296.html",
-        "pubDate": "2026-03-12T16:14:18Z",
-        "summary": "Why Raymond James Left More Confident in WEX’s (WEX) 2026 Growth Path"
+        "title": "BofA Lowers PT on NU Holdings (NU), Keeps a Hold Rating",
+        "link": "https://finance.yahoo.com/news/bofa-lowers-pt-nu-holdings-203616578.html",
+        "pubDate": "2026-03-14T20:36:16Z",
+        "summary": "BofA Lowers PT on NU Holdings (NU), Keeps a Hold Rating"
       },
       {
-        "title": "Algoma Steel (ASTL) Q4 2025 Earnings Transcript",
-        "link": "https://finance.yahoo.com/news/algoma-steel-astl-q4-2025-161042022.html",
-        "pubDate": "2026-03-12T16:10:42Z",
-        "summary": "Algoma Steel (ASTL) Q4 2025 Earnings Transcript"
+        "title": "5 Things Every UPS Investor Needs to Know",
+        "link": "https://finance.yahoo.com/news/5-things-every-ups-investor-225200903.html",
+        "pubDate": "2026-03-14T22:52:00Z",
+        "summary": "5 Things Every UPS Investor Needs to Know"
       },
       {
-        "title": "How NETSCOUT (NTCT) Is Positioning Its Telecom Offering Around AI-Ready Network Data",
-        "link": "https://finance.yahoo.com/news/netscout-ntct-positioning-telecom-offering-161406632.html",
-        "pubDate": "2026-03-12T16:14:06Z",
-        "summary": "How NETSCOUT (NTCT) Is Positioning Its Telecom Offering Around AI-Ready Network Data"
+        "title": "Medline Inc (MDLN) Plans to Expand Distribution Centers",
+        "link": "https://finance.yahoo.com/news/medline-inc-mdln-plans-expand-203614150.html",
+        "pubDate": "2026-03-14T20:36:14Z",
+        "summary": "Medline Inc (MDLN) Plans to Expand Distribution Centers"
       },
       {
-        "title": "Why D.A. Davidson Stayed Neutral on Clearwater Analytics (CWAN) Amid Its Pending Take-Private Deal",
-        "link": "https://finance.yahoo.com/news/why-d-davidson-stayed-neutral-161436810.html",
-        "pubDate": "2026-03-12T16:14:36Z",
-        "summary": "Why D.A. Davidson Stayed Neutral on Clearwater Analytics (CWAN) Amid Its Pending Take-Private Deal"
+        "title": "Jefferies Maintains a Buy on Haleon plc (HLN)",
+        "link": "https://finance.yahoo.com/news/jefferies-maintains-buy-haleon-plc-203613155.html",
+        "pubDate": "2026-03-14T20:36:13Z",
+        "summary": "Jefferies Maintains a Buy on Haleon plc (HLN)"
       },
       {
-        "title": "How Akamai’s (AKAM) Blackwell GPU Buildout Expands Its Distributed AI Platform Ambitions",
-        "link": "https://finance.yahoo.com/news/akamai-akam-blackwell-gpu-buildout-161453760.html",
-        "pubDate": "2026-03-12T16:14:53Z",
-        "summary": "How Akamai’s (AKAM) Blackwell GPU Buildout Expands Its Distributed AI Platform Ambitions"
+        "title": "Oppenheimer Initiates CoreWeave (CRWV) With a Buy Rating",
+        "link": "https://finance.yahoo.com/news/oppenheimer-initiates-coreweave-crwv-buy-203611677.html",
+        "pubDate": "2026-03-14T20:36:11Z",
+        "summary": "Oppenheimer Initiates CoreWeave (CRWV) With a Buy Rating"
       },
       {
-        "title": "Why ByteDance’s Reported Data Center Order Could Be a Major Win for VNET (VNET)",
-        "link": "https://finance.yahoo.com/news/why-bytedance-reported-data-center-161516181.html",
-        "pubDate": "2026-03-12T16:15:16Z",
-        "summary": "Why ByteDance’s Reported Data Center Order Could Be a Major Win for VNET (VNET)"
+        "title": "GE HealthCare (GEHC) Receives FDA 510 (k) Clearance for View",
+        "link": "https://finance.yahoo.com/news/ge-healthcare-gehc-receives-fda-203535014.html",
+        "pubDate": "2026-03-14T20:35:35Z",
+        "summary": "GE HealthCare (GEHC) Receives FDA 510 (k) Clearance for View"
       }
     ]
   }
