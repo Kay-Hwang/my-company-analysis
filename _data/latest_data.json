@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026년 03월 15일 08:26 KST",
+  "lastUpdated": "2026년 03월 16일 08:28 KST",
   "news": {
     "investing": [
+      {
+        "title": "애널리스트 AI 관련 주요 5가지 움직임: Oracle Financial Software 급락 후 상향, TD 새로운 AI 최선호주 선정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1864234",
+        "pubDate": "2026-03-15 09:00:02",
+        "summary": "애널리스트 AI 관련 주요 5가지 움직임: Oracle Financial Software 급락 후 상향, TD 새로운 AI 최선호주 선정"
+      },
+      {
+        "title": "제프리스, AI 기반 공급망 경쟁에서 월마트와 타깃이 경쟁사 앞서",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1864228",
+        "pubDate": "2026-03-15 07:24:46",
+        "summary": "제프리스, AI 기반 공급망 경쟁에서 월마트와 타깃이 경쟁사 앞서"
+      },
       {
         "title": "골드만삭스: 에이전틱 AI 부상으로 소프트웨어 대기업들 ’급진적 변화’ 직면",
         "link": "https://kr.investing.com/news/stock-market-news/article-1864122",
@@ -49,62 +61,44 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863878",
         "pubDate": "2026-03-13 20:07:51",
         "summary": "British American Tobacco, 피치, 등급 상향 조정"
-      },
-      {
-        "title": "엘도라도 골드, 현금 흐름 개선에 S&P 신용등급 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863870",
-        "pubDate": "2026-03-13 20:01:51",
-        "summary": "엘도라도 골드, 현금 흐름 개선에 S&P 신용등급 상향"
-      },
-      {
-        "title": "S&P, 울버린 월드 와이드 신용등급 ’B+’로 상향 조정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1863867",
-        "pubDate": "2026-03-13 19:59:57",
-        "summary": "S&P, 울버린 월드 와이드 신용등급 ’B+’로 상향 조정"
       }
     ],
     "cnbc": [
+      {
+        "title": "U.S. oil prices top $100 as Trump administration threatens strikes on Iran's crude export facilities",
+        "link": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
+        "pubDate": "Sun, 15 Mar 2026 22:34:40 GMT",
+        "summary": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan."
+      },
+      {
+        "title": "Trump weighing options to strike Iran's critical oil hub, UN Ambassador Waltz says",
+        "link": "https://www.cnbc.com/2026/03/15/iran-war.html",
+        "pubDate": "Sun, 15 Mar 2026 21:40:46 GMT",
+        "summary": "Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following a fire."
+      },
+      {
+        "title": "Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian'",
+        "link": "https://www.cnbc.com/2026/03/15/trump-iran-war-fcc-carr-broadcast-license.html",
+        "pubDate": "Sun, 15 Mar 2026 21:09:45 GMT",
+        "summary": "Carr on Saturday blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes \"fake news.\""
+      },
+      {
+        "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
+        "link": "https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html",
+        "pubDate": "Sun, 15 Mar 2026 21:37:47 GMT",
+        "summary": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know."
+      },
+      {
+        "title": "Why the United Arab Emirates is a target for Iran's aggression",
+        "link": "https://www.cnbc.com/2026/03/15/iran-us-war-uae-target-aggression.html",
+        "pubDate": "Sun, 15 Mar 2026 19:17:46 GMT",
+        "summary": "Iran is looking to test a state that has positioned itself as the Gulf's safest bridge between East and West — and the future of the region."
+      },
       {
         "title": "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings",
         "link": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
         "pubDate": "Sat, 14 Mar 2026 21:29:38 GMT",
         "summary": "The deal, if it gets done, would not be finalized until early April and is not expected to close until 2027."
-      },
-      {
-        "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
-        "pubDate": "Sat, 14 Mar 2026 22:38:48 GMT",
-        "summary": "President Trump said in a Truth Social post that he directed U.S. Central Command to execute a bombing raid that \"obliterated\" military targets on Kharg Island."
-      },
-      {
-        "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
-        "link": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
-        "pubDate": "Sat, 14 Mar 2026 13:07:11 GMT",
-        "summary": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history."
-      },
-      {
-        "title": "FCC chair slams broadcasters after Trump disputes reports on Iran-damaged U.S. tankers",
-        "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
-        "pubDate": "Sat, 14 Mar 2026 22:30:28 GMT",
-        "summary": "FCC Chair Brendan Carr blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes \"fake news.\""
-      },
-      {
-        "title": "Trump fundraising pitch features U.S. soldiers killed in Iran war",
-        "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fundraising-us-soldiers.html",
-        "pubDate": "Sat, 14 Mar 2026 22:53:36 GMT",
-        "summary": "The email solicitation to benefit Trump’s PAC also offers donors “private national security briefings.”"
-      },
-      {
-        "title": "As New York Mayor Zohran Mamdani faces $7 billion budget hole, free parking may be history",
-        "link": "https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html",
-        "pubDate": "Sat, 14 Mar 2026 14:27:41 GMT",
-        "summary": "New York City Mayor Zohran Mamdani is facing a $7 billion budget hole, and the free parking NYC residents have taken for granted may be a revenue opportunity."
-      },
-      {
-        "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
-        "link": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html",
-        "pubDate": "Sat, 14 Mar 2026 15:00:01 GMT",
-        "summary": "ProShares' Simeon Hyman is highlighting a bullish bitcoin trend."
       },
       {
         "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
@@ -113,78 +107,84 @@
         "summary": "Paramount CEO David Ellison has said he wants to make 30 movies a year and has franchises like Godzilla-Kong, Superman and Sonic the Hedgehog to lean on."
       },
       {
-        "title": "IRS paper check changes trigger tax refund delays for more than 830,000 filers",
-        "link": "https://www.cnbc.com/2026/03/13/tax-refund-delays.html",
-        "pubDate": "Fri, 13 Mar 2026 18:48:09 GMT",
-        "summary": "Many filers could see tax refund delays amid the IRS shift away from paper checks. Here's what to know if you receive a CP53E notice."
+        "title": "Trump fundraising pitch features U.S. soldiers killed in Iran war",
+        "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fundraising-us-soldiers.html",
+        "pubDate": "Sat, 14 Mar 2026 22:53:36 GMT",
+        "summary": "The email solicitation to benefit Trump’s PAC also offers donors “private national security briefings.”"
       },
       {
-        "title": "Older women set to inherit most of $54 trillion in ‘great wealth transfer’ to widowed spouses",
-        "link": "https://www.cnbc.com/2026/03/14/great-wealth-transfer-widowed-spouses.html",
-        "pubDate": "Sat, 14 Mar 2026 13:30:01 GMT",
-        "summary": "Because females have longer life expectancies, most of the spousal transfer of assets due to death is expected to go to women. Advisors say they should prepare."
+        "title": "Kalshi co-founder Luana Lopes Lara on the biggest prediction markets risks she has ever taken",
+        "link": "https://www.cnbc.com/2026/03/14/kalshi-prediction-markets-bet-luana-lopes-lara.html",
+        "pubDate": "Sat, 14 Mar 2026 14:42:44 GMT",
+        "summary": "Luana Lopes Lara, co-founder of prediction markets startup Kalshi, tells CNBC about the biggest bets she ever made on the way to billionaire status."
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 dividend-paying energy stocks",
+        "link": "https://www.cnbc.com/2026/03/15/top-wall-street-analysts-are-bullish-on-these-3-dividend-paying-energy-stocks.html",
+        "pubDate": "Sun, 15 Mar 2026 11:42:17 GMT",
+        "summary": "TipRanks discusses three dividend-paying stocks, including Chord Energy and EOG Resources, that are highlighted by Wall Street's top pros."
       }
     ],
     "yahoo": [
       {
-        "title": "This Is the Most Expensive Stock Market in Over 25 Years. Should Investors Be Worried?",
-        "link": "https://finance.yahoo.com/news/most-expensive-stock-market-over-230500591.html",
-        "pubDate": "2026-03-14T23:05:00Z",
-        "summary": "This Is the Most Expensive Stock Market in Over 25 Years. Should Investors Be Worried?"
+        "title": "Dow Jones Futures Rise As Oil Prices Hits $100; Nvidia GTC, Micron Earnings Ahead",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-iran-war-nvidia-gtc-micron-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-03-15T23:14:57Z",
+        "summary": "Dow Jones Futures Rise As Oil Prices Hits $100; Nvidia GTC, Micron Earnings Ahead"
       },
       {
-        "title": "William Blair Remains a Buy on AppLovin (APP), Here’s Why",
-        "link": "https://finance.yahoo.com/news/william-blair-remains-buy-applovin-203620606.html",
-        "pubDate": "2026-03-14T20:36:20Z",
-        "summary": "William Blair Remains a Buy on AppLovin (APP), Here’s Why"
+        "title": "Why 1.8M Gen Z And Millennials Vanished From The Housing Market In 2025",
+        "link": "https://finance.yahoo.com/news/why-1-8m-gen-z-230109688.html",
+        "pubDate": "2026-03-15T23:01:09Z",
+        "summary": "Why 1.8M Gen Z And Millennials Vanished From The Housing Market In 2025"
       },
       {
-        "title": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government",
-        "link": "https://finance.yahoo.com/news/malaysia-anti-graft-agency-investigating-203619987.html",
-        "pubDate": "2026-03-14T20:36:19Z",
-        "summary": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as oil rises with US and Iran targeting energy infrastructure",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-oil-rises-with-us-and-iran-targeting-energy-infrastructure-224643791.html",
+        "pubDate": "2026-03-15T22:46:43Z",
+        "summary": "Stock market today: Dow, S&P 500, Nasdaq futures waver as oil rises with US and Iran targeting energy infrastructure"
       },
       {
-        "title": "Sandisk Corporation (SNDK) Pursuing Long-Term Supply Agreements With Customers, Says CEO Goeckeler",
-        "link": "https://finance.yahoo.com/news/sandisk-corporation-sndk-pursuing-long-203617782.html",
-        "pubDate": "2026-03-14T20:36:17Z",
-        "summary": "Sandisk Corporation (SNDK) Pursuing Long-Term Supply Agreements With Customers, Says CEO Goeckeler"
+        "title": "Viking Holdings (VIK) Announces Taking Delivery of its Newest River Cruise Ship",
+        "link": "https://finance.yahoo.com/news/viking-holdings-vik-announces-taking-215903643.html",
+        "pubDate": "2026-03-15T21:59:03Z",
+        "summary": "Viking Holdings (VIK) Announces Taking Delivery of its Newest River Cruise Ship"
       },
       {
-        "title": "BofA Lowers PT on NU Holdings (NU), Keeps a Hold Rating",
-        "link": "https://finance.yahoo.com/news/bofa-lowers-pt-nu-holdings-203616578.html",
-        "pubDate": "2026-03-14T20:36:16Z",
-        "summary": "BofA Lowers PT on NU Holdings (NU), Keeps a Hold Rating"
+        "title": "This is What Merck & Co. (MRK) is Doing to Mitigate Against KEYTRUDA Exclusivity Loss",
+        "link": "https://finance.yahoo.com/news/merck-co-mrk-doing-mitigate-215651699.html",
+        "pubDate": "2026-03-15T21:56:51Z",
+        "summary": "This is What Merck & Co. (MRK) is Doing to Mitigate Against KEYTRUDA Exclusivity Loss"
       },
       {
-        "title": "5 Things Every UPS Investor Needs to Know",
-        "link": "https://finance.yahoo.com/news/5-things-every-ups-investor-225200903.html",
-        "pubDate": "2026-03-14T22:52:00Z",
-        "summary": "5 Things Every UPS Investor Needs to Know"
+        "title": "Abbott Laboratories (ABT) Unveils XIENCE Skypoint to Advance Cardiovascular Treatment in India",
+        "link": "https://finance.yahoo.com/news/abbott-laboratories-abt-unveils-xience-215549070.html",
+        "pubDate": "2026-03-15T21:55:49Z",
+        "summary": "Abbott Laboratories (ABT) Unveils XIENCE Skypoint to Advance Cardiovascular Treatment in India"
       },
       {
-        "title": "Medline Inc (MDLN) Plans to Expand Distribution Centers",
-        "link": "https://finance.yahoo.com/news/medline-inc-mdln-plans-expand-203614150.html",
-        "pubDate": "2026-03-14T20:36:14Z",
-        "summary": "Medline Inc (MDLN) Plans to Expand Distribution Centers"
+        "title": "This Community Bank With $9 Billion in Assets Just Drew a $2.5 Million Investor Buy",
+        "link": "https://finance.yahoo.com/news/community-bank-9-billion-assets-224614698.html",
+        "pubDate": "2026-03-15T22:46:14Z",
+        "summary": "This Community Bank With $9 Billion in Assets Just Drew a $2.5 Million Investor Buy"
       },
       {
-        "title": "Jefferies Maintains a Buy on Haleon plc (HLN)",
-        "link": "https://finance.yahoo.com/news/jefferies-maintains-buy-haleon-plc-203613155.html",
-        "pubDate": "2026-03-14T20:36:13Z",
-        "summary": "Jefferies Maintains a Buy on Haleon plc (HLN)"
+        "title": "Thermo Fisher Scientific Inc. (TMO) Positioned for Robust Growth on AI Integration and Acquisition Boost",
+        "link": "https://finance.yahoo.com/news/thermo-fisher-scientific-inc-tmo-215504441.html",
+        "pubDate": "2026-03-15T21:55:04Z",
+        "summary": "Thermo Fisher Scientific Inc. (TMO) Positioned for Robust Growth on AI Integration and Acquisition Boost"
       },
       {
-        "title": "Oppenheimer Initiates CoreWeave (CRWV) With a Buy Rating",
-        "link": "https://finance.yahoo.com/news/oppenheimer-initiates-coreweave-crwv-buy-203611677.html",
-        "pubDate": "2026-03-14T20:36:11Z",
-        "summary": "Oppenheimer Initiates CoreWeave (CRWV) With a Buy Rating"
+        "title": "Is Boston Scientific Corp. (BSX) Pull Back Overdone as Financial Results Impress?",
+        "link": "https://finance.yahoo.com/news/boston-scientific-corp-bsx-pull-215420535.html",
+        "pubDate": "2026-03-15T21:54:20Z",
+        "summary": "Is Boston Scientific Corp. (BSX) Pull Back Overdone as Financial Results Impress?"
       },
       {
-        "title": "GE HealthCare (GEHC) Receives FDA 510 (k) Clearance for View",
-        "link": "https://finance.yahoo.com/news/ge-healthcare-gehc-receives-fda-203535014.html",
-        "pubDate": "2026-03-14T20:35:35Z",
-        "summary": "GE HealthCare (GEHC) Receives FDA 510 (k) Clearance for View"
+        "title": "Gilead Sciences, Inc. (GILD): Growth Prospects Backed by Analyst Upgrades",
+        "link": "https://finance.yahoo.com/news/gilead-sciences-inc-gild-growth-215254838.html",
+        "pubDate": "2026-03-15T21:52:54Z",
+        "summary": "Gilead Sciences, Inc. (GILD): Growth Prospects Backed by Analyst Upgrades"
       }
     ]
   }
