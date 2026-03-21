@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026년 03월 21일 08:27 KST",
+  "lastUpdated": "2026년 03월 22일 08:24 KST",
   "news": {
     "investing": [
+      {
+        "title": "Investing.com 주간 주요 종목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1873021",
+        "pubDate": "2026-03-21 09:00:02",
+        "summary": "Investing.com 주간 주요 종목"
+      },
+      {
+        "title": "제프리스, 2026년 신중한 전망 경고하며 메이시스 가시성 낮아",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1872995",
+        "pubDate": "2026-03-21 06:02:54",
+        "summary": "제프리스, 2026년 신중한 전망 경고하며 메이시스 가시성 낮아"
+      },
+      {
+        "title": "토마스 프리츠커 회장직 퇴임으로 하얏트 인수 추측 고조",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1872972",
+        "pubDate": "2026-03-21 04:10:49",
+        "summary": "토마스 프리츠커 회장직 퇴임으로 하얏트 인수 추측 고조"
+      },
+      {
+        "title": "EA 인수 자금 조달 채권에 250억 달러 주문 몰려",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1872888",
+        "pubDate": "2026-03-20 23:52:31",
+        "summary": "EA 인수 자금 조달 채권에 250억 달러 주문 몰려"
+      },
       {
         "title": "US Foods, 1억 3,700만 달러 규모 국방 계약 체결",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1872822",
@@ -37,154 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1872717",
         "pubDate": "2026-03-20 19:34:09",
         "summary": "이란 전쟁으로 유가 변동성 속 전기차 매력 부각"
-      },
-      {
-        "title": "페멕스, 유가 추세 관망 후 원유 수출 전략 조정 검토",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1872695",
-        "pubDate": "2026-03-20 19:00:42",
-        "summary": "페멕스, 유가 추세 관망 후 원유 수출 전략 조정 검토"
-      },
-      {
-        "title": "애크먼, 트럼프 정부에 패니 메이 및 프레디 맥 주식 소각 압박",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1872675",
-        "pubDate": "2026-03-20 18:19:19",
-        "summary": "애크먼, 트럼프 정부에 패니 메이 및 프레디 맥 주식 소각 압박"
-      },
-      {
-        "title": "골드만삭스, 가스 가격 급등의 수혜주로 이들 종목 지목",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1872674",
-        "pubDate": "2026-03-20 18:18:02",
-        "summary": "골드만삭스, 가스 가격 급등의 수혜주로 이들 종목 지목"
-      },
-      {
-        "title": "로블록스, 게임 스폰서십 수익 배분 정책 변경",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1872666",
-        "pubDate": "2026-03-20 17:54:54",
-        "summary": "로블록스, 게임 스폰서십 수익 배분 정책 변경"
       }
     ],
     "cnbc": [
       {
-        "title": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops",
-        "link": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
-        "pubDate": "Fri, 20 Mar 2026 22:23:55 GMT",
-        "summary": "President Donald Trump also said the Strait of Hormuz, \"will have to be guarded and policed, as necessary, by other Nations who use it.\""
+        "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay",
+        "link": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
+        "pubDate": "Sat, 21 Mar 2026 23:07:38 GMT",
+        "summary": "President Trump claimed ICE agents handling airport security would arrest immigrants who are in the U.S. illegally."
       },
       {
-        "title": "Gold drops nearly 10% in worst weekly rout since 2011",
-        "link": "https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html",
-        "pubDate": "Fri, 20 Mar 2026 20:44:28 GMT",
-        "summary": "The metal saw bumpy trading on Friday morning, after joining a broad sell-off the previous day."
+        "title": "Tehran strikes two Israeli communities near nuclear research site after Iran's Natanz enrichment plant hit",
+        "link": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
+        "pubDate": "Sat, 21 Mar 2026 23:12:16 GMT",
+        "summary": "Iran and Israel traded attacks on Saturday as the war in the Middle East escalated into a dangerous new direction at the start of its fourth week."
       },
       {
-        "title": "Super Micro co-founder indicted on Nvidia smuggling charges leaves board",
-        "link": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
-        "pubDate": "Fri, 20 Mar 2026 22:52:55 GMT",
-        "summary": "Super Micro said Yih-Shyan \"Wally\" Liaw, a co-founder, has resigned from the server maker's board after he was indicted in the U.S."
+        "title": "Former special counsel Robert Mueller has died at 81",
+        "link": "https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html",
+        "pubDate": "Sat, 21 Mar 2026 23:08:28 GMT",
+        "summary": "Robert Mueller, the former special counsel who investigated Russian interference in the 2016 presidential election, died Friday."
       },
       {
-        "title": "ChatGPT's ad pilot has the industry excited, but some insiders are frustrated with the slow rollout",
-        "link": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
-        "pubDate": "Fri, 20 Mar 2026 21:30:35 GMT",
-        "summary": "AI search ads are seen as having massive potential by ad industry insiders and analysts, but OpenAI rival Anthropic has pledged to not have them."
+        "title": "Analysis: Trump's unshackled presidency puts him at the center of the economy",
+        "link": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
+        "pubDate": "Sat, 21 Mar 2026 12:00:01 GMT",
+        "summary": "The president's unprecedented use of executive power has made him a driving force behind oil prices, the Federal Reserve's interest rates and more."
       },
       {
-        "title": "Super Micro shares tank 33% after employees charged with smuggling Nvidia chips to China",
-        "link": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-        "pubDate": "Fri, 20 Mar 2026 20:23:56 GMT",
-        "summary": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China."
+        "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
+        "link": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
+        "pubDate": "Sat, 21 Mar 2026 19:01:59 GMT",
+        "summary": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago."
       },
       {
-        "title": "Trump: U.S. could end Iran military operations 'right now' but will continue so Iran can 'never rebuild'",
-        "link": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html",
-        "pubDate": "Fri, 20 Mar 2026 17:12:58 GMT",
-        "summary": "President Donald Trump's comments followed reports that the Pentagon is sending up to 2,500 more Marines to the Middle East from San Diego."
+        "title": "How CNBC Cures is bringing rare disease stories to a national audience",
+        "link": "https://www.cnbc.com/2026/03/20/how-cnbc-cures-is-bringing-rare-disease-stories-to-a-national-audience.html",
+        "pubDate": "Fri, 20 Mar 2026 10:10:01 GMT",
+        "summary": "Two months after its launch, CNBC's rare disease initiative is starting to reach a broader audience."
       },
       {
-        "title": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave",
-        "link": "https://www.cnbc.com/2026/03/20/open-ai-agentic-shopping-etsy-shopify-walmart-amazon.html",
-        "pubDate": "Fri, 20 Mar 2026 19:00:48 GMT",
-        "summary": "Etsy, Walmart and Shopify were quick to jump into Instant Checkout, but item information was often inaccurate and onboarding merchants was difficult."
+        "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
+        "link": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
+        "pubDate": "Sat, 21 Mar 2026 12:00:01 GMT",
+        "summary": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses."
       },
       {
-        "title": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know.",
-        "link": "https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html",
-        "pubDate": "Fri, 20 Mar 2026 19:03:56 GMT",
-        "summary": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability."
+        "title": "Walmart digital price labels are coming to every store shelf in U.S. by end of 2026",
+        "link": "https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html",
+        "pubDate": "Sat, 21 Mar 2026 15:07:09 GMT",
+        "summary": "Walmart is rolling out digital shelf labels and expects it to be in all U.S. stores by year’s end. Is it surge pricing in disguise or just new tech efficiency?"
       },
       {
-        "title": "'Marriage penalty' in Washington state's new millionaire tax stirs debate",
-        "link": "https://www.cnbc.com/2026/03/20/washington-millionaire-tax-marriage.html",
-        "pubDate": "Fri, 20 Mar 2026 15:36:08 GMT",
-        "summary": "Washington state's first-ever income tax would impose a 9.9% tax on income of more than $1 million a year."
+        "title": "Nissan’s new hybrid is a U.S.-first that mixes EV driving with a gas engine",
+        "link": "https://www.cnbc.com/2026/03/21/nissan-series-hybrid-rogue-suv.html",
+        "pubDate": "Sat, 21 Mar 2026 13:00:02 GMT",
+        "summary": "Nissan plans to introduce a new type of hybrid for the U.S. market that drives like an all-electric vehicle but is powered by a traditional gas-powered engine."
       },
       {
-        "title": "Memory crisis latest: What we learned from the world's top producers this week",
-        "link": "https://www.cnbc.com/2026/03/20/memory-crisis-latest-dram-chips-micron-samsung-sk-hynix.html",
-        "pubDate": "Fri, 20 Mar 2026 20:15:14 GMT",
-        "summary": "Parts of the market are asking if we're already nearing peak tightness and margins in the memory chip space as the shortage persists."
+        "title": "‘Tax resistance’ gains attention amid ICE protests, Iran war — and IRS penalties could follow",
+        "link": "https://www.cnbc.com/2026/03/21/tax-protesters-iran-war-ice.html",
+        "pubDate": "Sat, 21 Mar 2026 13:30:01 GMT",
+        "summary": "Tax protesters often withhold taxes due to moral objections to certain government programs, such as the Iran war. But there can be IRS penalties, experts say."
       }
     ],
     "yahoo": [
       {
-        "title": "Gas Prices Have Risen 90 Cents in March—See What Drivers in Your State Are Paying Now",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-risen-90-cents-161709906.html",
-        "pubDate": "2026-03-19T16:17:09Z",
-        "summary": "Gas Prices Have Risen 90 Cents in March—See What Drivers in Your State Are Paying Now"
+        "title": "Qualcomm Stockholders Back Board, Equity Plan; CEO Amon Highlights AI, Robotics and Data Center Push",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stockholders-back-board-equity-230305751.html",
+        "pubDate": "2026-03-21T23:03:05Z",
+        "summary": "Qualcomm Stockholders Back Board, Equity Plan; CEO Amon Highlights AI, Robotics and Data Center Push"
       },
       {
-        "title": "An Oil Shock, $2 Billion, and 133% Gains: 1 Energy Stock to Watch Now",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/oil-shock-2-billion-133-161502289.html",
-        "pubDate": "2026-03-19T16:15:02Z",
-        "summary": "An Oil Shock, $2 Billion, and 133% Gains: 1 Energy Stock to Watch Now"
+        "title": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-03-21T22:24:53Z",
+        "summary": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?"
       },
       {
-        "title": "Morgan Stanley Is Betting Big on This ‘Global AI’ Winner. Should You Buy the Stock Here?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-betting-big-global-161207428.html",
-        "pubDate": "2026-03-19T16:12:07Z",
-        "summary": "Morgan Stanley Is Betting Big on This ‘Global AI’ Winner. Should You Buy the Stock Here?"
+        "title": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-inc-pstg-good-stock-211337284.html",
+        "pubDate": "2026-03-21T21:13:37Z",
+        "summary": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?"
       },
       {
-        "title": "Goldman Sachs: Every $10 Jump in Oil Could Add 0.3% to U.S. Inflation",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-every-10-jump-160854565.html",
-        "pubDate": "2026-03-19T16:08:54Z",
-        "summary": "Goldman Sachs: Every $10 Jump in Oil Could Add 0.3% to U.S. Inflation"
+        "title": "Is MercadoLibre, Inc. (MELI) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-inc-meli-good-stock-211127196.html",
+        "pubDate": "2026-03-21T21:11:27Z",
+        "summary": "Is MercadoLibre, Inc. (MELI) A Good Stock To Buy Now?"
       },
       {
-        "title": "Arista (ANET) Shares Higher After Jim Cramer Said It Made Sense In January 2025",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/arista-anet-shares-higher-jim-160805341.html",
-        "pubDate": "2026-03-19T16:08:05Z",
-        "summary": "Arista (ANET) Shares Higher After Jim Cramer Said It Made Sense In January 2025"
+        "title": "Is Intuitive Surgical, Inc. (ISRG) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-inc-isrg-good-211051166.html",
+        "pubDate": "2026-03-21T21:10:51Z",
+        "summary": "Is Intuitive Surgical, Inc. (ISRG) A Good Stock To Buy Now?"
       },
       {
-        "title": "Has Ethereum Bottomed? Veteran Trader Peter Brandt Highlights Bounce At Long-Term Support",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-bottomed-veteran-trader-peter-161345468.html",
-        "pubDate": "2026-03-19T16:13:45Z",
-        "summary": "Has Ethereum Bottomed? Veteran Trader Peter Brandt Highlights Bounce At Long-Term Support"
+        "title": "Is This Stock a Buy on the Dip?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-buy-dip-225000511.html",
+        "pubDate": "2026-03-21T22:50:00Z",
+        "summary": "Is This Stock a Buy on the Dip?"
       },
       {
-        "title": "Here’s How IonQ (IONQ)’s Shares Behaved After Jim Cramer Said It Was “Speculative” In May 2025",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-shares-behaved-jim-160639549.html",
-        "pubDate": "2026-03-19T16:06:39Z",
-        "summary": "Here’s How IonQ (IONQ)’s Shares Behaved After Jim Cramer Said It Was “Speculative” In May 2025"
+        "title": "Is Edwards Lifesciences Corporation (EW) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-corporation-ew-good-211030785.html",
+        "pubDate": "2026-03-21T21:10:30Z",
+        "summary": "Is Edwards Lifesciences Corporation (EW) A Good Stock To Buy Now?"
       },
       {
-        "title": "Here’s How Rigetti (RGTI)’s Shares Behaved After Jim Cramer Said “It’s A Quantum GameStop” In January 2025",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rigetti-rgti-shares-behaved-jim-160630806.html",
-        "pubDate": "2026-03-19T16:06:30Z",
-        "summary": "Here’s How Rigetti (RGTI)’s Shares Behaved After Jim Cramer Said “It’s A Quantum GameStop” In January 2025"
+        "title": "Is PayPal Holdings, Inc. (PYPL) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-inc-pypl-good-211003322.html",
+        "pubDate": "2026-03-21T21:10:03Z",
+        "summary": "Is PayPal Holdings, Inc. (PYPL) A Good Stock To Buy Now?"
       },
       {
-        "title": "Here’s How Hewlett Packard Enterprise (HPE)’s Shares Behaved After Jim Cramer Said “They’re A Big Winner” In January 2025",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-shares-160618421.html",
-        "pubDate": "2026-03-19T16:06:18Z",
-        "summary": "Here’s How Hewlett Packard Enterprise (HPE)’s Shares Behaved After Jim Cramer Said “They’re A Big Winner” In January 2025"
+        "title": "Is Applied Digital Corporation (APLD) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-good-210933594.html",
+        "pubDate": "2026-03-21T21:09:33Z",
+        "summary": "Is Applied Digital Corporation (APLD) A Good Stock To Buy Now?"
       },
       {
-        "title": "Drone Stock Becomes Hottest IPO As Shares Soar Nearly 1,000%",
-        "link": "https://www.investors.com/news/ipo-swarmer-swmr-stock-drones/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-03-19T16:05:16Z",
-        "summary": "Drone Stock Becomes Hottest IPO As Shares Soar Nearly 1,000%"
+        "title": "Duke Energy Corporation (DUK) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-corporation-duk-good-210908323.html",
+        "pubDate": "2026-03-21T21:09:08Z",
+        "summary": "Duke Energy Corporation (DUK) A Good Stock To Buy Now?"
       }
     ]
   }
