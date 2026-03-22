@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026년 03월 22일 08:24 KST",
+  "lastUpdated": "2026년 03월 23일 08:26 KST",
   "news": {
     "investing": [
+      {
+        "title": "엘리엇, 칩 설계 소프트웨어 기업 시놉시스에 대규모 지분 확보 - WSJ",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1873251",
+        "pubDate": "2026-03-22 23:11:56",
+        "summary": "엘리엇, 칩 설계 소프트웨어 기업 시놉시스에 대규모 지분 확보 - WSJ"
+      },
+      {
+        "title": "[주간경제전망] 경제지표 발표 집중…이란 전쟁 영향 확인될까",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1873212",
+        "pubDate": "2026-03-22 20:10:29",
+        "summary": "[주간경제전망] 경제지표 발표 집중…이란 전쟁 영향 확인될까"
+      },
+      {
+        "title": "이번 주 월가 애널리스트 주요 코멘트",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1873139",
+        "pubDate": "2026-03-22 06:29:15",
+        "summary": "이번 주 월가 애널리스트 주요 코멘트"
+      },
+      {
+        "title": "중소기업들이 GOOGL, META, ChatGPT 광고에 대해 말하는 것은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1873134",
+        "pubDate": "2026-03-22 05:14:34",
+        "summary": "중소기업들이 GOOGL, META, ChatGPT 광고에 대해 말하는 것은?"
+      },
       {
         "title": "Investing.com 주간 주요 종목",
         "link": "https://kr.investing.com/news/stock-market-news/article-1873021",
@@ -37,44 +61,50 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1872820",
         "pubDate": "2026-03-20 21:27:27",
         "summary": "에어로바이런먼트, 미 Arm과 1억 3,500만 달러 규모 계약 체결"
-      },
-      {
-        "title": "BHAV Acquisition, 나스닥에서 1억 달러 규모 IPO 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1872794",
-        "pubDate": "2026-03-20 21:01:11",
-        "summary": "BHAV Acquisition, 나스닥에서 1억 달러 규모 IPO 완료"
-      },
-      {
-        "title": "UBS, 변동성과 지정학적 리스크 헤지 수단으로 대체투자 주목",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1872729",
-        "pubDate": "2026-03-20 19:44:54",
-        "summary": "UBS, 변동성과 지정학적 리스크 헤지 수단으로 대체투자 주목"
-      },
-      {
-        "title": "BARK, 인수 제안 거절 후 주가 급락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1872719",
-        "pubDate": "2026-03-20 19:36:42",
-        "summary": "BARK, 인수 제안 거절 후 주가 급락"
-      },
-      {
-        "title": "이란 전쟁으로 유가 변동성 속 전기차 매력 부각",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1872717",
-        "pubDate": "2026-03-20 19:34:09",
-        "summary": "이란 전쟁으로 유가 변동성 속 전기차 매력 부각"
       }
     ],
     "cnbc": [
       {
-        "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay",
-        "link": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
-        "pubDate": "Sat, 21 Mar 2026 23:07:38 GMT",
-        "summary": "President Trump claimed ICE agents handling airport security would arrest immigrants who are in the U.S. illegally."
+        "title": "ICE agents will be deployed to U.S. airports on Monday: Homan",
+        "link": "https://www.cnbc.com/2026/03/22/ice-agents-will-be-deployed-to-us-airports-on-monday-homan.html",
+        "pubDate": "Sun, 22 Mar 2026 19:51:01 GMT",
+        "summary": "The shutdown at the Department of Homeland Security has caused massive pileups at airport security lines."
       },
       {
-        "title": "Tehran strikes two Israeli communities near nuclear research site after Iran's Natanz enrichment plant hit",
-        "link": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-        "pubDate": "Sat, 21 Mar 2026 23:12:16 GMT",
-        "summary": "Iran and Israel traded attacks on Saturday as the war in the Middle East escalated into a dangerous new direction at the start of its fourth week."
+        "title": "The economy has a Strait of Hormuz deadline for Trump: Two weeks",
+        "link": "https://www.cnbc.com/2026/03/22/iran-war-strait-of-hormuz-trump-oil-prices-economy.html",
+        "pubDate": "Sun, 22 Mar 2026 18:44:05 GMT",
+        "summary": "Corporate executives are not panicking over a short-term increase in oil prices and Strait of Hormuz closure, but patience may wear thin in a matter of weeks."
+      },
+      {
+        "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
+        "link": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
+        "pubDate": "Sun, 22 Mar 2026 12:00:01 GMT",
+        "summary": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia."
+      },
+      {
+        "title": "When it comes to private credit, 'some caution is reasonable,' advisor says. What to know",
+        "link": "https://www.cnbc.com/2026/03/22/private-credit.html",
+        "pubDate": "Sun, 22 Mar 2026 13:30:01 GMT",
+        "summary": "While there are pockets of weakness in private credit, concern about a broad-based meltdown among these funds may be misplaced, some experts say."
+      },
+      {
+        "title": "Here are 4 big things we're watching in the stock market this week",
+        "link": "https://www.cnbc.com/2026/03/22/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+        "pubDate": "Sun, 22 Mar 2026 22:29:26 GMT",
+        "summary": "The Iran war and rising oil prices will remain front and center."
+      },
+      {
+        "title": "Not just buying 'things': Why China's emotional economy is on the rise",
+        "link": "https://www.cnbc.com/2026/03/23/chinas-emotional-economy-is-on-the-rise.html",
+        "pubDate": "Sun, 22 Mar 2026 22:58:58 GMT",
+        "summary": "Amid a prolonged economic slowdown, one segment of the world's second-largest economy is growing quicker than the rest: China's so-called emotional economy."
+      },
+      {
+        "title": "Wealthy consumers are turning to jewelry as an investment, especially colored gemstones",
+        "link": "https://www.cnbc.com/2026/03/22/wealthy-consumers-invest-in-jewelry-amid-rising-uncertainty-market-volatility.html",
+        "pubDate": "Sun, 22 Mar 2026 11:34:51 GMT",
+        "summary": "Lofty gold prices and market volatility are pushing wealthy consumers toward jewelry, especially rare colored gemstones, as handbags lose appeal."
       },
       {
         "title": "Former special counsel Robert Mueller has died at 81",
@@ -83,108 +113,78 @@
         "summary": "Robert Mueller, the former special counsel who investigated Russian interference in the 2016 presidential election, died Friday."
       },
       {
-        "title": "Analysis: Trump's unshackled presidency puts him at the center of the economy",
-        "link": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
-        "pubDate": "Sat, 21 Mar 2026 12:00:01 GMT",
-        "summary": "The president's unprecedented use of executive power has made him a driving force behind oil prices, the Federal Reserve's interest rates and more."
-      },
-      {
-        "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
-        "link": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
-        "pubDate": "Sat, 21 Mar 2026 19:01:59 GMT",
-        "summary": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago."
-      },
-      {
         "title": "How CNBC Cures is bringing rare disease stories to a national audience",
         "link": "https://www.cnbc.com/2026/03/20/how-cnbc-cures-is-bringing-rare-disease-stories-to-a-national-audience.html",
         "pubDate": "Fri, 20 Mar 2026 10:10:01 GMT",
         "summary": "Two months after its launch, CNBC's rare disease initiative is starting to reach a broader audience."
       },
       {
-        "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
-        "link": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
-        "pubDate": "Sat, 21 Mar 2026 12:00:01 GMT",
-        "summary": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses."
-      },
-      {
-        "title": "Walmart digital price labels are coming to every store shelf in U.S. by end of 2026",
-        "link": "https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html",
-        "pubDate": "Sat, 21 Mar 2026 15:07:09 GMT",
-        "summary": "Walmart is rolling out digital shelf labels and expects it to be in all U.S. stores by year’s end. Is it surge pricing in disguise or just new tech efficiency?"
-      },
-      {
-        "title": "Nissan’s new hybrid is a U.S.-first that mixes EV driving with a gas engine",
-        "link": "https://www.cnbc.com/2026/03/21/nissan-series-hybrid-rogue-suv.html",
-        "pubDate": "Sat, 21 Mar 2026 13:00:02 GMT",
-        "summary": "Nissan plans to introduce a new type of hybrid for the U.S. market that drives like an all-electric vehicle but is powered by a traditional gas-powered engine."
-      },
-      {
-        "title": "‘Tax resistance’ gains attention amid ICE protests, Iran war — and IRS penalties could follow",
-        "link": "https://www.cnbc.com/2026/03/21/tax-protesters-iran-war-ice.html",
-        "pubDate": "Sat, 21 Mar 2026 13:30:01 GMT",
-        "summary": "Tax protesters often withhold taxes due to moral objections to certain government programs, such as the Iran war. But there can be IRS penalties, experts say."
+        "title": "A Netflix cooking show is changing how people travel — and restaurants are seeing bookings jump 303%",
+        "link": "https://www.cnbc.com/2026/03/23/culinary-class-wars-netflix-show-causes-food-tourism-increase.html",
+        "pubDate": "Sun, 22 Mar 2026 23:12:52 GMT",
+        "summary": "Asia's food tourism scene attempts to angle itself between gourmet and authentic street food. Netflix show \"Culinary Class Wars\" replicates this contradiction."
       }
     ],
     "yahoo": [
       {
-        "title": "Qualcomm Stockholders Back Board, Equity Plan; CEO Amon Highlights AI, Robotics and Data Center Push",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stockholders-back-board-equity-230305751.html",
-        "pubDate": "2026-03-21T23:03:05Z",
-        "summary": "Qualcomm Stockholders Back Board, Equity Plan; CEO Amon Highlights AI, Robotics and Data Center Push"
+        "title": "Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled",
+        "link": "https://finance.yahoo.com/markets/articles/financial-markets-responding-iran-conflict-120000306.html",
+        "pubDate": "2026-03-22T23:11:00Z",
+        "summary": "Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled"
       },
       {
-        "title": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?",
+        "title": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-03-21T22:24:53Z",
-        "summary": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?"
+        "pubDate": "2026-03-22T23:06:19Z",
+        "summary": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants"
       },
       {
-        "title": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-inc-pstg-good-stock-211337284.html",
-        "pubDate": "2026-03-21T21:13:37Z",
-        "summary": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as four week down spiral continues, Trump threatens Iran",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-four-week-down-spiral-continues-trump-threatens-iran-230122831.html",
+        "pubDate": "2026-03-22T23:01:22Z",
+        "summary": "Stock market today: Dow, S&P 500, Nasdaq futures fall as four week down spiral continues, Trump threatens Iran"
       },
       {
-        "title": "Is MercadoLibre, Inc. (MELI) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-inc-meli-good-stock-211127196.html",
-        "pubDate": "2026-03-21T21:11:27Z",
-        "summary": "Is MercadoLibre, Inc. (MELI) A Good Stock To Buy Now?"
+        "title": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/peter-thiel-betting-big-2b-222000722.html",
+        "pubDate": "2026-03-22T22:20:00Z",
+        "summary": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in"
       },
       {
-        "title": "Is Intuitive Surgical, Inc. (ISRG) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-inc-isrg-good-211051166.html",
-        "pubDate": "2026-03-21T21:10:51Z",
-        "summary": "Is Intuitive Surgical, Inc. (ISRG) A Good Stock To Buy Now?"
+        "title": "Is Citigroup Inc. (C) One of the Best Forever Stocks to Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-inc-c-one-best-165325265.html",
+        "pubDate": "2026-03-22T20:09:25Z",
+        "summary": "Is Citigroup Inc. (C) One of the Best Forever Stocks to Buy Now?"
       },
       {
-        "title": "Is This Stock a Buy on the Dip?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-buy-dip-225000511.html",
-        "pubDate": "2026-03-21T22:50:00Z",
-        "summary": "Is This Stock a Buy on the Dip?"
+        "title": "Varex Imaging Says Demand Steady Despite Geopolitics; Tariff Relief to Lift Margins, India Ramp Ahead",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/varex-imaging-says-demand-steady-230206767.html",
+        "pubDate": "2026-03-22T23:02:06Z",
+        "summary": "Varex Imaging Says Demand Steady Despite Geopolitics; Tariff Relief to Lift Margins, India Ramp Ahead"
       },
       {
-        "title": "Is Edwards Lifesciences Corporation (EW) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-corporation-ew-good-211030785.html",
-        "pubDate": "2026-03-21T21:10:30Z",
-        "summary": "Is Edwards Lifesciences Corporation (EW) A Good Stock To Buy Now?"
+        "title": "Palantir Technologies Inc. (PLTR) Partners with Keel Holdings on US Navy’s ShipOS initiative",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-partners-165323662.html",
+        "pubDate": "2026-03-22T20:07:23Z",
+        "summary": "Palantir Technologies Inc. (PLTR) Partners with Keel Holdings on US Navy’s ShipOS initiative"
       },
       {
-        "title": "Is PayPal Holdings, Inc. (PYPL) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-inc-pypl-good-211003322.html",
-        "pubDate": "2026-03-21T21:10:03Z",
-        "summary": "Is PayPal Holdings, Inc. (PYPL) A Good Stock To Buy Now?"
+        "title": "The Boeing Company (BA) Eyes Strong Recovery as Backlog Surges and Margins Stabilize",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-eyes-strong-165322334.html",
+        "pubDate": "2026-03-22T20:06:22Z",
+        "summary": "The Boeing Company (BA) Eyes Strong Recovery as Backlog Surges and Margins Stabilize"
       },
       {
-        "title": "Is Applied Digital Corporation (APLD) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-good-210933594.html",
-        "pubDate": "2026-03-21T21:09:33Z",
-        "summary": "Is Applied Digital Corporation (APLD) A Good Stock To Buy Now?"
+        "title": "Is Lam Research Corporation (LRCX) Eyeing Besi Industries Merger Amid IBM Pact for Logic Scaling",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-eyeing-165320856.html",
+        "pubDate": "2026-03-22T20:04:20Z",
+        "summary": "Is Lam Research Corporation (LRCX) Eyeing Besi Industries Merger Amid IBM Pact for Logic Scaling"
       },
       {
-        "title": "Duke Energy Corporation (DUK) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-corporation-duk-good-210908323.html",
-        "pubDate": "2026-03-21T21:09:08Z",
-        "summary": "Duke Energy Corporation (DUK) A Good Stock To Buy Now?"
+        "title": "Uber Technologies (UBER) Turns to Autonomous Vehicle Partnerships to Accelerate Growth",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-inc-uber-turns-165319729.html",
+        "pubDate": "2026-03-22T20:04:19Z",
+        "summary": "Uber Technologies (UBER) Turns to Autonomous Vehicle Partnerships to Accelerate Growth"
       }
     ]
   }
