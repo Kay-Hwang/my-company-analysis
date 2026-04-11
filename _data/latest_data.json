@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026년 04월 11일 08:34 KST",
+  "lastUpdated": "2026년 04월 12일 08:32 KST",
   "news": {
     "investing": [
+      {
+        "title": "21시간 거래: LNG 리스크 증가로 유럽, 에너지 거래 시간 확대",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1896147",
+        "pubDate": "2026-04-11 09:14:52",
+        "summary": "21시간 거래: LNG 리스크 증가로 유럽, 에너지 거래 시간 확대"
+      },
+      {
+        "title": "샌디스크, 나스닥-100 지수 개편으로 편입 예정; 아틀라시안 제외",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1896108",
+        "pubDate": "2026-04-11 01:26:17",
+        "summary": "샌디스크, 나스닥-100 지수 개편으로 편입 예정; 아틀라시안 제외"
+      },
       {
         "title": "캐나다 중앙은행, Anthropic AI 사이버 위협 관련 주요 은행들과 회의",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1895965",
@@ -49,68 +61,44 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1895886",
         "pubDate": "2026-04-10 18:40:04",
         "summary": "수자 라이프, 나스닥 IPO 신청"
-      },
-      {
-        "title": "블랙스톤, 데이터센터 인수 회사 IPO로 20억 달러 조달 추진",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1895882",
-        "pubDate": "2026-04-10 18:28:35",
-        "summary": "블랙스톤, 데이터센터 인수 회사 IPO로 20억 달러 조달 추진"
-      },
-      {
-        "title": "나이키 혁신 책임자, 1년도 안 돼 퇴사",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1895875",
-        "pubDate": "2026-04-10 18:06:38",
-        "summary": "나이키 혁신 책임자, 1년도 안 돼 퇴사"
       }
     ],
     "cnbc": [
       {
-        "title": "Here's the inflation breakdown for March 2026 — in one chart",
-        "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
-        "pubDate": "Fri, 10 Apr 2026 15:49:16 GMT",
-        "summary": "The Iran war has pushed up gasoline, airline fares and other prices for consumers."
+        "title": "U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday",
+        "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+        "pubDate": "Sat, 11 Apr 2026 23:31:57 GMT",
+        "summary": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict."
+      },
+      {
+        "title": "Berkshire electric utility's court win could save it billions",
+        "link": "https://www.cnbc.com/2026/04/11/berkshire-electric-utilitys-court-win-could-save-it-billions.html",
+        "pubDate": "Sat, 11 Apr 2026 11:43:24 GMT",
+        "summary": "PacifiCorp court win could reduce wildfire damages by $1 billion or more."
+      },
+      {
+        "title": "How Kodak is trying to turn around its business after teetering on bankruptcy",
+        "link": "https://www.cnbc.com/2026/04/11/kodak-film-business-ceo-jim-continenza.html",
+        "pubDate": "Sat, 11 Apr 2026 12:00:01 GMT",
+        "summary": "Photography company Eastman Kodak has seen its fair share of financial struggles, but CEO Jim Continenza is determined to fuel its success."
+      },
+      {
+        "title": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
+        "link": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
+        "pubDate": "Sat, 11 Apr 2026 12:00:01 GMT",
+        "summary": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips."
+      },
+      {
+        "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
+        "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
+        "pubDate": "Sat, 11 Apr 2026 21:37:12 GMT",
+        "summary": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs."
       },
       {
         "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
         "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
         "pubDate": "Fri, 10 Apr 2026 21:16:19 GMT",
         "summary": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran."
-      },
-      {
-        "title": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release",
-        "link": "https://www.cnbc.com/2026/04/10/trump-white-house-ai-cyber-threat-anthropic-mythos.html",
-        "pubDate": "Fri, 10 Apr 2026 21:39:21 GMT",
-        "summary": "Bessent and Fed Chair Jerome Powell separately met with the heads of the biggest U.S. banks to address the potential cyber threat of Anthropic's Mythos."
-      },
-      {
-        "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
-        "link": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html",
-        "pubDate": "Fri, 10 Apr 2026 20:20:12 GMT",
-        "summary": "The investor of the \"Big Short\" fame said he continues to hold long-dated put options on the artificial intelligence software firm."
-      },
-      {
-        "title": "Man arrested after Sam Altman's house hit with Molotov cocktail, OpenAI headquarters threatened",
-        "link": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
-        "pubDate": "Fri, 10 Apr 2026 23:17:40 GMT",
-        "summary": "Police arrested a suspect at OpenAI's headquarters for allegedly threatening arson after an attack on CEO Sam Altman's home."
-      },
-      {
-        "title": "Jeffrey Epstein victims will get House committee hearing, James Comer says",
-        "link": "https://www.cnbc.com/2026/04/10/epstein-melania-trump-victims-house-hearings.html",
-        "pubDate": "Fri, 10 Apr 2026 20:43:03 GMT",
-        "summary": "Rep. James Comer's promise came a day after first lady Melania Trump urged Congress to give victims of Jeffrey Epstein a public hearing so \"we have the truth.\""
-      },
-      {
-        "title": "Former Sen. Ben Sasse shines the spotlight on a possible breakthrough for pancreatic cancer",
-        "link": "https://www.cnbc.com/2026/04/10/ben-sasse-shines-spotlight-on-daraxonrasib-for-pancreatic-cancer.html",
-        "pubDate": "Fri, 10 Apr 2026 17:49:43 GMT",
-        "summary": "Former Sen. Ben Sasse is taking Revolution Medicines' daraxonrasib, which has shown promise as a treatment for pancreatic cancer."
-      },
-      {
-        "title": "Cramer warns of ‘incredibly overconfident’ market after U.S.-Iran ceasefire",
-        "link": "https://www.cnbc.com/2026/04/10/cramer-warns-overconfident-market-after-us-iran-ceasefire.html",
-        "pubDate": "Fri, 10 Apr 2026 22:57:10 GMT",
-        "summary": "\"The idea that everything will finally go right in the Middle East seems like a real stretch to me,\" Cramer said."
       },
       {
         "title": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
@@ -121,70 +109,82 @@
       {
         "title": "Trump's 250-foot 'triumphal arch' would loom over Potomac, new renderings show",
         "link": "https://www.cnbc.com/2026/04/10/trump-arch-renderings-arlington.html",
-        "pubDate": "Fri, 10 Apr 2026 22:02:59 GMT",
+        "pubDate": "Sat, 11 Apr 2026 01:41:53 GMT",
         "summary": "Rep. Don Beyer said \"President Trump is focused on a taxpayer-funded vanity project that would choke traffic, block our skyline, and tower over sacred ground.\""
+      },
+      {
+        "title": "Social Security 2027 cost-of-living adjustment estimate rises with gas prices",
+        "link": "https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html",
+        "pubDate": "Fri, 10 Apr 2026 19:51:01 GMT",
+        "summary": "New government data shows the pace of inflation has increased, pushing up one estimate for the Social Security cost-of-living adjustment for 2027."
+      },
+      {
+        "title": "Man arrested after Sam Altman's house hit with Molotov cocktail, OpenAI headquarters threatened",
+        "link": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
+        "pubDate": "Fri, 10 Apr 2026 23:17:40 GMT",
+        "summary": "Police arrested a suspect at OpenAI's headquarters for allegedly threatening arson after an attack on CEO Sam Altman's home."
       }
     ],
     "yahoo": [
       {
-        "title": "Nexus Mutual wants to be the insurance policy your crypto never had",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html",
-        "pubDate": "2026-04-09T21:49:00Z",
-        "summary": "Nexus Mutual wants to be the insurance policy your crypto never had"
+        "title": "44-year-old burger chain’s franchisee files Chapter 11 bankruptcy",
+        "link": "https://finance.yahoo.com/economy/policy/articles/44-old-burger-chain-franchisee-231947320.html",
+        "pubDate": "2026-04-11T23:19:47Z",
+        "summary": "44-year-old burger chain’s franchisee files Chapter 11 bankruptcy"
       },
       {
-        "title": "Sugar Prices Tumble Amid Prospects of Ample Global Supplies",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-tumble-amid-prospects-162251138.html",
-        "pubDate": "2026-04-09T16:22:51Z",
-        "summary": "Sugar Prices Tumble Amid Prospects of Ample Global Supplies"
+        "title": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-aehr-soars-59-220847295.html",
+        "pubDate": "2026-04-11T22:08:47Z",
+        "summary": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand"
       },
       {
-        "title": "HSBC Initiates Coverage of Pony AI (PONY) with a Buy Rating",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-initiates-coverage-pony-ai-161601079.html",
-        "pubDate": "2026-04-09T16:16:01Z",
-        "summary": "HSBC Initiates Coverage of Pony AI (PONY) with a Buy Rating"
+        "title": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-group-holdings-inc-ulcc-220823137.html",
+        "pubDate": "2026-04-11T22:08:23Z",
+        "summary": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring"
       },
       {
-        "title": "Jefferies Raises its Price Target on Kingsoft Cloud Holdings (KC) to $19",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-raises-price-target-kingsoft-161611663.html",
-        "pubDate": "2026-04-09T16:16:11Z",
-        "summary": "Jefferies Raises its Price Target on Kingsoft Cloud Holdings (KC) to $19"
+        "title": "Clarivate Plc (CLVT) Expands Intelligent Automation across Regulatory Workflows",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/clarivate-plc-clvt-expands-intelligent-220814839.html",
+        "pubDate": "2026-04-11T22:08:14Z",
+        "summary": "Clarivate Plc (CLVT) Expands Intelligent Automation across Regulatory Workflows"
       },
       {
-        "title": "Grab Holdings (GRAB): The Best Strong Buy Asian Stock to Invest In",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/grab-holdings-grab-best-strong-161511721.html",
-        "pubDate": "2026-04-09T16:15:11Z",
-        "summary": "Grab Holdings (GRAB): The Best Strong Buy Asian Stock to Invest In"
+        "title": "UBS Raises Petco Health and Wellness Company, Inc. (WOOF) Target Amid Growth Strategy",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-petco-health-wellness-220804234.html",
+        "pubDate": "2026-04-11T22:08:04Z",
+        "summary": "UBS Raises Petco Health and Wellness Company, Inc. (WOOF) Target Amid Growth Strategy"
       },
       {
-        "title": "Analyst Report: Smurfit WestRock plc",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_6347_AnalystReport_1775840520000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2026-04-10T17:02:00Z",
-        "summary": "Analyst Report: Smurfit WestRock plc"
+        "title": "Another Day of Iran-Led Volatility: Why the Case for Staying Invested Remains Intact",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/another-day-iran-led-volatility-230500686.html",
+        "pubDate": "2026-04-11T23:05:00Z",
+        "summary": "Another Day of Iran-Led Volatility: Why the Case for Staying Invested Remains Intact"
       },
       {
-        "title": "Howard Hanna CEO confronts housing crash fears",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html",
-        "pubDate": "2026-04-09T20:00:49Z",
-        "summary": "Howard Hanna CEO confronts housing crash fears"
+        "title": "This is why CI&T Inc (CINT) is not a Scam but one of the Best Cheap Penny Stocks to Buy",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html",
+        "pubDate": "2026-04-11T22:07:44Z",
+        "summary": "This is why CI&T Inc (CINT) is not a Scam but one of the Best Cheap Penny Stocks to Buy"
       },
       {
-        "title": "Best Bank of America credit cards for April 2026: Cash back, travel, 0% APR, and more",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-bank-of-america-credit-cards-204820061.html",
-        "pubDate": "2026-01-26T20:48:20Z",
-        "summary": "Best Bank of America credit cards for April 2026: Cash back, travel, 0% APR, and more"
+        "title": "N-able Inc. (NABL) Expands Technology Alliance and AI SoC Capabilities",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/n-able-inc-nabl-expands-220735508.html",
+        "pubDate": "2026-04-11T22:07:35Z",
+        "summary": "N-able Inc. (NABL) Expands Technology Alliance and AI SoC Capabilities"
       },
       {
-        "title": "Alibaba Just Unveiled a Massive AI Chip Cluster. Does That Make BABA Stock a Buy Here?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-just-unveiled-massive-ai-160945178.html",
-        "pubDate": "2026-04-09T16:09:45Z",
-        "summary": "Alibaba Just Unveiled a Massive AI Chip Cluster. Does That Make BABA Stock a Buy Here?"
+        "title": "This is why Burford Capital Limited (BUR) is Cheap Penny Stock to Buy and not a Scam?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-burford-capital-limited-bur-220729281.html",
+        "pubDate": "2026-04-11T22:07:29Z",
+        "summary": "This is why Burford Capital Limited (BUR) is Cheap Penny Stock to Buy and not a Scam?"
       },
       {
-        "title": "Foldable iPhones Are Reportedly Still on Track for September. Should You Buy AAPL Stock Here?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/foldable-iphones-reportedly-still-track-160725510.html",
-        "pubDate": "2026-04-09T16:07:25Z",
-        "summary": "Foldable iPhones Are Reportedly Still on Track for September. Should You Buy AAPL Stock Here?"
+        "title": "Applied Optoelectronics (AAOI) Soars 45% on AI Boost",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-45-220652242.html",
+        "pubDate": "2026-04-11T22:06:52Z",
+        "summary": "Applied Optoelectronics (AAOI) Soars 45% on AI Boost"
       }
     ]
   }
