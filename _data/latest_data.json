@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026년 04월 12일 08:32 KST",
+  "lastUpdated": "2026년 04월 13일 08:33 KST",
   "news": {
     "investing": [
+      {
+        "title": "5가지 주요 애널리스트 AI 동향: TXN과 DDOG 업그레이드, SNDK 추가 상승 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1896222",
+        "pubDate": "2026-04-12 09:05:01",
+        "summary": "5가지 주요 애널리스트 AI 동향: TXN과 DDOG 업그레이드, SNDK 추가 상승 전망"
+      },
       {
         "title": "21시간 거래: LNG 리스크 증가로 유럽, 에너지 거래 시간 확대",
         "link": "https://kr.investing.com/news/stock-market-news/article-1896147",
@@ -55,20 +61,26 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1895888",
         "pubDate": "2026-04-10 18:45:22",
         "summary": "골드만삭스, 알고리즘 기반 주식 매수 기록 경신 전망"
-      },
-      {
-        "title": "수자 라이프, 나스닥 IPO 신청",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1895886",
-        "pubDate": "2026-04-10 18:40:04",
-        "summary": "수자 라이프, 나스닥 IPO 신청"
       }
     ],
     "cnbc": [
       {
-        "title": "U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday",
-        "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
-        "pubDate": "Sat, 11 Apr 2026 23:31:57 GMT",
-        "summary": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict."
+        "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
+        "link": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
+        "pubDate": "Sun, 12 Apr 2026 22:22:21 GMT",
+        "summary": "President Donald Trump said he ordered the U.S. Navy to find and interdict any ship in international waters that has paid a toll to Iran to transit the strait."
+      },
+      {
+        "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+        "link": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
+        "pubDate": "Sun, 12 Apr 2026 22:19:12 GMT",
+        "summary": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure."
+      },
+      {
+        "title": "How Kodak is trying to turn around its business after teetering on bankruptcy",
+        "link": "https://www.cnbc.com/2026/04/11/kodak-film-business-ceo-jim-continenza.html",
+        "pubDate": "Sat, 11 Apr 2026 12:00:01 GMT",
+        "summary": "Photography company Eastman Kodak has seen its fair share of financial struggles, but CEO Jim Continenza is determined to fuel its success."
       },
       {
         "title": "Berkshire electric utility's court win could save it billions",
@@ -77,10 +89,16 @@
         "summary": "PacifiCorp court win could reduce wildfire damages by $1 billion or more."
       },
       {
-        "title": "How Kodak is trying to turn around its business after teetering on bankruptcy",
-        "link": "https://www.cnbc.com/2026/04/11/kodak-film-business-ceo-jim-continenza.html",
-        "pubDate": "Sat, 11 Apr 2026 12:00:01 GMT",
-        "summary": "Photography company Eastman Kodak has seen its fair share of financial struggles, but CEO Jim Continenza is determined to fuel its success."
+        "title": "Top Wall Street analysts prefer these dividend stocks for steady income",
+        "link": "https://www.cnbc.com/2026/04/12/top-street-analysts-prefer-these-dividend-stocks-for-steady-income-.html",
+        "pubDate": "Sun, 12 Apr 2026 11:18:07 GMT",
+        "summary": "Given ongoing uncertainty, investors may seek to add some stability to their portfolios by buying dividend stocks for steady income."
+      },
+      {
+        "title": "Trump's 250-foot 'triumphal arch' would loom over Potomac, new renderings show",
+        "link": "https://www.cnbc.com/2026/04/10/trump-arch-renderings-arlington.html",
+        "pubDate": "Sat, 11 Apr 2026 01:41:53 GMT",
+        "summary": "Rep. Don Beyer said \"President Trump is focused on a taxpayer-funded vanity project that would choke traffic, block our skyline, and tower over sacred ground.\""
       },
       {
         "title": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
@@ -95,96 +113,78 @@
         "summary": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs."
       },
       {
+        "title": "Many Gen Z adults still get financial help from their parents",
+        "link": "https://www.cnbc.com/2026/04/12/many-gen-z-adults-still-get-financial-help-from-their-parents.html",
+        "pubDate": "Sun, 12 Apr 2026 13:00:01 GMT",
+        "summary": "Financial support from your parents can help you to become independent. But that means treating the money \"as a plan, not a lifestyle,\" one advisor said."
+      },
+      {
         "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
         "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
         "pubDate": "Fri, 10 Apr 2026 21:16:19 GMT",
         "summary": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran."
-      },
-      {
-        "title": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
-        "pubDate": "Fri, 10 Apr 2026 18:57:26 GMT",
-        "summary": "U.S. President Donald Trump on Thursday warned Iran to \"stop now\" if it was charging tankers to transit the Strait of Hormuz."
-      },
-      {
-        "title": "Trump's 250-foot 'triumphal arch' would loom over Potomac, new renderings show",
-        "link": "https://www.cnbc.com/2026/04/10/trump-arch-renderings-arlington.html",
-        "pubDate": "Sat, 11 Apr 2026 01:41:53 GMT",
-        "summary": "Rep. Don Beyer said \"President Trump is focused on a taxpayer-funded vanity project that would choke traffic, block our skyline, and tower over sacred ground.\""
-      },
-      {
-        "title": "Social Security 2027 cost-of-living adjustment estimate rises with gas prices",
-        "link": "https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html",
-        "pubDate": "Fri, 10 Apr 2026 19:51:01 GMT",
-        "summary": "New government data shows the pace of inflation has increased, pushing up one estimate for the Social Security cost-of-living adjustment for 2027."
-      },
-      {
-        "title": "Man arrested after Sam Altman's house hit with Molotov cocktail, OpenAI headquarters threatened",
-        "link": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
-        "pubDate": "Fri, 10 Apr 2026 23:17:40 GMT",
-        "summary": "Police arrested a suspect at OpenAI's headquarters for allegedly threatening arson after an attack on CEO Sam Altman's home."
       }
     ],
     "yahoo": [
       {
-        "title": "44-year-old burger chain’s franchisee files Chapter 11 bankruptcy",
-        "link": "https://finance.yahoo.com/economy/policy/articles/44-old-burger-chain-franchisee-231947320.html",
-        "pubDate": "2026-04-11T23:19:47Z",
-        "summary": "44-year-old burger chain’s franchisee files Chapter 11 bankruptcy"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as the US and Iran fail to agree to peace, US blockades Hormuz",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-the-us-and-iran-fail-to-agree-to-peace-us-blockades-hormuz-225150283.html",
+        "pubDate": "2026-04-12T22:51:50Z",
+        "summary": "Stock market today: Dow, S&P 500, Nasdaq futures fall as the US and Iran fail to agree to peace, US blockades Hormuz"
       },
       {
-        "title": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-aehr-soars-59-220847295.html",
-        "pubDate": "2026-04-11T22:08:47Z",
-        "summary": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand"
+        "title": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports After Talks Fail",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-us-iran-talks-no-deal-vp-jd-vance/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-04-12T22:51:46Z",
+        "summary": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports After Talks Fail"
       },
       {
-        "title": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-group-holdings-inc-ulcc-220823137.html",
-        "pubDate": "2026-04-11T22:08:23Z",
-        "summary": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring"
+        "title": "3 Parts of XRP's Thesis Aren't Working. Should You Sell It?",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/3-parts-xrps-thesis-arent-224700352.html",
+        "pubDate": "2026-04-12T22:47:00Z",
+        "summary": "3 Parts of XRP's Thesis Aren't Working. Should You Sell It?"
       },
       {
-        "title": "Clarivate Plc (CLVT) Expands Intelligent Automation across Regulatory Workflows",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/clarivate-plc-clvt-expands-intelligent-220814839.html",
-        "pubDate": "2026-04-11T22:08:14Z",
-        "summary": "Clarivate Plc (CLVT) Expands Intelligent Automation across Regulatory Workflows"
+        "title": "Citi Lowered PT on Astera Labs (ALAB), Is It Still the Best Growth Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/citi-lowered-pt-astera-labs-221039977.html",
+        "pubDate": "2026-04-12T22:10:39Z",
+        "summary": "Citi Lowered PT on Astera Labs (ALAB), Is It Still the Best Growth Stock?"
       },
       {
-        "title": "UBS Raises Petco Health and Wellness Company, Inc. (WOOF) Target Amid Growth Strategy",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-petco-health-wellness-220804234.html",
-        "pubDate": "2026-04-11T22:08:04Z",
-        "summary": "UBS Raises Petco Health and Wellness Company, Inc. (WOOF) Target Amid Growth Strategy"
+        "title": "Jim Cramer on Amazon (AMZN): “Jassy Put My Mind at Ease in Incredible Fashion”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-amzn-jassy-220638946.html",
+        "pubDate": "2026-04-12T22:06:38Z",
+        "summary": "Jim Cramer on Amazon (AMZN): “Jassy Put My Mind at Ease in Incredible Fashion”"
       },
       {
-        "title": "Another Day of Iran-Led Volatility: Why the Case for Staying Invested Remains Intact",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/another-day-iran-led-volatility-230500686.html",
-        "pubDate": "2026-04-11T23:05:00Z",
-        "summary": "Another Day of Iran-Led Volatility: Why the Case for Staying Invested Remains Intact"
+        "title": "Jim Cramer on Regeneron (REGN): “I Think The Stock’s Breaking Out Here”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-regeneron-regn-think-220533474.html",
+        "pubDate": "2026-04-12T22:05:33Z",
+        "summary": "Jim Cramer on Regeneron (REGN): “I Think The Stock’s Breaking Out Here”"
       },
       {
-        "title": "This is why CI&T Inc (CINT) is not a Scam but one of the Best Cheap Penny Stocks to Buy",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html",
-        "pubDate": "2026-04-11T22:07:44Z",
-        "summary": "This is why CI&T Inc (CINT) is not a Scam but one of the Best Cheap Penny Stocks to Buy"
+        "title": "Jim Cramer on D-Wave (QBTS): “Maybe the Science Project Works Out, But It Is More of a Science Project”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-d-wave-qbts-220257900.html",
+        "pubDate": "2026-04-12T22:02:57Z",
+        "summary": "Jim Cramer on D-Wave (QBTS): “Maybe the Science Project Works Out, But It Is More of a Science Project”"
       },
       {
-        "title": "N-able Inc. (NABL) Expands Technology Alliance and AI SoC Capabilities",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/n-able-inc-nabl-expands-220735508.html",
-        "pubDate": "2026-04-11T22:07:35Z",
-        "summary": "N-able Inc. (NABL) Expands Technology Alliance and AI SoC Capabilities"
+        "title": "Sleep-Deprived Mom Spent $16,000 And Built A Business: The Side Hustle Now Brings In Close To Six Figures Each Month",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sleep-deprived-mom-spent-16-223115389.html",
+        "pubDate": "2026-04-12T22:31:15Z",
+        "summary": "Sleep-Deprived Mom Spent $16,000 And Built A Business: The Side Hustle Now Brings In Close To Six Figures Each Month"
       },
       {
-        "title": "This is why Burford Capital Limited (BUR) is Cheap Penny Stock to Buy and not a Scam?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-burford-capital-limited-bur-220729281.html",
-        "pubDate": "2026-04-11T22:07:29Z",
-        "summary": "This is why Burford Capital Limited (BUR) is Cheap Penny Stock to Buy and not a Scam?"
+        "title": "Jim Cramer Bearish on Newsmax (NMAX) Because “They’re Losing Money”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bearish-newsmax-nmax-220212289.html",
+        "pubDate": "2026-04-12T22:02:12Z",
+        "summary": "Jim Cramer Bearish on Newsmax (NMAX) Because “They’re Losing Money”"
       },
       {
-        "title": "Applied Optoelectronics (AAOI) Soars 45% on AI Boost",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-45-220652242.html",
-        "pubDate": "2026-04-11T22:06:52Z",
-        "summary": "Applied Optoelectronics (AAOI) Soars 45% on AI Boost"
+        "title": "Jim Cramer on Qnity: “It’s Probably the Most Undervalued of the Data Center Stocks Right Now”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-qnity-probably-most-220116260.html",
+        "pubDate": "2026-04-12T22:01:16Z",
+        "summary": "Jim Cramer on Qnity: “It’s Probably the Most Undervalued of the Data Center Stocks Right Now”"
       }
     ]
   }
