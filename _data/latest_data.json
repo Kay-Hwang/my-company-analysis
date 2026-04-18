@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026년 04월 18일 08:37 KST",
+  "lastUpdated": "2026년 04월 19일 08:33 KST",
   "news": {
     "investing": [
+      {
+        "title": "유럽 주식, 1분기 실적 발표 시즌 변동성은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1904044",
+        "pubDate": "2026-04-18 06:32:37",
+        "summary": "유럽 주식, 1분기 실적 발표 시즌 변동성은?"
+      },
+      {
+        "title": "크루즈 업계의 AI 기회는 무엇인가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1904025",
+        "pubDate": "2026-04-18 03:13:00",
+        "summary": "크루즈 업계의 AI 기회는 무엇인가?"
+      },
+      {
+        "title": "골드만삭스, 글로벌 랠리 속에서도 영국 주식의 ’깊은’ 밸류에이션 할인 지적",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1903985",
+        "pubDate": "2026-04-18 00:09:03",
+        "summary": "골드만삭스, 글로벌 랠리 속에서도 영국 주식의 ’깊은’ 밸류에이션 할인 지적"
+      },
+      {
+        "title": "지열 개발업체 Fervo Energy, 손실 확대 속 나스닥 IPO 신청",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1903972",
+        "pubDate": "2026-04-17 23:29:39",
+        "summary": "지열 개발업체 Fervo Energy, 손실 확대 속 나스닥 IPO 신청"
+      },
       {
         "title": "AI 기업 Cerebras Systems, 나스닥 IPO 신청",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1903826",
@@ -37,154 +61,130 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1903768",
         "pubDate": "2026-04-17 19:38:22",
         "summary": "블루 아울 캐피탈, 대출 조건 변경에 주가 상승"
-      },
-      {
-        "title": "포럼 마켓 주가, 자사주 매입 및 가치 평가 계획에 120% 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1903759",
-        "pubDate": "2026-04-17 19:26:55",
-        "summary": "포럼 마켓 주가, 자사주 매입 및 가치 평가 계획에 120% 급등"
-      },
-      {
-        "title": "골드만삭스, 미국 단기 금리 더 높은 범위에 안착 전망",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1903737",
-        "pubDate": "2026-04-17 18:49:20",
-        "summary": "골드만삭스, 미국 단기 금리 더 높은 범위에 안착 전망"
-      },
-      {
-        "title": "모건 스탠리, 변동성 속 금의 안전자산 지위 의문 제기",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1903736",
-        "pubDate": "2026-04-17 18:44:19",
-        "summary": "모건 스탠리, 변동성 속 금의 안전자산 지위 의문 제기"
-      },
-      {
-        "title": "브릿지포인트, 신규 플래그십 펀드로 71억 달러 확보",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1903723",
-        "pubDate": "2026-04-17 18:07:59",
-        "summary": "브릿지포인트, 신규 플래그십 펀드로 71억 달러 확보"
       }
     ],
     "cnbc": [
       {
-        "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
-        "link": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
-        "pubDate": "Fri, 17 Apr 2026 23:33:49 GMT",
-        "summary": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC."
+        "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
+        "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+        "pubDate": "Sat, 18 Apr 2026 22:24:21 GMT",
+        "summary": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports."
       },
       {
-        "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
-        "link": "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html",
-        "pubDate": "Fri, 17 Apr 2026 19:00:13 GMT",
-        "summary": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates."
+        "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+        "link": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
+        "pubDate": "Sat, 18 Apr 2026 10:24:36 GMT",
+        "summary": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war."
       },
       {
-        "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
-        "link": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
-        "pubDate": "Fri, 17 Apr 2026 23:23:42 GMT",
-        "summary": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock."
+        "title": "Berkshire shares left behind as S&P 500 rallies to record high",
+        "link": "https://www.cnbc.com/2026/04/18/berkshire-shares-left-behind-as-sp-500-rallies-to-record-high.html",
+        "pubDate": "Sat, 18 Apr 2026 12:56:03 GMT",
+        "summary": "While the overall market was soaring over the past two weeks, Berkshire wasn't doing much of anything, as its shares slipped to MTD drops of just under 1%."
       },
       {
-        "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
-        "link": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
-        "pubDate": "Fri, 17 Apr 2026 23:22:57 GMT",
-        "summary": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude."
+        "title": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
+        "link": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+        "pubDate": "Sat, 18 Apr 2026 12:00:01 GMT",
+        "summary": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design."
       },
       {
-        "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
-        "link": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
-        "pubDate": "Fri, 17 Apr 2026 15:39:55 GMT",
-        "summary": "Netflix co-CEO Ted Sarandos said during an investor call that the company built its \"M&amp;A muscle\" during its pursuit of WBD's assets."
+        "title": "No escape: U.S.-Iran war, $4 gas, have taken all the fun out of consumer spending",
+        "link": "https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html",
+        "pubDate": "Sat, 18 Apr 2026 21:42:07 GMT",
+        "summary": "Consumers are still spending amid U.S.-Iran war and $4 gas prices, but there's a pullback at entertainment and dining venues hitting local economies hard."
       },
       {
-        "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
-        "link": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
-        "pubDate": "Fri, 17 Apr 2026 23:15:41 GMT",
-        "summary": "Oracle, AMD and Microsoft had major benchmarks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor have all roared in April."
+        "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
+        "link": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
+        "pubDate": "Sat, 18 Apr 2026 12:00:01 GMT",
+        "summary": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers."
+      },
+      {
+        "title": "Kevin Warsh wants to lead a scandal-ridden Fed. His wealth is a complication",
+        "link": "https://www.cnbc.com/2026/04/16/fed-kevin-warsh-elizabeth-warren-financial-disclosures.html",
+        "pubDate": "Fri, 17 Apr 2026 17:06:10 GMT",
+        "summary": "Sen. Elizabeth Warren, D-Mass., is calling attention to potential issues in the Fed chair nominee's financial disclosures."
+      },
+      {
+        "title": "AI fears drive some young adults to grad school — 'people shelter in higher education,' expert says",
+        "link": "https://www.cnbc.com/2026/04/18/ai-fears-graduate-school.html",
+        "pubDate": "Sat, 18 Apr 2026 13:30:01 GMT",
+        "summary": "Experts say going back to school for a graduate degree is one way to hedge against a rapidly changing labor market."
+      },
+      {
+        "title": "There's an 'art' to writing AI prompts for personal finance, MIT professor says",
+        "link": "https://www.cnbc.com/2026/04/18/ai-prompts-personal-finance-advice.html",
+        "pubDate": "Sat, 18 Apr 2026 14:30:01 GMT",
+        "summary": "There's a good and bad way to write effective artificial intelligence prompts for personal finance advice."
       },
       {
         "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
         "link": "https://www.cnbc.com/2026/04/17/section-702-fisa-congress-surveillance.html",
-        "pubDate": "Fri, 17 Apr 2026 19:48:26 GMT",
+        "pubDate": "Sat, 18 Apr 2026 18:09:53 GMT",
         "summary": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens."
-      },
-      {
-        "title": "Perspective: AI demand is inflated, and only Anthropic is being realistic",
-        "link": "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html",
-        "pubDate": "Fri, 17 Apr 2026 19:10:15 GMT",
-        "summary": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated."
-      },
-      {
-        "title": "Average tax refund is 11.2% higher, latest IRS filing data shows",
-        "link": "https://www.cnbc.com/2026/04/17/average-tax-refund.html",
-        "pubDate": "Fri, 17 Apr 2026 20:15:16 GMT",
-        "summary": "The average tax refund is 11.2% higher this season, according to the latest IRS filing data. Here's what taxpayers need to know."
-      },
-      {
-        "title": "Bessent says to adjust your paycheck withholding — but mistakes could trigger a tax bill, experts caution",
-        "link": "https://www.cnbc.com/2026/04/17/tax-withholding-2026.html",
-        "pubDate": "Fri, 17 Apr 2026 15:01:15 GMT",
-        "summary": "Treasury Secretary Scott Bessent told workers to update their paycheck withholding. But mistakes could trigger a tax bill next season."
       }
     ],
     "yahoo": [
       {
-        "title": "127-year-old retailer confirms more cuts in 2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/127-old-retailer-confirms-more-231700401.html",
-        "pubDate": "2026-04-16T23:17:00Z",
-        "summary": "127-year-old retailer confirms more cuts in 2026"
+        "title": "Everyone's Talking About the SpaceX IPO. Why I Think You Should Avoid It, and What to Buy Instead.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/everyones-talking-spacex-ipo-why-230500416.html",
+        "pubDate": "2026-04-18T23:05:00Z",
+        "summary": "Everyone's Talking About the SpaceX IPO. Why I Think You Should Avoid It, and What to Buy Instead."
       },
       {
-        "title": "Wall Street Is Bullish on GE Aerospace Before Q1 Results — Buy GE Stock Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-ge-aerospace-162216284.html",
-        "pubDate": "2026-04-16T16:22:16Z",
-        "summary": "Wall Street Is Bullish on GE Aerospace Before Q1 Results — Buy GE Stock Now?"
+        "title": "How Will Dow Jones Futures, Oil Prices React As Iran, Hormuz News Turns?",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-strait-of-hormuz-tesla-earnings/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-04-18T22:53:15Z",
+        "summary": "How Will Dow Jones Futures, Oil Prices React As Iran, Hormuz News Turns?"
       },
       {
-        "title": "Crude Oil Strength Sparks Short Covering in Sugar",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/crude-oil-strength-sparks-short-162847390.html",
-        "pubDate": "2026-04-16T16:28:47Z",
-        "summary": "Crude Oil Strength Sparks Short Covering in Sugar"
+        "title": "FINRA just killed the $25,000 day-trading rule that kept small investors on the sidelines for 25 years",
+        "link": "https://finance.yahoo.com/markets/options/articles/finra-just-killed-25-000-223500606.html",
+        "pubDate": "2026-04-18T22:35:00Z",
+        "summary": "FINRA just killed the $25,000 day-trading rule that kept small investors on the sidelines for 25 years"
       },
       {
-        "title": "BIRD Stock Shot Way Into Overbought Territory on the Allbirds AI Pivot. What’s the Trade Here?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bird-stock-shot-way-overbought-162113471.html",
-        "pubDate": "2026-04-16T16:21:13Z",
-        "summary": "BIRD Stock Shot Way Into Overbought Territory on the Allbirds AI Pivot. What’s the Trade Here?"
+        "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
+        "link": "https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-04-18T21:50:34Z",
+        "summary": "Tesla Robotaxi Service Expands To Dallas And Houston"
       },
       {
-        "title": "Calavo Growers (CVGW) is a Fruitful Investment in Heartland Value Fund’s Portfolio",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/calavo-growers-cvgw-fruitful-investment-161922561.html",
-        "pubDate": "2026-04-16T16:19:22Z",
-        "summary": "Calavo Growers (CVGW) is a Fruitful Investment in Heartland Value Fund’s Portfolio"
+        "title": "Jim Cramer on Cisco (CSCO): “Chuck Robbins Is Doing a Terrific Job There”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cisco-csco-chuck-211845447.html",
+        "pubDate": "2026-04-18T21:18:45Z",
+        "summary": "Jim Cramer on Cisco (CSCO): “Chuck Robbins Is Doing a Terrific Job There”"
       },
       {
-        "title": "75-year-old fast-food chain sues over dozens of store closures",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/75-old-fast-food-chain-164700922.html",
-        "pubDate": "2026-04-16T16:47:00Z",
-        "summary": "75-year-old fast-food chain sues over dozens of store closures"
+        "title": "Trump-Linked Crypto Venture Faces Questions After Ties To Sanctioned Network Revealed",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/trump-linked-crypto-venture-faces-230114470.html",
+        "pubDate": "2026-04-18T23:01:14Z",
+        "summary": "Trump-Linked Crypto Venture Faces Questions After Ties To Sanctioned Network Revealed"
       },
       {
-        "title": "Nvidia's impressive rally faces one big test",
-        "link": "https://finance.yahoo.com/news/nvidias-impressive-rally-faces-one-big-test-163054251.html",
-        "pubDate": "2026-04-16T16:30:54Z",
-        "summary": "Nvidia's impressive rally faces one big test"
+        "title": "Jim Cramer Believes “Reddit (RDDT) Should Not Have Been Down That Much”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-reddit-rddt-211746136.html",
+        "pubDate": "2026-04-18T21:17:46Z",
+        "summary": "Jim Cramer Believes “Reddit (RDDT) Should Not Have Been Down That Much”"
       },
       {
-        "title": "Arxis pops on Nasdaq debut, signals strong demand for aerospace IPOs",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/arxis-pops-nasdaq-debut-signals-163232702.html",
-        "pubDate": "2026-04-16T16:32:32Z",
-        "summary": "Arxis pops on Nasdaq debut, signals strong demand for aerospace IPOs"
+        "title": "Jim Cramer on Snap Inc. (SNAP): “There’s Nothing There”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-snap-inc-snap-211641930.html",
+        "pubDate": "2026-04-18T21:16:41Z",
+        "summary": "Jim Cramer on Snap Inc. (SNAP): “There’s Nothing There”"
       },
       {
-        "title": "Fed's Miran may scale back rate-cut outlook again due to 'less favorable' inflation developments",
-        "link": "https://finance.yahoo.com/economy/policy/articles/feds-miran-may-scale-back-163214825.html",
-        "pubDate": "2026-04-16T16:32:14Z",
-        "summary": "Fed's Miran may scale back rate-cut outlook again due to 'less favorable' inflation developments"
+        "title": "Jim Cramer on NVIDIA: “When It Comes to GPUs and Service, I Want to Go With Jensen”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-comes-gpus-211524794.html",
+        "pubDate": "2026-04-18T21:15:24Z",
+        "summary": "Jim Cramer on NVIDIA: “When It Comes to GPUs and Service, I Want to Go With Jensen”"
       },
       {
-        "title": "Up Nearly 60% in 5 Days, Should You Chase the Rally in D-Wave Quantum Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nearly-60-5-days-chase-161607398.html",
-        "pubDate": "2026-04-16T16:16:07Z",
-        "summary": "Up Nearly 60% in 5 Days, Should You Chase the Rally in D-Wave Quantum Stock?"
+        "title": "Jim Cramer on Constellation Energy (CEG): “I Think Represents Decent Value at These Levels”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-constellation-energy-ceg-211346482.html",
+        "pubDate": "2026-04-18T21:13:46Z",
+        "summary": "Jim Cramer on Constellation Energy (CEG): “I Think Represents Decent Value at These Levels”"
       }
     ]
   }
