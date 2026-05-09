@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026년 05월 09일 08:54 KST",
+  "lastUpdated": "2026년 05월 10일 08:47 KST",
   "news": {
     "investing": [
+      {
+        "title": "AI 위험의 최대 수혜주로 떠오르는 사이버보안주",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1936687",
+        "pubDate": "2026-05-09 21:46:47",
+        "summary": "AI 위험의 최대 수혜주로 떠오르는 사이버보안주"
+      },
+      {
+        "title": "하이퍼스케일러 실적에서 드러난 3가지 핵심 테마",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1936680",
+        "pubDate": "2026-05-09 19:47:46",
+        "summary": "하이퍼스케일러 실적에서 드러난 3가지 핵심 테마"
+      },
+      {
+        "title": "S&P 500 신고가 경신했지만, 뱅크오브아메리카 \"CTA 매수 동력 약화\" 경고",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1936613",
+        "pubDate": "2026-05-09 15:48:46",
+        "summary": "S&P 500 신고가 경신했지만, 뱅크오브아메리카 \"CTA 매수 동력 약화\" 경고"
+      },
+      {
+        "title": "걸프 해안 보험료 급등 속 Safepoint, NYSE IPO 신청",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1936502",
+        "pubDate": "2026-05-09 00:11:49",
+        "summary": "걸프 해안 보험료 급등 속 Safepoint, NYSE IPO 신청"
+      },
       {
         "title": "연준, 콜럼비아 파이낸셜 주식 전환 및 노스필드 인수 승인",
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1936418",
@@ -37,92 +61,68 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1936313",
         "pubDate": "2026-05-08 20:13:07",
         "summary": "퀀티넘, 나스닥 상장 목표로 IPO 신청"
-      },
-      {
-        "title": "Quantinuum, IPO 신청 제출",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1936306",
-        "pubDate": "2026-05-08 20:09:04",
-        "summary": "Quantinuum, IPO 신청 제출"
-      },
-      {
-        "title": "Inspire Brands, IPO를 위해 SEC에 등록 신청서 제출",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1936269",
-        "pubDate": "2026-05-08 19:27:04",
-        "summary": "Inspire Brands, IPO를 위해 SEC에 등록 신청서 제출"
-      },
-      {
-        "title": "다이아몬드백 에너지, 원유 수출 금지 리스크에 주가 헤지",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1936265",
-        "pubDate": "2026-05-08 19:25:24",
-        "summary": "다이아몬드백 에너지, 원유 수출 금지 리스크에 주가 헤지"
-      },
-      {
-        "title": "레이먼드 제임스, AI 붐으로 Fastly 주가 급등 가능성 제시",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1936250",
-        "pubDate": "2026-05-08 19:03:06",
-        "summary": "레이먼드 제임스, AI 붐으로 Fastly 주가 급등 가능성 제시"
       }
     ],
     "cnbc": [
       {
-        "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
-        "link": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
-        "pubDate": "Fri, 08 May 2026 18:22:51 GMT",
-        "summary": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus."
+        "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
+        "link": "https://www.cnbc.com/2026/05/09/capital-one-auto-forever-loans-used-cars.html",
+        "pubDate": "Sat, 09 May 2026 12:00:01 GMT",
+        "summary": "While median car payments have jumped from $390 to $525 since 2019, data provided by Capital One suggests stability in vehicle cost compared to income."
       },
       {
-        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
-        "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
-        "pubDate": "Fri, 08 May 2026 21:44:14 GMT",
-        "summary": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear."
+        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+        "link": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "pubDate": "Sat, 09 May 2026 16:41:22 GMT",
+        "summary": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them."
       },
       {
-        "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
-        "link": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
-        "pubDate": "Fri, 08 May 2026 20:07:35 GMT",
-        "summary": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI"
+        "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
+        "link": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
+        "pubDate": "Fri, 08 May 2026 23:35:48 GMT",
+        "summary": "The crypto industry's top legislative priority, a bill determining oversight of digital assets, is set to advance in the Senate Banking Committee."
       },
       {
-        "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-        "link": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-        "pubDate": "Fri, 08 May 2026 22:18:30 GMT",
-        "summary": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI."
+        "title": "The Iran war will change global energy markets in these important ways, oil executives say",
+        "link": "https://www.cnbc.com/2026/05/09/iran-war-oil-gas-energy-security.html",
+        "pubDate": "Sat, 09 May 2026 12:43:00 GMT",
+        "summary": "Iran's blockade of the Strait of Hormuz has resulted in the loss of nearly a billion barrels of oil with the shortage growing worse every day."
       },
       {
-        "title": "Dunkin' owner Inspire Brands confidentially files for IPO",
-        "link": "https://www.cnbc.com/2026/05/08/dunkin-owner-inspire-brands-confidentially-files-for-ipo.html",
-        "pubDate": "Fri, 08 May 2026 20:28:13 GMT",
-        "summary": "The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In and Jimmy John's."
+        "title": "How to take control of the AI data center boom and built it into your own home in the future",
+        "link": "https://www.cnbc.com/2026/05/09/ai-data-center-construction-public-opposition.html",
+        "pubDate": "Sat, 09 May 2026 14:05:11 GMT",
+        "summary": "As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming."
       },
       {
-        "title": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal",
-        "link": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html",
-        "pubDate": "Fri, 08 May 2026 21:15:33 GMT",
-        "summary": "Enthusiasm for space stocks has skyrocketed ahead of SpaceX's anticipated IPO."
+        "title": "MV Hondius hantavirus outbreak: A luxury expedition cruise boom and new world of remote travel risks",
+        "link": "https://www.cnbc.com/2026/05/09/hantavirus-cruise-ship-mv-hondius-travel-health-risks.html",
+        "pubDate": "Sat, 09 May 2026 19:52:27 GMT",
+        "summary": "Remote expedition cruises to destinations like Antarctica and the Arctic are booming, but the deadly hantavirus aboard MV Hondius is a reminder of unique risks."
       },
       {
-        "title": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
-        "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
-        "pubDate": "Fri, 08 May 2026 18:54:00 GMT",
-        "summary": "\"Stocks are not up or down because of jobs or consumer sentiment,\" Burry wrote. \"Feeling like the last months of the 1999-2000 bubble.\""
+        "title": "There's little chance of a hantavirus global outbreak. What the latest odds say",
+        "link": "https://www.cnbc.com/2026/05/09/hantavirus-outbreak-little-chance-says-kalshi.html",
+        "pubDate": "Sat, 09 May 2026 16:41:15 GMT",
+        "summary": "Prediction markets like Kalshi show slim chance that the hantavirus outbreak will be of international concern"
       },
       {
-        "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
-        "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-        "pubDate": "Fri, 08 May 2026 20:01:44 GMT",
-        "summary": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here."
+        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+        "pubDate": "Fri, 08 May 2026 18:44:26 GMT",
+        "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit."
       },
       {
-        "title": "Micron surges nearly 38% on week as memory chip rally goes parabolic",
-        "link": "https://www.cnbc.com/2026/05/08/micron-surges-more-than-30percent-on-week-as-memory-chip-rally-goes-parabolic.html",
-        "pubDate": "Fri, 08 May 2026 20:57:16 GMT",
-        "summary": "Micron Technology shares caught fire this week amid a global shortage of memory chips. The stock is heading for its best week since 2008."
+        "title": "Burger King's president says the chain improved its Whopper — and calls from customers helped",
+        "link": "https://www.cnbc.com/2026/05/08/burger-king-president-fixed-whopper-phone-calls-from-customers.html",
+        "pubDate": "Fri, 08 May 2026 22:50:39 GMT",
+        "summary": "Burger King President Tom Curtis said customer feedback has been central to the chain’s turnaround."
       },
       {
-        "title": "Trump's $1 million 'Gold Card' fails to catch on among the world's wealthy",
-        "link": "https://www.cnbc.com/2026/05/08/trump-gold-card-wealth.html",
-        "pubDate": "Fri, 08 May 2026 13:47:40 GMT",
-        "summary": "President Donald Trump's \"Gold Card,\" which promised U.S. residency in \"record time,\" has been dogged by delays and legal questions."
+        "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
+        "link": "https://www.cnbc.com/2026/05/09/us-sanctions-entities-in-the-middle-east-and-china-for-helping-iran.html",
+        "pubDate": "Sat, 09 May 2026 10:10:24 GMT",
+        "summary": "The moves target 11 entities and three individuals based in Iran, China, Belarus and the United Arab Emirates."
       }
     ],
     "yahoo": [
@@ -133,58 +133,58 @@
         "summary": "Warren Buffett sends blunt message on mortgages, home financing"
       },
       {
-        "title": "Kinross Gold Corporation (KGC) Announces Financial Results for Q1 2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-corporation-kgc-announces-164015150.html",
-        "pubDate": "2026-05-07T16:40:15Z",
-        "summary": "Kinross Gold Corporation (KGC) Announces Financial Results for Q1 2026"
+        "title": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-still-hopeful-tesla-220601937.html",
+        "pubDate": "2026-05-09T22:06:01Z",
+        "summary": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?"
       },
       {
-        "title": "Canaccord Upgrades Coeur Mining (CDE) on Factors Driving Gold",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/canaccord-upgrades-coeur-mining-cde-164049508.html",
-        "pubDate": "2026-05-07T16:40:49Z",
-        "summary": "Canaccord Upgrades Coeur Mining (CDE) on Factors Driving Gold"
+        "title": "Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/strong-q1-execution-sets-cms-212802204.html",
+        "pubDate": "2026-05-09T21:28:02Z",
+        "summary": "Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth"
       },
       {
-        "title": "MSCI Upgrades Harmony Gold Mining Company’s (HMY) ESG Rating From ‘BB’ to ‘A’",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/msci-upgrades-harmony-gold-mining-164004783.html",
-        "pubDate": "2026-05-07T16:40:04Z",
-        "summary": "MSCI Upgrades Harmony Gold Mining Company’s (HMY) ESG Rating From ‘BB’ to ‘A’"
+        "title": "Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/microsoft-deal-strengthens-black-hills-212750740.html",
+        "pubDate": "2026-05-09T21:27:50Z",
+        "summary": "Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy"
       },
       {
-        "title": "Guggenheim Cuts PT on EPAM Systems (EPAM) Amid Risks to Q2 Revenue Outlook",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-cuts-pt-epam-systems-164039119.html",
-        "pubDate": "2026-05-07T16:40:39Z",
-        "summary": "Guggenheim Cuts PT on EPAM Systems (EPAM) Amid Risks to Q2 Revenue Outlook"
+        "title": "Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities?",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/dte-energy-company-dte-high-212744203.html",
+        "pubDate": "2026-05-09T21:27:44Z",
+        "summary": "Is DTE Energy Company (DTE) a High Growth Utility Stock to Buy on Data Center’s Opportunities?"
       },
       {
-        "title": "Brookdale (BKD) Q1 2026 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/brookdale-bkd-q1-2026-earnings-164115323.html",
-        "pubDate": "2026-05-07T16:41:15Z",
-        "summary": "Brookdale (BKD) Q1 2026 Earnings Call Transcript"
+        "title": "EVs Are Out of the Headlines and That's Exactly Why These 2 Stocks Are Buys",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/evs-headlines-thats-exactly-why-232500331.html",
+        "pubDate": "2026-05-09T23:25:00Z",
+        "summary": "EVs Are Out of the Headlines and That's Exactly Why These 2 Stocks Are Buys"
       },
       {
-        "title": "Why Charter Communications, Inc. (CHTR) is One of the Top Cheap Stocks to Buy With the Biggest Upside Potential",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-charter-communications-inc-chtr-164059831.html",
-        "pubDate": "2026-05-07T16:40:59Z",
-        "summary": "Why Charter Communications, Inc. (CHTR) is One of the Top Cheap Stocks to Buy With the Biggest Upside Potential"
+        "title": "Public Service Enterprise Group Incorporated (PEG) a High Growth Utility Stock  on Earnings Growth",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/public-enterprise-group-incorporated-peg-212737023.html",
+        "pubDate": "2026-05-09T21:27:37Z",
+        "summary": "Public Service Enterprise Group Incorporated (PEG) a High Growth Utility Stock  on Earnings Growth"
       },
       {
-        "title": "Is Amazon.com, Inc. (AMZN) One of the Best Strong Buy Stocks to Invest in According to Billionaires?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-one-164124553.html",
-        "pubDate": "2026-05-07T16:41:24Z",
-        "summary": "Is Amazon.com, Inc. (AMZN) One of the Best Strong Buy Stocks to Invest in According to Billionaires?"
+        "title": "This is Why Spire Inc. (SR) is a High Growth Utility Stock to Buy",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-spire-inc-sr-high-212726255.html",
+        "pubDate": "2026-05-09T21:27:26Z",
+        "summary": "This is Why Spire Inc. (SR) is a High Growth Utility Stock to Buy"
       },
       {
-        "title": "Why Alphabet Inc. (GOOG) is One of the Best Strong Buy Stocks to Invest in According to Billionaires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-inc-goog-one-164136360.html",
-        "pubDate": "2026-05-07T16:41:36Z",
-        "summary": "Why Alphabet Inc. (GOOG) is One of the Best Strong Buy Stocks to Invest in According to Billionaires"
+        "title": "PPL Corporation (PPL) A High Growth Utility Stock to Buy on Nuclear Energy Push",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/ppl-corporation-ppl-high-growth-212719984.html",
+        "pubDate": "2026-05-09T21:27:19Z",
+        "summary": "PPL Corporation (PPL) A High Growth Utility Stock to Buy on Nuclear Energy Push"
       },
       {
-        "title": "Here’s What the Street is Saying About Pegasystems Inc. (PEGA)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/street-saying-pegasystems-inc-pega-163946452.html",
-        "pubDate": "2026-05-07T16:39:46Z",
-        "summary": "Here’s What the Street is Saying About Pegasystems Inc. (PEGA)"
+        "title": "Calpine Acquisition Strengthens Constellation Energy Corporation (CEG) as a High-Growth Utility Stock",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/calpine-acquisition-strengthens-constellation-energy-212713135.html",
+        "pubDate": "2026-05-09T21:27:13Z",
+        "summary": "Calpine Acquisition Strengthens Constellation Energy Corporation (CEG) as a High-Growth Utility Stock"
       }
     ]
   }
