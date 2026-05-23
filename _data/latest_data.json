@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026년 05월 23일 09:05 KST",
+  "lastUpdated": "2026년 05월 24일 08:55 KST",
   "news": {
     "investing": [
+      {
+        "title": "항공사들이 겨울철 운항 감축에 나설 것으로 보이는 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958783",
+        "pubDate": "2026-05-23 21:55:50",
+        "summary": "항공사들이 겨울철 운항 감축에 나설 것으로 보이는 이유"
+      },
+      {
+        "title": "체화된 AI, 시장에 호재인가 악재인가? 바클레이스의 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958776",
+        "pubDate": "2026-05-23 20:21:58",
+        "summary": "체화된 AI, 시장에 호재인가 악재인가? 바클레이스의 분석"
+      },
+      {
+        "title": "AI가 기업 집중도와 수익성에 미치는 잠재적 영향은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958765",
+        "pubDate": "2026-05-23 17:21:55",
+        "summary": "AI가 기업 집중도와 수익성에 미치는 잠재적 영향은?"
+      },
+      {
+        "title": "Uber와 DoorDash, Delivery Hero 인수 관련 협상 진행",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958754",
+        "pubDate": "2026-05-23 14:46:34",
+        "summary": "Uber와 DoorDash, Delivery Hero 인수 관련 협상 진행"
+      },
+      {
+        "title": "시장이 사상 최고치일 때 투자할 곳은? UBS의 조언",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958745",
+        "pubDate": "2026-05-23 12:53:01",
+        "summary": "시장이 사상 최고치일 때 투자할 곳은? UBS의 조언"
+      },
+      {
+        "title": "Nvidia CEO, Super Micro 수출 논란에 \"규정 준수 강화해야\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958743",
+        "pubDate": "2026-05-23 12:44:59",
+        "summary": "Nvidia CEO, Super Micro 수출 논란에 \"규정 준수 강화해야\""
+      },
+      {
+        "title": "줌, 2023년 앤트로픽 투자로 10억 달러 이상 수익 확보",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1958695",
+        "pubDate": "2026-05-23 04:44:10",
+        "summary": "줌, 2023년 앤트로픽 투자로 10억 달러 이상 수익 확보"
+      },
       {
         "title": "Aperture AC, 나스닥에서 1억 200만 달러 규모 IPO 완료",
         "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1958474",
@@ -19,98 +61,38 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958413",
         "pubDate": "2026-05-22 20:31:53",
         "summary": "스카이넥시스, 역주식분할 발표에 주가 7% 하락"
-      },
-      {
-        "title": "앤트로픽, 900억 달러 이상 기업가치로 300억 달러 펀딩 마감 예정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1958359",
-        "pubDate": "2026-05-22 20:05:45",
-        "summary": "앤트로픽, 900억 달러 이상 기업가치로 300억 달러 펀딩 마감 예정"
-      },
-      {
-        "title": "란테우스 홀딩스, 매각 검토 보도에 주가 급등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958347",
-        "pubDate": "2026-05-22 20:00:24",
-        "summary": "란테우스 홀딩스, 매각 검토 보도에 주가 급등"
-      },
-      {
-        "title": "Anthropic, Project Glasswing 첫 달에 10,000개 이상의 소프트웨어 결함 발견",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958333",
-        "pubDate": "2026-05-22 19:37:52",
-        "summary": "Anthropic, Project Glasswing 첫 달에 10,000개 이상의 소프트웨어 결함 발견"
-      },
-      {
-        "title": "길리어드, 첫 델타형 간염 치료제 FDA 승인 획득",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958327",
-        "pubDate": "2026-05-22 19:32:19",
-        "summary": "길리어드, 첫 델타형 간염 치료제 FDA 승인 획득"
-      },
-      {
-        "title": "SEC, 암호화폐 기업 토큰화 주식 거래 계획 연기",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958318",
-        "pubDate": "2026-05-22 19:05:17",
-        "summary": "SEC, 암호화폐 기업 토큰화 주식 거래 계획 연기"
-      },
-      {
-        "title": "BP, 와이팅 정유공장 노조에 수정 제안 제시",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958302",
-        "pubDate": "2026-05-22 18:30:33",
-        "summary": "BP, 와이팅 정유공장 노조에 수정 제안 제시"
-      },
-      {
-        "title": "Air Canada, Unifor와 6천 명 직원 대상 잠정 합의 도달",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1958300",
-        "pubDate": "2026-05-22 18:28:04",
-        "summary": "Air Canada, Unifor와 6천 명 직원 대상 잠정 합의 도달"
       }
     ],
     "cnbc": [
       {
-        "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-        "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-        "pubDate": "Fri, 22 May 2026 18:23:49 GMT",
-        "summary": "Warsh could guide to a smaller role in day-to-day markets, while also setting clearer rules for how and when it should intervene."
+        "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
+        "link": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html",
+        "pubDate": "Sat, 23 May 2026 12:32:36 GMT",
+        "summary": "Prices related to travel, recreation and food saw particularly steep increases, stretching Americans' wallets as they celebrate the unofficial start of summer."
       },
       {
-        "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
-        "link": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
-        "pubDate": "Fri, 22 May 2026 22:05:04 GMT",
-        "summary": "Gabbard said she is leaving her post to support her husband, who is battling a rare form of bone cancer."
+        "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon",
+        "link": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+        "pubDate": "Sat, 23 May 2026 23:29:51 GMT",
+        "summary": "A fragile ceasefire has been in place since April 8, punctuated by skirmishes as the U.S. and Iran jockey over the Strait of Hormuz."
       },
       {
-        "title": "New lawsuits against Trump's DOJ 'lawfare' fund",
-        "link": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
-        "pubDate": "Fri, 22 May 2026 21:02:52 GMT",
-        "summary": "President Trump droppped his $10 billion lawsuit against the IRS in exchange for the DOJ creating a $1.8 billion fund to compensate alleged \"lawfare\" victims."
+        "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
+        "link": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
+        "pubDate": "Sat, 23 May 2026 14:01:03 GMT",
+        "summary": "The unofficial start of the summer travel season on Memorial Day weekend will show just how much travelers want to fly and how much they're willing to pay."
       },
       {
-        "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
-        "link": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
-        "pubDate": "Fri, 22 May 2026 20:52:39 GMT",
-        "summary": "Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices."
+        "title": "Stephen Colbert returns to TV in appearance on local Michigan station",
+        "link": "https://www.cnbc.com/2026/05/23/stephen-colbert-returns-to-tv-on-local-michigan-station.html",
+        "pubDate": "Sat, 23 May 2026 17:38:07 GMT",
+        "summary": "A day after his last episode of “The Late Show” on CBS, Colbert found his way back to a television hosting gig for one night."
       },
       {
-        "title": "SpaceX launches Starship test flight on second try",
-        "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
-        "pubDate": "Fri, 22 May 2026 23:32:23 GMT",
-        "summary": "SpaceX launched its massive Starship rocket on Friday, a day after the company scrubbed plans before takeoff."
-      },
-      {
-        "title": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
-        "link": "https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html",
-        "pubDate": "Fri, 22 May 2026 16:26:26 GMT",
-        "summary": "A source told CNBC that IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made by the company."
-      },
-      {
-        "title": "Two top Walmart executives leave company under new CEO John Furner",
-        "link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
-        "pubDate": "Fri, 22 May 2026 22:19:27 GMT",
-        "summary": "Tom Ward, chief operating officer of Walmart's warehouse chain Sam's Club, is retiring, and Cedric Clark, Walmart's EVP of U.S. store operations, is leaving."
-      },
-      {
-        "title": "Judge tosses Kilmar Abrego Garcia charges, calls Trump administration prosecution 'vindictive'",
-        "link": "https://www.cnbc.com/2026/05/22/kilmar-abrego-garcia-charges-dropped-trump-doj-case-vindictive.html",
-        "pubDate": "Fri, 22 May 2026 20:37:38 GMT",
-        "summary": "A judge found Trump’s DOJ targeted Kilmar Abrego Garcia after he challenged his mistaken deportation to El Salvador."
+        "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+        "link": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+        "pubDate": "Sat, 23 May 2026 12:00:01 GMT",
+        "summary": "As prices rise everywhere, consumers are choosing to be more intentional with how they're spending on live music and concerts this year."
       },
       {
         "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
@@ -119,72 +101,90 @@
         "summary": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advance tickets in franchise history."
       },
       {
-        "title": "Donald Trump Jr.-backed 'Steroid Olympics' are happening on Sunday. Here's what to expect",
-        "link": "https://www.cnbc.com/2026/05/22/enhanced-games-performance-enhancing-drugs.html",
-        "pubDate": "Fri, 22 May 2026 11:51:23 GMT",
-        "summary": "Olympic medallists are among 42 athletes competing in the controversial competition, but the Enhanced Games has big product plans beyond the event this weekend."
+        "title": "Millennials spend $252 on an average date, BMO finds — and social media is spiraling over 'date-flation'",
+        "link": "https://www.cnbc.com/2026/05/23/date-flation-average-millennial-date-costs-252.html",
+        "pubDate": "Sat, 23 May 2026 13:30:01 GMT",
+        "summary": "Dating costs are rising faster than inflation, pushing many Americans to go on fewer dates, choose cheaper plans or skip dating altogether."
+      },
+      {
+        "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+        "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+        "pubDate": "Sat, 23 May 2026 11:19:52 GMT",
+        "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week."
+      },
+      {
+        "title": "Lingering mysteries from Berkshire's portfolio update",
+        "link": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
+        "pubDate": "Sat, 23 May 2026 12:59:47 GMT",
+        "summary": "The addition of two new names, Delta Air Lines and Macy's, to the portfolio are hard to explain."
+      },
+      {
+        "title": "SpaceX launches Starship test flight on second try",
+        "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+        "pubDate": "Sat, 23 May 2026 01:28:52 GMT",
+        "summary": "SpaceX launched its massive Starship rocket on Friday, a day after the company scrubbed plans before takeoff."
       }
     ],
     "yahoo": [
       {
-        "title": "Amazon allegedly made millions from this now illegal policy",
-        "link": "https://finance.yahoo.com/economy/policy/articles/amazon-allegedly-made-millions-now-170700373.html",
-        "pubDate": "2026-05-22T17:07:00Z",
-        "summary": "Amazon allegedly made millions from this now illegal policy"
+        "title": "Another retail chain closing all stores after 33 years in business",
+        "link": "https://finance.yahoo.com/economy/articles/another-retail-chain-closing-stores-033300636.html",
+        "pubDate": "2026-05-23T03:33:00Z",
+        "summary": "Another retail chain closing all stores after 33 years in business"
       },
       {
-        "title": "Ralph Lauren Corporation Q4 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-corporation-q4-2026-165135924.html",
-        "pubDate": "2026-05-21T16:51:35Z",
-        "summary": "Ralph Lauren Corporation Q4 2026 Earnings Call Summary"
+        "title": "Here’s What Jim Cramer Had Said About NVIDIA (NVDA) Ahead Of Earnings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-had-said-nvidia-231915364.html",
+        "pubDate": "2026-05-23T23:19:15Z",
+        "summary": "Here’s What Jim Cramer Had Said About NVIDIA (NVDA) Ahead Of Earnings"
       },
       {
-        "title": "Luxury Retailers' Earnings Top Views As Affluent Consumers Keep Splurging",
-        "link": "https://www.investors.com/news/ralph-lauren-rl-stock-williams-sonoma-wsm-stock-luxury-retailers-earnings/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-05-21T16:48:35Z",
-        "summary": "Luxury Retailers' Earnings Top Views As Affluent Consumers Keep Splurging"
+        "title": "The TJX Companies (TJX) Is Great, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-great-says-231835942.html",
+        "pubDate": "2026-05-23T23:18:35Z",
+        "summary": "The TJX Companies (TJX) Is Great, Says Jim Cramer"
       },
       {
-        "title": "Deere & Company Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/deere-company-q2-2026-earnings-164305324.html",
-        "pubDate": "2026-05-21T16:43:05Z",
-        "summary": "Deere & Company Q2 2026 Earnings Call Summary"
+        "title": "Lowe’s (LOW) Isn’t as Bad as People Think, Says Jim Cramer",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-isn-t-bad-231750377.html",
+        "pubDate": "2026-05-23T23:17:50Z",
+        "summary": "Lowe’s (LOW) Isn’t as Bad as People Think, Says Jim Cramer"
       },
       {
-        "title": "An Apparent Short Squeeze Is Brewing in T1 Energy Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apparent-short-squeeze-brewing-t1-164033448.html",
-        "pubDate": "2026-05-21T16:40:33Z",
-        "summary": "An Apparent Short Squeeze Is Brewing in T1 Energy Stock"
+        "title": "Here’s Why Jim Cramer Is Sad About Toll Brothers (TOL)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-sad-toll-231705015.html",
+        "pubDate": "2026-05-23T23:17:05Z",
+        "summary": "Here’s Why Jim Cramer Is Sad About Toll Brothers (TOL)"
       },
       {
-        "title": "Analyst Report: Pinterest Inc",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_5118_AnalystReport_1779468703000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "pubDate": "2026-05-22T16:51:43Z",
-        "summary": "Analyst Report: Pinterest Inc"
+        "title": "Morgan Stanley resets PANW stock price target on demand trends",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-panw-stock-223300963.html",
+        "pubDate": "2026-05-22T22:33:00Z",
+        "summary": "Morgan Stanley resets PANW stock price target on demand trends"
       },
       {
-        "title": "The next financial edge may sit in infrastructure control",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/next-financial-edge-may-sit-180300016.html",
-        "pubDate": "2026-05-22T18:03:00Z",
-        "summary": "The next financial edge may sit in infrastructure control"
+        "title": "Jim Cramer Discusses Analog Devices’ (ADI) Market",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-analog-devices-231629313.html",
+        "pubDate": "2026-05-23T23:16:29Z",
+        "summary": "Jim Cramer Discusses Analog Devices’ (ADI) Market"
       },
       {
-        "title": "'It's hard work to make nothing': Small businesses struggle with declining profits as gas, shipping prices rise",
-        "link": "https://finance.yahoo.com/economy/article/its-hard-work-to-make-nothing-small-businesses-struggle-with-declining-profits-as-gas-shipping-prices-rise-165928735.html",
-        "pubDate": "2026-05-21T16:59:28Z",
-        "summary": "'It's hard work to make nothing': Small businesses struggle with declining profits as gas, shipping prices rise"
+        "title": "Jim Cramer Discusses Texas Instruments’ (TXN) Market",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-texas-instruments-231545326.html",
+        "pubDate": "2026-05-23T23:15:45Z",
+        "summary": "Jim Cramer Discusses Texas Instruments’ (TXN) Market"
       },
       {
-        "title": "Exclusive-Modal Labs valued at $4.65 billion as AI coding takes off",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-modal-labs-valued-4-170342702.html",
-        "pubDate": "2026-05-21T17:03:42Z",
-        "summary": "Exclusive-Modal Labs valued at $4.65 billion as AI coding takes off"
+        "title": "Jim Cramer Continues Important Investigation For Adobe (ADBE)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-continues-important-investigation-231448112.html",
+        "pubDate": "2026-05-23T23:14:48Z",
+        "summary": "Jim Cramer Continues Important Investigation For Adobe (ADBE)"
       },
       {
-        "title": "SpaceX Finally Filed and the S-1? Well, She’s a Lot",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-finally-filed-1-well-162727025.html",
-        "pubDate": "2026-05-21T16:27:27Z",
-        "summary": "SpaceX Finally Filed and the S-1? Well, She’s a Lot"
+        "title": "Jim Cramer Discusses ServiceNow’s (NOW) Share Price Performance",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-servicenow-now-231350942.html",
+        "pubDate": "2026-05-23T23:13:50Z",
+        "summary": "Jim Cramer Discusses ServiceNow’s (NOW) Share Price Performance"
       }
     ]
   }
