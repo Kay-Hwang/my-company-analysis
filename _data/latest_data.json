@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026년 06월 13일 09:19 KST",
+  "lastUpdated": "2026년 06월 14일 09:04 KST",
   "news": {
     "investing": [
+      {
+        "title": "AI가 메모리를 구조적 병목 현상으로 만들기 시작한 방법",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1983363",
+        "pubDate": "2026-06-13 22:41:10",
+        "summary": "AI가 메모리를 구조적 병목 현상으로 만들기 시작한 방법"
+      },
+      {
+        "title": "씨티그룹, 코스피지수 목표치 10,000으로 상향…강세 전망 유효",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1983359",
+        "pubDate": "2026-06-13 17:42:07",
+        "summary": "씨티그룹, 코스피지수 목표치 10,000으로 상향…강세 전망 유효"
+      },
+      {
+        "title": "모건 스탠리 \"관세 1년 후에도 리쇼어링 증거 미미\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1983357",
+        "pubDate": "2026-06-13 16:22:00",
+        "summary": "모건 스탠리 \"관세 1년 후에도 리쇼어링 증거 미미\""
+      },
+      {
+        "title": "메모리 칩 공급 부족: 얼마나 심각해질까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1983337",
+        "pubDate": "2026-06-13 13:04:11",
+        "summary": "메모리 칩 공급 부족: 얼마나 심각해질까?"
+      },
+      {
+        "title": "양자 컴퓨팅의 미래: 승자와 패자는 누구인가",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1983334",
+        "pubDate": "2026-06-13 12:29:56",
+        "summary": "양자 컴퓨팅의 미래: 승자와 패자는 누구인가"
+      },
+      {
+        "title": "CFTC, CME의 24시간 원유 선물 계약 출시 차단 검토",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1983243",
+        "pubDate": "2026-06-13 00:35:43",
+        "summary": "CFTC, CME의 24시간 원유 선물 계약 출시 차단 검토"
+      },
       {
         "title": "개인 투자자들, 시장 전반의 투기 심리 속 SpaceX 투자 기회 모색",
         "link": "https://kr.investing.com/news/stock-market-news/article-1983210",
@@ -25,104 +61,68 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1983117",
         "pubDate": "2026-06-12 21:02:21",
         "summary": "Laser Photonics 주가, 나스닥 상장 규정 준수 회복 후 상승"
-      },
-      {
-        "title": "Ticketplus, 주당 $13~$15 사이로 IPO 신청",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1983128",
-        "pubDate": "2026-06-12 21:02:14",
-        "summary": "Ticketplus, 주당 $13~$15 사이로 IPO 신청"
-      },
-      {
-        "title": "BMO, 드래프트킹스 ’예측 시장’ 성장세에 게임 부문 선두 전망",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1983109",
-        "pubDate": "2026-06-12 20:52:49",
-        "summary": "BMO, 드래프트킹스 ’예측 시장’ 성장세에 게임 부문 선두 전망"
-      },
-      {
-        "title": "S&P, Vantage 인수 거래로 Howard Hughes 신용등급 ’BB+’로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1983104",
-        "pubDate": "2026-06-12 20:43:38",
-        "summary": "S&P, Vantage 인수 거래로 Howard Hughes 신용등급 ’BB+’로 상향"
-      },
-      {
-        "title": "프리덤 홀딩스, 3억 달러 주식 공모 소식에 주가 하락",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1983094",
-        "pubDate": "2026-06-12 20:36:49",
-        "summary": "프리덤 홀딩스, 3억 달러 주식 공모 소식에 주가 하락"
-      },
-      {
-        "title": "Forbright, 나스닥에서 1억 4,220만 달러 규모 IPO 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-1983069",
-        "pubDate": "2026-06-12 20:06:07",
-        "summary": "Forbright, 나스닥에서 1억 4,220만 달러 규모 IPO 완료"
-      },
-      {
-        "title": "에버코어, 마진 압박 직면 손해보험주 중 최고 종목 선정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-1983046",
-        "pubDate": "2026-06-12 19:58:22",
-        "summary": "에버코어, 마진 압박 직면 손해보험주 중 최고 종목 선정"
       }
     ],
     "cnbc": [
       {
-        "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain",
-        "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
-        "pubDate": "Fri, 12 Jun 2026 20:21:14 GMT",
-        "summary": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following recent conflicting statements from the warring nations."
+        "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
+        "link": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+        "pubDate": "Sat, 13 Jun 2026 19:44:44 GMT",
+        "summary": "President Donald Trump posted on Truth Social that a deal to end the war with Iran will be signed on Sunday."
       },
       {
-        "title": "Paramount-WBD merger wins approval from DOJ",
-        "link": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
-        "pubDate": "Fri, 12 Jun 2026 22:54:06 GMT",
-        "summary": "The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general."
+        "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+        "link": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
+        "pubDate": "Sat, 13 Jun 2026 15:50:43 GMT",
+        "summary": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps."
       },
       {
-        "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-        "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
-        "pubDate": "Fri, 12 Jun 2026 21:48:59 GMT",
-        "summary": "SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%."
+        "title": "UAE denies 'false' reports of fund transfer to Iran",
+        "link": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
+        "pubDate": "Sat, 13 Jun 2026 09:30:18 GMT",
+        "summary": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran."
       },
       {
-        "title": "Trump name must be removed from Kennedy Center by Friday night as appeals court rejects delay",
-        "link": "https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html",
-        "pubDate": "Fri, 12 Jun 2026 23:58:41 GMT",
-        "summary": "President Donald Trump had asked a federal appeals court to suspend a lower-court order that his name before removed from the performing arts center."
+        "title": "Switzerland is voting on whether to cap its population at 10 million. Here's what to know",
+        "link": "https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html",
+        "pubDate": "Sat, 13 Jun 2026 10:51:08 GMT",
+        "summary": "Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure."
       },
       {
-        "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
-        "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
-        "pubDate": "Fri, 12 Jun 2026 20:33:52 GMT",
-        "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq."
+        "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+        "link": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+        "pubDate": "Sat, 13 Jun 2026 01:36:34 GMT",
+        "summary": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government."
       },
       {
-        "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-        "link": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
-        "pubDate": "Fri, 12 Jun 2026 21:15:28 GMT",
-        "summary": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO."
+        "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+        "link": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "pubDate": "Sat, 13 Jun 2026 13:37:31 GMT",
+        "summary": "Despite a large retail allocation and huge volume, volatility was moderate"
       },
       {
-        "title": "Call Kevin Warsh the Fed 'chairman'",
-        "link": "https://www.cnbc.com/2026/06/12/fed-kevin-warsh-chairman-title.html",
-        "pubDate": "Fri, 12 Jun 2026 21:11:46 GMT",
-        "summary": "Kevin Warsh's two immediate predecessors preferred to be called the Fed \"chair.\" For Warsh, it's \"chairman\" of the Federal Reserve."
+        "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
+        "link": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
+        "pubDate": "Sat, 13 Jun 2026 15:00:01 GMT",
+        "summary": "Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline."
       },
       {
-        "title": "As investors flock to SpaceX, one trader eyes a sleepy 'stealth' play",
-        "link": "https://www.cnbc.com/2026/06/12/as-investors-flock-to-spacex-one-trader-eyes-a-sleepy-stealth-play.html",
-        "pubDate": "Fri, 12 Jun 2026 17:33:56 GMT",
-        "summary": "If you're looking for something a little more terrestrial, there's one stock that investors are overlooking."
+        "title": "College sticker prices top $100,000 at 16 schools — but many students pay significantly less",
+        "link": "https://www.cnbc.com/2026/06/10/college-six-figure-sticker-price.html",
+        "pubDate": "Wed, 10 Jun 2026 20:13:37 GMT",
+        "summary": "The cost of attendance at a growing number of colleges is now more than six figures a year, according to data from The Princeton Review."
       },
       {
-        "title": "For Warsh as Fed chair, silence may be the point",
-        "link": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
-        "pubDate": "Fri, 12 Jun 2026 10:00:01 GMT",
-        "summary": "Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve."
+        "title": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
+        "link": "https://www.cnbc.com/2026/06/12/social-security-cola-2027-inflation-estimate.html",
+        "pubDate": "Fri, 12 Jun 2026 21:18:06 GMT",
+        "summary": "As inflation climbs, Social Security beneficiaries may see a higher cost-of-living adjustment in 2027. Here's which costs spiked most over the past 12 months."
       },
       {
-        "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
-        "link": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
-        "pubDate": "Fri, 12 Jun 2026 00:19:38 GMT",
-        "summary": "In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders."
+        "title": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate",
+        "link": "https://www.cnbc.com/2026/06/13/moats-vs-moonshots-the-warren-buffett-elon-musk-style-debate.html",
+        "pubDate": "Sat, 13 Jun 2026 12:57:53 GMT",
+        "summary": "In 2018, Warren Buffett and Elon Musk indirectly debated a key question that persists for modern investors."
       }
     ],
     "yahoo": [
@@ -133,58 +133,58 @@
         "summary": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena"
       },
       {
-        "title": "A Florida man is selling his $2.6 million home — and will accept OpenAI, Anthropic or SpaceX stock as payment",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/florida-man-selling-2-6-164500038.html",
-        "pubDate": "2026-06-11T16:45:00Z",
-        "summary": "A Florida man is selling his $2.6 million home — and will accept OpenAI, Anthropic or SpaceX stock as payment"
+        "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
+        "pubDate": "2026-06-13T21:00:00Z",
+        "summary": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates"
       },
       {
-        "title": "SpaceX IPO Priced At $135 Per Share As Stampede Of Demand Builds",
-        "link": "https://www.investors.com/news/spacex-ipo-spcx-stock-oversubscribed/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-06-11T16:44:39Z",
-        "summary": "SpaceX IPO Priced At $135 Per Share As Stampede Of Demand Builds"
+        "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
+        "pubDate": "2026-06-13T20:56:47Z",
+        "summary": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?"
       },
       {
-        "title": "Corn Losses Holding on Thursday as USDA Hikes South American Production",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-losses-holding-thursday-usda-164717769.html",
-        "pubDate": "2026-06-11T16:47:17Z",
-        "summary": "Corn Losses Holding on Thursday as USDA Hikes South American Production"
+        "title": "Is Celestica Inc. (CLS) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-good-stock-205626381.html",
+        "pubDate": "2026-06-13T20:56:26Z",
+        "summary": "Is Celestica Inc. (CLS) A Good Stock To Buy Now?"
       },
       {
-        "title": "This Legendary Value Investor is Ignoring AI Frenzy and Buying Restaurant Brands (QSR)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-value-investor-ignoring-ai-165827302.html",
-        "pubDate": "2026-06-11T16:58:27Z",
-        "summary": "This Legendary Value Investor is Ignoring AI Frenzy and Buying Restaurant Brands (QSR)"
+        "title": "Is DLocal Limited (DLO) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-good-stock-205611908.html",
+        "pubDate": "2026-06-13T20:56:11Z",
+        "summary": "Is DLocal Limited (DLO) A Good Stock To Buy Now?"
       },
       {
-        "title": "Cathie Wood sells her favorite crypto stock despite surge",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-her-favorite-163934760.html",
-        "pubDate": "2026-06-11T16:39:34Z",
-        "summary": "Cathie Wood sells her favorite crypto stock despite surge"
+        "title": "How Insurance Companies Turn Their Premiums Into Billions in Profit",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/insurance-companies-turn-premiums-billions-233500726.html",
+        "pubDate": "2026-06-13T23:35:00Z",
+        "summary": "How Insurance Companies Turn Their Premiums Into Billions in Profit"
       },
       {
-        "title": "Why Power Prices Are Rising Faster in Deregulated States",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/why-power-prices-rising-faster-170000664.html",
-        "pubDate": "2026-06-11T17:00:00Z",
-        "summary": "Why Power Prices Are Rising Faster in Deregulated States"
+        "title": "Is Harrow, Inc. (HROW) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/harrow-inc-hrow-good-stock-205557543.html",
+        "pubDate": "2026-06-13T20:55:57Z",
+        "summary": "Is Harrow, Inc. (HROW) A Good Stock To Buy Now?"
       },
       {
-        "title": "Should You Ignore AI Hype and Buy Aon Plc (AON)?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ignore-ai-hype-buy-aon-170128575.html",
-        "pubDate": "2026-06-11T17:01:28Z",
-        "summary": "Should You Ignore AI Hype and Buy Aon Plc (AON)?"
+        "title": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-inc-adbe-good-stock-205543314.html",
+        "pubDate": "2026-06-13T20:55:43Z",
+        "summary": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now?"
       },
       {
-        "title": "Is Eagle Materials (EXP) The Best Value Stock For Long-Term Gains?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/eagle-materials-exp-best-value-170041309.html",
-        "pubDate": "2026-06-11T17:00:41Z",
-        "summary": "Is Eagle Materials (EXP) The Best Value Stock For Long-Term Gains?"
+        "title": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-solutions-inc-br-205530356.html",
+        "pubDate": "2026-06-13T20:55:30Z",
+        "summary": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?"
       },
       {
-        "title": "Why Value Investors Like Genuine Parts (GPC)?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-value-investors-genuine-parts-165929495.html",
-        "pubDate": "2026-06-11T16:59:29Z",
-        "summary": "Why Value Investors Like Genuine Parts (GPC)?"
+        "title": "Is XPEL, Inc. (XPEL) A Good Stock To Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/xpel-inc-xpel-good-stock-204606800.html",
+        "pubDate": "2026-06-13T20:46:06Z",
+        "summary": "Is XPEL, Inc. (XPEL) A Good Stock To Buy Now?"
       }
     ]
   }
