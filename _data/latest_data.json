@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026년 06월 20일 09:08 KST",
+  "lastUpdated": "2026년 06월 21일 09:04 KST",
   "news": {
     "investing": [
+      {
+        "title": "코스피지수 강세가 원화 약세로 이어진 이유: BofA 분석",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1990216",
+        "pubDate": "2026-06-20 11:49:39",
+        "summary": "코스피지수 강세가 원화 약세로 이어진 이유: BofA 분석"
+      },
+      {
+        "title": "골드만삭스, 높은 메모리 비용으로 글로벌 스마트폰 시장 전망 하향",
+        "link": "https://kr.investing.com/news/stock-market-news/article-1990213",
+        "pubDate": "2026-06-20 11:32:43",
+        "summary": "골드만삭스, 높은 메모리 비용으로 글로벌 스마트폰 시장 전망 하향"
+      },
       {
         "title": "편입 종목 수 2배인데 ’쏠림’ 더 심각…분산투자 기능은 어디로",
         "link": "https://kr.investing.com/news/stock-market-news/article-1990158",
@@ -49,26 +61,38 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-1990099",
         "pubDate": "2026-06-19 10:22:08",
         "summary": "BNP Paribas, 실적 모멘텀 근거로 Holcim 투자의견 상향…21% 상승 여력"
-      },
-      {
-        "title": "뱅크오브아메리카, 유럽 모멘텀 랠리에 신중론…방어주 선호",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1990101",
-        "pubDate": "2026-06-19 10:08:49",
-        "summary": "뱅크오브아메리카, 유럽 모멘텀 랠리에 신중론…방어주 선호"
-      },
-      {
-        "title": "JPM, 마진 리스크 반영됐다며 Sika 투자의견 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-1990092",
-        "pubDate": "2026-06-19 09:52:14",
-        "summary": "JPM, 마진 리스크 반영됐다며 Sika 투자의견 상향"
       }
     ],
     "cnbc": [
       {
-        "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-        "link": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-        "pubDate": "Fri, 19 Jun 2026 23:00:29 GMT",
-        "summary": "The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends."
+        "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
+        "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+        "pubDate": "Sat, 20 Jun 2026 22:59:26 GMT",
+        "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon."
+      },
+      {
+        "title": "AI buildout gives tech investors new reasons to watch bond market",
+        "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+        "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates."
+      },
+      {
+        "title": "The budget airline model in the U.S. is running out of runway",
+        "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+        "pubDate": "Sat, 20 Jun 2026 15:05:02 GMT",
+        "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes."
+      },
+      {
+        "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+        "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+        "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "summary": "SNAP food restrictions are spreading to more states, pressuring major food and beverage as consumers shift spending away from soda, candy and processed foods."
+      },
+      {
+        "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
+        "link": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+        "pubDate": "Sat, 20 Jun 2026 15:00:01 GMT",
+        "summary": "CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin."
       },
       {
         "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
@@ -83,108 +107,84 @@
         "summary": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage."
       },
       {
-        "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-        "link": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
-        "pubDate": "Fri, 19 Jun 2026 22:53:09 GMT",
-        "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service."
-      },
-      {
-        "title": "The riskiest SpaceX stock trade of all had a big first week",
-        "link": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-        "pubDate": "Fri, 19 Jun 2026 15:53:11 GMT",
-        "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs."
-      },
-      {
-        "title": "Trump DNI pick Pulte poised to get access to U.S. intelligence despite congressional bid to thwart",
-        "link": "https://www.cnbc.com/2026/06/18/pulte-trump-dni-us-intelligence-congress.html",
-        "pubDate": "Thu, 18 Jun 2026 18:49:36 GMT",
-        "summary": "With President Donald Trump halting his nomination of  U.S. Attorney Jay Clayton as director of national intelligence, Bill Pulte is set to take on the role."
-      },
-      {
-        "title": "NetJets' first fatal crash kills influential Texas VC founder",
-        "link": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
-        "pubDate": "Fri, 19 Jun 2026 16:50:59 GMT",
-        "summary": "NetJets is not speculating on what caused one of its planes to crash onto a highway in Laredo, Texas late Tuesday, killing a prominent tech entrepreneur."
-      },
-      {
-        "title": "Struggling to find a job? Try looking in Nevada",
-        "link": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
-        "pubDate": "Fri, 19 Jun 2026 17:56:52 GMT",
-        "summary": "The sparsely populated state known for its world-class casinos and dry climate has been a hiring hot spot."
-      },
-      {
         "title": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
         "link": "https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html",
         "pubDate": "Fri, 19 Jun 2026 13:51:01 GMT",
         "summary": "Barack Obama opened his presidential center in Chicago with former presidents, celebrities and dignitaries in attendance. President Donald Trump was absent."
       },
       {
-        "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
-        "link": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
-        "pubDate": "Fri, 19 Jun 2026 02:00:46 GMT",
-        "summary": "Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression."
+        "title": "'Fun dads' get 5 things right about parenting that many people forget—'they're worth borrowing' this Father's Day, says expert",
+        "link": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
+        "pubDate": "Sat, 20 Jun 2026 17:35:35 GMT",
+        "summary": "Many parents spend their days managing schedules, chores and responsibilities. This Father's Day, a parenting expert shares five \"fun dad\" habits that can increase joy and strengthen parent-child relationships."
+      },
+      {
+        "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
+        "link": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
+        "pubDate": "Fri, 19 Jun 2026 22:53:09 GMT",
+        "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service."
       }
     ],
     "yahoo": [
       {
-        "title": "Jim Cramer sends a stern message to SpaceX buyers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
-        "pubDate": "2026-06-19T02:47:00Z",
-        "summary": "Jim Cramer sends a stern message to SpaceX buyers"
+        "title": "Cathie Wood dumps nearly $60 million in popular growth stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
+        "pubDate": "2026-06-19T22:33:00Z",
+        "summary": "Cathie Wood dumps nearly $60 million in popular growth stocks"
       },
       {
-        "title": "He made money on SpaceX's IPO — but leaving $60,000 on the table made him and others 'feel like idiots'",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/made-money-spacexs-ipo-leaving-163500384.html",
-        "pubDate": "2026-06-18T16:35:00Z",
-        "summary": "He made money on SpaceX's IPO — but leaving $60,000 on the table made him and others 'feel like idiots'"
+        "title": "PayPal Stock Trades at 7.7x Earnings. Michael Burry Thinks That’s an Opportunity.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-trades-7-7x-180002329.html",
+        "pubDate": "2026-06-19T18:00:02Z",
+        "summary": "PayPal Stock Trades at 7.7x Earnings. Michael Burry Thinks That’s an Opportunity."
       },
       {
-        "title": "Michael Burry is questioning SpaceX's $3-trillion market valuation — and says he'd be tempted to bet against it",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-questioning-spacexs-3-164000469.html",
-        "pubDate": "2026-06-18T16:40:00Z",
-        "summary": "Michael Burry is questioning SpaceX's $3-trillion market valuation — and says he'd be tempted to bet against it"
+        "title": "How to Hunt for Mega-Cap Value After the SpaceX IPO",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hunt-mega-cap-value-spacex-180002698.html",
+        "pubDate": "2026-06-19T18:00:02Z",
+        "summary": "How to Hunt for Mega-Cap Value After the SpaceX IPO"
       },
       {
-        "title": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD",
-        "link": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
-        "pubDate": "2026-04-09T14:28:35Z",
-        "summary": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD"
+        "title": "Unusual Options Activity Flags UMC, ASX and QXO Ahead of July Expiration",
+        "link": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-flags-umc-173002011.html",
+        "pubDate": "2026-06-19T17:30:02Z",
+        "summary": "Unusual Options Activity Flags UMC, ASX and QXO Ahead of July Expiration"
       },
       {
-        "title": "Wheat Falling Back on Thursday",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-falling-back-thursday-164730576.html",
-        "pubDate": "2026-06-18T16:47:30Z",
-        "summary": "Wheat Falling Back on Thursday"
+        "title": "How Firefly Aerospace (FLY) Is Turning Lunar and Defense Programs Into a Broader Growth Base",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-turning-lunar-171857003.html",
+        "pubDate": "2026-06-19T17:18:57Z",
+        "summary": "How Firefly Aerospace (FLY) Is Turning Lunar and Defense Programs Into a Broader Growth Base"
       },
       {
-        "title": "91-year-old grocery chain announces closures for longtime locations",
-        "link": "https://finance.yahoo.com/real-estate/articles/91-old-grocery-chain-announces-163300684.html",
-        "pubDate": "2026-06-18T16:33:00Z",
-        "summary": "91-year-old grocery chain announces closures for longtime locations"
+        "title": "Iran peace deal could push gas prices to $3.50 within weeks",
+        "link": "https://finance.yahoo.com/energy/articles/low-gas-prices-fall-174700725.html",
+        "pubDate": "2026-06-19T17:47:00Z",
+        "summary": "Iran peace deal could push gas prices to $3.50 within weeks"
       },
       {
-        "title": "Corn Heading into the Long Weekend with Losses",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-heading-long-weekend-losses-164730501.html",
-        "pubDate": "2026-06-18T16:47:30Z",
-        "summary": "Corn Heading into the Long Weekend with Losses"
+        "title": "Why Planet Labs (PL) Is Building a Higher-Value Space Data Story Around NGA Demand",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pl-building-171904673.html",
+        "pubDate": "2026-06-19T17:19:04Z",
+        "summary": "Why Planet Labs (PL) Is Building a Higher-Value Space Data Story Around NGA Demand"
       },
       {
-        "title": "Kardigan rises in Nasdaq debut after upsized $400 million IPO",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kardigan-rises-nasdaq-debut-upsized-164821798.html",
-        "pubDate": "2026-06-18T16:56:35Z",
-        "summary": "Kardigan rises in Nasdaq debut after upsized $400 million IPO"
+        "title": "How Karman Holdings (KRMN) Is Using Space and Defense Demand to Build a Larger Backlog Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-using-space-171849057.html",
+        "pubDate": "2026-06-19T17:18:49Z",
+        "summary": "How Karman Holdings (KRMN) Is Using Space and Defense Demand to Build a Larger Backlog Story"
       },
       {
-        "title": "SpaceX bankers prepare for potential $20 billion bond offering, sources say",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-bankers-prepare-bond-sale-165833464.html",
-        "pubDate": "2026-06-18T16:58:33Z",
-        "summary": "SpaceX bankers prepare for potential $20 billion bond offering, sources say"
+        "title": "Why Satellogic (SATL) Is Building Its Growth Case Around Merlin and Daily Earth Intelligence",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-satellogic-satl-building-growth-171710367.html",
+        "pubDate": "2026-06-19T17:17:10Z",
+        "summary": "Why Satellogic (SATL) Is Building Its Growth Case Around Merlin and Daily Earth Intelligence"
       },
       {
-        "title": "Swift, FleetForce launch CDL training hub at Mobile terminal",
-        "link": "https://finance.yahoo.com/small-business/articles/swift-fleetforce-launch-cdl-training-170000737.html",
-        "pubDate": "2026-06-18T17:00:00Z",
-        "summary": "Swift, FleetForce launch CDL training hub at Mobile terminal"
+        "title": "How Rocket Lab (RKLB) Is Pairing Repeat Launch Demand With a Larger Space Systems Platform",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-pairing-repeat-171835630.html",
+        "pubDate": "2026-06-19T17:18:35Z",
+        "summary": "How Rocket Lab (RKLB) Is Pairing Repeat Launch Demand With a Larger Space Systems Platform"
       }
     ]
   }
