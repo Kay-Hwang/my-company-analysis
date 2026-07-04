@@ -1,75 +1,69 @@
 {
-  "lastUpdated": "2026년 07월 04일 09:02 KST",
+  "lastUpdated": "2026년 07월 05일 08:59 KST",
   "news": {
     "investing": [
       {
-        "title": "어떤 소매업체가 가장 빠르게 배송해줄까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2004986",
-        "pubDate": "2026-07-03 23:41:03",
-        "summary": "어떤 소매업체가 가장 빠르게 배송해줄까?"
+        "title": "[주간증시전망] 코스피, ’PER 6배’ 역대급 저평가…삼성전자 실적 ’촉각’",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005050",
+        "pubDate": "2026-07-04 21:41:12",
+        "summary": "[주간증시전망] 코스피, ’PER 6배’ 역대급 저평가…삼성전자 실적 ’촉각’"
       },
       {
-        "title": "ISAE4: ISA 에너지 주가가 오늘 하락한 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2004971",
-        "pubDate": "2026-07-03 15:38:06",
-        "summary": "ISAE4: ISA 에너지 주가가 오늘 하락한 이유는?"
+        "title": "유럽 실적 시즌 프리뷰: 애널리스트가 주목하는 3가지 포인트",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005049",
+        "pubDate": "2026-07-04 20:29:39",
+        "summary": "유럽 실적 시즌 프리뷰: 애널리스트가 주목하는 3가지 포인트"
       },
       {
-        "title": "스텔란티스, 2026년 상반기 이탈리아 생산량 13.7% 증가",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2004945",
-        "pubDate": "2026-07-03 12:46:47",
-        "summary": "스텔란티스, 2026년 상반기 이탈리아 생산량 13.7% 증가"
+        "title": "AI 인플레이션은 일시적인가?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005040",
+        "pubDate": "2026-07-04 14:23:27",
+        "summary": "AI 인플레이션은 일시적인가?"
       },
       {
-        "title": "BofA, 유로존 성장 기대감에 Stoxx 600 목표주가 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2004947",
-        "pubDate": "2026-07-03 12:46:34",
-        "summary": "BofA, 유로존 성장 기대감에 Stoxx 600 목표주가 상향"
+        "title": "이란 분쟁, 석유보다 전력·금속 수요 강화 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005037",
+        "pubDate": "2026-07-04 12:07:22",
+        "summary": "이란 분쟁, 석유보다 전력·금속 수요 강화 전망"
       },
       {
-        "title": "바클레이즈, 섹터 급락 후 창고 자동화 최선호주 지목",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2004944",
-        "pubDate": "2026-07-03 12:42:00",
-        "summary": "바클레이즈, 섹터 급락 후 창고 자동화 최선호주 지목"
+        "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005031",
+        "pubDate": "2026-07-04 10:44:40",
+        "summary": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락"
       },
       {
-        "title": "스텔란티스 주가, 오늘 하락한 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2004940",
-        "pubDate": "2026-07-03 12:18:33",
-        "summary": "스텔란티스 주가, 오늘 하락한 이유는?"
+        "title": "콘티넨탈, 콘티테크 40억 유로에 론스타에 매각 합의",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005029",
+        "pubDate": "2026-07-04 10:03:32",
+        "summary": "콘티넨탈, 콘티테크 40억 유로에 론스타에 매각 합의"
       },
       {
-        "title": "오늘 지멘스 주가 강세, 그 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2004938",
-        "pubDate": "2026-07-03 12:12:50",
-        "summary": "오늘 지멘스 주가 강세, 그 이유는?"
+        "title": "모건 스탠리, 유럽 에너지주 방어적 전략 전환…Galp 상향",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005027",
+        "pubDate": "2026-07-04 09:55:52",
+        "summary": "모건 스탠리, 유럽 에너지주 방어적 전략 전환…Galp 상향"
       },
       {
-        "title": "AUTO1 주식, 오늘 상승하는 이유?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2004936",
-        "pubDate": "2026-07-03 12:05:26",
-        "summary": "AUTO1 주식, 오늘 상승하는 이유?"
+        "title": "AI 붐이 주식 헤징 흐름을 통해 외환 시장을 재편하다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005012",
+        "pubDate": "2026-07-04 05:19:16",
+        "summary": "AI 붐이 주식 헤징 흐름을 통해 외환 시장을 재편하다"
       },
       {
-        "title": "연준 금리 인상 기대 완화에 금값 상승, TSX 선물 강세",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2004924",
-        "pubDate": "2026-07-03 11:14:07",
-        "summary": "연준 금리 인상 기대 완화에 금값 상승, TSX 선물 강세"
+        "title": "SK하이닉스, 대규모 美 주식 매각에 0.5% 인수 수수료 검토",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005009",
+        "pubDate": "2026-07-04 04:43:16",
+        "summary": "SK하이닉스, 대규모 美 주식 매각에 0.5% 인수 수수료 검토"
       },
       {
-        "title": "케플러, 지멘스 투자의견 상향…목표주가 €280으로 제시",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2004918",
-        "pubDate": "2026-07-03 10:51:41",
-        "summary": "케플러, 지멘스 투자의견 상향…목표주가 €280으로 제시"
+        "title": "DT/TMUS 합병, 실제로 진행될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2005004",
+        "pubDate": "2026-07-04 02:41:13",
+        "summary": "DT/TMUS 합병, 실제로 진행될까?"
       }
     ],
     "cnbc": [
-      {
-        "title": "5 takeaways from President Donald Trump's interview with CNBC",
-        "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
-        "pubDate": "Thu, 02 Jul 2026 23:20:58 GMT",
-        "summary": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments."
-      },
       {
         "title": "First known congressional SpaceX stock buys surface after record IPO",
         "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
@@ -77,114 +71,120 @@
         "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington."
       },
       {
-        "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
-        "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
-        "pubDate": "Fri, 03 Jul 2026 12:08:21 GMT",
-        "summary": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation."
+        "title": "The World Cup sends prediction market volumes soaring to record highs",
+        "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+        "pubDate": "Sat, 04 Jul 2026 12:54:04 GMT",
+        "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume."
       },
       {
-        "title": "Feds seek lower prison term for $100 million New Jersey deli fraudster — but some reasons why are hidden",
+        "title": "Trump Accounts for kids launch July 4: What parents need to know",
+        "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+        "pubDate": "Wed, 01 Jul 2026 12:15:01 GMT",
+        "summary": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn."
+      },
+      {
+        "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+        "link": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+        "pubDate": "Sat, 04 Jul 2026 05:20:52 GMT",
+        "summary": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad."
+      },
+      {
+        "title": "5 takeaways from President Donald Trump's interview with CNBC",
+        "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
+        "pubDate": "Thu, 02 Jul 2026 23:20:58 GMT",
+        "summary": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments."
+      },
+      {
+        "title": "UK and France agree with Oman to ensure safety of its territorial waters",
+        "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
+        "pubDate": "Sat, 04 Jul 2026 09:58:07 GMT",
+        "summary": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships."
+      },
+      {
+        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
         "link": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-        "pubDate": "Fri, 03 Jul 2026 19:33:26 GMT",
+        "pubDate": "Sat, 04 Jul 2026 01:04:34 GMT",
         "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli."
       },
       {
-        "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-        "link": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
-        "pubDate": "Fri, 03 Jul 2026 19:00:44 GMT",
-        "summary": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year."
+        "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+        "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+        "pubDate": "Sat, 04 Jul 2026 09:33:19 GMT",
+        "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure."
       },
       {
-        "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
-        "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
-        "pubDate": "Fri, 03 Jul 2026 12:00:01 GMT",
-        "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday."
-      },
-      {
-        "title": "Acting DNI Pulte fires dozens of intelligence officials: MS Now",
-        "link": "https://www.cnbc.com/2026/07/03/acting-dni-pulte-fires-dozens-of-intelligence-officials-ms-now.html",
-        "pubDate": "Fri, 03 Jul 2026 17:44:28 GMT",
-        "summary": "President Donald Trump's controversial pick to lead the office of the Director of National Intelligence has begun firing intel officials, MS NOW reported."
+        "title": "I’ve worked with over 5,000 kids: I swear by this No. 1 parenting rule—it’s ‘surprisingly simple’",
+        "link": "https://www.cnbc.com/2026/07/04/ive-studied-over-5000-kidsi-keep-giving-parents-the-same-surprisingly-simple-advice.html",
+        "pubDate": "Sat, 04 Jul 2026 17:03:15 GMT",
+        "summary": "Child development expert Siggie Cohen, who has worked with over 5,000 families, shares one communication mistake she sees parents make every day. Here's why she says it can backfire, when to set clear boundaries and how to use questions more effectively."
       },
       {
         "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
         "link": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html",
         "pubDate": "Fri, 03 Jul 2026 07:59:34 GMT",
         "summary": "Oman is using strategic ambiguity as talks over possible Strait of Hormuz fees raise legal, diplomatic and oil market concerns."
-      },
-      {
-        "title": "American Express and Chase move luxury lounge wars beyond the airport",
-        "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
-        "pubDate": "Fri, 03 Jul 2026 18:03:34 GMT",
-        "summary": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders."
-      },
-      {
-        "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
-        "link": "https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html",
-        "pubDate": "Fri, 03 Jul 2026 12:00:01 GMT",
-        "summary": "Affordable Care Act marketplace enrollment has declined by 3 million people. The Trump administration points to fraud controls. Policy experts point to cost."
       }
     ],
     "yahoo": [
       {
-        "title": "With Caterpillar Stock In An Uptrend, Build Bullish Exposure With This Spread Trade",
-        "link": "https://www.investors.com/research/options/caterpillar-stock-cat-construction-equipment-markets-options-income-investing-trading/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-07-02T16:46:29Z",
-        "summary": "With Caterpillar Stock In An Uptrend, Build Bullish Exposure With This Spread Trade"
+        "title": "Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means for Investors.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-really-financial-powerhouse-233500135.html",
+        "pubDate": "2026-07-04T23:35:00Z",
+        "summary": "Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means for Investors."
       },
       {
-        "title": "Palantir CEO: “Something Has Gone Completely Wrong” In AI. Alex Karp Says Enterprises Are Paying To Lose Their Competitive Edge",
-        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-something-gone-completely-164303371.html",
-        "pubDate": "2026-07-02T16:43:03Z",
-        "summary": "Palantir CEO: “Something Has Gone Completely Wrong” In AI. Alex Karp Says Enterprises Are Paying To Lose Their Competitive Edge"
+        "title": "Why Did General Motors (GM) Just Partner With Micron?",
+        "link": "https://finance.yahoo.com/technology/articles/why-did-general-motors-gm-191731528.html",
+        "pubDate": "2026-07-04T19:17:31Z",
+        "summary": "Why Did General Motors (GM) Just Partner With Micron?"
       },
       {
-        "title": "Southwest limited-time offer: Earn up to 90,000 Rapid Rewards points before your summer vacation (expired)",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/southwest-limited-time-offer-earn-up-to-90000-rapid-rewards-points-before-your-summer-vacation-expired-190609691.html",
-        "pubDate": "2026-05-28T19:06:09Z",
-        "summary": "Southwest limited-time offer: Earn up to 90,000 Rapid Rewards points before your summer vacation (expired)"
+        "title": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-stock-fallen-50-191550222.html",
+        "pubDate": "2026-07-04T19:15:50Z",
+        "summary": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?"
       },
       {
-        "title": "The White House said Trump 'lost money' in office — then his disclosure revealed $2.2 billion in 2025 earnings",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/white-house-said-trump-lost-165251196.html",
-        "pubDate": "2026-07-02T16:52:51Z",
-        "summary": "The White House said Trump 'lost money' in office — then his disclosure revealed $2.2 billion in 2025 earnings"
+        "title": "Travel Headwinds Result In Attractive Valuation For Global Payments (GPN) Stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/travel-headwinds-result-attractive-valuation-191542312.html",
+        "pubDate": "2026-07-04T19:15:42Z",
+        "summary": "Travel Headwinds Result In Attractive Valuation For Global Payments (GPN) Stocks"
       },
       {
-        "title": "Haleon Just Struck a Five-Year Deal With Microsoft. Here Is What It Means for Haleon Stock.",
-        "link": "https://finance.yahoo.com/healthcare/articles/haleon-just-struck-five-deal-163517406.html",
-        "pubDate": "2026-07-02T16:35:17Z",
-        "summary": "Haleon Just Struck a Five-Year Deal With Microsoft. Here Is What It Means for Haleon Stock."
+        "title": "Here’s Why Analysts Are Still Bullish On Alcoa Corp (AA) Stock Despite The Selloff",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-bullish-alcoa-191533264.html",
+        "pubDate": "2026-07-04T19:15:33Z",
+        "summary": "Here’s Why Analysts Are Still Bullish On Alcoa Corp (AA) Stock Despite The Selloff"
       },
       {
-        "title": "Best 18-month CD rates for July 2026: Earn up to 4.05% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-18-month-cd-rates-224504831.html",
-        "pubDate": "2026-01-26T22:45:04Z",
-        "summary": "Best 18-month CD rates for July 2026: Earn up to 4.05% APY"
+        "title": "My parents didn’t plan for retirement, but I’ve got millions: what’s the best way to help them?",
+        "link": "https://finance.yahoo.com/markets/options/articles/parents-didn-t-plan-retirement-141713265.html",
+        "pubDate": "2026-07-04T23:31:52Z",
+        "summary": "My parents didn’t plan for retirement, but I’ve got millions: what’s the best way to help them?"
       },
       {
-        "title": "CarMax’s Turnaround Is a Work in Progress, but Insiders Are Buying Anyway",
-        "link": "https://www.barrons.com/articles/carmax-stock-earnings-directors-buy-b6bf436f?siteid=yhoof2&yptr=yahoo",
-        "pubDate": "2026-07-02T16:43:00Z",
-        "summary": "CarMax’s Turnaround Is a Work in Progress, but Insiders Are Buying Anyway"
+        "title": "Wall Street Is Losing Confidence In PVH Corp (PVH), Is The Stock A Buy?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-losing-confidence-pvh-191514572.html",
+        "pubDate": "2026-07-04T19:15:14Z",
+        "summary": "Wall Street Is Losing Confidence In PVH Corp (PVH), Is The Stock A Buy?"
       },
       {
-        "title": "June jobs report live updates: US labor market slows from a 'sprint' to a 'jog'",
-        "link": "https://finance.yahoo.com/economy/live/june-jobs-report-live-updates-us-labor-market-slows-from-a-sprint-to-a-jog-121350875.html",
-        "pubDate": "2026-06-30T12:13:50Z",
-        "summary": "June jobs report live updates: US labor market slows from a 'sprint' to a 'jog'"
+        "title": "Lincoln National Corporation (LNC) Is One Of The Top Extreme Value Stocks To Buy Now",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-national-corporation-lnc-one-191506722.html",
+        "pubDate": "2026-07-04T19:15:06Z",
+        "summary": "Lincoln National Corporation (LNC) Is One Of The Top Extreme Value Stocks To Buy Now"
       },
       {
-        "title": "Best 1-year CD rates for July 2026: Lock in up to 4.1% APY for the next 12 months",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-1-year-cd-rates-211702415.html",
-        "pubDate": "2026-01-21T21:17:02Z",
-        "summary": "Best 1-year CD rates for July 2026: Lock in up to 4.1% APY for the next 12 months"
+        "title": "Wall Street Pessimism Has Made Universal Health Services (UHS) Stock A Top Extreme Value Stock To Buy Now",
+        "link": "https://finance.yahoo.com/healthcare/articles/wall-street-pessimism-made-universal-191457323.html",
+        "pubDate": "2026-07-04T19:14:57Z",
+        "summary": "Wall Street Pessimism Has Made Universal Health Services (UHS) Stock A Top Extreme Value Stock To Buy Now"
       },
       {
-        "title": "Will Oil Prices Keep Falling? WTI Futures Hit Pre-Iran War Lows",
-        "link": "https://www.investors.com/news/wti-futures-hit-lows-will-oil-prices-keep-falling/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-07-02T16:25:39Z",
-        "summary": "Will Oil Prices Keep Falling? WTI Futures Hit Pre-Iran War Lows"
+        "title": "Equinox Gold (EQX) Just Cleared A Major Roadblock, Is The Stock Ready To Skyrocket?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-just-cleared-191444301.html",
+        "pubDate": "2026-07-04T19:14:44Z",
+        "summary": "Equinox Gold (EQX) Just Cleared A Major Roadblock, Is The Stock Ready To Skyrocket?"
       }
     ]
   }
