@@ -1,161 +1,131 @@
 {
-  "lastUpdated": "2026년 07월 08일 08:55 KST",
+  "lastUpdated": "2026년 07월 09일 09:07 KST",
   "news": {
     "investing": [
       {
-        "title": "미군 \"호르무즈 상선 공격한 이란에 강력한 공습 개시\"",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2008247",
-        "pubDate": "2026-07-07 22:41:14",
-        "summary": "미군 \"호르무즈 상선 공격한 이란에 강력한 공습 개시\""
+        "title": "中, AI기업 반도체 부족에 결국 \"美 엔비디아칩 사용 허용 방침\"…엔비디아 주가 급등",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2009716",
+        "pubDate": "2026-07-08 23:41:07",
+        "summary": "中, AI기업 반도체 부족에 결국 \"美 엔비디아칩 사용 허용 방침\"…엔비디아 주가 급등"
       },
       {
-        "title": "금감원 \"장마 차량 침수 주의…여름철 피해액은 평균 443억\"",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2008232",
-        "pubDate": "2026-07-07 22:11:12",
-        "summary": "금감원 \"장마 차량 침수 주의…여름철 피해액은 평균 443억\""
+        "title": "[단독] 대만, 고스트로보틱스 군사용 비전 60 현지 양산 공식화…中 부품 철저히 배제",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2009715",
+        "pubDate": "2026-07-08 23:41:06",
+        "summary": "[단독] 대만, 고스트로보틱스 군사용 비전 60 현지 양산 공식화…中 부품 철저히 배제"
       },
       {
-        "title": "’AI 고점론’에 갇힌 반도체와 ’유가 쇼크’의 공습…뉴욕증시 덮친 복합 거시경제 악재",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2008231",
-        "pubDate": "2026-07-07 22:11:12",
-        "summary": "’AI 고점론’에 갇힌 반도체와 ’유가 쇼크’의 공습…뉴욕증시 덮친 복합 거시경제 악재"
+        "title": "[0709주요일정] 李 대통령, 11일까지 몽골 국빈 방문 예정 등",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2009706",
+        "pubDate": "2026-07-08 23:10:09",
+        "summary": "[0709주요일정] 李 대통령, 11일까지 몽골 국빈 방문 예정 등"
       },
       {
-        "title": "넷플릭스·디즈니·유튜브, FIFA 월드컵 중계권 20억 달러 입찰 추진",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2008225",
-        "pubDate": "2026-07-07 22:03:15",
-        "summary": "넷플릭스·디즈니·유튜브, FIFA 월드컵 중계권 20억 달러 입찰 추진"
+        "title": "[0709개장체크] 美 증시, 애플-브로드컴 대규모 반도체 공급 계약 및 반도체주 저가 매수세 유입",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2009705",
+        "pubDate": "2026-07-08 23:10:09",
+        "summary": "[0709개장체크] 美 증시, 애플-브로드컴 대규모 반도체 공급 계약 및 반도체주 저가 매수세 유입"
       },
       {
-        "title": "유나이티드 PF 홀딩스, 채권단과 출자전환 논의 중 - 블룸버그",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2008212",
-        "pubDate": "2026-07-07 21:47:31",
-        "summary": "유나이티드 PF 홀딩스, 채권단과 출자전환 논의 중 - 블룸버그"
+        "title": "Columbus Circle Capital Corp III, 나스닥에서 2억 달러 규모 IPO 가격 확정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-2009679",
+        "pubDate": "2026-07-08 21:52:01",
+        "summary": "Columbus Circle Capital Corp III, 나스닥에서 2억 달러 규모 IPO 가격 확정"
       },
       {
-        "title": "마스텍, 슈피리어 그룹 16.5억 달러 인수에 주가 상승",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2008211",
-        "pubDate": "2026-07-07 21:44:38",
-        "summary": "마스텍, 슈피리어 그룹 16.5억 달러 인수에 주가 상승"
+        "title": "Mercator Acquisition Corp., 나스닥에서 1억 5,000만 달러 IPO 가격 확정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-2009678",
+        "pubDate": "2026-07-08 21:50:01",
+        "summary": "Mercator Acquisition Corp., 나스닥에서 1억 5,000만 달러 IPO 가격 확정"
       },
       {
-        "title": "美 기대인플레 급등에 흔들리는 금리 인하 기조",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2008209",
-        "pubDate": "2026-07-07 21:41:18",
-        "summary": "美 기대인플레 급등에 흔들리는 금리 인하 기조"
+        "title": "S&P, Cosan 신용등급 다각화 약화 우려로 B+ 하향 조정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2009646",
+        "pubDate": "2026-07-08 21:32:00",
+        "summary": "S&P, Cosan 신용등급 다각화 약화 우려로 B+ 하향 조정"
       },
       {
-        "title": "Freedom Metals Acquisition, 나스닥에서 2억 7,500만 달러 규모 IPO 가격 확정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-2008214",
-        "pubDate": "2026-07-07 21:38:01",
-        "summary": "Freedom Metals Acquisition, 나스닥에서 2억 7,500만 달러 규모 IPO 가격 확정"
+        "title": "S&P, 거시 경제 역풍에 센츄리 커뮤니티스 등급 강등",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2009645",
+        "pubDate": "2026-07-08 21:31:39",
+        "summary": "S&P, 거시 경제 역풍에 센츄리 커뮤니티스 등급 강등"
       },
       {
-        "title": "록히드 마틴, 6억 700만 달러 규모 국방 계약 수주",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2008199",
-        "pubDate": "2026-07-07 21:31:18",
-        "summary": "록히드 마틴, 6억 700만 달러 규모 국방 계약 수주"
+        "title": "S&P, 할리데이비슨 신용등급 BB+로 강등... 마진 우려 제기",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2009640",
+        "pubDate": "2026-07-08 21:27:02",
+        "summary": "S&P, 할리데이비슨 신용등급 BB+로 강등... 마진 우려 제기"
       },
       {
-        "title": "Wolfspeed, GaN 및 SiC 특허 침해로 Navitas 제소",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2008195",
-        "pubDate": "2026-07-07 21:23:38",
-        "summary": "Wolfspeed, GaN 및 SiC 특허 침해로 Navitas 제소"
+        "title": "레이도스, 2,720만 달러 미사일 계약 변경 수주",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2009636",
+        "pubDate": "2026-07-08 21:25:10",
+        "summary": "레이도스, 2,720만 달러 미사일 계약 변경 수주"
       }
     ],
     "cnbc": [
       {
-        "title": "U.S. revokes Iran oil sales authorization after tanker attacks",
-        "link": "https://www.cnbc.com/2026/07/07/us-revokes-iran-oil-sanctions-waiver-tanker-attacks.html",
-        "pubDate": "Tue, 07 Jul 2026 21:26:42 GMT",
-        "summary": "Treasury had waived sanctions on Iranian oil through Aug. 21 after Washington and Tehran inked an interim deal to reopen Hormuz last month."
+        "title": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal",
+        "link": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
+        "pubDate": "Wed, 08 Jul 2026 20:28:12 GMT",
+        "summary": "Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action \"tonight.\""
       },
       {
-        "title": "U.S. resumes 'powerful strikes' on Iran after Hormuz Strait ship attacks, CENTCOM says",
-        "link": "https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html",
-        "pubDate": "Tue, 07 Jul 2026 22:34:30 GMT",
-        "summary": "The U.S. revoked Iran oil sales authorization earlier in the day."
+        "title": "Trump's European allies add distance on Iran following testy NATO summit",
+        "link": "https://www.cnbc.com/2026/07/08/trump-iran-nato-summit-war-hormuz-strait.html",
+        "pubDate": "Wed, 08 Jul 2026 22:06:44 GMT",
+        "summary": "President Donald Trump spent two days in Ankara, Turkey with other NATO member leaders."
       },
       {
-        "title": "Maine Senate race replacements circle amid pressure on Platner to drop out",
-        "link": "https://www.cnbc.com/2026/07/07/graham-platner-sexual-assault-allegation-maine-senate.html",
-        "pubDate": "Tue, 07 Jul 2026 20:57:17 GMT",
-        "summary": "Democrat Graham Platner has denied allegations of sexual assault leveled by Maine resident Jenny Racicot as calls for him to exit the pivotal race mount."
+        "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
+        "link": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
+        "pubDate": "Wed, 08 Jul 2026 21:10:47 GMT",
+        "summary": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment."
       },
       {
-        "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-        "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
-        "pubDate": "Tue, 07 Jul 2026 22:53:30 GMT",
-        "summary": "FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price."
+        "title": "McConnell health update demanded by Gov. Beshear as Senate vacancy questions grow",
+        "link": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+        "pubDate": "Wed, 08 Jul 2026 17:42:25 GMT",
+        "summary": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14."
       },
       {
-        "title": "Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe",
-        "link": "https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html",
-        "pubDate": "Tue, 07 Jul 2026 16:15:08 GMT",
-        "summary": "NATO fell into a crisis earlier this year as Trump demanded that the U.S. must take control of Greenland on national security grounds."
+        "title": "Trump announces long-shot bid to get Supreme Court to rehear birthright citizenship case",
+        "link": "https://www.cnbc.com/2026/07/08/trump-supreme-court-birthright-citizenship-rehearing.html",
+        "pubDate": "Wed, 08 Jul 2026 22:06:19 GMT",
+        "summary": "Trump already asked the Supreme Court to reconsider denying him an appeal of a verdict holding him liable for sexually abusing and defaming E. Jean Carroll."
       },
       {
-        "title": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year",
-        "link": "https://www.cnbc.com/2026/07/07/kalshi-traders-give-low-odds-the-us-takes-a-stake-in-openai-in-2026.html",
-        "pubDate": "Tue, 07 Jul 2026 22:51:08 GMT",
-        "summary": "Traders on the prediction markets platform see a less than 30% likelihood the federal government will take a stake in AI companies Anthropic and OpenAI."
+        "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+        "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+        "pubDate": "Wed, 08 Jul 2026 19:05:47 GMT",
+        "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting."
       },
       {
-        "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
-        "link": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
-        "pubDate": "Tue, 07 Jul 2026 18:00:01 GMT",
-        "summary": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings."
+        "title": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
+        "link": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
+        "pubDate": "Wed, 08 Jul 2026 22:11:26 GMT",
+        "summary": "Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store."
       },
       {
-        "title": "Mitch McConnell's health concerns grow amid 4th week in hospital with few details from aides",
-        "link": "https://www.cnbc.com/2026/07/07/mitch-mcconnell-health-senate-gop.html",
-        "pubDate": "Tue, 07 Jul 2026 19:57:01 GMT",
-        "summary": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to the hospital on June 14."
+        "title": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
+        "link": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
+        "pubDate": "Wed, 08 Jul 2026 13:26:53 GMT",
+        "summary": "U.S. President Donald Trump slammed Spain for not contributing enough to NATO, as he attended the defense alliance summit in Turkey."
       },
       {
-        "title": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight",
-        "link": "https://www.cnbc.com/2026/07/07/florida-stop-woke-act-desantis-professors-first-amendment-dei.html",
-        "pubDate": "Tue, 07 Jul 2026 21:06:09 GMT",
-        "summary": "A Trump-appointed judge ruled against Gov. Ron DeSantis' \"Stop WOKE Act,\" leaving Florida’s college speech limits blocked as a Supreme Court appeal looms."
+        "title": "Trump pours cold water on NATO allies' united front",
+        "link": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html",
+        "pubDate": "Wed, 08 Jul 2026 10:58:47 GMT",
+        "summary": "Trump criticized NATO allies over defense spending, attacked Spain and renewed his Greenland push during the alliance’s summit in Turkey."
       },
       {
-        "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
-        "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
-        "pubDate": "Mon, 06 Jul 2026 20:30:01 GMT",
-        "summary": "Toyota said it is investing $3.6 billion to move production of the Tacoma midsize pickup truck from Mexico to its San Antonio manufacturing campus in Texas."
+        "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
+        "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+        "pubDate": "Wed, 08 Jul 2026 21:32:49 GMT",
+        "summary": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter."
       }
     ],
     "yahoo": [
-      {
-        "title": "Best Buy and Apple flag a price shock for shoppers",
-        "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
-        "pubDate": "2026-07-06T20:33:00Z",
-        "summary": "Best Buy and Apple flag a price shock for shoppers"
-      },
-      {
-        "title": "Johnson & Johnson, IBD Stock Of The Day, In Buy Zone Heading Into Earnings",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/johnson-johnson-stock-q2-2026-earnings-due/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-07-06T15:41:36Z",
-        "summary": "Johnson & Johnson, IBD Stock Of The Day, In Buy Zone Heading Into Earnings"
-      },
-      {
-        "title": "Is this the Best Time to Buy CDW Corporation (CDW)?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/best-time-buy-cdw-corporation-154208181.html",
-        "pubDate": "2026-07-06T15:42:08Z",
-        "summary": "Is this the Best Time to Buy CDW Corporation (CDW)?"
-      },
-      {
-        "title": "TripAdvisor (TRIP): Influence of Sector Dynamics on Individual Stocks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tripadvisor-trip-influence-sector-dynamics-153911695.html",
-        "pubDate": "2026-07-06T15:39:11Z",
-        "summary": "TripAdvisor (TRIP): Influence of Sector Dynamics on Individual Stocks"
-      },
-      {
-        "title": "Here's What to Expect From UDR's Next Earnings Report",
-        "link": "https://finance.yahoo.com/real-estate/articles/heres-expect-udrs-next-earnings-154446023.html",
-        "pubDate": "2026-07-06T15:44:46Z",
-        "summary": "Here's What to Expect From UDR's Next Earnings Report"
-      },
       {
         "title": "Bank of America warns America now has 2 economies",
         "link": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
@@ -163,28 +133,58 @@
         "summary": "Bank of America warns America now has 2 economies"
       },
       {
-        "title": "An Analysis on Corpay (CPAY) Stock Trend",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-corpay-cpay-stock-trend-153640353.html",
-        "pubDate": "2026-07-06T15:36:40Z",
-        "summary": "An Analysis on Corpay (CPAY) Stock Trend"
+        "title": "Soybeans Trading with Slight Tuesday Morning Strength",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-trading-slight-tuesday-morning-122750707.html",
+        "pubDate": "2026-07-07T12:27:50Z",
+        "summary": "Soybeans Trading with Slight Tuesday Morning Strength"
       },
       {
-        "title": "Oklo Stock Just Got a Major Win. 2026 Could Still Be Its Breakout Year.",
-        "link": "https://finance.yahoo.com/energy/articles/oklo-stock-just-got-major-154536296.html",
-        "pubDate": "2026-07-06T15:45:36Z",
-        "summary": "Oklo Stock Just Got a Major Win. 2026 Could Still Be Its Breakout Year."
+        "title": "Wheat Showing Mixed Action Early on Tuesday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-showing-mixed-action-early-122750690.html",
+        "pubDate": "2026-07-07T12:27:50Z",
+        "summary": "Wheat Showing Mixed Action Early on Tuesday"
       },
       {
-        "title": "S&P Global (SPGI): Strong Fundamentals Amid AI Uncertainties?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-strong-fundamentals-154600333.html",
-        "pubDate": "2026-07-06T15:46:00Z",
-        "summary": "S&P Global (SPGI): Strong Fundamentals Amid AI Uncertainties?"
+        "title": "Corn Extending Modest Gains to Tuesday AM Trade",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-extending-modest-gains-tuesday-122750592.html",
+        "pubDate": "2026-07-07T12:27:50Z",
+        "summary": "Corn Extending Modest Gains to Tuesday AM Trade"
       },
       {
-        "title": "Tech stocks on track for record annual inflows as investors pile into the AI trade",
-        "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-track-for-record-annual-inflows-as-investors-pile-into-the-ai-trade-154703501.html",
-        "pubDate": "2026-07-06T15:47:03Z",
-        "summary": "Tech stocks on track for record annual inflows as investors pile into the AI trade"
+        "title": "Cattle Look to Tuesday as Beef Weakness Continues",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-look-tuesday-beef-weakness-122750411.html",
+        "pubDate": "2026-07-07T12:27:50Z",
+        "summary": "Cattle Look to Tuesday as Beef Weakness Continues"
+      },
+      {
+        "title": "Market Update: CMCSA, GAP",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "pubDate": "2026-07-08T17:45:32Z",
+        "summary": "Market Update: CMCSA, GAP"
+      },
+      {
+        "title": "2 Dirt Cheap Healthcare Stocks to Buy in July",
+        "link": "https://finance.yahoo.com/healthcare/articles/2-dirt-cheap-healthcare-stocks-123027922.html",
+        "pubDate": "2026-07-07T12:30:27Z",
+        "summary": "2 Dirt Cheap Healthcare Stocks to Buy in July"
+      },
+      {
+        "title": "This REIT ETF Puts the ‘R’ in Resilient",
+        "link": "https://finance.yahoo.com/real-estate/articles/reit-etf-puts-r-resilient-123513165.html",
+        "pubDate": "2026-07-07T12:35:13Z",
+        "summary": "This REIT ETF Puts the ‘R’ in Resilient"
+      },
+      {
+        "title": "PEY Pertinent for Equity Income Investors",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pey-pertinent-equity-income-investors-121551606.html",
+        "pubDate": "2026-07-07T12:15:51Z",
+        "summary": "PEY Pertinent for Equity Income Investors"
+      },
+      {
+        "title": "Onsemi to sell two chipmaking plants to cut costs",
+        "link": "https://finance.yahoo.com/technology/articles/onsemi-sell-two-chipmaking-plants-120806283.html",
+        "pubDate": "2026-07-07T12:08:06Z",
+        "summary": "Onsemi to sell two chipmaking plants to cut costs"
       }
     ]
   }
