@@ -1,80 +1,104 @@
 {
-  "lastUpdated": "2026년 07월 26일 08:59 KST",
+  "lastUpdated": "2026년 07월 27일 08:57 KST",
   "news": {
     "investing": [
       {
-        "title": "뱅크오브아메리카, 사이버보안 주요 종목 목표주가 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029239",
-        "pubDate": "2026-07-25 22:57:23",
-        "summary": "뱅크오브아메리카, 사이버보안 주요 종목 목표주가 상향"
+        "title": "﻿’삼전·하닉 쏠림’ 제동 걸린다…코스닥 다시 ’천스닥’ 꿈 꾸나",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029354",
+        "pubDate": "2026-07-26 23:41:07",
+        "summary": "﻿’삼전·하닉 쏠림’ 제동 걸린다…코스닥 다시 ’천스닥’ 꿈 꾸나"
       },
       {
-        "title": "골드만삭스, 엔화 약세 전망에 TOPIX 12개월 목표치 4,500으로 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029237",
-        "pubDate": "2026-07-25 20:01:17",
-        "summary": "골드만삭스, 엔화 약세 전망에 TOPIX 12개월 목표치 4,500으로 상향"
+        "title": "SK하이닉스 美 ADR ’이상 과열’…韓 주식보다 29% 비싸",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029353",
+        "pubDate": "2026-07-26 23:41:07",
+        "summary": "SK하이닉스 美 ADR ’이상 과열’…韓 주식보다 29% 비싸"
       },
       {
-        "title": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029229",
-        "pubDate": "2026-07-25 15:46:24",
-        "summary": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고"
+        "title": "유가·관세·AI 겹친 물가 압력…Fed 금리 인상론 고개",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029352",
+        "pubDate": "2026-07-26 23:41:06",
+        "summary": "유가·관세·AI 겹친 물가 압력…Fed 금리 인상론 고개"
       },
       {
-        "title": "씨티, 메모리 ’피크아웃’ 우려 일축…삼성전자·SK하이닉스 매수 유지",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029213",
-        "pubDate": "2026-07-25 10:54:54",
-        "summary": "씨티, 메모리 ’피크아웃’ 우려 일축…삼성전자·SK하이닉스 매수 유지"
+        "title": "[개장] 뉴욕증시, 중동 긴장 재고조 속 FOMC와 빅테크 실적 대기",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029337",
+        "pubDate": "2026-07-26 23:10:16",
+        "summary": "[개장] 뉴욕증시, 중동 긴장 재고조 속 FOMC와 빅테크 실적 대기"
       },
       {
-        "title": "AI 회의론에 흔들린 삼성·하이닉스…1375조 한미 AI동맹, 반전 계기 될까",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029204",
-        "pubDate": "2026-07-25 08:41:16",
-        "summary": "AI 회의론에 흔들린 삼성·하이닉스…1375조 한미 AI동맹, 반전 계기 될까"
+        "title": "서비스나우(NOW.N) 2분기 실적 예상치 상회..실적 가시성 견고, 디레이팅 구간",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029336",
+        "pubDate": "2026-07-26 23:10:15",
+        "summary": "서비스나우(NOW.N) 2분기 실적 예상치 상회..실적 가시성 견고, 디레이팅 구간"
       },
       {
-        "title": "삼성전자, 브로드컴과 2000억달러 규모 전략적 협력…AI 반도체 동맹 강화",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029203",
-        "pubDate": "2026-07-25 08:11:08",
-        "summary": "삼성전자, 브로드컴과 2000억달러 규모 전략적 협력…AI 반도체 동맹 강화"
+        "title": "LG화학·GS칼텍스 빠진 구조조정…1100만톤 체제 ’마지막 퍼즐’",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029335",
+        "pubDate": "2026-07-26 22:41:16",
+        "summary": "LG화학·GS칼텍스 빠진 구조조정…1100만톤 체제 ’마지막 퍼즐’"
       },
       {
-        "title": "삼성 및 SK하이닉스, 美와 9,500억 달러 반도체 공급 협력 발표",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029198",
-        "pubDate": "2026-07-25 07:18:47",
-        "summary": "삼성 및 SK하이닉스, 美와 9,500억 달러 반도체 공급 협력 발표"
+        "title": "딥시크, 2조원대 추가 투자 유치 ’제동’…AI 패권 경쟁 속 전략 재정비",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029334",
+        "pubDate": "2026-07-26 22:41:15",
+        "summary": "딥시크, 2조원대 추가 투자 유치 ’제동’…AI 패권 경쟁 속 전략 재정비"
       },
       {
-        "title": "중국, Trip.com에 52억 위안 과징금 부과…온라인 여행 시장 독점 남용",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029187",
-        "pubDate": "2026-07-25 04:39:38",
-        "summary": "중국, Trip.com에 52억 위안 과징금 부과…온라인 여행 시장 독점 남용"
+        "title": "74조 ’매도 폭탄’은 없었다…국민연금, 7월 순매수 전환 하이닉스 담았다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029333",
+        "pubDate": "2026-07-26 22:41:15",
+        "summary": "74조 ’매도 폭탄’은 없었다…국민연금, 7월 순매수 전환 하이닉스 담았다"
       },
       {
-        "title": "\"보고서 한 장에 증시 출렁…해외 IB 리포트, 얼마나 맞았나\"",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029177",
-        "pubDate": "2026-07-25 03:11:11",
-        "summary": "\"보고서 한 장에 증시 출렁…해외 IB 리포트, 얼마나 맞았나\""
+        "title": "FOMC·빅테크·반도체 ’슈퍼위크’…코스피 6700~7600선 향방 가른다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029332",
+        "pubDate": "2026-07-26 22:41:15",
+        "summary": "FOMC·빅테크·반도체 ’슈퍼위크’…코스피 6700~7600선 향방 가른다"
       },
       {
-        "title": "젠슨 황 \"SK와 5000억달러 협력\"…삼성·현대차·네이버까지 ’코리아 AI 동맹’",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2029173",
-        "pubDate": "2026-07-25 02:41:09",
-        "summary": "젠슨 황 \"SK와 5000억달러 협력\"…삼성·현대차·네이버까지 ’코리아 AI 동맹’"
+        "title": "중간선거는 증시에 부담이 될까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2029328",
+        "pubDate": "2026-07-26 21:24:17",
+        "summary": "중간선거는 증시에 부담이 될까?"
       }
     ],
     "cnbc": [
       {
-        "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-        "link": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-        "pubDate": "Sat, 25 Jul 2026 16:26:11 GMT",
-        "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings."
+        "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+        "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+        "pubDate": "Sun, 26 Jul 2026 17:11:36 GMT",
+        "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict."
       },
       {
-        "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-        "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-        "pubDate": "Sat, 25 Jul 2026 14:03:03 GMT",
-        "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated."
+        "title": "How AI wealth could be distributed to all Americans",
+        "link": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+        "pubDate": "Sun, 26 Jul 2026 14:06:53 GMT",
+        "summary": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth."
+      },
+      {
+        "title": "Here's the tech stock to buy in a market losing patience with tech",
+        "link": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+        "pubDate": "Sun, 26 Jul 2026 23:39:46 GMT",
+        "summary": "It's not the spend, it's the return."
+      },
+      {
+        "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+        "link": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+        "pubDate": "Sun, 26 Jul 2026 12:00:01 GMT",
+        "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips."
+      },
+      {
+        "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+        "link": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+        "pubDate": "Sun, 26 Jul 2026 11:33:11 GMT",
+        "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns."
+      },
+      {
+        "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+        "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+        "pubDate": "Sun, 26 Jul 2026 05:00:01 GMT",
+        "summary": "Chocolate firms look to win shoppers back with premium products and social media trends after poor weather conditions, tariffs, and the Iran war hit sales."
       },
       {
         "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
@@ -83,108 +107,84 @@
         "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing."
       },
       {
-        "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-        "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-        "pubDate": "Sat, 25 Jul 2026 14:23:53 GMT",
-        "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada."
-      },
-      {
         "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
         "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
         "pubDate": "Sat, 25 Jul 2026 12:00:02 GMT",
         "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial."
       },
       {
-        "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-        "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-        "pubDate": "Sat, 25 Jul 2026 08:49:00 GMT",
-        "summary": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems."
+        "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+        "link": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
+        "pubDate": "Sun, 26 Jul 2026 14:44:29 GMT",
+        "summary": "Many Americans in the 50-55 age range have 10 to 15 work years left, extending 401(k), IRA growth investing, but they can't afford an ill-timed market crash."
       },
       {
-        "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
-        "link": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
-        "pubDate": "Sat, 25 Jul 2026 12:28:33 GMT",
-        "summary": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government."
-      },
-      {
-        "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
-        "link": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
-        "pubDate": "Sat, 25 Jul 2026 13:30:01 GMT",
-        "summary": "There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said."
-      },
-      {
-        "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-        "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-        "pubDate": "Thu, 23 Jul 2026 17:10:06 GMT",
-        "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management."
-      },
-      {
-        "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
-        "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
-        "pubDate": "Sat, 25 Jul 2026 20:29:41 GMT",
-        "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates."
+        "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
+        "link": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
+        "pubDate": "Sun, 26 Jul 2026 13:30:02 GMT",
+        "summary": "A key incentive in place for current Opportunity Zone investors — deferring taxation of reinvested capital gains — will end on Dec. 31."
       }
     ],
     "yahoo": [
       {
-        "title": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
-        "link": "https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html",
-        "pubDate": "2026-07-24T16:17:00Z",
-        "summary": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy"
+        "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
+        "pubDate": "2026-07-26T15:07:00Z",
+        "summary": "After 80 stores close, 63-year-old chain gives Chapter 11 warning"
       },
       {
-        "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+        "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-07-25T22:02:53Z",
-        "summary": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus"
+        "pubDate": "2026-07-26T23:31:19Z",
+        "summary": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead"
       },
       {
-        "title": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-good-stock-190442460.html",
-        "pubDate": "2026-07-25T19:04:42Z",
-        "summary": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?"
+        "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+        "link": "https://finance.yahoo.com/energy/articles/u-jet-fuel-costs-soar-210000933.html",
+        "pubDate": "2026-07-26T21:00:00Z",
+        "summary": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again"
       },
       {
-        "title": "Alphabet Is Getting ‘Ambitious’ With AI. Don’t Get Ambitious With GOOGL Stock.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-getting-ambitious-ai-don-173002940.html",
-        "pubDate": "2026-07-25T17:30:02Z",
-        "summary": "Alphabet Is Getting ‘Ambitious’ With AI. Don’t Get Ambitious With GOOGL Stock."
+        "title": "Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records",
+        "link": "https://finance.yahoo.com/energy/articles/argentina-oil-production-soars-vaca-190000618.html",
+        "pubDate": "2026-07-26T19:00:00Z",
+        "summary": "Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html",
-        "pubDate": "2026-07-25T10:00:00Z",
-        "summary": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year"
+        "title": "Arizona State launches degree on becoming an influencer — exactly the career more than half of Gen Z adults dream of",
+        "link": "https://finance.yahoo.com/small-business/articles/arizona-state-launches-degree-becoming-180000860.html",
+        "pubDate": "2026-07-26T18:00:00Z",
+        "summary": "Arizona State launches degree on becoming an influencer — exactly the career more than half of Gen Z adults dream of"
       },
       {
-        "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-vs-intel-232000073.html",
-        "pubDate": "2026-07-25T23:20:00Z",
-        "summary": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?"
+        "title": "A Crash in Your First Year of Retirement Can Wreck All 30. These 3 ETFs Soften the Blow",
+        "link": "https://finance.yahoo.com/markets/options/articles/crash-first-retirement-wreck-30-234414335.html",
+        "pubDate": "2026-07-26T23:44:14Z",
+        "summary": "A Crash in Your First Year of Retirement Can Wreck All 30. These 3 ETFs Soften the Blow"
       },
       {
-        "title": "Best CD rates today, Saturday, July 25, 2026: Best account provides 4.20% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-25-2026-best-account-provides-420-apy-100000276.html",
-        "pubDate": "2026-07-25T10:00:00Z",
-        "summary": "Best CD rates today, Saturday, July 25, 2026: Best account provides 4.20% APY"
+        "title": "Amazon Stock Just Hit a Major Hurdle Ahead of Earnings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-just-hit-major-173002306.html",
+        "pubDate": "2026-07-26T17:30:02Z",
+        "summary": "Amazon Stock Just Hit a Major Hurdle Ahead of Earnings"
       },
       {
-        "title": "Do I need a business bank account if I'm self-employed?",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/bank-account-for-self-employed-183046944.html",
-        "pubDate": "2024-08-07T18:30:46Z",
-        "summary": "Do I need a business bank account if I'm self-employed?"
+        "title": "Fed Decision, Tech Earnings and Other Can't Miss Items this Week",
+        "link": "https://finance.yahoo.com/economy/policy/articles/fed-decision-tech-earnings-other-170002542.html",
+        "pubDate": "2026-07-26T17:00:02Z",
+        "summary": "Fed Decision, Tech Earnings and Other Can't Miss Items this Week"
       },
       {
-        "title": "What is an add-on CD?",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/add-on-cd-161023475.html",
-        "pubDate": "2024-08-08T16:10:23Z",
-        "summary": "What is an add-on CD?"
+        "title": "A $25,000 home repair could wipe out her $27,000 emergency fund — experts say there's a smarter move",
+        "link": "https://finance.yahoo.com/real-estate/articles/25-000-home-repair-could-170000821.html",
+        "pubDate": "2026-07-26T17:00:00Z",
+        "summary": "A $25,000 home repair could wipe out her $27,000 emergency fund — experts say there's a smarter move"
       },
       {
-        "title": "Happen Bank review (2026): A top-rated online bank with high yields and low fees",
-        "link": "https://finance.yahoo.com/personal-finance/banking/review/happen-bank-review-230320224.html",
-        "pubDate": "2024-09-06T23:03:20Z",
-        "summary": "Happen Bank review (2026): A top-rated online bank with high yields and low fees"
+        "title": "Google spent $490 million a day on AI and burned $5.9 billion in cash — its first negative quarter since going public",
+        "link": "https://finance.yahoo.com/technology/ai/articles/google-spent-490-million-day-163000234.html",
+        "pubDate": "2026-07-26T16:30:00Z",
+        "summary": "Google spent $490 million a day on AI and burned $5.9 billion in cash — its first negative quarter since going public"
       }
     ]
   }
