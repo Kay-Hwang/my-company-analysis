@@ -1,167 +1,131 @@
 {
-  "lastUpdated": "2026년 07월 31일 08:59 KST",
+  "lastUpdated": "2026년 08월 01일 09:00 KST",
   "news": {
     "investing": [
       {
-        "title": "처칠 캐피털 코프 XIII, 나스닥에서 3억 6천만 달러 IPO 가격 확정",
-        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-2038717",
-        "pubDate": "2026-07-30 23:51:02",
-        "summary": "처칠 캐피털 코프 XIII, 나스닥에서 3억 6천만 달러 IPO 가격 확정"
+        "title": "트럼프, 협상 결렬 후 이란에 새로운 군사 공격 명령",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2040371",
+        "pubDate": "2026-07-31 21:41:20",
+        "summary": "트럼프, 협상 결렬 후 이란에 새로운 군사 공격 명령"
       },
       {
-        "title": "Anthropic, 테스트 중 클로드 AI가 3개 기관 시스템에 무단 접근",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2038715",
-        "pubDate": "2026-07-30 23:48:25",
-        "summary": "Anthropic, 테스트 중 클로드 AI가 3개 기관 시스템에 무단 접근"
+        "title": "S&P 500 편입 발표에 퍼거슨 주가 급등",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040364",
+        "pubDate": "2026-07-31 21:27:37",
+        "summary": "S&P 500 편입 발표에 퍼거슨 주가 급등"
       },
       {
-        "title": "[0731개장체크] 美 증시, MS 호실적·반도체 강세 속 3대 지수 상승… 나스닥 2.78%↑",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2038694",
-        "pubDate": "2026-07-30 23:26:41",
-        "summary": "[0731개장체크] 美 증시, MS 호실적·반도체 강세 속 3대 지수 상승… 나스닥 2.78%↑"
+        "title": "제너럴 다이내믹스, 2억 7,300만 달러 방산 계약 수주",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040362",
+        "pubDate": "2026-07-31 21:23:30",
+        "summary": "제너럴 다이내믹스, 2억 7,300만 달러 방산 계약 수주"
       },
       {
-        "title": "[0731주요일정] 단일종목 레버리지 기본예탁금 상향 예정 등",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2038695",
-        "pubDate": "2026-07-30 23:10:10",
-        "summary": "[0731주요일정] 단일종목 레버리지 기본예탁금 상향 예정 등"
+        "title": "스티펠, 덱스컴(DXCM) 의료기술 분야 최고 투자처로 선정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040357",
+        "pubDate": "2026-07-31 21:22:01",
+        "summary": "스티펠, 덱스컴(DXCM) 의료기술 분야 최고 투자처로 선정"
       },
       {
-        "title": "리비안 주식이 오늘 급등하는 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2038666",
-        "pubDate": "2026-07-30 22:18:36",
-        "summary": "리비안 주식이 오늘 급등하는 이유는?"
+        "title": "조지 산토스, 시세 조종으로 3만 5천 달러 지불 명령",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040350",
+        "pubDate": "2026-07-31 21:09:44",
+        "summary": "조지 산토스, 시세 조종으로 3만 5천 달러 지불 명령"
       },
       {
-        "title": "Reddit 주식, 오늘 급락한 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2038664",
-        "pubDate": "2026-07-30 22:17:56",
-        "summary": "Reddit 주식, 오늘 급락한 이유는?"
+        "title": "System1, 채무 재조정으로 S&P 등급 상향 조정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040334",
+        "pubDate": "2026-07-31 20:45:42",
+        "summary": "System1, 채무 재조정으로 S&P 등급 상향 조정"
       },
       {
-        "title": "로블록스 주가, 오늘 급락한 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2038659",
-        "pubDate": "2026-07-30 22:14:37",
-        "summary": "로블록스 주가, 오늘 급락한 이유는?"
+        "title": "Jersey Mike’s, NYSE에서 주당 $23에 IPO 마감",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-2040323",
+        "pubDate": "2026-07-31 20:27:02",
+        "summary": "Jersey Mike’s, NYSE에서 주당 $23에 IPO 마감"
       },
       {
-        "title": "퍼스트 솔라 주가, 오늘 급등하는 이유?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2038658",
-        "pubDate": "2026-07-30 22:14:24",
-        "summary": "퍼스트 솔라 주가, 오늘 급등하는 이유?"
+        "title": "BMO, 에너지 전환 부문 최고 유망주 지목",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040294",
+        "pubDate": "2026-07-31 19:53:04",
+        "summary": "BMO, 에너지 전환 부문 최고 유망주 지목"
       },
       {
-        "title": "MasTec 주가 오늘 급락한 이유?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2038656",
-        "pubDate": "2026-07-30 22:11:52",
-        "summary": "MasTec 주가 오늘 급락한 이유?"
+        "title": "Blackstone Mortgage Trust 주가, 오늘 급락하는 이유는?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040293",
+        "pubDate": "2026-07-31 19:48:42",
+        "summary": "Blackstone Mortgage Trust 주가, 오늘 급락하는 이유는?"
       },
       {
-        "title": "덱스컴 주식, 오늘 급등하는 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2038655",
-        "pubDate": "2026-07-30 22:11:44",
-        "summary": "덱스컴 주식, 오늘 급등하는 이유는?"
+        "title": "S&P, 경쟁 심화에 ZipRecruiter 등급 B-로 하향",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2040290",
+        "pubDate": "2026-07-31 19:41:36",
+        "summary": "S&P, 경쟁 심화에 ZipRecruiter 등급 B-로 하향"
       }
     ],
     "cnbc": [
       {
-        "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
-        "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-        "pubDate": "Thu, 30 Jul 2026 21:31:31 GMT",
-        "summary": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth."
+        "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+        "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+        "pubDate": "Fri, 31 Jul 2026 20:19:03 GMT",
+        "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness."
       },
       {
-        "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-        "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-        "pubDate": "Thu, 30 Jul 2026 21:29:19 GMT",
-        "summary": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter."
+        "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+        "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
+        "pubDate": "Fri, 31 Jul 2026 16:51:30 GMT",
+        "summary": "Trimmed mean measures are painting a different picture than the headline numbers."
       },
       {
-        "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
-        "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-        "pubDate": "Thu, 30 Jul 2026 22:28:38 GMT",
-        "summary": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates."
+        "title": "Trump's AI executive order nears key deadline as regulation debate intensifies",
+        "link": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
+        "pubDate": "Fri, 31 Jul 2026 21:46:32 GMT",
+        "summary": "OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order."
       },
       {
-        "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-        "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-        "pubDate": "Thu, 30 Jul 2026 22:28:58 GMT",
-        "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves."
+        "title": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+        "link": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+        "pubDate": "Fri, 31 Jul 2026 23:19:16 GMT",
+        "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations."
       },
       {
-        "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
-        "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
-        "pubDate": "Thu, 30 Jul 2026 22:01:01 GMT",
-        "summary": "The latest China Beige Book study found factory activity decelerated in July."
+        "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+        "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+        "pubDate": "Fri, 31 Jul 2026 20:17:54 GMT",
+        "summary": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall."
       },
       {
-        "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-        "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-        "pubDate": "Thu, 30 Jul 2026 23:50:41 GMT",
-        "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems."
+        "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+        "link": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
+        "pubDate": "Fri, 31 Jul 2026 22:04:03 GMT",
+        "summary": "Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor."
       },
       {
-        "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
-        "link": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
-        "pubDate": "Thu, 30 Jul 2026 21:50:17 GMT",
-        "summary": "Morgan Stanley is the lead banker engaging in advanced talks to lend $15 billion to Nexus Data Centers, CNBC confirmed."
+        "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+        "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
+        "pubDate": "Fri, 31 Jul 2026 18:52:10 GMT",
+        "summary": "President Donald Trump said the U.S. hasn't agreed to grant Ukraine licenses to produce Patriot missile systems."
       },
       {
-        "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-        "link": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-        "pubDate": "Thu, 30 Jul 2026 10:45:01 GMT",
-        "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war."
+        "title": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
+        "link": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
+        "pubDate": "Fri, 31 Jul 2026 18:16:18 GMT",
+        "summary": "Investors saw Warsh’s press conference as dovish, but a closer reading of the Fed chair's prepared remarks suggests he may be close to raising interest rates."
       },
       {
-        "title": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
-        "link": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
-        "pubDate": "Thu, 30 Jul 2026 23:30:34 GMT",
-        "summary": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling."
+        "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
+        "link": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
+        "pubDate": "Fri, 31 Jul 2026 15:45:15 GMT",
+        "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government."
       },
       {
-        "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-        "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-        "pubDate": "Thu, 30 Jul 2026 21:19:16 GMT",
-        "summary": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecast losses this year as the company reported second-quarter results."
+        "title": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers",
+        "link": "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
+        "pubDate": "Fri, 31 Jul 2026 12:15:01 GMT",
+        "summary": "The prices for used electric vehicles have risen this year, which is unusual, experts said. Affordability and high gas prices help explain why, they said."
       }
     ],
     "yahoo": [
-      {
-        "title": "Markets react to Fed's July interest rate decision",
-        "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
-        "pubDate": "2026-07-29T21:05:58Z",
-        "summary": "Markets react to Fed's July interest rate decision"
-      },
-      {
-        "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
-        "pubDate": "2026-07-29T22:17:00Z",
-        "summary": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity"
-      },
-      {
-        "title": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils",
-        "link": "https://www.investors.com/news/dow-jones-stock-chevron-oil-price-surge-trump-venezuela-cvx-stock-price/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-07-29T16:16:33Z",
-        "summary": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils"
-      },
-      {
-        "title": "Top Performing Leveraged/Inverse ETFs: 07/26/2026",
-        "link": "https://finance.yahoo.com/markets/options/articles/top-performing-leveraged-inverse-etfs-161544295.html",
-        "pubDate": "2026-07-29T16:15:44Z",
-        "summary": "Top Performing Leveraged/Inverse ETFs: 07/26/2026"
-      },
-      {
-        "title": "Vinted taps DHL’s Germany collection points to expand second-hand market",
-        "link": "https://finance.yahoo.com/small-business/articles/vinted-taps-dhl-germany-collection-162615559.html",
-        "pubDate": "2026-07-29T16:26:15Z",
-        "summary": "Vinted taps DHL’s Germany collection points to expand second-hand market"
-      },
-      {
-        "title": "QCOM Stock Alert: What to Know as Qualcomm Partners With BMW",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-alert-know-qualcomm-161505927.html",
-        "pubDate": "2026-07-29T16:15:05Z",
-        "summary": "QCOM Stock Alert: What to Know as Qualcomm Partners With BMW"
-      },
       {
         "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
         "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
@@ -169,22 +133,58 @@
         "summary": "Fed interest-rate decision rocks Wall Street's inflation fears"
       },
       {
-        "title": "Caterpillar Trades at 3x Its Historical Multiple — Michael Burry Is Betting Against It",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-trades-3x-historical-multiple-161312284.html",
-        "pubDate": "2026-07-29T16:13:12Z",
-        "summary": "Caterpillar Trades at 3x Its Historical Multiple — Michael Burry Is Betting Against It"
+        "title": "Coinbase beats much of customer lawsuit over US token sales",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-beats-much-customer-lawsuit-164519190.html",
+        "pubDate": "2026-07-30T16:45:19Z",
+        "summary": "Coinbase beats much of customer lawsuit over US token sales"
       },
       {
-        "title": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve",
-        "link": "https://finance.yahoo.com/energy/articles/why-wall-street-split-phillips-162957977.html",
-        "pubDate": "2026-07-29T16:29:57Z",
-        "summary": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve"
+        "title": "Euronet Worldwide, Inc. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/euronet-worldwide-inc-q2-2026-164614461.html",
+        "pubDate": "2026-07-30T16:46:14Z",
+        "summary": "Euronet Worldwide, Inc. Q2 2026 Earnings Call Summary"
       },
       {
-        "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
-        "link": "https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-07-29T16:08:25Z",
-        "summary": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus"
+        "title": "Brookfield Infrastructure Partners L.P. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructure-partners-l-p-164616189.html",
+        "pubDate": "2026-07-30T16:46:16Z",
+        "summary": "Brookfield Infrastructure Partners L.P. Q2 2026 Earnings Call Summary"
+      },
+      {
+        "title": "Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade",
+        "link": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html",
+        "pubDate": "2026-07-30T16:43:29Z",
+        "summary": "Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade"
+      },
+      {
+        "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html",
+        "pubDate": "2026-07-31T19:45:00Z",
+        "summary": "Want to trade SpaceX for Apple? 1inch says skip the dollars"
+      },
+      {
+        "title": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uks-ig-group-agrees-buy-164102084.html",
+        "pubDate": "2026-07-30T16:41:02Z",
+        "summary": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal"
+      },
+      {
+        "title": "Reddit (RDDT) May Walk Away From Google’s (GOOGL) $60 Million-a-Year Deal as AI Search Eats Its Traffic",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-may-walk-away-164136219.html",
+        "pubDate": "2026-07-30T16:41:36Z",
+        "summary": "Reddit (RDDT) May Walk Away From Google’s (GOOGL) $60 Million-a-Year Deal as AI Search Eats Its Traffic"
+      },
+      {
+        "title": "CRWV Stock Alert: What to Know as CoreWeave Teams Up With Leidos",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-stock-alert-know-coreweave-165112787.html",
+        "pubDate": "2026-07-30T16:51:12Z",
+        "summary": "CRWV Stock Alert: What to Know as CoreWeave Teams Up With Leidos"
+      },
+      {
+        "title": "Hilton Grand Vacations Inc. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hilton-grand-vacations-inc-q2-165140025.html",
+        "pubDate": "2026-07-30T16:51:40Z",
+        "summary": "Hilton Grand Vacations Inc. Q2 2026 Earnings Call Summary"
       }
     ]
   }
