@@ -1,80 +1,92 @@
 {
-  "lastUpdated": "2026년 08월 15일 08:19 KST",
+  "lastUpdated": "2026년 08월 16일 08:17 KST",
   "news": {
     "investing": [
       {
-        "title": "제인 스트리트, 기술주 매도세로 150억 달러 손실 기록",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063171",
-        "pubDate": "2026-08-14 21:51:08",
-        "summary": "제인 스트리트, 기술주 매도세로 150억 달러 손실 기록"
+        "title": "Nvidia의 5,000억 달러 투자 동원이 주가에 긍정적인 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063421",
+        "pubDate": "2026-08-15 21:07:11",
+        "summary": "Nvidia의 5,000억 달러 투자 동원이 주가에 긍정적인 이유"
       },
       {
-        "title": "Anthropic, IPO 준비 속 2분기 매출 115억 달러 돌파",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063156",
-        "pubDate": "2026-08-14 21:39:38",
-        "summary": "Anthropic, IPO 준비 속 2분기 매출 115억 달러 돌파"
+        "title": "Nvidia, SB 에너지 오하이오 AI 데이터센터에 30억 달러 투자 논의 중 (더 인포메이션)",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063417",
+        "pubDate": "2026-08-15 20:07:24",
+        "summary": "Nvidia, SB 에너지 오하이오 AI 데이터센터에 30억 달러 투자 논의 중 (더 인포메이션)"
       },
       {
-        "title": "드러켄밀러, Amazon.com·AMD 대거 매수…일부 반도체주 매각",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063148",
-        "pubDate": "2026-08-14 21:26:38",
-        "summary": "드러켄밀러, Amazon.com·AMD 대거 매수…일부 반도체주 매각"
+        "title": "S&P 500 랠리의 이면: 성과와 펀더멘털의 괴리",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063393",
+        "pubDate": "2026-08-15 17:16:30",
+        "summary": "S&P 500 랠리의 이면: 성과와 펀더멘털의 괴리"
       },
       {
-        "title": "다이애나 쉬핑, 젠코 인수 제안 철회",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2063124",
-        "pubDate": "2026-08-14 21:02:02",
-        "summary": "다이애나 쉬핑, 젠코 인수 제안 철회"
+        "title": "알파벳, AI 전략 전환 신호 보내나?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063366",
+        "pubDate": "2026-08-15 14:02:13",
+        "summary": "알파벳, AI 전략 전환 신호 보내나?"
       },
       {
-        "title": "밸류액트 홀딩스, 스포티파이 지분 2분기 46.9%↑",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2063121",
-        "pubDate": "2026-08-14 20:58:29",
-        "summary": "밸류액트 홀딩스, 스포티파이 지분 2분기 46.9%↑"
+        "title": "모건 스탠리, 연말까지 SpaceX 주가 촉매 4가지 제시",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063355",
+        "pubDate": "2026-08-15 11:49:49",
+        "summary": "모건 스탠리, 연말까지 SpaceX 주가 촉매 4가지 제시"
       },
       {
-        "title": "Berkshire Hathaway, 2분기 알파벳 지분 확대·은행 비중 축소",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063120",
-        "pubDate": "2026-08-14 20:53:58",
-        "summary": "Berkshire Hathaway, 2분기 알파벳 지분 확대·은행 비중 축소"
+        "title": "트렌드 추종 펀드, 나스닥 매수 지속 가능성—뱅크오브아메리카",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063343",
+        "pubDate": "2026-08-15 10:46:27",
+        "summary": "트렌드 추종 펀드, 나스닥 매수 지속 가능성—뱅크오브아메리카"
       },
       {
-        "title": "트럼프 지원 월드 리버티 파이낸셜, 조건부 은행 인가 승인",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2063089",
-        "pubDate": "2026-08-14 20:13:27",
-        "summary": "트럼프 지원 월드 리버티 파이낸셜, 조건부 은행 인가 승인"
+        "title": "UBS, 지금 인프라 투자에 주목해야 할 4가지 이유 제시",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063331",
+        "pubDate": "2026-08-15 08:16:29",
+        "summary": "UBS, 지금 인프라 투자에 주목해야 할 4가지 이유 제시"
       },
       {
-        "title": "TD 코웬, Paycom Software(PAYC)를 최고의 소프트웨어 주식으로 꼽다",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2063086",
-        "pubDate": "2026-08-14 20:09:10",
-        "summary": "TD 코웬, Paycom Software(PAYC)를 최고의 소프트웨어 주식으로 꼽다"
+        "title": "펀드 매니저, 5천억 유로 독일 연금 개혁 시장 노린다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063324",
+        "pubDate": "2026-08-15 06:38:07",
+        "summary": "펀드 매니저, 5천억 유로 독일 연금 개혁 시장 노린다"
       },
       {
-        "title": "SEC, 투자 자문사 ’페이-투-플레이’ 규정 완화 제안",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2063081",
-        "pubDate": "2026-08-14 20:02:12",
-        "summary": "SEC, 투자 자문사 ’페이-투-플레이’ 규정 완화 제안"
+        "title": "앤스로픽 IPO 가치, 2028년 매출 2천억 달러 목표에 달려 - 로이터",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063303",
+        "pubDate": "2026-08-15 04:19:30",
+        "summary": "앤스로픽 IPO 가치, 2028년 매출 2천억 달러 목표에 달려 - 로이터"
       },
       {
-        "title": "파라마운트, 워너브라더스 디스커버리 인수 규제 승인 완료",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063080",
-        "pubDate": "2026-08-14 19:59:45",
-        "summary": "파라마운트, 워너브라더스 디스커버리 인수 규제 승인 완료"
+        "title": "싱가포르 증시, ’골디락스 경제’ 힘입어 사상 최고 랠리 지속",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2063296",
+        "pubDate": "2026-08-15 04:00:06",
+        "summary": "싱가포르 증시, ’골디락스 경제’ 힘입어 사상 최고 랠리 지속"
       }
     ],
     "cnbc": [
       {
-        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-        "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-        "pubDate": "Fri, 14 Aug 2026 19:07:11 GMT",
-        "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO."
+        "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+        "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+        "pubDate": "Sat, 15 Aug 2026 14:19:35 GMT",
+        "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn."
       },
       {
-        "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-        "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
-        "pubDate": "Fri, 14 Aug 2026 21:06:48 GMT",
-        "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday."
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "pubDate": "Sat, 15 Aug 2026 14:45:31 GMT",
+        "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering."
+      },
+      {
+        "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+        "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+        "pubDate": "Sat, 15 Aug 2026 20:38:29 GMT",
+        "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory."
+      },
+      {
+        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+        "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+        "pubDate": "Sat, 15 Aug 2026 14:46:43 GMT",
+        "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level."
       },
       {
         "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
@@ -83,108 +95,96 @@
         "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter."
       },
       {
-        "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-        "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-        "pubDate": "Fri, 14 Aug 2026 22:36:37 GMT",
-        "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins."
+        "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
+        "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
+        "pubDate": "Sat, 15 Aug 2026 12:30:01 GMT",
+        "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken."
       },
       {
-        "title": "Regulators and banks step up scrutiny of prediction markets",
-        "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
-        "pubDate": "Fri, 14 Aug 2026 19:21:49 GMT",
-        "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC."
+        "title": "Berkshire adds $17 billion to Alphabet stake",
+        "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
+        "pubDate": "Sat, 15 Aug 2026 12:50:41 GMT",
+        "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio."
       },
       {
-        "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-        "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-        "pubDate": "Fri, 14 Aug 2026 20:47:41 GMT",
-        "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate."
+        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+        "pubDate": "Sat, 15 Aug 2026 12:00:01 GMT",
+        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have."
       },
       {
-        "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-        "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-        "pubDate": "Fri, 14 Aug 2026 19:50:11 GMT",
-        "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law"
+        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+        "pubDate": "Fri, 14 Aug 2026 18:00:01 GMT",
+        "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price."
       },
       {
-        "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-        "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-        "pubDate": "Fri, 14 Aug 2026 19:10:18 GMT",
-        "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project."
-      },
-      {
-        "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-        "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-        "pubDate": "Fri, 14 Aug 2026 12:03:32 GMT",
-        "summary": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk."
-      },
-      {
-        "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
-        "link": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
-        "pubDate": "Fri, 14 Aug 2026 15:22:00 GMT",
-        "summary": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively."
+        "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+        "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+        "pubDate": "Sat, 15 Aug 2026 17:35:09 GMT",
+        "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain."
       }
     ],
     "yahoo": [
       {
-        "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
-        "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
-        "pubDate": "2026-08-14T01:53:39Z",
-        "summary": "Resort destination mall and hotel seek Chapter 11 bankruptcy"
+        "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
+        "pubDate": "2026-08-15T01:37:00Z",
+        "summary": "SanDisk CEO reveals what's next after explosive 3,150% stock rally"
       },
       {
-        "title": "Dave Ramsey calls out the 3 ‘Dumb! Really dumb!’ money mistakes his callers make. Avoid these financial pitfalls now",
-        "link": "https://finance.yahoo.com/markets/articles/dave-ramsey-calls-3-dumb-161500078.html",
-        "pubDate": "2026-08-13T16:15:00Z",
-        "summary": "Dave Ramsey calls out the 3 ‘Dumb! Really dumb!’ money mistakes his callers make. Avoid these financial pitfalls now"
+        "title": "Corpay (CPAY) Just Posted A Record Quarter, So Why The Caution?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/corpay-cpay-just-posted-record-225148418.html",
+        "pubDate": "2026-08-15T22:51:48Z",
+        "summary": "Corpay (CPAY) Just Posted A Record Quarter, So Why The Caution?"
       },
       {
-        "title": "Crude Prices Undercut as Persian Gulf Tensions Ease Slightly",
-        "link": "https://finance.yahoo.com/energy/articles/crude-prices-undercut-persian-gulf-160516645.html",
-        "pubDate": "2026-08-13T16:05:16Z",
-        "summary": "Crude Prices Undercut as Persian Gulf Tensions Ease Slightly"
+        "title": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html",
+        "pubDate": "2026-08-15T22:42:42Z",
+        "summary": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?"
       },
       {
-        "title": "Acertus expands with Fisher Shipping acquisition",
-        "link": "https://finance.yahoo.com/small-business/articles/acertus-expands-fisher-shipping-acquisition-161813336.html",
-        "pubDate": "2026-08-13T16:18:13Z",
-        "summary": "Acertus expands with Fisher Shipping acquisition"
+        "title": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
+        "pubDate": "2026-08-15T22:31:04Z",
+        "summary": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?"
       },
       {
-        "title": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-nvidia-160000531.html",
-        "pubDate": "2026-08-13T16:00:00Z",
-        "summary": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'"
+        "title": "MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-bets-big-growth-221741258.html",
+        "pubDate": "2026-08-15T22:17:41Z",
+        "summary": "MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait?"
       },
       {
-        "title": "The Sharpest Exchanges From ABBV's Earnings Call",
-        "link": "https://finance.yahoo.com/healthcare/articles/sharpest-exchanges-abbvs-earnings-call-161011826.html",
-        "pubDate": "2026-08-13T16:10:11Z",
-        "summary": "The Sharpest Exchanges From ABBV's Earnings Call"
+        "title": "Warren Buffett named these 3 stocks as favorites for a reason",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-named-3-stocks-140400163.html",
+        "pubDate": "2026-08-15T14:04:00Z",
+        "summary": "Warren Buffett named these 3 stocks as favorites for a reason"
       },
       {
-        "title": "Swissquote Gets Mugged by Crypto Winter",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/swissquote-gets-mugged-crypto-winter-162003960.html",
-        "pubDate": "2026-08-13T16:20:03Z",
-        "summary": "Swissquote Gets Mugged by Crypto Winter"
+        "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
+        "pubDate": "2026-08-15T21:55:02Z",
+        "summary": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?"
       },
       {
-        "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
-        "pubDate": "2026-08-13T10:00:00Z",
-        "summary": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026"
+        "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
+        "pubDate": "2026-08-15T21:36:04Z",
+        "summary": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)"
       },
       {
-        "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-looks-raise-4-billion-160009191.html",
-        "pubDate": "2026-08-13T16:00:09Z",
-        "summary": "AMD looks to raise $4 billion to $5 billion in debt offering, source says"
+        "title": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
+        "pubDate": "2026-08-15T21:35:09Z",
+        "summary": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?"
       },
       {
-        "title": "How To Give A Bull Wings While Trading This Hot Energy Stock",
-        "link": "https://www.investors.com/research/options/valero-energy-vlo-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-08-13T16:19:56Z",
-        "summary": "How To Give A Bull Wings While Trading This Hot Energy Stock"
+        "title": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer’s Sentiment",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/diageo-deo-vs-constellation-stz-213214804.html",
+        "pubDate": "2026-08-15T21:32:14Z",
+        "summary": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer’s Sentiment"
       }
     ]
   }
