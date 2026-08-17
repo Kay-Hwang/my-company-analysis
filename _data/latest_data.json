@@ -1,74 +1,116 @@
 {
-  "lastUpdated": "2026년 08월 17일 08:17 KST",
+  "lastUpdated": "2026년 08월 18일 08:20 KST",
   "news": {
     "investing": [
       {
-        "title": "역대급 2분기 실적 시즌, 주가 반응은 실적과 점점 괴리",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063561",
-        "pubDate": "2026-08-16 15:28:02",
-        "summary": "역대급 2분기 실적 시즌, 주가 반응은 실적과 점점 괴리"
+        "title": "’삼전닉스’가 다시 끌어올린 코스피…7천피 안착, 외국인·FOMC에 달렸다",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2065005",
+        "pubDate": "2026-08-17 22:41:54",
+        "summary": "’삼전닉스’가 다시 끌어올린 코스피…7천피 안착, 외국인·FOMC에 달렸다"
       },
       {
-        "title": "AI가 선정한 소형주, 월간 수익률 +39% 및 +34% 기록",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063559",
-        "pubDate": "2026-08-16 15:01:35",
-        "summary": "AI가 선정한 소형주, 월간 수익률 +39% 및 +34% 기록"
+        "title": "AI가 선정한 이 종목, 이미 76% 상승했지만 63% 추가 상승 여력",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2064995",
+        "pubDate": "2026-08-17 22:20:36",
+        "summary": "AI가 선정한 이 종목, 이미 76% 상승했지만 63% 추가 상승 여력"
       },
       {
-        "title": "미국 주식 자금 유입, 전주 대비 3배 급증…월가 사상 최고치 근접",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063551",
-        "pubDate": "2026-08-16 13:41:11",
-        "summary": "미국 주식 자금 유입, 전주 대비 3배 급증…월가 사상 최고치 근접"
+        "title": "유가·금리 ’쌍끌이 충격’…뉴욕증시 일제히 하락, 다우 0.5%↓",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2064986",
+        "pubDate": "2026-08-17 22:12:15",
+        "summary": "유가·금리 ’쌍끌이 충격’…뉴욕증시 일제히 하락, 다우 0.5%↓"
       },
       {
-        "title": "애널리스트 AI 주요 동향 5가지: 메모리 강세, 애플·시스코 시스템즈 하향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063520",
-        "pubDate": "2026-08-16 09:00:02",
-        "summary": "애널리스트 AI 주요 동향 5가지: 메모리 강세, 애플·시스코 시스템즈 하향"
+        "title": "앤더슨 그룹, 430만 주 구주매출 소식에 주가 하락",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2064974",
+        "pubDate": "2026-08-17 21:55:31",
+        "summary": "앤더슨 그룹, 430만 주 구주매출 소식에 주가 하락"
       },
       {
-        "title": "SpaceX, AI 프론티어로 도약할 수 있을까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063469",
-        "pubDate": "2026-08-16 04:11:16",
-        "summary": "SpaceX, AI 프론티어로 도약할 수 있을까?"
+        "title": "아밀릭스 주가, 3상 임상시험 결과 발표일 확정에 상승",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2064970",
+        "pubDate": "2026-08-17 21:47:01",
+        "summary": "아밀릭스 주가, 3상 임상시험 결과 발표일 확정에 상승"
       },
       {
-        "title": "피터 틸, 아르헨티나 비스타 에너지 1% 지분 인수",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063458",
-        "pubDate": "2026-08-16 02:02:40",
-        "summary": "피터 틸, 아르헨티나 비스타 에너지 1% 지분 인수"
+        "title": "NorthStrive Acquisition, 나스닥에서 1억 달러 규모 IPO 가격 책정",
+        "link": "https://kr.investing.com/news/stock-market-news/article-432SI-2064967",
+        "pubDate": "2026-08-17 21:43:01",
+        "summary": "NorthStrive Acquisition, 나스닥에서 1억 달러 규모 IPO 가격 책정"
       },
       {
-        "title": "미국 대형주 펀드, 10년간 벤치마크 상회한 곳 단 13%",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063453",
-        "pubDate": "2026-08-16 01:37:23",
-        "summary": "미국 대형주 펀드, 10년간 벤치마크 상회한 곳 단 13%"
+        "title": "쿠라 온콜로지 주가, CEO 내부자 매수 소식에 상승",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2064966",
+        "pubDate": "2026-08-17 21:41:55",
+        "summary": "쿠라 온콜로지 주가, CEO 내부자 매수 소식에 상승"
       },
       {
-        "title": "디즈니, 내러티브 모멘텀을 되찾을 수 있을까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063452",
-        "pubDate": "2026-08-16 00:46:23",
-        "summary": "디즈니, 내러티브 모멘텀을 되찾을 수 있을까?"
+        "title": "북극항로 다시 주목...빨라진 유럽길, 경제성은 숙제",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2064963",
+        "pubDate": "2026-08-17 21:41:54",
+        "summary": "북극항로 다시 주목...빨라진 유럽길, 경제성은 숙제"
       },
       {
-        "title": "Nvidia의 5,000억 달러 투자 동원이 주가에 긍정적인 이유",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063421",
-        "pubDate": "2026-08-15 21:07:11",
-        "summary": "Nvidia의 5,000억 달러 투자 동원이 주가에 긍정적인 이유"
+        "title": "텍스트론 시스템즈, 해군 상륙정 계약으로 2억 3,100만 달러 수주",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2064955",
+        "pubDate": "2026-08-17 21:29:42",
+        "summary": "텍스트론 시스템즈, 해군 상륙정 계약으로 2억 3,100만 달러 수주"
       },
       {
-        "title": "Nvidia, SB 에너지 오하이오 AI 데이터센터에 30억 달러 투자 논의 중 (더 인포메이션)",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2063417",
-        "pubDate": "2026-08-15 20:07:24",
-        "summary": "Nvidia, SB 에너지 오하이오 AI 데이터센터에 30억 달러 투자 논의 중 (더 인포메이션)"
+        "title": "록히드 마틴, 1억 5,300만 달러 규모 국방 계약 수주",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2064954",
+        "pubDate": "2026-08-17 21:25:43",
+        "summary": "록히드 마틴, 1억 5,300만 달러 규모 국방 계약 수주"
       }
     ],
     "cnbc": [
       {
-        "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-        "link": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
-        "pubDate": "Sun, 16 Aug 2026 19:58:32 GMT",
-        "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln."
+        "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+        "link": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+        "pubDate": "Mon, 17 Aug 2026 20:04:53 GMT",
+        "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week."
+      },
+      {
+        "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+        "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+        "pubDate": "Mon, 17 Aug 2026 19:24:32 GMT",
+        "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight."
+      },
+      {
+        "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+        "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+        "pubDate": "Mon, 17 Aug 2026 22:31:32 GMT",
+        "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\""
+      },
+      {
+        "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+        "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+        "pubDate": "Mon, 17 Aug 2026 16:06:28 GMT",
+        "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram."
+      },
+      {
+        "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+        "link": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+        "pubDate": "Mon, 17 Aug 2026 22:52:11 GMT",
+        "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called a \"close personal relationship with a subordinate employee.\""
+      },
+      {
+        "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+        "link": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+        "pubDate": "Mon, 17 Aug 2026 22:07:03 GMT",
+        "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial."
+      },
+      {
+        "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+        "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+        "pubDate": "Mon, 17 Aug 2026 22:55:31 GMT",
+        "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier."
+      },
+      {
+        "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
+        "link": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
+        "pubDate": "Mon, 17 Aug 2026 20:23:22 GMT",
+        "summary": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors."
       },
       {
         "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
@@ -77,114 +119,72 @@
         "summary": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday."
       },
       {
-        "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-        "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-        "pubDate": "Sat, 15 Aug 2026 14:19:35 GMT",
-        "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn."
-      },
-      {
-        "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-        "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-        "pubDate": "Sat, 15 Aug 2026 14:46:43 GMT",
-        "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level."
-      },
-      {
-        "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-        "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-        "pubDate": "Sat, 15 Aug 2026 12:30:01 GMT",
-        "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken."
-      },
-      {
-        "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
-        "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
-        "pubDate": "Fri, 14 Aug 2026 00:09:11 GMT",
-        "summary": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain."
-      },
-      {
-        "title": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
-        "link": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
-        "pubDate": "Sat, 15 Aug 2026 14:35:01 GMT",
-        "summary": "AOC is highlighting the cost of freezing her eggs. Here's what to know about health insurance coverage, state laws and taxes associated with the process."
-      },
-      {
-        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-        "pubDate": "Sat, 15 Aug 2026 12:00:01 GMT",
-        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have."
-      },
-      {
-        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-        "pubDate": "Sun, 16 Aug 2026 17:08:04 GMT",
-        "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price."
-      },
-      {
-        "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-        "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-        "pubDate": "Wed, 12 Aug 2026 07:20:31 GMT",
-        "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago."
+        "title": "College can cost $100,000 a year. Here's how families are covering the tab",
+        "link": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
+        "pubDate": "Sat, 15 Aug 2026 13:30:01 GMT",
+        "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill."
       }
     ],
     "yahoo": [
       {
-        "title": "Billionaire Bill Ackman doubles down on these stocks in Q2",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
-        "pubDate": "2026-08-16T02:03:00Z",
-        "summary": "Billionaire Bill Ackman doubles down on these stocks in Q2"
+        "title": "Warren Buffett's Berkshire raises stake in world's largest airline",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html",
+        "pubDate": "2026-08-16T21:47:00Z",
+        "summary": "Warren Buffett's Berkshire raises stake in world's largest airline"
       },
       {
-        "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-08-16T22:14:56Z",
-        "summary": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms"
+        "title": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
+        "link": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
+        "pubDate": "2026-08-16T15:00:00Z",
+        "summary": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'"
       },
       {
-        "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
-        "pubDate": "2026-08-16T20:23:14Z",
-        "summary": "NVIDIA’s $3 Billion Bet on the Power Behind AI"
+        "title": "Oppenheimer Just Upgraded Intuitive Surgical Stock. Here's Why.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-just-upgraded-intuitive-surgical-151502484.html",
+        "pubDate": "2026-08-16T15:15:02Z",
+        "summary": "Oppenheimer Just Upgraded Intuitive Surgical Stock. Here's Why."
       },
       {
-        "title": "Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-big-turnaround-bet-200858626.html",
-        "pubDate": "2026-08-16T20:08:58Z",
-        "summary": "Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag"
+        "title": "Home Depot CEO Takes Medical Leave. What This Means for HD Stock Ahead of Earnings.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-ceo-takes-medical-153002568.html",
+        "pubDate": "2026-08-16T15:30:02Z",
+        "summary": "Home Depot CEO Takes Medical Leave. What This Means for HD Stock Ahead of Earnings."
       },
       {
-        "title": "Google’s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act",
-        "link": "https://finance.yahoo.com/technology/ai/articles/google-googl-latest-ai-model-194743447.html",
-        "pubDate": "2026-08-16T19:47:43Z",
-        "summary": "Google’s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act"
+        "title": "Michael Burry’s Bearish Bet Against Nebius Stock Sends a Warning Message to AI Bulls",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-bearish-bet-against-153002331.html",
+        "pubDate": "2026-08-16T15:30:02Z",
+        "summary": "Michael Burry’s Bearish Bet Against Nebius Stock Sends a Warning Message to AI Bulls"
       },
       {
-        "title": "Morgan Stanley sends a blunt Tesla message to investors",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html",
-        "pubDate": "2026-08-16T01:03:00Z",
-        "summary": "Morgan Stanley sends a blunt Tesla message to investors"
+        "title": "Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/energy-transfer-just-raised-2026-144300316.html",
+        "pubDate": "2026-08-16T14:43:00Z",
+        "summary": "Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?"
       },
       {
-        "title": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
-        "pubDate": "2026-08-16T19:31:30Z",
-        "summary": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet"
+        "title": "SpaceX stock volatility: What to do next if you own shares",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html",
+        "pubDate": "2026-06-17T14:17:04Z",
+        "summary": "SpaceX stock volatility: What to do next if you own shares"
       },
       {
-        "title": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
-        "link": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
-        "pubDate": "2026-08-16T19:15:00Z",
-        "summary": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?"
+        "title": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars — and high fees aren't helping",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-5-billion-fund-140000634.html",
+        "pubDate": "2026-08-16T14:00:00Z",
+        "summary": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars — and high fees aren't helping"
       },
       {
-        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
-        "link": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
-        "pubDate": "2026-08-16T19:00:00Z",
-        "summary": "Oil Majors Reap $93 Billion Windfall From the Iran War"
+        "title": "This ETF Is the Most Important in the Market. You Probably Haven’t Heard of It.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etf-most-important-market-probably-140002357.html",
+        "pubDate": "2026-08-16T14:00:02Z",
+        "summary": "This ETF Is the Most Important in the Market. You Probably Haven’t Heard of It."
       },
       {
-        "title": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
-        "link": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html",
-        "pubDate": "2026-08-16T18:30:00Z",
-        "summary": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business"
+        "title": "Analysts Are Upping Their Price Targets on Lumentum Stock. Here's Why.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-upping-price-targets-lumentum-140002049.html",
+        "pubDate": "2026-08-16T14:00:02Z",
+        "summary": "Analysts Are Upping Their Price Targets on Lumentum Stock. Here's Why."
       }
     ]
   }
