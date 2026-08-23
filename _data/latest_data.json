@@ -1,80 +1,92 @@
 {
-  "lastUpdated": "2026년 08월 23일 08:18 KST",
+  "lastUpdated": "2026년 08월 24일 08:18 KST",
   "news": {
     "investing": [
       {
-        "title": "Nvidia 고객, 메모리 비용 급등으로 서버 가격 15% 이상 인상 직면",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2071427",
-        "pubDate": "2026-08-22 20:47:44",
-        "summary": "Nvidia 고객, 메모리 비용 급등으로 서버 가격 15% 이상 인상 직면"
+        "title": "소버린 AI가 AI 자본지출 사이클을 강화하는 이유",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071507",
+        "pubDate": "2026-08-23 22:33:56",
+        "summary": "소버린 AI가 AI 자본지출 사이클을 강화하는 이유"
       },
       {
-        "title": "AI 자본지출 사이클이 둔화되면 어떤 일이 벌어질까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2071423",
-        "pubDate": "2026-08-22 18:43:07",
-        "summary": "AI 자본지출 사이클이 둔화되면 어떤 일이 벌어질까?"
+        "title": "일본 증시, 2023년 말과 유사한 흐름…의미는?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071504",
+        "pubDate": "2026-08-23 20:34:32",
+        "summary": "일본 증시, 2023년 말과 유사한 흐름…의미는?"
       },
       {
-        "title": "존 터너스 체제에서 애플의 리스크 선호도는 바뀔까?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2071422",
-        "pubDate": "2026-08-22 17:04:56",
-        "summary": "존 터너스 체제에서 애플의 리스크 선호도는 바뀔까?"
+        "title": "버리, 밸류에이션 우려로 알리바바 매도 후 JD.com 대규모 매수",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071500",
+        "pubDate": "2026-08-23 18:23:46",
+        "summary": "버리, 밸류에이션 우려로 알리바바 매도 후 JD.com 대규모 매수"
       },
       {
-        "title": "크라우드스트라이크 CTO, AI 펀드 설립 위해 퇴사",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071421",
-        "pubDate": "2026-08-22 16:55:51",
-        "summary": "크라우드스트라이크 CTO, AI 펀드 설립 위해 퇴사"
+        "title": "코메르츠방크 의장, 독일 인수규정 재검토 촉구",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071495",
+        "pubDate": "2026-08-23 16:07:30",
+        "summary": "코메르츠방크 의장, 독일 인수규정 재검토 촉구"
       },
       {
-        "title": "CTA 주식 포지셔닝, 이란 사태 이전 수준으로 회복 — BofA",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2071417",
-        "pubDate": "2026-08-22 13:47:56",
-        "summary": "CTA 주식 포지셔닝, 이란 사태 이전 수준으로 회복 — BofA"
+        "title": "허쉬가 몬델리즈를 인수할 수 있을까?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071494",
+        "pubDate": "2026-08-23 15:33:08",
+        "summary": "허쉬가 몬델리즈를 인수할 수 있을까?"
       },
       {
-        "title": "뱅크오브아메리카, 6개 BDC 주식에 ’시장수익률 하회’ 등급 유지",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071413",
-        "pubDate": "2026-08-22 12:10:49",
-        "summary": "뱅크오브아메리카, 6개 BDC 주식에 ’시장수익률 하회’ 등급 유지"
+        "title": "이란 제재 우려에 유가 상승, 걸프 증시 일제히 상승",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071489",
+        "pubDate": "2026-08-23 13:50:17",
+        "summary": "이란 제재 우려에 유가 상승, 걸프 증시 일제히 상승"
       },
       {
-        "title": "울프 리서치: 상품 가격 영향으로 CNH 주식 2027년 전망 보합",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071412",
-        "pubDate": "2026-08-22 12:06:44",
-        "summary": "울프 리서치: 상품 가격 영향으로 CNH 주식 2027년 전망 보합"
+        "title": "AI 선정 에너지 주식, 금요일 12% 추가 상승, Now 90%↑",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071476",
+        "pubDate": "2026-08-23 13:10:59",
+        "summary": "AI 선정 에너지 주식, 금요일 12% 추가 상승, Now 90%↑"
       },
       {
-        "title": "제프리스, 통화 가치 하락 우려에 금속 가격 급등 전망",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071411",
-        "pubDate": "2026-08-22 11:57:48",
-        "summary": "제프리스, 통화 가치 하락 우려에 금속 가격 급등 전망"
+        "title": "Nvidia 주가, 실적 발표 후 상승 전망 – 씨티",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071470",
+        "pubDate": "2026-08-23 11:17:07",
+        "summary": "Nvidia 주가, 실적 발표 후 상승 전망 – 씨티"
       },
       {
-        "title": "뱅크오브아메리카: CTA 국채 매도 안정적, 유로 숏커버 위험 증대",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071408",
-        "pubDate": "2026-08-22 11:42:15",
-        "summary": "뱅크오브아메리카: CTA 국채 매도 안정적, 유로 숏커버 위험 증대"
+        "title": "Eni, 2040년대 유럽 상업용 핵융합 발전소 목표",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2071461",
+        "pubDate": "2026-08-23 11:03:03",
+        "summary": "Eni, 2040년대 유럽 상업용 핵융합 발전소 목표"
       },
       {
-        "title": "헤지펀드와 뮤추얼펀드가 동시에 매수한 AI 주식 3종목",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2071404",
-        "pubDate": "2026-08-22 11:01:13",
-        "summary": "헤지펀드와 뮤추얼펀드가 동시에 매수한 AI 주식 3종목"
+        "title": "5대 애널리스트 AI 투자 의견: 애플, 폴더블 아이폰 추진 및 새 AI 전략으로 ’매수’ 상향",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2071443",
+        "pubDate": "2026-08-23 07:57:55",
+        "summary": "5대 애널리스트 AI 투자 의견: 애플, 폴더블 아이폰 추진 및 새 AI 전략으로 ’매수’ 상향"
       }
     ],
     "cnbc": [
       {
-        "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-        "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-        "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
-        "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins."
+        "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+        "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+        "pubDate": "Sun, 23 Aug 2026 22:39:41 GMT",
+        "summary": "Bessent told CNBC that the sanctions will be the \"toughest\" in history."
       },
       {
-        "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-        "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-        "pubDate": "Sat, 22 Aug 2026 20:18:15 GMT",
-        "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday."
+        "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+        "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+        "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
+        "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets."
+      },
+      {
+        "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+        "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+        "pubDate": "Sun, 23 Aug 2026 17:58:06 GMT",
+        "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections."
+      },
+      {
+        "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+        "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+        "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
+        "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier."
       },
       {
         "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
@@ -83,108 +95,96 @@
         "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio."
       },
       {
-        "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-        "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-        "pubDate": "Sat, 22 Aug 2026 20:34:13 GMT",
-        "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal."
+        "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+        "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+        "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
+        "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence."
       },
       {
-        "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-        "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-        "pubDate": "Sat, 22 Aug 2026 10:34:23 GMT",
-        "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations."
+        "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+        "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+        "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
+        "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins."
       },
       {
-        "title": "Nvidia customers reportedly warned about AI-related price hikes",
-        "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-        "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
-        "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported."
+        "title": "Here are the 2 big things we're watching in the stock market this week",
+        "link": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+        "pubDate": "Sun, 23 Aug 2026 16:56:02 GMT",
+        "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech."
       },
       {
-        "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-        "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-        "pubDate": "Sat, 22 Aug 2026 12:12:03 GMT",
-        "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future."
+        "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+        "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+        "pubDate": "Sun, 23 Aug 2026 13:00:01 GMT",
+        "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad."
       },
       {
-        "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
-        "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-        "pubDate": "Sat, 22 Aug 2026 14:00:01 GMT",
-        "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo."
-      },
-      {
-        "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
-        "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-        "pubDate": "Sat, 22 Aug 2026 12:06:37 GMT",
-        "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities."
-      },
-      {
-        "title": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
-        "link": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
-        "pubDate": "Sat, 22 Aug 2026 13:30:01 GMT",
-        "summary": "A new survey shows even a $500 unexpected expense may throw households off track when it comes to big life goals like saving for retirement."
+        "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
+        "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+        "pubDate": "Sun, 23 Aug 2026 12:46:01 GMT",
+        "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice."
       }
     ],
     "yahoo": [
       {
-        "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
-        "link": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
-        "pubDate": "2026-08-21T11:21:06Z",
-        "summary": "Hyundai considers Georgia Metaplant expansion to 800,000 units"
+        "title": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+        "link": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
+        "pubDate": "2026-08-22T18:47:00Z",
+        "summary": "Iconic fast-food fried chicken chain closes over 300 restaurants"
       },
       {
-        "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-        "link": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
-        "pubDate": "2026-08-22T21:00:00Z",
-        "summary": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint"
+        "title": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html",
+        "pubDate": "2026-08-23T23:01:04Z",
+        "summary": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?"
       },
       {
-        "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
-        "pubDate": "2026-08-22T19:56:02Z",
-        "summary": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis"
+        "title": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-08-23T22:55:04Z",
+        "summary": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead"
       },
       {
-        "title": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
-        "pubDate": "2026-08-22T19:41:07Z",
-        "summary": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?"
+        "title": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?",
+        "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-thermo-fisher-healthcare-225340177.html",
+        "pubDate": "2026-08-23T22:53:40Z",
+        "summary": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?"
       },
       {
-        "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
-        "link": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html",
-        "pubDate": "2026-08-22T19:00:00Z",
-        "summary": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026"
+        "title": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
+        "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html",
+        "pubDate": "2026-08-23T22:43:17Z",
+        "summary": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?"
       },
       {
-        "title": "Bill Gates pulls $818M from Berkshire to buy this giant",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html",
-        "pubDate": "2026-08-22T03:07:00Z",
-        "summary": "Bill Gates pulls $818M from Berkshire to buy this giant"
+        "title": "91-year-old supermarket chain closes stores, lays off employees",
+        "link": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html",
+        "pubDate": "2026-08-22T23:17:00Z",
+        "summary": "91-year-old supermarket chain closes stores, lays off employees"
       },
       {
-        "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
-        "pubDate": "2026-08-22T18:56:59Z",
-        "summary": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports"
+        "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
+        "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
+        "pubDate": "2026-08-23T22:32:03Z",
+        "summary": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?"
       },
       {
-        "title": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-        "link": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-08-22T18:15:48Z",
-        "summary": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?"
+        "title": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
+        "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-intuitive-surgical-recovery-222135336.html",
+        "pubDate": "2026-08-23T22:21:35Z",
+        "summary": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?"
       },
       {
-        "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-        "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-08-22T17:49:56Z",
-        "summary": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole"
+        "title": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?",
+        "link": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-vs-intuitive-surgical-221530352.html",
+        "pubDate": "2026-08-23T22:15:30Z",
+        "summary": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?"
       },
       {
-        "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
-        "link": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
-        "pubDate": "2026-08-22T16:00:00Z",
-        "summary": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive"
+        "title": "Danaher vs. Medtronic: Which Healthcare Recovery Story Has More Upside?",
+        "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-medtronic-healthcare-recovery-221012046.html",
+        "pubDate": "2026-08-23T22:10:12Z",
+        "summary": "Danaher vs. Medtronic: Which Healthcare Recovery Story Has More Upside?"
       }
     ]
   }
