@@ -1,116 +1,98 @@
 {
-  "lastUpdated": "2026년 09월 06일 09:34 KST",
+  "lastUpdated": "2026년 09월 07일 09:41 KST",
   "news": {
     "investing": [
       {
-        "title": "TTF 가스 가격, 호르무즈 해협과 겨울철 리스크로 고평가됐나?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085425",
-        "pubDate": "2026-09-05 21:06:23",
-        "summary": "TTF 가스 가격, 호르무즈 해협과 겨울철 리스크로 고평가됐나?"
+        "title": "Nvidia 황 CEO \"AGI가 도래했다\", OpenAI GPT-6 Astra 출시 후 선언",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085553",
+        "pubDate": "2026-09-07 00:16:58",
+        "summary": "Nvidia 황 CEO \"AGI가 도래했다\", OpenAI GPT-6 Astra 출시 후 선언"
       },
       {
-        "title": "UBS \"인플레이션·지정학적 리스크 속 원자재, 포트폴리오 다각화에 기여\"",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085422",
-        "pubDate": "2026-09-05 19:17:20",
-        "summary": "UBS \"인플레이션·지정학적 리스크 속 원자재, 포트폴리오 다각화에 기여\""
+        "title": "오픈AI ’아스트라’가 쏘아 올린 공…반도체주 화색",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085551",
+        "pubDate": "2026-09-07 00:12:13",
+        "summary": "오픈AI ’아스트라’가 쏘아 올린 공…반도체주 화색"
       },
       {
-        "title": "글로벌 채권 매도세 이후 3~5년 만기 채권 캐리 매력 부각",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085418",
-        "pubDate": "2026-09-05 17:50:46",
-        "summary": "글로벌 채권 매도세 이후 3~5년 만기 채권 캐리 매력 부각"
+        "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085537",
+        "pubDate": "2026-09-06 23:52:27",
+        "summary": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\""
       },
       {
-        "title": "기록적 실적에도 일본 증시 위험회피 심리 지속, 노무라",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085416",
-        "pubDate": "2026-09-05 15:35:47",
-        "summary": "기록적 실적에도 일본 증시 위험회피 심리 지속, 노무라"
+        "title": "호주 Ingenia, Warburg Pincus의 14억 달러 인수 제안 거절",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085535",
+        "pubDate": "2026-09-06 23:37:35",
+        "summary": "호주 Ingenia, Warburg Pincus의 14억 달러 인수 제안 거절"
       },
       {
-        "title": "미국, 전력 인프라 확충 속도가 수요 증가 못 따라갈 수도",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085411",
-        "pubDate": "2026-09-05 13:54:07",
-        "summary": "미국, 전력 인프라 확충 속도가 수요 증가 못 따라갈 수도"
+        "title": "[0907개장체크] 美 8월 고용 호조 속 연준 금리 인상 긴장감 고조",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085531",
+        "pubDate": "2026-09-06 23:36:34",
+        "summary": "[0907개장체크] 美 8월 고용 호조 속 연준 금리 인상 긴장감 고조"
       },
       {
-        "title": "폭스콘, AI 수요 강세로 3분기 시장 예상 웃돌 전망",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085409",
-        "pubDate": "2026-09-05 12:25:24",
-        "summary": "폭스콘, AI 수요 강세로 3분기 시장 예상 웃돌 전망"
+        "title": "프랑스, 새로운 정치 사이클 진입…투자 전략은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085527",
+        "pubDate": "2026-09-06 21:31:16",
+        "summary": "프랑스, 새로운 정치 사이클 진입…투자 전략은?"
       },
       {
-        "title": "씨티그룹, 연준 금리인하 전망 2027년 6월로 연기",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085405",
-        "pubDate": "2026-09-05 11:38:22",
-        "summary": "씨티그룹, 연준 금리인하 전망 2027년 6월로 연기"
+        "title": "일라이릴리의 1,000억 달러 인크레틴 기회: 추가 상승 여력은?",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085525",
+        "pubDate": "2026-09-06 21:19:22",
+        "summary": "일라이릴리의 1,000억 달러 인크레틴 기회: 추가 상승 여력은?"
       },
       {
-        "title": "채권 금리 상승은 언제 주식시장에 더 큰 위협이 되는가?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085401",
-        "pubDate": "2026-09-05 10:53:48",
-        "summary": "채권 금리 상승은 언제 주식시장에 더 큰 위협이 되는가?"
+        "title": "골드만삭스, 사이버캡이 테슬라에 로보택시 비용 우위 제공할 것",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085523",
+        "pubDate": "2026-09-06 21:16:58",
+        "summary": "골드만삭스, 사이버캡이 테슬라에 로보택시 비용 우위 제공할 것"
       },
       {
-        "title": "골드만삭스, 기술주 실적 기대감에 아시아 태평양 증시 목표 상향",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2085398",
-        "pubDate": "2026-09-05 10:33:50",
-        "summary": "골드만삭스, 기술주 실적 기대감에 아시아 태평양 증시 목표 상향"
+        "title": "아마존 화물기, 마이애미 공항 인근에서 추락",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085519",
+        "pubDate": "2026-09-06 19:26:44",
+        "summary": "아마존 화물기, 마이애미 공항 인근에서 추락"
       },
       {
-        "title": "바클레이즈, 에너지 섹터에서 연간 3.6조 달러 투자 기회 포착",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2085387",
-        "pubDate": "2026-09-05 07:58:16",
-        "summary": "바클레이즈, 에너지 섹터에서 연간 3.6조 달러 투자 기회 포착"
+        "title": "키뱅크, 애플 아이폰 18 출시가 주가에 부정적 촉매 될 수 있다 경고",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2085516",
+        "pubDate": "2026-09-06 17:05:45",
+        "summary": "키뱅크, 애플 아이폰 18 출시가 주가에 부정적 촉매 될 수 있다 경고"
       }
     ],
     "cnbc": [
+      {
+        "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+        "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+        "pubDate": "Sun, 06 Sep 2026 19:41:23 GMT",
+        "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy."
+      },
+      {
+        "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+        "link": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+        "pubDate": "Sun, 06 Sep 2026 12:00:01 GMT",
+        "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development."
+      },
+      {
+        "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+        "link": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+        "pubDate": "Mon, 07 Sep 2026 00:06:18 GMT",
+        "summary": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline"
+      },
+      {
+        "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+        "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+        "pubDate": "Sun, 06 Sep 2026 17:53:53 GMT",
+        "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers."
+      },
       {
         "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
         "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
         "pubDate": "Sat, 05 Sep 2026 19:12:53 GMT",
         "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks."
-      },
-      {
-        "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-        "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-        "pubDate": "Sat, 05 Sep 2026 15:11:03 GMT",
-        "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid."
-      },
-      {
-        "title": "LeBron James teases partnership with Polymarket",
-        "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
-        "pubDate": "Sat, 05 Sep 2026 19:40:11 GMT",
-        "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post."
-      },
-      {
-        "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-        "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-        "pubDate": "Sat, 05 Sep 2026 15:43:08 GMT",
-        "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported."
-      },
-      {
-        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-        "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-        "pubDate": "Sat, 05 Sep 2026 12:00:01 GMT",
-        "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight."
-      },
-      {
-        "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-        "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-        "pubDate": "Sat, 05 Sep 2026 12:00:01 GMT",
-        "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses."
-      },
-      {
-        "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
-        "link": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
-        "pubDate": "Sat, 05 Sep 2026 14:46:14 GMT",
-        "summary": "Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches, as the nation's largest retailer targets Uber Eats and DoorDash."
-      },
-      {
-        "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
-        "link": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-        "pubDate": "Sat, 05 Sep 2026 13:33:08 GMT",
-        "summary": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars."
       },
       {
         "title": "With HSAs, employers are turning to the 401(k) playbook",
@@ -123,68 +105,86 @@
         "link": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
         "pubDate": "Fri, 04 Sep 2026 12:15:44 GMT",
         "summary": "The Treasury has proposed regulations that would strip thousands of private schools of their tax-exempt status and threaten a valuable tax break for donations."
+      },
+      {
+        "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+        "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+        "pubDate": "Sun, 06 Sep 2026 13:19:01 GMT",
+        "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook."
+      },
+      {
+        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+        "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+        "pubDate": "Sat, 05 Sep 2026 12:00:01 GMT",
+        "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight."
+      },
+      {
+        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "pubDate": "Sun, 06 Sep 2026 12:13:49 GMT",
+        "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face."
       }
     ],
     "yahoo": [
       {
-        "title": "3 All-Weather Dividend Stocks That Keep Writing Bigger Checks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-weather-dividend-stocks-keep-181248248.html",
-        "pubDate": "2026-09-04T18:12:48Z",
-        "summary": "3 All-Weather Dividend Stocks That Keep Writing Bigger Checks"
+        "title": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
+        "link": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html",
+        "pubDate": "2026-09-06T02:33:00Z",
+        "summary": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy"
       },
       {
-        "title": "IPO Stock Of The Week: Marex Breaks Out Past Rare Buy Point As RS Line Triggers Bullish Signal",
-        "link": "https://www.investors.com/stock-lists/ipo-analysis/marex-stock-mrx-rare-buy-point/?src=A00220&yptr=yahoo",
-        "pubDate": "2026-09-04T18:16:06Z",
-        "summary": "IPO Stock Of The Week: Marex Breaks Out Past Rare Buy Point As RS Line Triggers Bullish Signal"
+        "title": "Nvidia Says Memory Pricing Has Turned ‘Extreme’ and Is ‘Headed Even Higher Into Next Year,’ But Its Own Price Increases Are Already Executed",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-says-memory-pricing-turned-140002011.html",
+        "pubDate": "2026-09-05T14:00:02Z",
+        "summary": "Nvidia Says Memory Pricing Has Turned ‘Extreme’ and Is ‘Headed Even Higher Into Next Year,’ But Its Own Price Increases Are Already Executed"
       },
       {
-        "title": "Is NXP Semiconductors Stock Underperforming the S&P 500?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-stock-underperforming-p-182704441.html",
-        "pubDate": "2026-09-04T18:27:04Z",
-        "summary": "Is NXP Semiconductors Stock Underperforming the S&P 500?"
+        "title": "Dear Kroger Stock Fans, Mark Your Calendars for September 11",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html",
+        "pubDate": "2026-09-05T14:00:02Z",
+        "summary": "Dear Kroger Stock Fans, Mark Your Calendars for September 11"
       },
       {
-        "title": "Commvault (CVLT) Turns Cyberattacks Into Automated Recovery Through New CrowdStrike (CRWD) Deal",
-        "link": "https://finance.yahoo.com/technology/articles/commvault-cvlt-turns-cyberattacks-automated-175037526.html",
-        "pubDate": "2026-09-04T17:50:37Z",
-        "summary": "Commvault (CVLT) Turns Cyberattacks Into Automated Recovery Through New CrowdStrike (CRWD) Deal"
+        "title": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dell-monster-quarter-just-confirmed-140002996.html",
+        "pubDate": "2026-09-05T14:00:02Z",
+        "summary": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM"
       },
       {
-        "title": "Commvault’s (CVLT) AI Recovery Bet Meets A Margin Reality Check",
-        "link": "https://finance.yahoo.com/technology/ai/articles/commvault-cvlt-ai-recovery-bet-174535550.html",
-        "pubDate": "2026-09-04T17:45:35Z",
-        "summary": "Commvault’s (CVLT) AI Recovery Bet Meets A Margin Reality Check"
+        "title": "Scott Bessent Said Interest Rates Have Fallen During Trump’s Second Term. Here’s Where He’s Right – and Where He’s Wrong.",
+        "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-said-interest-rates-133002371.html",
+        "pubDate": "2026-09-05T13:30:02Z",
+        "summary": "Scott Bessent Said Interest Rates Have Fallen During Trump’s Second Term. Here’s Where He’s Right – and Where He’s Wrong."
       },
       {
-        "title": "What Could a $5,000 Investment in SpaceX Be Worth by 2030?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/could-5-000-investment-spacex-181100026.html",
-        "pubDate": "2026-09-04T18:11:00Z",
-        "summary": "What Could a $5,000 Investment in SpaceX Be Worth by 2030?"
+        "title": "CZ Says These 7 Crypto Investments from YZi Labs Will Perform Best",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/cz-says-7-crypto-investments-140000139.html",
+        "pubDate": "2026-09-05T14:00:00Z",
+        "summary": "CZ Says These 7 Crypto Investments from YZi Labs Will Perform Best"
       },
       {
-        "title": "Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/array-arry-says-awm-acquisition-183234182.html",
-        "pubDate": "2026-09-04T18:32:34Z",
-        "summary": "Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling?"
+        "title": "This Indicator Could Be the S&P 500’s Canary in a Coal Mine",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/indicator-could-p-500-canary-130003859.html",
+        "pubDate": "2026-09-05T13:00:03Z",
+        "summary": "This Indicator Could Be the S&P 500’s Canary in a Coal Mine"
       },
       {
-        "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-on-gas-and-big-savings-on-diesel-labor-day-weekend-194922134.html",
-        "pubDate": "2026-05-21T19:49:22Z",
-        "summary": "How to save money on gas (and big savings on diesel) Labor Day weekend"
+        "title": "SpaceX Just Dealt a Big Blow to Howmet Aerospace Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-dealt-big-blow-130002822.html",
+        "pubDate": "2026-09-05T13:00:02Z",
+        "summary": "SpaceX Just Dealt a Big Blow to Howmet Aerospace Stock"
       },
       {
-        "title": "BioMarin (BMRN) Secured 20% U.S. Royalties on Yuviwel. Is Monetizing a Rival Better than Blocking It?",
-        "link": "https://finance.yahoo.com/healthcare/articles/biomarin-bmrn-secured-20-u-162639879.html",
-        "pubDate": "2026-09-04T16:26:39Z",
-        "summary": "BioMarin (BMRN) Secured 20% U.S. Royalties on Yuviwel. Is Monetizing a Rival Better than Blocking It?"
+        "title": "Acquisitive Strategy Offers Long-Term Prospects for QXO Inc. (QXO) Despite Dilution and Integration Risks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/acquisitive-strategy-offers-long-term-125906273.html",
+        "pubDate": "2026-09-05T12:59:06Z",
+        "summary": "Acquisitive Strategy Offers Long-Term Prospects for QXO Inc. (QXO) Despite Dilution and Integration Risks"
       },
       {
-        "title": "Record Diesel Prices Push Brent Toward $95",
-        "link": "https://finance.yahoo.com/energy/articles/record-diesel-prices-push-brent-162700945.html",
-        "pubDate": "2026-09-04T16:27:00Z",
-        "summary": "Record Diesel Prices Push Brent Toward $95"
+        "title": "Why It’s Time to Load Up on SoFi Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-sofi-stock-142109094.html",
+        "pubDate": "2026-09-05T14:21:09Z",
+        "summary": "Why It’s Time to Load Up on SoFi Stock"
       }
     ]
   }
