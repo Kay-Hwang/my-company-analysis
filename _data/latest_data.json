@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026년 09월 12일 09:54 KST",
+  "lastUpdated": "2026년 09월 13일 09:37 KST",
   "news": {
     "investing": [
+      {
+        "title": "Anthropic CEO, 보안 사고 후 AI 개발 속도 늦춰야 한다고 촉구",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2092485",
+        "pubDate": "2026-09-12 14:47:40",
+        "summary": "Anthropic CEO, 보안 사고 후 AI 개발 속도 늦춰야 한다고 촉구"
+      },
       {
         "title": "JP모건, 아셴브레너의 AI 펀드에 대한 대출 중단",
         "link": "https://kr.investing.com/news/stock-market-news/article-2092331",
@@ -55,38 +61,56 @@
         "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2092301",
         "pubDate": "2026-09-11 20:55:25",
         "summary": "골드만삭스, 뱅크오브아메리카, 앤트로픽 직원 자산 관리 경쟁 - 블룸버그"
-      },
-      {
-        "title": "아스트라제네카 유방암 신약, 후기 임상 목표 달성 실패",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2092298",
-        "pubDate": "2026-09-11 20:52:51",
-        "summary": "아스트라제네카 유방암 신약, 후기 임상 목표 달성 실패"
       }
     ],
     "cnbc": [
       {
-        "title": "Here’s the inflation breakdown for August 2026 — in one chart",
-        "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
-        "pubDate": "Fri, 11 Sep 2026 17:14:27 GMT",
-        "summary": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said."
+        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+        "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "pubDate": "Sat, 12 Sep 2026 23:20:43 GMT",
+        "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
       },
       {
-        "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-        "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-        "pubDate": "Fri, 11 Sep 2026 21:35:14 GMT",
-        "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week."
+        "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+        "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+        "pubDate": "Sat, 12 Sep 2026 17:14:56 GMT",
+        "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company."
       },
       {
-        "title": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out",
-        "link": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
-        "pubDate": "Fri, 11 Sep 2026 16:59:05 GMT",
-        "summary": "CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy."
+        "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+        "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+        "pubDate": "Sat, 12 Sep 2026 12:40:05 GMT",
+        "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May."
       },
       {
-        "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-        "link": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-        "pubDate": "Fri, 11 Sep 2026 20:48:19 GMT",
-        "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said."
+        "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+        "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+        "pubDate": "Sat, 12 Sep 2026 12:49:15 GMT",
+        "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%."
+      },
+      {
+        "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+        "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+        "pubDate": "Sat, 12 Sep 2026 13:15:04 GMT",
+        "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace."
+      },
+      {
+        "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
+        "link": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
+        "pubDate": "Sat, 12 Sep 2026 13:20:04 GMT",
+        "summary": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand."
+      },
+      {
+        "title": "Trump's America-first world is pushing other powers to hedge their bets",
+        "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+        "pubDate": "Sat, 12 Sep 2026 13:24:33 GMT",
+        "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground."
+      },
+      {
+        "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+        "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+        "pubDate": "Sat, 12 Sep 2026 12:00:01 GMT",
+        "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage."
       },
       {
         "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
@@ -95,96 +119,72 @@
         "summary": "The CEO and chief investment officer at Fred Alger Management survived the attack by chance. He was tasked with reconstruction after 35 staffers died."
       },
       {
-        "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
-        "link": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
-        "pubDate": "Fri, 11 Sep 2026 17:00:48 GMT",
-        "summary": "Ahead of the midterms, election officials ban certain workers from using prediction markets to reassure the public they are committed to election integrity."
-      },
-      {
-        "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
-        "link": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
-        "pubDate": "Fri, 11 Sep 2026 11:00:01 GMT",
-        "summary": "Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve."
-      },
-      {
         "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
         "link": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
         "pubDate": "Fri, 11 Sep 2026 22:42:14 GMT",
         "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary."
-      },
-      {
-        "title": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
-        "link": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
-        "pubDate": "Fri, 11 Sep 2026 22:35:09 GMT",
-        "summary": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks."
-      },
-      {
-        "title": "Bonds are going on tilt. How to play them, says Mike Khouw",
-        "link": "https://www.cnbc.com/2026/09/11/bonds-are-going-on-tilt-how-to-play-them-says-mike-khouw.html",
-        "pubDate": "Fri, 11 Sep 2026 16:26:14 GMT",
-        "summary": "Warren Buffett once said interest rates are to asset prices what gravity is to matter. If the options market is correct, things could get heavy, says Mike Khouw."
       }
     ],
     "yahoo": [
       {
-        "title": "Popular women's clothing chain closes 177 stores",
-        "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
-        "pubDate": "2026-09-10T23:17:00Z",
-        "summary": "Popular women's clothing chain closes 177 stores"
+        "title": "172-year-old bank sees 400% upside for 'federal bank' token",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
+        "pubDate": "2026-09-11T17:33:49Z",
+        "summary": "172-year-old bank sees 400% upside for 'federal bank' token"
       },
       {
-        "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
-        "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
-        "pubDate": "2026-09-10T23:36:12Z",
-        "summary": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business"
+        "title": "Debt settlement vs. debt consolidation: Which is right for you?",
+        "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/debt-settlement-vs-debt-consolidation-181734857.html",
+        "pubDate": "2026-09-11T18:17:34Z",
+        "summary": "Debt settlement vs. debt consolidation: Which is right for you?"
       },
       {
-        "title": "Lyft Stock Pullback Could Be Short-Lived Says Signal",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-stock-pullback-could-short-171316715.html",
-        "pubDate": "2026-09-10T17:13:16Z",
-        "summary": "Lyft Stock Pullback Could Be Short-Lived Says Signal"
+        "title": "Options Greeks explained: A trader's guide to all five",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/options-greeks-181341422.html",
+        "pubDate": "2026-09-11T18:13:41Z",
+        "summary": "Options Greeks explained: A trader's guide to all five"
       },
       {
-        "title": "Corn Getting a Bounce Ahead of USDA Report Day",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-getting-bounce-ahead-usda-171700522.html",
-        "pubDate": "2026-09-10T17:17:00Z",
-        "summary": "Corn Getting a Bounce Ahead of USDA Report Day"
+        "title": "Agentic Fabric and AI Could Drive SailPoint’s (SAIL) Next Growth Phase",
+        "link": "https://finance.yahoo.com/technology/ai/articles/agentic-fabric-ai-could-drive-181137656.html",
+        "pubDate": "2026-09-11T18:11:37Z",
+        "summary": "Agentic Fabric and AI Could Drive SailPoint’s (SAIL) Next Growth Phase"
       },
       {
-        "title": "Soybeans Breaking to New Highs on Thursday",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-breaking-highs-thursday-171700583.html",
-        "pubDate": "2026-09-10T17:17:00Z",
-        "summary": "Soybeans Breaking to New Highs on Thursday"
+        "title": "Autonomous Systems Strength Offsets SCDE Weakness for AeroVironment (AVAV)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/autonomous-systems-strength-offsets-scde-180302332.html",
+        "pubDate": "2026-09-11T18:03:02Z",
+        "summary": "Autonomous Systems Strength Offsets SCDE Weakness for AeroVironment (AVAV)"
       },
       {
-        "title": "Rich Dad Poor Dad’s Robert Kiyosaki Says He’s $1.2 Billion in Debt But Stays 1 Step Ahead Of Creditors — If It All Goes Bust, ‘You Can Talk To My Attorney’",
-        "link": "https://finance.yahoo.com/real-estate/articles/rich-dad-poor-dad-robert-171657991.html",
-        "pubDate": "2026-09-10T17:16:57Z",
-        "summary": "Rich Dad Poor Dad’s Robert Kiyosaki Says He’s $1.2 Billion in Debt But Stays 1 Step Ahead Of Creditors — If It All Goes Bust, ‘You Can Talk To My Attorney’"
+        "title": "IPO Stock Of The Week: Energy Leader Venture Global Breaks Into Buy Zone As Oil Prices Surge",
+        "link": "https://www.investors.com/stock-lists/ipo-analysis/venture-stock-vg-stock/?src=A00220&yptr=yahoo",
+        "pubDate": "2026-09-11T18:02:24Z",
+        "summary": "IPO Stock Of The Week: Energy Leader Venture Global Breaks Into Buy Zone As Oil Prices Surge"
       },
       {
-        "title": "Man declares bankruptcy with 34 cents while hiding millions",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/man-declares-bankruptcy-34-cents-234136167.html",
-        "pubDate": "2026-09-10T23:41:36Z",
-        "summary": "Man declares bankruptcy with 34 cents while hiding millions"
+        "title": "Rocket Lab Stock Just Scored a New Bullish Rating",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-just-scored-175544518.html",
+        "pubDate": "2026-09-11T17:55:44Z",
+        "summary": "Rocket Lab Stock Just Scored a New Bullish Rating"
       },
       {
-        "title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html",
-        "pubDate": "2026-09-10T17:21:35Z",
-        "summary": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?"
+        "title": "Why Treasury’s $6 billion bond buyback didn’t lower mortgage rates",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/why-treasurys-6-billion-bond-buyback-didnt-lower-mortgage-rates-174923069.html",
+        "pubDate": "2026-09-11T17:49:23Z",
+        "summary": "Why Treasury’s $6 billion bond buyback didn’t lower mortgage rates"
       },
       {
-        "title": "Celanese Corporation (CE) is Selling Another 19% of Nutrinova for $152 Million. Is Deleveraging Worth Reducing Its Stake to 11%?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/celanese-corporation-ce-selling-another-172639666.html",
-        "pubDate": "2026-09-10T17:26:39Z",
-        "summary": "Celanese Corporation (CE) is Selling Another 19% of Nutrinova for $152 Million. Is Deleveraging Worth Reducing Its Stake to 11%?"
+        "title": "Cathie Wood Just Bet $37 Million on Block. What It Means for XYZ Stock.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bet-37-175034828.html",
+        "pubDate": "2026-09-11T17:50:34Z",
+        "summary": "Cathie Wood Just Bet $37 Million on Block. What It Means for XYZ Stock."
       },
       {
-        "title": "Macy's, Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/macys-inc-q2-2026-earnings-170816602.html",
-        "pubDate": "2026-09-10T17:08:16Z",
-        "summary": "Macy's, Inc. Q2 2026 Earnings Call Summary"
+        "title": "Cognition AI's latest round sparked an investor frenzy",
+        "link": "https://finance.yahoo.com/technology/ai/articles/cognition-ais-latest-round-sparked-181700591.html",
+        "pubDate": "2026-09-11T18:17:00Z",
+        "summary": "Cognition AI's latest round sparked an investor frenzy"
       }
     ]
   }
