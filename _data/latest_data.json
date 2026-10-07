@@ -1,191 +1,130 @@
 {
-  "lastUpdated": "2026년 10월 06일 11:41 KST",
+  "lastUpdated": "2026년 10월 07일 11:05 KST",
   "news": {
     "investing": [
       {
-        "title": "6월 이후 57% 상승: AI가 선택한 이 제약주, 계속 오른다",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2116887",
-        "pubDate": "2026-10-06 02:16:28",
-        "summary": "6월 이후 57% 상승: AI가 선택한 이 제약주, 계속 오른다"
+        "title": "금 가격 상승·연준 금리 인상 기대 약화에 호주 금광주 강세",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118420",
+        "pubDate": "2026-10-07 01:47:53",
+        "summary": "금 가격 상승·연준 금리 인상 기대 약화에 호주 금광주 강세"
       },
       {
-        "title": "오늘 소프트뱅크 주가가 하락하는 이유는?",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2116875",
-        "pubDate": "2026-10-06 01:46:16",
-        "summary": "오늘 소프트뱅크 주가가 하락하는 이유는?"
+        "title": "KB금융, 3분기 순익 1.8조 전망...시장 예상 충격 없어",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118418",
+        "pubDate": "2026-10-07 01:46:54",
+        "summary": "KB금융, 3분기 순익 1.8조 전망...시장 예상 충격 없어"
       },
       {
-        "title": "KKR, 51억 달러에 Gen II Fund Services 인수 추진",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2116867",
-        "pubDate": "2026-10-06 01:37:26",
-        "summary": "KKR, 51억 달러에 Gen II Fund Services 인수 추진"
+        "title": "웰컴저축은행·현대캐피탈, 해킹 인지까지 닷새…금보원 정보로 뒤늦게 확인",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118417",
+        "pubDate": "2026-10-07 01:46:53",
+        "summary": "웰컴저축은행·현대캐피탈, 해킹 인지까지 닷새…금보원 정보로 뒤늦게 확인"
       },
       {
-        "title": "[단독] 한솔케미칼, TSMC 코앞에 반도체 핵심 소재 기지 구축…대만 정부 340억원 투자 승인",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2116853",
-        "pubDate": "2026-10-06 01:35:31",
-        "summary": "[단독] 한솔케미칼, TSMC 코앞에 반도체 핵심 소재 기지 구축…대만 정부 340억원 투자 승인"
+        "title": "獨 교통부 장관, 테슬라 FSD ’EU 승인’ 지지 선언…독자 행보 가능성도 언급",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118416",
+        "pubDate": "2026-10-07 01:46:51",
+        "summary": "獨 교통부 장관, 테슬라 FSD ’EU 승인’ 지지 선언…독자 행보 가능성도 언급"
       },
       {
-        "title": "뉴럴링크, 5만 시간 뇌파 학습 AI 개발…’반복 보정’ BCI 난제 해결",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2116856",
-        "pubDate": "2026-10-06 01:34:27",
-        "summary": "뉴럴링크, 5만 시간 뇌파 학습 AI 개발…’반복 보정’ BCI 난제 해결"
+        "title": "칠레 코델코, 구리 생산량 ’부풀리기’ 의혹 재점화…추가 조사 착수",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118415",
+        "pubDate": "2026-10-07 01:46:50",
+        "summary": "칠레 코델코, 구리 생산량 ’부풀리기’ 의혹 재점화…추가 조사 착수"
       },
       {
-        "title": "나스닥종합지수 사상 최고치 마감…연준 금리 인상 기대 약화",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2116865",
-        "pubDate": "2026-10-06 01:33:50",
-        "summary": "나스닥종합지수 사상 최고치 마감…연준 금리 인상 기대 약화"
+        "title": "JR동일본(9020 JP), 스이카에 코드 결제 도입…최대 30만엔 결제 가능",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118411",
+        "pubDate": "2026-10-07 01:46:48",
+        "summary": "JR동일본(9020 JP), 스이카에 코드 결제 도입…최대 30만엔 결제 가능"
       },
       {
-        "title": "LS Electric, SMA(200) 저항 접전 중-매시간 업데이트",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2116851",
-        "pubDate": "2026-10-06 01:06:11",
-        "summary": "LS Electric, SMA(200) 저항 접전 중-매시간 업데이트"
+        "title": "일본우선(9101 JP), 200억엔 전환채 발행 추진…LNG 추진선에 투자",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118410",
+        "pubDate": "2026-10-07 01:46:46",
+        "summary": "일본우선(9101 JP), 200억엔 전환채 발행 추진…LNG 추진선에 투자"
       },
       {
-        "title": "삼성전자, 200SMA 돌파 실패 시 하락 반전 위험: 매시간 업데이트",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2116850",
-        "pubDate": "2026-10-06 01:05:57",
-        "summary": "삼성전자, 200SMA 돌파 실패 시 하락 반전 위험: 매시간 업데이트"
+        "title": "도쿄일렉트론(8035 JP), 연간 영업익 1조엔 전망…“AI 투자 더 빨라졌다”",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118409",
+        "pubDate": "2026-10-07 01:46:45",
+        "summary": "도쿄일렉트론(8035 JP), 연간 영업익 1조엔 전망…“AI 투자 더 빨라졌다”"
       },
       {
-        "title": "SK Eternix, ₩48,000 지지선서 하락 압력 집중: 실시간 업데이트",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2116849",
-        "pubDate": "2026-10-06 01:05:41",
-        "summary": "SK Eternix, ₩48,000 지지선서 하락 압력 집중: 실시간 업데이트"
+        "title": "JYP, 주요 IP 매출 공백 본격화... 목표가↓-하나",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118408",
+        "pubDate": "2026-10-07 01:46:43",
+        "summary": "JYP, 주요 IP 매출 공백 본격화... 목표가↓-하나"
       },
       {
-        "title": "KOSPI 200, 360.00 지지선 붕괴 시 352까지 하락 위험: 실시간 업데이트",
-        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2115479",
-        "pubDate": "2026-10-06 01:05:40",
-        "summary": "KOSPI 200, 360.00 지지선 붕괴 시 352까지 하락 위험: 실시간 업데이트"
+        "title": "코스맥스, 한·중·미 동반 성장… 목표가↑-SK",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2118407",
+        "pubDate": "2026-10-07 01:46:41",
+        "summary": "코스맥스, 한·중·미 동반 성장… 목표가↑-SK"
       }
     ],
     "cnbc": [
       {
-        "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
-        "link": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
-        "pubDate": "Tue, 06 Oct 2026 01:47:32 GMT",
-        "summary": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information."
+        "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+        "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+        "pubDate": "Tue, 06 Oct 2026 22:23:01 GMT",
+        "summary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks."
       },
       {
-        "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
-        "link": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
-        "pubDate": "Mon, 05 Oct 2026 23:14:39 GMT",
-        "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets."
-      },
-      {
-        "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
-        "link": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
-        "pubDate": "Tue, 06 Oct 2026 02:23:18 GMT",
-        "summary": "Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas."
-      },
-      {
-        "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
+        "title": "Trump hedges on paying back government for ads that already aired",
         "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-        "pubDate": "Tue, 06 Oct 2026 01:55:50 GMT",
+        "pubDate": "Tue, 06 Oct 2026 21:32:32 GMT",
         "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\""
       },
       {
-        "title": "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
-        "link": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
-        "pubDate": "Tue, 06 Oct 2026 02:39:19 GMT",
-        "summary": "In the latest sign of growing skepticism around the closure of the trade deal between New Delhi and Washington, an Indian minister said there is little room for ‘giving and taking.’"
+        "title": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
+        "link": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html",
+        "pubDate": "Wed, 07 Oct 2026 02:05:20 GMT",
+        "summary": "Trump has said that Asian economies, which are heavily reliant on energy shipped through Hormuz, should shoulder more of the burden of keeping the waterway open."
       },
       {
-        "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-        "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-        "pubDate": "Mon, 05 Oct 2026 23:28:31 GMT",
-        "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices."
+        "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+        "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+        "pubDate": "Tue, 06 Oct 2026 18:06:40 GMT",
+        "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies."
       },
       {
-        "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
-        "link": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
-        "pubDate": "Mon, 05 Oct 2026 20:53:33 GMT",
-        "summary": "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran."
+        "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+        "link": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+        "pubDate": "Wed, 07 Oct 2026 00:49:34 GMT",
+        "summary": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher."
       },
       {
-        "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-        "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-        "pubDate": "Mon, 05 Oct 2026 21:24:25 GMT",
-        "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated."
+        "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+        "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+        "pubDate": "Tue, 06 Oct 2026 16:19:10 GMT",
+        "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point."
       },
       {
-        "title": "Why airfares could rise even more, but airline profits won't",
-        "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
-        "pubDate": "Mon, 05 Oct 2026 12:06:44 GMT",
-        "summary": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking."
+        "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
+        "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+        "pubDate": "Tue, 06 Oct 2026 18:34:49 GMT",
+        "summary": "The platform will now provide tags that indicate which election markets have low volumes."
       },
       {
-        "title": "These are the cheapest and most expensive U.S. flights this November",
-        "link": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
-        "pubDate": "Mon, 05 Oct 2026 17:59:51 GMT",
-        "summary": "Holiday airplane tickets are up more than 23% this year, according to Hopper."
+        "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
+        "link": "https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html",
+        "pubDate": "Tue, 06 Oct 2026 19:35:04 GMT",
+        "summary": "The Emmy Awards will stream exclusively and free on Prime Video worldwide starting in 2027 under a six-year deal."
+      },
+      {
+        "title": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
+        "link": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
+        "pubDate": "Tue, 06 Oct 2026 17:22:20 GMT",
+        "summary": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce."
+      },
+      {
+        "title": "Russian lab worker's suspected plague death leaves experts puzzled",
+        "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
+        "pubDate": "Tue, 06 Oct 2026 15:23:41 GMT",
+        "summary": "Russian authorities say the situation is stable and there are no reports of secondary cases."
       }
     ],
-    "yahoo": [
-      {
-        "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
-        "pubDate": "2026-09-23T01:52:26Z",
-        "summary": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?"
-      },
-      {
-        "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
-        "pubDate": "2026-09-23T01:51:00Z",
-        "summary": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks"
-      },
-      {
-        "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-        "pubDate": "2026-09-23T01:43:50Z",
-        "summary": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?"
-      },
-      {
-        "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
-        "pubDate": "2026-09-23T01:42:06Z",
-        "summary": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?"
-      },
-      {
-        "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-        "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
-        "pubDate": "2026-09-23T04:29:16Z",
-        "summary": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed"
-      },
-      {
-        "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
-        "pubDate": "2026-09-23T01:26:44Z",
-        "summary": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?"
-      },
-      {
-        "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
-        "pubDate": "2026-09-23T01:50:00Z",
-        "summary": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?"
-      },
-      {
-        "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-        "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-        "pubDate": "2026-09-23T04:33:16Z",
-        "summary": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention"
-      },
-      {
-        "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-        "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-        "pubDate": "2026-09-23T04:24:33Z",
-        "summary": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit"
-      },
-      {
-        "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-jumped-nearly-10-while-041957023.html",
-        "pubDate": "2026-09-23T04:19:57Z",
-        "summary": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?"
-      }
-    ]
+    "yahoo": []
   }
 }
