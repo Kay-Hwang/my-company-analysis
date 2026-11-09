@@ -1,116 +1,110 @@
 {
-  "lastUpdated": "2026년 11월 08일 11:02 KST",
+  "lastUpdated": "2026년 11월 09일 11:22 KST",
   "news": {
     "investing": [
       {
-        "title": "AI 주식 매도세, 투자자들을 중국·인도·아시아 섹터로 유도",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2165045",
-        "pubDate": "2026-11-08 01:00:45",
-        "summary": "AI 주식 매도세, 투자자들을 중국·인도·아시아 섹터로 유도"
+        "title": "윈리조트(WYNN.N) 3분기 실적 부진..UAE 개장이 반전의 열쇠",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165211",
+        "pubDate": "2026-11-09 02:00:30",
+        "summary": "윈리조트(WYNN.N) 3분기 실적 부진..UAE 개장이 반전의 열쇠"
       },
       {
-        "title": "AI 지출 우려 속 인공지능에 투자하는 방법",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2165043",
-        "pubDate": "2026-11-07 23:53:16",
-        "summary": "AI 지출 우려 속 인공지능에 투자하는 방법"
+        "title": "한국콜마, 화장품 업종 투심 위축... 목표가↓-메리츠",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165210",
+        "pubDate": "2026-11-09 02:00:28",
+        "summary": "한국콜마, 화장품 업종 투심 위축... 목표가↓-메리츠"
       },
       {
-        "title": "주식 포지셔닝, 사상 최대 수준의 주간 낙폭 기록 - 도이체방크",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2165018",
-        "pubDate": "2026-11-07 21:07:06",
-        "summary": "주식 포지셔닝, 사상 최대 수준의 주간 낙폭 기록 - 도이체방크"
+        "title": "현대차, 알제리 진격 속도…韓 부품사 이끌고 내년 양산 조속 추진",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165204",
+        "pubDate": "2026-11-09 02:00:26",
+        "summary": "현대차, 알제리 진격 속도…韓 부품사 이끌고 내년 양산 조속 추진"
       },
       {
-        "title": "CoreWeave, 텍사스 주지사 당선인 히노호사와 협력 모색",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2165014",
-        "pubDate": "2026-11-07 20:59:29",
-        "summary": "CoreWeave, 텍사스 주지사 당선인 히노호사와 협력 모색"
+        "title": "라가르드 ECB 총재 \"유로존 인플레 당분간 고공행진\"…12월 추가 금리 인상 가능성",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165215",
+        "pubDate": "2026-11-09 01:54:24",
+        "summary": "라가르드 ECB 총재 \"유로존 인플레 당분간 고공행진\"…12월 추가 금리 인상 가능성"
       },
       {
-        "title": "Seaport, Anthropic 주식에 대한 예비 분석 발표",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2164996",
-        "pubDate": "2026-11-07 17:27:53",
-        "summary": "Seaport, Anthropic 주식에 대한 예비 분석 발표"
+        "title": "美증시, AI 투자 회의론에 시가총액 5.7조 달러 증발…빅테크 매도 확산",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165203",
+        "pubDate": "2026-11-09 01:54:23",
+        "summary": "美증시, AI 투자 회의론에 시가총액 5.7조 달러 증발…빅테크 매도 확산"
       },
       {
-        "title": "바이낸스 CFO, 60억 달러 대규모 해킹 직후 사임",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2164993",
-        "pubDate": "2026-11-07 17:06:29",
-        "summary": "바이낸스 CFO, 60억 달러 대규모 해킹 직후 사임"
+        "title": "中, 2026년 에너지 투자 9400억 달러…세계 최대 투자국 전망",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165202",
+        "pubDate": "2026-11-09 01:54:21",
+        "summary": "中, 2026년 에너지 투자 9400억 달러…세계 최대 투자국 전망"
       },
       {
-        "title": "노바티스, 주요 임상 실패로 블록버스터 기대 신약 펠라카르센 개발 중단",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2164983",
-        "pubDate": "2026-11-07 15:16:03",
-        "summary": "노바티스, 주요 임상 실패로 블록버스터 기대 신약 펠라카르센 개발 중단"
+        "title": "RBA 헌터 부총재보 “AI 생산성 향상 효과 아직 제한적”",
+        "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2165219",
+        "pubDate": "2026-11-09 01:49:02",
+        "summary": "RBA 헌터 부총재보 “AI 생산성 향상 효과 아직 제한적”"
       },
       {
-        "title": "미국 정보당국 메모 “Nvidia CEO, 중국 스파이 의심 인물과 연인 관계”",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2164982",
-        "pubDate": "2026-11-07 15:11:08",
-        "summary": "미국 정보당국 메모 “Nvidia CEO, 중국 스파이 의심 인물과 연인 관계”"
+        "title": "생명보험사 ’자본의 질’ 비상… 추가 금리인상 때 기본자본비율 급락 우려",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165213",
+        "pubDate": "2026-11-09 01:35:04",
+        "summary": "생명보험사 ’자본의 질’ 비상… 추가 금리인상 때 기본자본비율 급락 우려"
       },
       {
-        "title": "Berkshire Hathaway, 영업이익 감소에도 자사주 매입 확대",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2164964",
-        "pubDate": "2026-11-07 13:16:00",
-        "summary": "Berkshire Hathaway, 영업이익 감소에도 자사주 매입 확대"
+        "title": "코스피, 美 반도체주 반등에도 하락 출발…5천선 오르락내리락",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165200",
+        "pubDate": "2026-11-09 01:04:55",
+        "summary": "코스피, 美 반도체주 반등에도 하락 출발…5천선 오르락내리락"
       },
       {
-        "title": "푸틴, 일본담배 자산 추가 몰수령 서명…2차 수용 조치",
-        "link": "https://kr.investing.com/news/stock-market-news/article-2164959",
-        "pubDate": "2026-11-07 12:48:11",
-        "summary": "푸틴, 일본담배 자산 추가 몰수령 서명…2차 수용 조치"
+        "title": "\"차 안 쓴 날만큼 보험료 절약\"…롯데손보, ’주차일수 할인특약’ 업계 첫 출시",
+        "link": "https://kr.investing.com/news/stock-market-news/article-2165201",
+        "pubDate": "2026-11-09 01:04:37",
+        "summary": "\"차 안 쓴 날만큼 보험료 절약\"…롯데손보, ’주차일수 할인특약’ 업계 첫 출시"
       }
     ],
     "cnbc": [
       {
-        "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-        "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-        "pubDate": "Sat, 07 Nov 2026 13:00:01 GMT",
-        "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry."
+        "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+        "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "pubDate": "Sun, 08 Nov 2026 22:53:57 GMT",
+        "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy."
       },
       {
-        "title": "Trump offers UFC chief Dana White press secretary job",
-        "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-        "pubDate": "Sat, 07 Nov 2026 23:13:38 GMT",
-        "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday."
+        "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+        "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+        "pubDate": "Sun, 08 Nov 2026 21:53:02 GMT",
+        "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz."
       },
       {
-        "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-        "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-        "pubDate": "Sat, 07 Nov 2026 22:17:52 GMT",
-        "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer."
+        "title": "China wholesale inflation hits over four-year high as consumer measure slows",
+        "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+        "pubDate": "Mon, 09 Nov 2026 01:40:11 GMT",
+        "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters."
       },
       {
-        "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-        "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-        "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT",
-        "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit."
+        "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+        "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+        "pubDate": "Sun, 08 Nov 2026 18:57:56 GMT",
+        "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration."
       },
       {
-        "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-        "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-        "pubDate": "Sat, 07 Nov 2026 21:59:10 GMT",
-        "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin."
+        "title": "How Democrats will try to end Trump's tariffs",
+        "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+        "pubDate": "Sun, 08 Nov 2026 15:36:39 GMT",
+        "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities."
       },
       {
-        "title": "America doesn't like socialism. So why are socialists winning?",
-        "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
-        "pubDate": "Sat, 07 Nov 2026 13:01:01 GMT",
-        "summary": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism."
+        "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+        "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+        "pubDate": "Sun, 08 Nov 2026 13:00:01 GMT",
+        "summary": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues."
       },
       {
-        "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
-        "link": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
-        "pubDate": "Sat, 07 Nov 2026 14:06:20 GMT",
-        "summary": "Berkshire Hathaway shares roared past the S&amp;P 500 index this week and are outperforming the benchmark for the year-to-date."
-      },
-      {
-        "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-        "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-        "pubDate": "Sat, 07 Nov 2026 07:37:36 GMT",
-        "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz."
+        "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+        "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+        "pubDate": "Sun, 08 Nov 2026 06:00:01 GMT",
+        "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now."
       },
       {
         "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
@@ -123,6 +117,12 @@
         "link": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
         "pubDate": "Sat, 07 Nov 2026 14:15:01 GMT",
         "summary": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car."
+      },
+      {
+        "title": "World’s No. 1 restaurant crowned as contest comes under increasing scrutiny",
+        "link": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
+        "pubDate": "Sat, 07 Nov 2026 13:38:44 GMT",
+        "summary": "Asador Etxebarri in Atxondo, Spain, is the world's top restaurant, according to the 50 Best Restaurants, which announced its 2026 list."
       }
     ],
     "yahoo": []
